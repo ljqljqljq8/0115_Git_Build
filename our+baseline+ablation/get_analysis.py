@@ -64,14 +64,15 @@ bots_test = [
     # "our+baseline+ablation/Baseline_Result_Hard/Baichuan2-7B.txt",
     # "our+baseline+ablation/Baseline_Result_Hard/gemma-7b-local.txt"
     # "our+baseline+ablation/Baseline_Result_Hard/mistral-7b-local.txt",
-    # "our+baseline+ablation/Baseline_Result_Hard/Qwen-7B.txt"
+    # "our+baseline+ablation/Baseline_Result_Hard/Qwen-7B copy.txt"
+    # "our+baseline+ablation/Baseline_Result_Hard/llama2-13b-chat-local.txt"
     # "our+baseline+ablation/Baseline_Result_Hard/answers-EntropyYue_chatglm3.txt"
     # "Results/llama-3.1-8b/llama3.1-8b-epoch16-Hard-50-local.txt"
     # "our+baseline+ablation/Baseline_Result_Hard/llama2-7b-local.txt"
     # "our+baseline+ablation/Baseline_Result_Hard/answers-llama2:70b-chat-q3_K_M.txt"
-    # "our+baseline+ablation/Baseline_Result_Hard/chatglm3.txt"
+    "our+baseline+ablation/Baseline_Result_Hard/chatglm2.txt"
     # "our+baseline+ablation/Baseline_Result_Hard/llama2-13b-local.txt"
-    "our+baseline+ablation/Baseline_Result_Hard/gemma-7b-it-local.txt"
+    # "our+baseline+ablation/Baseline_Result_Hard/gemma-7b-it-local.txt"
     # "Results/llama-3.1-8b/llama3.1-8b-qa-epoch16-Hard-50-local.txt",
     # "Results/llama-3.1-8b/llama3.1-8b-qar-epoch16-Hard-50-local.txt"
     # "Results/llama-3.1-8b/llama3.1-8b-qa-epoch16-Easy-local.txt"
@@ -90,14 +91,15 @@ bot_names = [
     # "qwen:7b",
     # "Baichuan2-7B",
     # "chatglm2"
-    # "chatglm3-local",
+    "chatglm2-local",
     # "llama2-13b-local"
-    "gemma-7b-it"
+    # "gemma-7b-it"
     # "gemma-7b",
     # "llama2:7b-3",
     # # "llama2:13b",
     # "llama2:70b",
-    # "qwen:7b",
+    # "qwen:7b-local",
+    # "llama2-13b-chat-local"
     # "baichuan-local",
     # "gemma-local"
     # "mistral-local",

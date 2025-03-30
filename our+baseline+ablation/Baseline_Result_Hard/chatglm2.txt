@@ -1,0 +1,362 @@
+Prompt 0:
+The correct answer is A) 180
+
+Prompt 1:
+The correct answer is A) 8000.
+
+In a CSMA/CD network, the signal speed can be calculated using the formula:
+
+Signal Speed (km/sec) = (Bits per second / Bytes per second) \* 8 \* Cable length (in kilometers) / 1000
+
+where Bits per second = 10000000000 and Bytes per second = 1000000000. Plugging in the given values, we get:
+
+Signal Speed (km/sec) = (10000000000 / 100000000) \* 8 \* 1000 / 1000
+Signal Speed (km/sec) = 8000 km/sec
+
+Prompt 2:
+The correct answer is B) 140 to 150.
+
+The throughput of the network can be calculated as follows:
+Throughput = 1/lambda, where lambda is the average number of frames successfully transmitted per second.
+
+We know that lambda = 1,000 / 1,000 = 1.
+Thus, throughput = 1 / 1 = 1 frames per second.
+
+However, this is not the answer provided in the question.
+
+The throughput of the network is modelled as a Poisson process with a rate of 1,000 frames per second.
+This means that the number of frames successfully transmitted per second follows a Poisson distribution with a rate of 1,000.
+
+The mean of a Poisson distribution is equal to the parameter lambda.
+Thus, lambda = 1,000.
+
+Throughput = 1 / lambda = 1 / 1,000 = 0.001.
+
+This means that the network has a throughput of 0.001 frames per second.
+
+However, this is not the answer provided in the question.
+
+We know that the aggregate number of transmissions across all the nodes is modelled as a Poisson process with a rate of 1,000 frames per second.
+This means that the number of frames successfully transmitted per second follows a Poisson distribution with a rate of 1,000.
+
+The mean of a Poisson distribution is equal to the parameter lambda.
+Thus, lambda = 1,000.
+
+Throughput = 1 / lambda = 1 / 1,000 = 0.001.
+
+This means that the network has a throughput of 0.001 frames per second.
+
+However, this is not the answer provided in the question.
+
+Therefore, the correct answer is B) 140 to 150.
+
+Prompt 3:
+The correct answer is B) 250
+
+In the Stop and Wait protocol, a packet is transmitted until it is successfully received or a timeout occurs. Therefore, the expected number of transmissions to transfer 200 packets is equal to the number of attempts (or retransmissions) that are made, which is 200.
+
+In general, the expected number of transmissions in the Stop and Wait protocol is given by the formula:
+
+Expected number of transmissions = (number of packets per transaction) \* (number of attempts) / (1 - packet loss probability)
+
+In this case, the number of packets per transaction is 1, and the packet loss probability is 0.2, or 0.2.
+
+Plugging in these values, we get:
+
+Expected number of transmissions = (1) \* (200) / (1 - 0.2) = 250
+
+Therefore, it would take 250 attempts or retransmissions to transfer 200 packets given a Stop and Wait protocol with a packet loss probability of 0.2.
+
+Prompt 4:
+The correct answer is B) Network layer – 4 times, Data link layer – 6 times.
+
+Explanation:
+
+A packet has to visit the network layer 4 times (3 hops) before it reaches the destination router, and then it has to visit the data link layer 6 times (2 hops) before it reaches the destination. So, the total number of times a packet has to visit the network layer and data link layer during a transmission from S to D is 4 + 6 = 10.
+
+Note: The number of hops is the number of layers that the packet has to pass through the network before reaching the destination. Each layer performs various functions like forwarding, routing, and error detection etc.
+
+Prompt 5:
+The correct answer is [C] C1 assumes C2 is on the same network, but C2 assumes C1 is on a different network.
+
+Prompt 6:
+The correct answer is C) 16.
+
+Explanation: Since the window size is 3, and a packet get lost every 5th, the number of packets that will be transmitted is (9-1)/3 + 1 = 4. The total number of packets that will be transmitted is 4 \* 3 = 12. However, since a packet can get lost but no ACKs from B ever get lost, the correct answer is 12 - 1 = 11.
+
+Prompt 7:
+The correct answer is C) 160.
+
+Explanation: Optimal window size is calculated as bottleneck bandwidth divided by the round trip delay. In this case, 128 kbps / 80 ms = 160 packets.
+
+Prompt 8:
+The correct answer is B) Encryption: X’s private key followed by Y’s public key. Decryption: X’s public key followed by Y’s private key.
+
+Prompt 9:
+The correct answer is B) 64 subnets and 262142 hosts.
+
+Explanation: The number of subnets that can be created from a 6-bit subnet number is 2^6 - 1 = 63 subnets. Each subnet can have a maximum number of hosts = 2^32 - 2 = 4094967295.
+
+Prompt 10:
+The correct answer is B) 10.0.
+
+In the Stop and Wait protocol, a packet is transmitted every time a window is available. Therefore, the total time spent waiting for a window is equal to the time spent transmitting the packet, which is the round trip time (RTT) of 45 milliseconds.
+
+The bandwidth of the line is 1.5 Mbps, or 1500 Mbps. Since the line is 1.5 Mbps, it can transmit a maximum of 1500 / 2 = 750 packets per second.
+
+The efficiency of the Stop and Wait protocol is the ratio of the number of packets transmitted to the total time spent waiting for a window. Since the round trip time is 45 milliseconds, it takes 2 \* 45 = 90 milliseconds to transmit and receive a signal. Therefore, the efficiency is 750 / 90 = 8.3333333333333333333.
+
+This means that 83.3% of the time the line is idle and waiting for a window to open. To convert this to a percentage, divide 83.333333333333333333 by 100 and round down to 83%.
+
+Prompt 11:
+The correct answer is B) 10
+
+Prompt 12:
+The correct answer is B) 4096
+
+Prompt 13:
+The correct answer is A) 28 to 30.
+
+The token ring network has a length of 2 km (2000 m) and has 10 stations, including a monitoring station. The propagation speed of the signal is 2 × 10⁸ m/s.
+
+Since each station is allowed to hold the token for 2 μsec, the total time for which the monitoring station can hold the token is:
+
+10 stations x 2 μsec/station x 2000 m = 4000 μs
+
+The minimum time for which the monitoring station should wait before assuming that the token is lost is the time taken by the signal to travel a distance equal to the total length of the network plus the distance between the monitoring station and the token source.
+
+Since the signal is a simple ring network, the distance between the token source and the monitoring station is half the network length. Therefore, the distance between the token source and the monitoring station is:
+
+2000 m / 2 = 1000 m
+
+The time taken by the signal to travel a distance equal to the total length of the network plus the distance between the monitoring station and the token source is:
+
+2000 m + 1000 m = 3000 m
+
+The time taken by the signal to travel this distance is:
+
+3000 m / (2 × 10⁸ m/s) = 1.5 × 10⁵ sec
+
+Therefore, the minimum time for which the monitoring station should wait before assuming that the token is lost is:
+
+4000 μs - 1.5 × 10⁵ sec = 28 to 30 μs
+
+Therefore, the correct answer is A) 28 to 30.
+
+Prompt 14:
+The correct answer is A) Sender encrypts using receiver’s public key.
+
+Prompt 15:
+The correct answer is B) 2n and (n(n-1))/2.
+
+Explanation: The total number of keys required for a set of n individuals to be able to communicate with each other using secret key and public key crypto-systems, respectively are:
+
+* secret key system: 2^n
+* public key system: (n(n-1))/2
+
+Prompt 16:
+The correct answer is B) Masquarade attack.
+
+Prompt 17:
+The correct answer is B) For avoiding loops in the routing paths.
+
+Prompt 18:
+The correct answer is B) 2¹⁶ bytes – size of TCP header.
+
+Prompt 19:
+The correct answer is B) connect() system call blocks.
+
+The server process's socket() and bind() system calls have already completed before the client process's connect() system call is executed. However, since the server process is preempted, the connect() system call is not processed. Therefore, the correct answer is B) connect() system call blocks.
+
+Prompt 20:
+The correct answer is B) 2 seconds.
+
+Explanation: The computer can transmit at the full 10 Mbps for 10 Mbps - 2 Mbps = 8 seconds.
+
+Prompt 21:
+The correct answer is A) does not increase.
+
+In the slow start phase of the TCP congestion control algorithm, the initial value of the congestion window is set to a small value, and it is gradually increased as the initial congestion window is established. As the initial congestion window is increased, the window size is not increased linearly or quadratically, but rather, it increases exponentially. This is to prevent the window from growing too quickly and causing more congestion.
+
+Prompt 22:
+The correct answer is B) 6.
+
+In a packet switching network, the optimum packet size is determined by the size of the largest message that can be transmitted between the source and destination nodes without causing congestion. This is determined by the average round-trip time (RTT) between the source and destination nodes.
+
+For a packet size of 6 bytes, the RTT would be 2 * the RTT between the source and destination nodes. Assuming that the source and destination nodes have an equal round-trip time, this would result in an optimum packet size of 6 bytes.
+
+Prompt 23:
+The correct answer is B) MROUEKCTTPNROEW.
+
+Explanation:
+The key "LAYER" is used for columnar transposition cipher. In this method, the message is encrypted in a columnar format, where each column of the message corresponds to a different layer of the encryption. The key is then applied to each column of the message, using a combination of left and right padding to ensure that the message is properly encrypted.
+
+To decrypt the message, the same key is used in reverse order, applied to each column of the decrypted message. The resulting ciphertext is then the encrypted message, in a columnar format.
+
+Therefore, the correct answer is B) MROUEKCTTPNROEW.
+
+Prompt 24:
+The maximum I/O data transfer rate can be calculated as follows:
+
+Number of instructions executed per cycle = 1 MIPS
+Number of cycles per instruction = 4
+Number of instructions executed = Number of cycles per instruction / 4 = 0.25 MIPS
+CPU time for background programs = 90% of the CPU time = 0.9 \* 1 MIPS = 0.9 MIPS
+CPU time for I/O operations = (1 - 90%) \* 1 MIPS = 0.1 MIPS
+Number of I/O operations per cycle = 1 memory cycle / 2 = 0.5
+Number of I/O operations executed per cycle = Number of cycles per instruction \* Number of I/O operations per cycle = 0.25 MIPS \* 0.5 = 0.125 MIPS
+Data transfer rate = Number of I/O operations per cycle \* Transfer size = 0.125 MIPS \* 1 MB = 125 Kbytes/sec
+
+So, the correct answer is (C) 125 Kbytes/sec.
+
+Prompt 25:
+The correct answer is [B] 245.248.128.0/21 and 245.248.128.0/22.
+
+Explanation: The correct allocation of addresses to A and B is to take 245.248.128.0/21 and 245.248.128.0/22, and retain the remaining with itself. This is because the given chunk of IP addresses has a total of 4 chunks and the ISP wants to allocate 2 chunks to A and 2 chunks to B.
+
+Prompt 26:
+The correct answer is A) 8 MSS
+
+Prompt 27:
+The correct answer is A) T1 < T2 < T3.
+
+In the first case, a single packet containing the complete file is transmitted from A to B, which requires a round-trip time of T1 = 2 \* T洲/洲际传输时延 + 2 \* T洲内部传输时延 + 2 \* R1传输时延 + 2 \* R2传输时延 = 2 \* 10⁶ + 2 \* 10⁶ + 2 \* T洲/洲际传输时延 + 2 \* T洲内部传输时延 + 2 \* R1传输时延 + 2 \* R2传输时延.
+
+In the second case, the file is split into 10 equal parts, and these packets are transmitted from A to B, which requires a round-trip time of T2 = 10 \* T洲/洲际传输时延 + 10 \* T洲内部传输时延 + 10 \* R1传输时延 + 10 \* R2传输时延 = 10 \* 10⁶ + 10 \* 10⁶ + 10 \* T洲/洲际传输时延 + 10 \* T洲内部传输时延 + 10 \* R1传输时延 + 10 \* R2传输时延.
+
+In the third case, the file is split into 20 equal parts and these packets are sent from A to B, which requires a round-trip time of T3 = 20 \* T洲/洲际传输时延 + 20 \* T洲内部传输时延 + 20 \* R1传输时延 + 20 \* R2传输时延 = 20 \* 10⁶ + 20 \* 10⁶ + 20 \* T洲/洲际传输时延 + 20 \* T洲内部传输时延 + 20 \* R1传输时延 + 20 \* R2传输时延.
+
+Therefore, T1 < T2 < T3, which is the correct answer.
+
+Prompt 28:
+The correct answer is B) 0.625.
+
+In the second backoff race, both A and B have a 50% chance of winning, as the first backoff race was a random event and the stations are equally matched.
+
+Prompt 29:
+The maximum achievable throughput can be calculated as follows:
+Throughput = (Window size of the receive window - Window size of the send window) / (2 \* propagation delay)
+Throughput = (50 - 5) / (2 \* 200)
+Throughput = 12.33 × 10⁶ bytes per second
+
+Prompt 30:
+The correct answer is C) 0.5.
+
+The probability of sending a frame in the first slot without any collision by any of these four stations is (0.1 + 0.2 + 0.3 + 0.4) = 0.8.
+Since each station has a probability of 0.4 of not transmitting, the probability of all four stations not transmitting in the first slot is (0.4)^4 = 0.064.
+Thus, the probability of sending a frame in the first slot without any collision by any of these four stations is 1 - 0.064 = 0.936.
+Since there are four stations, the probability of sending a frame without any collision by any one of them is 0.936 / 4 = 0.234.
+Thus, the probability of sending a frame in the first slot without any collision by any of these four stations is 0.234 \* 4 = 0.936.
+
+Answer: The correct answer is C) 0.5.
+
+Prompt 31:
+The minimum frame size in bytes to achieve a link utilization of at least 50% is:
+
+64 bytes / 2 = 32 bytes
+
+This is because with a bit rate of 64 kilobits per second and a 20 milliseconds propagation delay, a transmission time of 20 milliseconds is equivalent to a delay of 20/1000 = 0.02 seconds. Thus, a minimum of 32 bytes of frame size is required to ensure that the link is not idle for more than 32 milliseconds.
+
+Prompt 32:
+The correct answer is B) 2
+
+This protocol supports 2 hosts because each host has a minimum throughput of 0.16 frames per time slot, and there are 2 slots per host. Each host can transmit 0.16 frames per time slot, so both hosts can transmit a total of 0.32 frames per time slot. The protocol supports more than one host because there is no backoff and each host has a probability of transmitting with probability p = 0.2. In this case, 0.32 / 0.2 = 1.6 is the maximum number of hosts that can be supported. However, each host needs to transmit a minimum of 0.16 frames per time slot, so the maximum number of hosts is reduced to 2.
+
+Prompt 33:
+The correct answer is B) 01011.
+
+Prompt 34:
+The correct answer is C) 1500.
+
+The sender's throughput can be calculated as follows:
+Throughput = 2 * (Data size / Propagation delay)
+Throughput = 2 * (1000 / 100)
+Throughput = 2000 bytes/second
+
+Note that this is a simplified calculation that assumes no loss of frames and constant transmission rates. In practice, the actual throughput may vary due to factors such as packet loss, latency, and errors.
+
+Prompt 35:
+The correct answer is C) A pushdown automaton with one stack.
+
+Prompt 36:
+The correct answer is C) Frequent changes in the encapsulation header fields that obfuscate payload inspection.
+
+Explanation:
+
+NFV and SDN technologies are designed to abstract the complexity of network functions, enabling agnostic deployment of network services over a network infrastructure. However, the use of VXLAN and GRE encapsulation headers can obfuscate the payload inspection capabilities of the intrusion detection engine. VXLAN and GRE encapsulation headers are used to encapsulate traffic between different network layers, making it difficult for the engine to inspect the payload of the traffic. This can lead to a degradation in the effectiveness of the intrusion detection engine.
+
+Prompt 37:
+The correct answer is C) 15.1.5.6.
+
+Prompt 38:
+The correct answer is B) The complexity of group operations in the homomorphic domain leading to high computational overhead.
+
+Prompt 39:
+The correct answer is C) Both an ISDN and DSL line and a browser.
+
+To connect your home computer to your school's website, you will need both an ISDN (Internet Service Provider) line and a DSL (Digital Subscriber Line) line. You will also need a browser to access the website.
+
+ISDN line provides you with internet access using telephone lines, while DSL line provides you with internet access using data transmission over telephone lines. Both options will allow you to access the website from your home computer.
+
+Additionally, you will need to have the correct protocols configured on your computer to connect to the ISDN and DSL lines. This will typically involve installing and configuring a modem on your computer.
+
+An ISP is a company that provides internet services to customers, and your school's URL is the address of the website you want to access. However, these are not the tools you will need to access the website from your home computer.
+
+Prompt 40:
+The total number of IP fragments will be 7, as 8880 bytes of data divided by the maximum amount of data that can be carried in an Ethernet frame (1500 bytes) is 5.733, and 1 is rounded up to 2. The offset field in the last fragment will be 8880 - 1500 = 7400 bytes.
+
+Prompt 41:
+The correct answer is C) 100 characters/sec, 136 characters/sec.
+
+Explanation: Both T₁ and T₂ have a bit rate of 1200 bits/second. Since T₁ uses 8 information bits, 2 start bits, 1 stop bit, and 1 parity bit for each character, it requires a total of 8 \* 2 + 2 + 1 = 19 bits to transmit each character. Therefore, the transfer rate of T₁ is 1200 / 19 = 64 characters/second.
+
+Similarly, since T₂ uses 3 synchronous eight-bit sync characters followed by 30 information characters, it requires a total of 3 \* 8 + 30 = 41 bits to transmit each character. Therefore, the transfer rate of T₂ is 1200 / 41 = 29.55 characters/second.
+
+Therefore, the correct answer is C) 100 characters/sec, 136 characters/sec.
+
+Prompt 42:
+The correct answer is C) 3600 kHz
+
+To find the total minimum bandwidth required for 7 channels of 400 kHz bandwidth multiplexed together with each guard band of 20 kHz, we need to consider the total bandwidth of each channel, the bandwidth of each guard band, and the number of channels.
+
+Each channel requires a bandwidth of 400 kHz, and there are 7 channels in total, so the total bandwidth required for all channels is 400 kHz x 7 = 2800 kHz.
+
+Each guard band requires a bandwidth of 20 kHz, and there are 20 guard bands in total, so the total bandwidth required for all guard bands is 20 kHz x 20 = 400 kHz.
+
+Since the total bandwidth of the channel and the total bandwidth of the guard bands are equal, the total minimum bandwidth required for 7 channels of 400 kHz bandwidth multiplexed together with each guard band of 20 kHz is 2800 kHz.
+
+Prompt 43:
+B) <base href="http://www.yourname.com/">
+
+Prompt 44:
+The correct answer is B) 0.1.
+
+Prompt 45:
+The correct answer is C) 60 and 231.
+
+Explanation:
+
+Since the first segment was lost, the sender does not know if the data in the second segment was received correctly or not. Therefore, the ACK number sent by the receiver can be either 230 or 290.
+
+If the ACK number sent by the receiver is 230, then the data in the first segment was not received correctly. In this case, the sequence number of the first segment would be 230 - 1 = 229. This means that the sender sent 229 bytes of data in the first segment.
+
+If the ACK number sent by the receiver is 290, then the data in the first segment was received correctly. In this case, the sequence number of the first segment would be 290 - 1 = 289. This means that the sender sent 289 bytes of data in the first segment.
+
+Therefore, the correct answer is C) 60 and 231.
+
+Prompt 46:
+The correct answer is B) to synchronize receiver for receiving a sequence of bytes.
+
+Prompt 47:
+The answer is A) 172 KB.
+
+Prompt 48:
+The size of the lookup table would be 768 bytes.
+
+Prompt 49:
+The correct answer is D) P + 1, where P is the number of predicate nodes in the flow graph G.
+
+Cyclomatic complexity is a measure of the complexity of a programming language or a program. It is the number of times a program has to perform a specific operation before it reaches the end.
+
+In the context of the question, the correct answer is option D) P + 1, where P is the number of predicate nodes in the flow graph G. This is because the answer is expressed in the format of P + 1, where P is the number of predicate nodes in the flow graph G. This means that the more predicate nodes there are in the flow graph, the higher the cyclomatic complexity will be.
+
