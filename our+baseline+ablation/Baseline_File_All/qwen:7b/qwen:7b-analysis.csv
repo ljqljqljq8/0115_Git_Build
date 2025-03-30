@@ -1,0 +1,2 @@
+Model,Correct Count,Total Num of Questions,A_TP,A_FP,A_FN,total_num_of_A,B_TP,B_FP,B_FN,total_num_of_B,C_TP,C_FP,C_FN,total_num_of_C,D_TP,D_FP,D_FN,total_num_of_D
+qwen:7b,1264,1718,320,98,101,418,321,99,108,420,289,144,59,433,334,113,82,447

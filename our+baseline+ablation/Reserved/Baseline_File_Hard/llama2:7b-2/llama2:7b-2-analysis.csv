@@ -1,0 +1,2 @@
+Model,Correct Count,Total Num of Questions,A_TP,A_FP,A_FN,total_num_of_A,B_TP,B_FP,B_FN,total_num_of_B,C_TP,C_FP,C_FN,total_num_of_C,D_TP,D_FP,D_FN,total_num_of_D
+llama2:7b-2,296,327,72,10,2,82,91,4,9,95,76,12,0,88,57,5,4,62

@@ -1,0 +1,2 @@
+Model,Correct Count,Total Num of Questions,A_TP,A_FP,A_FN,total_num_of_A,B_TP,B_FP,B_FN,total_num_of_B,C_TP,C_FP,C_FN,total_num_of_C,D_TP,D_FP,D_FN,total_num_of_D
+llama3.1:8b-qar-epoch16,245,351,62,23,30,85,70,30,25,100,65,35,21,100,48,18,29,66

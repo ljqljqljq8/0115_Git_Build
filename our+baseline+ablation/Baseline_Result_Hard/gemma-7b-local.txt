@@ -1,0 +1,287 @@
+Prompt 0:
+.
+
+
+Prompt 1:
+.
+A. 8000
+B. 10000
+C
+
+Prompt 2:
+.
+A) 130 to 140
+B) 140
+
+Prompt 3:
+.
+
+Prompt 4:
+.
+
+A) 1
+B) 2
+C) 3
+D) 
+
+Prompt 5:
+.
+C1 has IP address 203.197.2.53
+
+Prompt 6:
+.
+A. 12
+B. 14
+C. 16
+
+
+Prompt 7:
+.
+
+Prompt 8:
+.
+
+
+Hint: In this question, we have to find the correct sequence of keys used for operations
+
+Prompt 9:
+.
+
+<code>#include <iostream>
+using namespace std;
+int main()
+{
+
+
+Prompt 10:
+.
+
+Hint: The efficiency of the stop and wait protocol is the ratio of the time taken by
+
+Prompt 11:
+.
+A) 100
+B) 1000
+C) 
+
+Prompt 12:
+.
+
+A) 4098
+B) 4096
+C)
+
+Prompt 13:
+.
+A. 28 to 30
+B. 20 to 2
+
+Prompt 14:
+ for the following problem.
+
+The number of ways to select a committee of 3 people from a
+
+Prompt 15:
+.
+
+Hint: In this question, we have to find the total number of keys required for a
+
+Prompt 16:
+.
+
+Hint: The attacker sits between the sender and receiver and captures the information and retransmits
+
+Prompt 17:
+ for the following expression:
+
+$\frac{1}{2} \times 2 \times 
+
+Prompt 18:
+.
+
+A) 1
+B) 2
+C) 3
+D) 
+
+Prompt 19:
+.
+
+A) connect() system call returns successfully
+B) connect() system call blocks
+C
+
+Prompt 20:
+.
+
+Prompt 21:
+.
+
+Instant Solution:
+
+Step 1/2
+In the slow start phase of the TCP
+
+Prompt 22:
+.
+
+Hint: In a packet switching network, packets are routed from source to destination along a single
+
+Prompt 23:
+.
+
+Hint: In a columnar transposition cipher, the message is written in rows and then read
+
+Prompt 24:
+.
+A. 500 Kbytes/sec
+B. 2.2 M
+
+Prompt 25:
+.
+
+A) 245.248.136.0/2
+
+Prompt 26:
+.
+
+Show more
+Step 1
+1 of 2
+
+The window size at the start
+
+Prompt 27:
+.
+A. T1 < T2 < T3
+B. T1 > T2
+
+Prompt 28:
+.
+
+Prompt 29:
+.
+A) 7.69 × 10⁶ bytes per second
+B)
+
+Prompt 30:
+.
+Answer:
+The probability of sending a frame in the first slot without any collision by any
+
+Prompt 31:
+.
+A) 160
+B) 320
+C) 6
+
+Prompt 32:
+.
+A. 1
+B. 2
+C. 3
+D. 
+
+Prompt 33:
+.
+
+<strong>Answer:</strong>
+
+<strong>Explanation:</strong>
+
+The message is 1010
+
+Prompt 34:
+.
+
+Answer: B) 2000
+
+Explanation:
+
+The sender throughput is the
+
+Prompt 35:
+.
+
+A) A combinational circuit
+B) A finite automaton
+C) A pushdown
+
+Prompt 36:
+.
+
+Prompt 37:
+.
+
+<code>>>> 10.0.0.1 == 10.0.
+
+Prompt 38:
+ of the following expression:
+
+A) 1
+B) 2
+C) 3
+
+Prompt 39:
+ for the following:
+
+A) 100000000000
+
+Prompt 40:
+.
+
+Prompt 41:
+.
+
+A) 100 characters/sec, 153 characters/sec
+
+
+Prompt 42:
+.
+
+Prompt 43:
+.
+A. B
+B. C
+C. A
+D. D
+
+Prompt 44:
+.
+
+Answer the question: For a host machine that uses the token bucket algorithm for congestion control,
+
+Prompt 45:
+.
+The answer is D.
+The first segment is lost, so the receiver will not send
+
+Prompt 46:
+ for the following expression:
+
+A) 10000000000
+
+Prompt 47:
+.
+
+Show more
+Step 1
+1 of 2
+
+The required storage space is:
+
+Prompt 48:
+.
+
+A) 24 bytes
+B) 1024 bytes
+C)
+
+Prompt 49:
+.
+
+A) 1
+B) 2
+C) 3
+D) 
+

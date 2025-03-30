@@ -1,0 +1,2 @@
+Model,Correct Count,Total Num of Questions,A_TP,A_FP,A_FN,total_num_of_A,B_TP,B_FP,B_FN,total_num_of_B,C_TP,C_FP,C_FN,total_num_of_C,D_TP,D_FP,D_FN,total_num_of_D
+llama3.1-8b-epoch3-Final-1,1420,1718,338,80,58,418,346,74,58,420,355,78,56,433,381,66,68,447

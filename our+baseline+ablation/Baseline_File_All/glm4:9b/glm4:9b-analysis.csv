@@ -1,0 +1,2 @@
+Model,Correct Count,Total Num of Questions,A_TP,A_FP,A_FN,total_num_of_A,B_TP,B_FP,B_FN,total_num_of_B,C_TP,C_FP,C_FN,total_num_of_C,D_TP,D_FP,D_FN,total_num_of_D
+glm4:9b,1386,1718,344,74,89,418,374,46,142,420,347,86,64,433,321,126,25,447

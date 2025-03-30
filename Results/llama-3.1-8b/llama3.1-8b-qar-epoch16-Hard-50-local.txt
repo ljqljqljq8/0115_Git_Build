@@ -1,0 +1,289 @@
+Prompt 0:
+Correct answer:
+C) 280
+Explanation:
+This question requires understanding of the knapsack problem and how the given dynamic programming code snippet solves it. The knapsack problem involves choosing a subset of items from a set of items, where each item has a weight and a value, such that the total weight of the chosen items does not exceed a given limit (the knapsack's capacity), and the total value of the chosen items is maximized.
+
+Prompt 1:
+Correct answer:
+D) 20000
+Explanation:
+Let's rephrase the question: What is the signal speed in a 1 km cable if the data is transmitted at 100 Mbps and the minimum frame size required is 1250 bytes?
+
+Prompt 2:
+orrect answer:
+A) 130 to 140
+Explanation:
+Let's rephrase and expand the question for better understanding: What is the range of throughput (in frames per second) for a pure ALOHA network where each frame is 1,000 bits long, the channel transmission rate is 1 Mbps, and the aggregate number of transmissions is modelled as a Poisson process with a rate of 1,000 frames per second?
+
+Prompt 3:
+Correct answer:
+D) 150
+Explanation:
+To answer this question, we need to understand how the stop and wait protocol works in the context of packet loss. In the stop and wait protocol, the sender waits for an acknowledgement (ACK) from the receiver before sending the next packet. If an ACK is not received, the sender assumes that the packet was lost and retransmits it.
+
+Prompt 4:
+Explanation:
+The question is about the number of times a packet has to visit the network layer and data link layer during a transmission from Source S to Destination D, assuming that Source S and Destination D are connected through an intermediate router R.
+
+Prompt 5:
+Correct answer:
+B) C2 assumes C1 is on same network, but C1 assumes C2 is on a different network
+Explanation:
+In networking, determining whether two computers are on the same network is a critical task. This is often done using IP addresses and netmasks.
+
+Prompt 6:
+Correct answer:
+A) 12
+Explanation:
+The question is asking about the number of packets that will be transmitted by Station A to Station B when using a sliding window (window size 3) and go-back-n error control strategy, and all packets are ready and immediately available for transmission. The scenario involves every 5th packet that A transmits getting lost (but no ACKs from B ever getting lost).
+
+Prompt 7:
+Correct answer:
+A) 20
+Explanation:
+The question is asking for the optimal window size that Station A should use when transmitting messages to Station B using a sliding window protocol, given the round trip delay and bottleneck bandwidth between the two stations.
+
+Prompt 8:
+Correct answer:
+D) Encryption: X’s public key followed by Y’s private key. Decryption: Y’s public key followed by X’s private key.
+Explanation:
+The question asks about the sequence of keys used for encryption and decryption when a digital signature is added to a message using public key cryptography.
+
+Prompt 9:
+Correct answer:
+B) 64 subnets and 262142 hosts
+Explanation:
+In this question, we are asked to determine the maximum number of subnets and hosts that can be created when the address of a class B host is split into subnets with a 6-bit subnet number. This involves understanding the concept of subnetting and its application in network design.
+
+Prompt 10:
+Correct answer:
+B) 10.0
+Explanation:
+Efficiency in Stop and Wait protocol is defined as the ratio of the actual throughput to the theoretical maximum throughput.
+
+Prompt 11:
+Correct answer:
+A) 200 bits
+Explanation:
+The question asks for the minimum size of the packet for a 1 km long broadcast LAN with a bandwidth of 10⁷ bps and using CSMA/CD. The minimum packet size is determined by the formula: packet size = (2 × 10⁸ m/sec) × (10⁷ bps) × (1 km) × (1 sec) / (10⁷ bps) = 200 bits.
+
+Prompt 12:
+Correct answer:
+B) 4096
+Explanation:
+Rephrase and expand the question for better understanding: Given a specific subnet mask for a class B network on the internet, what is the maximum number of hosts that can be assigned to each subnet?
+
+Prompt 13:
+Correct answer:
+C) 0 to 2
+Explanation:
+The question asks about the minimum time for which the monitoring station should wait before assuming that the token is lost, given the network parameters.
+
+Prompt 14:
+Correct answer:
+A) Sender encrypts using receiver’s public key
+Explanation:
+The question is about the role of public and private keys in public key cryptography, specifically in the context of a sender encrypting a message to be sent to a receiver.
+
+Prompt 15:
+Correct answer:
+B) 2n and (n(n − 1))/2
+Explanation:
+The question is about the total number of keys required for a set of n individuals to be able to communicate with each other using secret key and public key crypto-systems, respectively.
+
+Prompt 16:
+Correct answer:
+C) Simple attack
+Explanation:
+This question is asking to identify a specific type of attack where an attacker captures and retransmits information without altering it.
+
+Prompt 17:
+Correct answer:
+B) For avoiding loops in the routing paths
+
+Prompt 18:
+Correct answer:
+D) 1500 bytes
+Explanation:
+This question is about the maximum size of data that can be passed from the application layer to the TCP layer in the TCP/IP model.
+
+Prompt 19:
+Correct answer:
+B) connect() system call blocks
+Explanation:
+This question is asking about the behavior of a client process attempting to connect to a server process that has not executed the accept() system call.
+
+Prompt 20:
+Correct answer:
+D) 8 seconds
+Explanation:
+The question asks about the maximum duration for which a computer on a 10 Mbps network can transmit at full speed, given a specific token bucket configuration.
+
+Prompt 21:
+Correct answer:
+B) Increases linearly
+Explanation:
+This question asks about the behavior of the congestion window during the slow start phase of the TCP congestion control algorithm.
+
+Prompt 22:
+Correct answer:
+A) 4
+Explanation:
+In a packet switching network, packets are routed from source to destination along a single path having two intermediate nodes. If the message size is 24 bytes and each packet contains a header of 3 bytes, then the optimum packet size is:
+
+Prompt 23:
+Correct answer:
+C) OEWPNRCTTUEKMRO
+Explanation:
+This question is about the encryption process of the message "COMPUTERNETWORK" using columnar transposition cipher with a key "LAYER".
+
+Prompt 24:
+Correct answer:
+C) 125 Kbytes/sec
+Explanation:
+The question is asking about the maximum I/O data transfer rate in a system with a particular CPU execution rate, memory bus usage, and I/O device configuration.
+
+Prompt 25:
+Correct answer:
+C) 245.248.132.0/22 and 245.248.132.0/21
+Explanation:
+The question is about allocating IP addresses from a given chunk of CIDR-based IP addresses to two different organizations in a way that the ISP retains a quarter of the chunk for itself.
+
+Prompt 26:
+Correct answer:
+A) 8 MSS
+Explanation:
+Rephrase and expand the question for better understanding: In a scenario where TCP's AIMD algorithm is applied, the window size at the beginning of the slow start phase is 2 MSS, and the threshold at the beginning of the first transmission is 8 MSS. What is the congestion window size at the end of the tenth transmission if a time-out occurs during the fifth transmission?
+
+Prompt 27:
+Correct answer:
+B) T1 > T2 > T3
+Explanation:
+The question is about the transmission time of a file in a store-and-forward packet-switched network, considering three different ways of transmitting the file. The first case is where a single packet containing the complete file is transmitted from A to B. The second case is where the file is split into 10 equal parts, and these packets are transmitted from A to B. The third case is where the file is split into 20 equal parts and these packets are sent from A to B.
+
+Prompt 28:
+Correct answer:
+C) 0.75
+Explanation:
+This question focuses on the probability that station A wins the second backoff race after a successful transmission by station A, considering the scenario where both stations have a steady queue of frames to send.
+
+Prompt 29:
+Correct answer:
+C) 12.33 × 10⁶ bytes per second
+Explanation:
+This question pertains to the maximum achievable throughput in a sliding window protocol with specific parameters.
+
+Prompt 30:
+Explanation:
+The question is about the probability of sending a frame in the first slot without any collision by any of four stations in a LAN.
+
+Prompt 31:
+Correct answer:
+B) 320
+Explanation:
+This question is about the minimum frame size required to achieve a link utilization of at least 50% when using the stop-and-wait protocol on a link with a specific bit rate and propagation delay.
+
+Prompt 32:
+Correct answer:
+C) 3
+Explanation:
+Rephrase and expand the question for better understanding: In a time-slotted MAC protocol, where each host always has data to send, and the transmission probability is set to p = 0.2 in each slot, what is the maximum number of hosts that can be supported while ensuring a minimum throughput of 0.16 frames per time slot?
+
+Prompt 33:
+Correct answer:
+C) 10101
+Explanation:
+Rephrase and expand the question for better understanding: What is the CRC value for the message "1010001101" when using the divisor polynomial x⁛ + x⁴ + x² + 1?
+
+Prompt 34:
+Explanation:
+The question is asking for the sender throughput in a Stop-and-Wait ARQ protocol for a specific frame size, transmission rate, acknowledgement size, and propagation delay.
+
+Prompt 35:
+Correct answer:
+D) A pushdown automaton with two stacks
+Explanation:
+To achieve the desired functionality, the firewall needs to be able to manage the state of TCP connections, which involves maintaining information about the status of open and closed connections. This requires a more complex model of computation than just a finite automaton.
+
+Prompt 36:
+Correct answer:
+C) Frequent changes in the encapsulation header fields that obfuscate payload inspection
+Explanation:
+This question aims to identify the main challenge in the deployment of an intrusion detection engine that inspects encapsulated traffic at scale in a network virtualization environment.
+
+Prompt 37:
+Correct answer:
+B) 172.16.0.10
+Explanation:
+The question is asking for an IP address that can be used in a Wide Area Network (WAN). The WAN uses the IP address space from 172.16.0.0 to 172.31.255.255, as defined by RFC 1918.
+
+Prompt 38:
+Correct answer:
+B) The complexity of group operations in the homomorphic domain leading to high computational overhead
+Explanation:
+Rephrasing the question for clarity: In the context of a cryptographic protocol designed for end-to-end security and real-time communication, what is the most pressing challenge to overcome?
+
+Prompt 39:
+Correct answer:
+C) Both an ISDN and DSL line and a browser
+Explanation:
+The question asks about the necessary components to connect a home computer to a school's website, including the computer itself and a modem.
+
+Prompt 40:
+Correct answer:
+D) 7 and 8880
+Explanation:
+This question is about the fragmentation process that occurs when a UDP datagram is sent from one host to another over an Ethernet LAN.
+
+Prompt 41:
+Correct answer:
+B) 80 characters/sec, 136 characters/sec
+Explanation:
+The question is about the transfer rates of two different types of serial and synchronous transmissions, given the bit rate for both.
+
+Prompt 42:
+Correct answer:
+A) 2800 kHz
+Explanation:
+The question is asking for the total minimum bandwidth of the channel required for 7 channels of 400 kHz bandwidth multiplexed together with each guard band of 20 kHz.
+
+Prompt 43:
+Correct answer:
+B) <base href="http://www.yourname.com/">
+Explanation:
+The question requires understanding of how relative URLs are resolved in a web server. Relative URLs are resolved by the web server based on the base URL of the document. To ensure that all relative URLs in a document refer to the appropriate WebPages on the web server, the base URL of the document must be specified.
+
+Prompt 44:
+Explanation:
+The question is about the minimum time required to transmit data using the token bucket algorithm for congestion control in a host machine. The token bucket algorithm is used to control the rate at which data is transmitted from a source to a destination. It is a form of rate-based congestion control that is used in networks to avoid congestion.
+
+Prompt 45:
+Correct answer:
+D) 60 and 230
+Explanation:
+The question is asking about the values of X and Y (in that order) in a TCP connection where the sender sends two segments back to back, and the first segment was lost, but the second segment was received correctly by the receiver.
+
+Prompt 46:
+Correct answer:
+A) to synchronize receiver for receiving every byte
+Explanation:
+Let's rephrase the question for better understanding: What is the function of the start bit in the RS-232 serial communication protocol?
+
+Prompt 47:
+Explanation:
+
+To answer this question, we need to understand the concept of storage space required for a compressed audio signal. When we compress an audio signal, we reduce its size by removing redundant or unnecessary data. The compression ratio determines how much data is removed from the original signal. In this case, the compression ratio is 0.5, which means that 50% of the original data is removed during compression.
+
+Prompt 48:
+Correct answer:
+D) 256 bytes
+Explanation:
+The question asks for the size of the lookup table when the frame buffer has 8 bits per pixel and each of the R, G, B components is allocated 8 bits.
+
+Prompt 49:
+Correct answer:
+B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes
+Explanation:
+Rephrasing the question for better understanding: What formula is used to compute the cyclomatic complexity of a program based on its flow graph?
+

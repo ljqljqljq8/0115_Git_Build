@@ -1,0 +1,209 @@
+Prompt 0:
+Correct answer:
+C) 280
+
+Prompt 1:
+Correct answer:
+D) 20000
+
+Prompt 2:
+orrect answer:
+C) 120 to 130
+
+Prompt 3:
+Correct answer:
+A) 125
+
+Prompt 4:
+Correct answer:
+C) Network layer – 2 times, Data link layer – 4 times
+
+Prompt 5:
+Correct answer:
+C) C1 assumes C2 is on same network, but C2 assumes C1 is on a different network
+
+Prompt 6:
+Correct answer:
+B) 14
+
+Prompt 7:
+Correct answer:
+D) 320
+
+Prompt 8:
+Correct answer:
+B) Encryption: X’s private key followed by Y’s public key. Decryption: X’s public key followed by Y’s private key.
+
+Prompt 9:
+Correct answer:
+
+A) 62 subnets and 262142 hosts
+
+Prompt 10:
+Correct answer:
+D) 10.8
+
+Prompt 11:
+Correct answer:
+A) 200 bits
+
+Prompt 12:
+Correct answer:
+A) 4098
+
+Prompt 13:
+Correct answer:
+A) 28 to 30
+
+Prompt 14:
+Correct answer:
+
+A) Sender encrypts using receiver’s public key
+
+Prompt 15:
+Correct answer:
+B) 2n and (n(n − 1))/2
+
+Prompt 16:
+Correct answer:
+B) Masquarade attack
+
+Prompt 17:
+Correct answer:
+B) For avoiding loops in the routing paths
+
+Prompt 18:
+Correct answer:
+C) 2¹⁶ bytes
+
+Prompt 19:
+Correct answer:
+
+B) connect() system call blocks
+
+Prompt 20:
+Correct answer:
+A) 1.6 seconds
+
+Prompt 21:
+Correct answer:
+B) increases linearly
+
+Prompt 22:
+Correct answer:
+D) 9
+
+Prompt 23:
+Correct answer:
+D) UEKPNRMROOEWCTT
+
+Prompt 24:
+Correct answer:
+D) 250 Kbytes/sec
+
+Prompt 25:
+Correct answer:
+A) 245.248.136.0/21 and 245.248.128.0/22
+
+Prompt 26:
+Correct answer:
+B) 14 MSS
+
+Prompt 27:
+Correct answer:
+B) T1 > T2 > T3
+
+Prompt 28:
+Correct answer:
+C) 0.75
+
+Prompt 29:
+Correct answer:
+C) 12.33 × 10⁶ bytes per second
+
+Prompt 30:
+Correct answer:
+
+B) 0.711
+
+Prompt 31:
+Correct answer:
+C) 640
+
+Prompt 32:
+Correct answer:
+D) 4
+
+Prompt 33:
+Correct answer:
+A) 01110
+
+Prompt 34:
+Correct answer:
+
+C) 1500
+
+Prompt 35:
+Correct answer:
+D) A pushdown automaton with two stacks
+
+Prompt 36:
+Correct answer:
+C) Frequent changes in the encapsulation header fields that obfuscate payload inspection
+
+Prompt 37:
+Correct answer:
+
+D) None
+
+Prompt 38:
+Correct answer:
+B) The complexity of group operations in the homomorphic domain leading to high computational overhead
+
+Prompt 39:
+Correct answer:
+C) Both an ISDN and DSL line and a browser
+
+Prompt 40:
+Correct answer:
+D) 7 and 8880
+
+Prompt 41:
+Correct answer:
+
+D) 80 characters/sec, 153 characters/sec
+
+Prompt 42:
+Correct answer:
+D) 2920 kHz
+
+Prompt 43:
+Correct answer:
+B) <base href="http://www.yourname.com/">
+
+Prompt 44:
+Correct answer:
+
+B) 0.1
+
+Prompt 45:
+Correct answer:
+B) 230 and 291
+
+Prompt 46:
+Correct answer:
+A) to synchronize receiver for receiving every byte
+
+Prompt 47:
+Correct answer:
+
+C) 860 KB
+
+Prompt 48:
+Correct answer:
+D) 256 bytes
+
+Prompt 49:
+Correct answer:
+B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes
+

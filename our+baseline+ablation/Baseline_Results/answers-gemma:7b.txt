@@ -1,0 +1,5593 @@
+prompt 0:
+ The correct answer is A) The Internet Corporation for Assigned Names and Numbers (ICANN)(Explanation is not required)
+
+prompt 1:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 2:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 3:
+ The correct answer is A (Explanation is not required)
+
+prompt 4:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 5:
+ The correct answer is D (Explanation is not required)
+
+prompt 6:
+ The correct answer is D (Additive Increase/Multiplicative Decrease (AIMD))(Explanation is not required)
+
+prompt 7:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 8:
+ The correct answer is **D) Reverse Lookup Zones** (Explanation is not required)
+
+prompt 9:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 10:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 11:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 12:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 13:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 14:
+ The correct answer is **C) Mail server** 
+(Explanation is not required)
+
+prompt 15:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 16:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 17:
+ The correct answer is **D) Performance Delay**
+(Explanation is not required)
+
+prompt 18:
+ The correct answer is C) 3.84 Mcps (Explanation is not required)
+
+prompt 19:
+ The correct answer is C) Encryption (Explanation is not required)
+
+prompt 20:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 21:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 22:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 23:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 24:
+ The correct answer is **D** (Frame length restrictions)
+Explanation is not required.
+
+prompt 25:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 26:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 27:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 28:
+ The correct answer is C (Explanation is not required)
+
+prompt 29:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 30:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 31:
+ The correct answer is C (Explanation is not required)
+
+prompt 32:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 33:
+ The correct answer is B) IEEE 802.2 LLC/SNAP frame.
+Explanation is not required.
+
+prompt 34:
+ The correct answer is B (Explanation is not required)
+
+prompt 35:
+ The correct answer is **B) Dual-stack approach** (Explanation is not required)
+
+prompt 36:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 37:
+ The correct answer is **B) 255**
+(Explanation is not required)
+
+prompt 38:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 39:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 40:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 41:
+ The correct answer is B (Explanation is not required)
+
+prompt 42:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 43:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 44:
+ The correct answer is **C) Synchronous Optical Network (SONET)**
+(Explanation is not required)
+
+prompt 45:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 46:
+ The correct answer is B) 3FFD:3600:0000:0000:0302:B3FF:FE3C:C0DB
+(Explanation is not required)
+
+prompt 47:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 48:
+ The correct answer is D) cwnd (Congestion Window)(Explanation is not required)
+
+prompt 49:
+ The correct answer is **B** (Protecting the session key from unauthorized access).
+
+Establishing a secure session key is crucial in authentication protocols to protect the confidentiality and integrity of transmitted data. The session key must be protected from unauthorized access to ensure that only authorized users can access the encrypted data.
+
+prompt 50:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 51:
+ The correct answer is C (Agent discovery, Registration with the home agent, and Indirect routing of datagrams). 
+Explanation: Mobile IP standard comprises three key pieces: Agent discovery, Registration with the home agent, and Indirect routing of datagrams.
+
+prompt 52:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 53:
+ The correct answer is B) 3*Pi/8 8-PSK (Explanation is not required)
+
+prompt 54:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 55:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 56:
+ The correct answer is A) Ring (Token-ring networks utilize a circular topology where data travels in a unidirectional loop, ensuring that only one device can transmit at a time.)
+
+prompt 57:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 58:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 59:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 60:
+ The correct answer is D (Blind transfer)
+Explanation is not required
+
+prompt 61:
+ The correct answer is **B)** (Explanation is not required)
+
+prompt 62:
+ The correct answer is **A) The reservation state is deleted.** 
+(Explanation is not required)
+
+prompt 63:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 64:
+ The correct answer is D)(Explanation is not required)
+
+prompt 65:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 66:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 67:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 68:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 69:
+ The correct answer is D) show ntp status (Explanation is not required)
+
+prompt 70:
+ The correct answer is B (Explanation is not required)
+
+prompt 71:
+ The correct answer is **B** (Explanation is not required).
+
+prompt 72:
+ The correct answer is A) Malware that disguises itself as legitimate software. 
+Explanation: A Trojan is malicious software that disguises itself as a legitimate or useful program to trick users into running it. Once activated, it can steal data, compromise system security, or launch other attacks.
+
+prompt 73:
+ The correct answer is A) Interface names and security levels (Explanation is not required)
+
+prompt 74:
+ The correct answer is **B) Configuration revision numbers** (Explanation is not required)
+
+prompt 75:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 76:
+ The correct answer is D (Explanation is not required)
+
+prompt 77:
+ The correct answer is **D** (Message Integrity)
+Explanation is not required
+
+prompt 78:
+ The correct answer is D) Skype (Explanation is not required)
+
+prompt 79:
+ The correct answer is D) Pure ALOHA (Explanation is not required)
+
+prompt 80:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 81:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 82:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 83:
+ The correct answer is **D** (Wireless local area network (WLAN) technologies)
+Explanation is not required.
+
+prompt 84:
+ The correct answer is **D) Manchester**
+(Explanation is not required)
+
+prompt 85:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 86:
+ The correct answer is A) CRC-16
+(Explanation is not required)
+
+prompt 87:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 88:
+ The correct answer is **B** (Proprietary binary formats for compatibility). 
+RTSP primarily uses proprietary binary formats to establish and control multimedia streams between server and client, ensuring efficient and reliable communication for real-time multimedia applications.
+
+prompt 89:
+ The correct answer is **C) State/Optimization/Surface (SOS) Triad** (Explanation is not required)
+
+prompt 90:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 91:
+ The correct answer is SWAN (Explanation is not required)
+
+prompt 92:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 93:
+ The correct answer is A (Explanation is not required)
+
+prompt 94:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 95:
+ The correct answer is **C) Mobile Switching Centre** (Explanation is not required)
+
+prompt 96:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 97:
+ The correct answer is **D) VPN and multicast routing** (Explanation is not required)
+
+prompt 98:
+ The correct answer is **B) 10** (Explanation is not required)
+
+prompt 99:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 100:
+ The correct answer is **D) RRC**
+(Explanation is not required)
+
+prompt 101:
+ The correct answer is B) TCP NewReno (Explanation is not required)
+
+prompt 102:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 103:
+ The correct answer is BGP (Border Gateway Protocol)(Explanation is not required)
+
+prompt 104:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 105:
+ The correct answer is **C) BBR (Bottleneck Bandwidth and Round-trip propagation time)** 
+(Explanation is not required)
+
+prompt 106:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 107:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 108:
+ The correct answer is D. (Explanation is not required)
+
+prompt 109:
+ The correct answer is **A)** Vehicular speed requiring 1 Gbps.
+
+IMT-2000 defines high-speed packet-switched data rates applicable to vehicular environments, requiring gigabit-per-second speeds.
+
+prompt 110:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 111:
+ The correct answer is **C) Connection retry**
+(Explanation is not required)
+
+prompt 112:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 113:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 114:
+ The correct answer is **B** (Explanation is not required)
+
+**Explanation:** Fairness in congestion control means that connections are treated equally, and each connection gets an equal share of the available link bandwidth.
+
+prompt 115:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 116:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 117:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 118:
+ The correct answer is D (Explanation is not required)
+
+prompt 119:
+ The correct answer is **A) AirCrack** 
+(Explanation is not required)
+
+prompt 120:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 121:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 122:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 123:
+ The correct answer is D) Cable Internet Access
+(Explanation is not required)
+
+prompt 124:
+ The correct answer is C (DHCP)
+(Explanation is not required)
+
+prompt 125:
+ The correct answer is **C) Connect function** (Explanation is not required)
+
+prompt 126:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 127:
+ The correct answer is **C** (Digitization and packing of various signal types into packets).
+
+Packet-switched networks can flexibly accommodate multimedia information by digitizing and packing various signal types into packets, allowing for the efficient transmission of different types of data over the network.
+
+prompt 128:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 129:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 130:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 131:
+ The correct answer is A (Explanation is not required)
+
+prompt 132:
+ The correct answer is C) Multipurpose Internet Mail Extensions (Explanation is not required)
+
+prompt 133:
+ The correct answer is **B) ip-routing** (Explanation is not required)
+
+prompt 134:
+ The correct answer is D (Adding more identical modules).
+Explanation is not required.
+
+prompt 135:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 136:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 137:
+ The correct answer is **B** (Explanation is not required).
+
+HTTP (Hypertext Transfer Protocol) is primarily responsible for facilitating the retrieval of web pages and other resources over the World Wide Web.
+
+prompt 138:
+ The correct answer is C) Synchronous Optical Networking (Explanation is not required)
+
+prompt 139:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 140:
+ The correct answer is **C) By exporting it** (Explanation is not required)
+
+prompt 141:
+ The correct answer is B) A number only used once within a protocol.
+(Explanation is not required)
+
+prompt 142:
+ The correct answer is A) Channelized and Unchannelized (Explanation is not required)
+
+prompt 143:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 144:
+ The correct answer is **B** (Sequence number)
+(Explanation is not required)
+
+prompt 145:
+ The correct answer is D (Explanation is not required)
+
+prompt 146:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 147:
+ The correct answer is B) Data source (Explanation is not required)
+
+prompt 148:
+ The correct answer is A) RTP (Explanation is not required)
+
+prompt 149:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 150:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 151:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 152:
+ The correct answer is D (Tuning the bandwidth). 
+T1s do not support bandwidth tuning as they operate at a fixed data rate of 1.544 Mbps.
+
+prompt 153:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 154:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 155:
+ The correct answer is B (Explanation is not required)
+
+prompt 156:
+ The correct answer is B (Explanation is not required)
+
+prompt 157:
+ The correct answer is A) H.245
+Explanation is not required
+
+prompt 158:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 159:
+ The correct answer is **B) NumericString**
+(Explanation is not required)
+
+prompt 160:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 161:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 162:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 163:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 164:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 165:
+ The correct answer is B (Selective Repeat ARQ)
+Explanation is not required
+
+prompt 166:
+ The correct answer is A (Explanation is not required)
+
+prompt 167:
+ The correct answer is A) 100 Mbps.
+Fast Ethernet operates at a data rate of 100 Mbps.
+
+prompt 168:
+ The correct answer is **C** (Reliability and rate control).
+
+UDP lacks reliability and rate control features, unlike TCP.
+
+prompt 169:
+ The correct answer is **A) Summarizes topology information.** (Explanation is not required)
+
+prompt 170:
+ The correct answer is **C) Router**
+(Explanation is not required)
+
+prompt 171:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 172:
+ The correct answer is C (Explanation is not required)
+
+prompt 173:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 174:
+ The correct answer is A (Explanation is not required).
+
+prompt 175:
+ The correct answer is **C) Shared explicit style**
+(Explanation is not required)
+
+prompt 176:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 177:
+ The correct answer is A (Explanation is not required)
+
+prompt 178:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 179:
+ The correct answer is C) Internet Control Message Protocol (ICMP) (Explanation is not required)
+
+prompt 180:
+ The correct answer is B) By broadcasting their reservation bit during the appropriate minislot. 
+In a basic reservation system, stations broadcast their reservation bits during the appropriate minislot to indicate their intention to transmit a frame in the next cycle.
+
+prompt 181:
+ The correct answer is **B)** (Explanation is not required)
+
+prompt 182:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 183:
+ The correct answer is C (Explanation is not required)
+
+prompt 184:
+ The correct answer is **A) The bandwidth of the analog signal** (Explanation is not required)
+
+prompt 185:
+ The correct answer is B (Explanation is not required)
+
+prompt 186:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 187:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 188:
+ The correct answer is D (Explanation is not required)
+
+prompt 189:
+ The correct answer is B (Explanation is not required)
+
+prompt 190:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 191:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 192:
+ The correct answer is **A** (Explanation is not required).
+
+IGMP is responsible for managing multicast groups and facilitating efficient communication within local networks.
+
+prompt 193:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 194:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 195:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 196:
+ The correct answer is **A)** (Explanation is not required).
+
+The bandwidth-delay product represents the total delay experienced by a data packet over a network link.
+
+prompt 197:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 198:
+ The correct answer is B) Requesting a book from a library (Explanation is not required)
+
+prompt 199:
+ The correct answer is D (Explanation is not required)
+
+prompt 200:
+ The correct answer is **D** (Explanation is not required).
+
+prompt 201:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 202:
+ The correct answer is A) Its ability to multiplex several low-bit-rate voice calls.
+Explanation: SSCOP is suitable for satellite channels and ATM links with high delay-bandwidth products because it can multiplex several low-bit-rate voice calls, reducing the impact of high delay and improving the overall efficiency of the communication link.
+
+prompt 203:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 204:
+ The correct answer is D (Explanation is not required)
+
+prompt 205:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 206:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 207:
+ The correct answer is **D) Network virtualization** 
+(Explanation is not required)
+
+prompt 208:
+ The correct answer is D) Last Mile
+(Explanation is not required)
+
+prompt 209:
+ The correct answer is D (Explanation is not required)
+
+prompt 210:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 211:
+ The correct answer is A (Explanation is not required)
+
+prompt 212:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 213:
+ The correct answer is D (Explanation is not required)
+
+prompt 214:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 215:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 216:
+ The correct answer is B) Selective acknowledgment(Explanation is not required)
+
+prompt 217:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 218:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 219:
+ The correct answer is **D** (Explanation is not required).
+
+prompt 220:
+ The correct answer is C) Metcalfe's law (Explanation is not required)
+
+prompt 221:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 222:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 223:
+ The correct answer is D (Automatic encryption of data)
+Explanation is not required
+
+prompt 224:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 225:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 226:
+ The correct answer is **A)**.
+
+Explanation:
+Desired properties of a routing algorithm include correctness, complexity, robustness, stability, fairness, and efficiency. Correctness ensures that the algorithm finds optimal or near-optimal routes. Complexity refers to the time and space complexity of the algorithm. Robustness deals with handling changes in the network topology. Stability ensures that the algorithm converges to a valid and stable routing state. Fairness distributes the traffic load fairly among different routes. Efficiency measures the overall performance of the algorithm in terms of routing overhead and convergence time.
+
+prompt 227:
+ The correct answer is A) The nervous system in a human body (Explanation is not required)
+
+prompt 228:
+ The correct answer is A (Explanation is not required)
+
+prompt 229:
+ The correct answer is **D** (Forward error correction)
+Explanation is not required
+
+prompt 230:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 231:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 232:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 233:
+ The correct answer is A (Explanation is not required)
+
+prompt 234:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 235:
+ The correct answer is D) Connection, Transaction, and Deletion (Explanation is not required)
+
+prompt 236:
+ The correct answer is **A) It is used for connection setup.** 
+(Explanation: The SYN flag is used in the TCP handshake process to initiate a connection between two hosts.)
+
+prompt 237:
+ The correct answer is **C** (Explanation is not required).
+
+Binding a specific port number to a socket in server-side UDP socket programming designates the socket for listening to incoming messages on that port.
+
+prompt 238:
+ The correct answer is A (Explanation is not required)
+
+prompt 239:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 240:
+ The correct answer is **A) Link rate** 
+(Explanation is not required)
+
+prompt 241:
+ The correct answer is **A) Stratum** (Explanation is not required)
+
+prompt 242:
+ The correct answer is D (Modular multiplicative inverse) 
+(Explanation is not required)
+
+prompt 243:
+ The correct answer is B) 75 mph.
+
+Explanation is not required.
+
+prompt 244:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 245:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 246:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 247:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 248:
+ The correct answer is **B) GPRS Tunnelling Protocol (GTP)**
+(Explanation is not required)
+
+prompt 249:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 250:
+ The correct answer is **A) HTTPS** (Explanation is not required)
+
+prompt 251:
+ The correct answer is **B) Binary exponential backoff** (Explanation is not required)
+
+prompt 252:
+ The correct answer is B) Code Division Multiple Access (CDMA) 
+Explanation is not required
+
+prompt 253:
+ The correct answer is B) 90 percent(Explanation is not required)
+
+prompt 254:
+ The correct answer is **B)** (MIMO technology).
+
+Explanation: MIMO (Multiple Input Multiple Output) technology was one of the key features introduced with 802.11n that allowed for spatial multiplexing, significantly increasing the theoretical maximum speed of the network to 600 Mbps.
+
+prompt 255:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 256:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 257:
+ The correct answer is **D) Type 8, Code 0** (Explanation is not required)
+
+prompt 258:
+ The correct answer is C (Explanation is not required)
+
+prompt 259:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 260:
+ The correct answer is D (Explanation is not required)
+
+prompt 261:
+ The correct answer is **A) Authentication and Encryption**
+(Explanation is not required)
+
+prompt 262:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 263:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 264:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 265:
+ The correct answer is B (Explanation is not required)
+
+prompt 266:
+ The correct answer is B) Star.
+Explanation is not required.
+
+prompt 267:
+ The correct answer is **C) Broadcast links and point-to-point links**
+(Explanation is not required)
+
+prompt 268:
+ The correct answer is A) Virtual topology (Explanation is not required)
+
+prompt 269:
+ The correct answer is A (Explanation is not required)
+
+prompt 270:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 271:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 272:
+ The correct answer is **B** (Explanation is not required).
+
+HSDPA offers higher download speeds than HSUPA.
+
+prompt 273:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 274:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 275:
+ The correct answer is C) Open Shortest Path First (Explanation is not required)
+
+prompt 276:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 277:
+ The correct answer is D (Explanation is not required)
+
+prompt 278:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 279:
+ The correct answer is **D)** (Explanation is not required)
+
+Throughput, delay, jitter, and loss rate are common parameters used to describe Quality of Service (QoS) requirements.
+
+prompt 280:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 281:
+ The correct answer is D (Explanation is not required)
+
+prompt 282:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 283:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 284:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 285:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 286:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 287:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 288:
+ The correct answer is D (Explanation is not required)
+
+prompt 289:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 290:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 291:
+ The correct answer is B) Full-consult transfer(Explanation is not required)
+
+prompt 292:
+ The correct answer is B) It reduces the risk of baseline wander.
+Explanation is not required
+
+prompt 293:
+ The correct answer is **A) Point-to-Point links and Broadcast links** (Explanation is not required)
+
+prompt 294:
+ The correct answer is B) From the top down, stopping when a match is found.
+
+Explanation is not required.
+
+prompt 295:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 296:
+ The correct answer is D (Explanation is not required)
+
+prompt 297:
+ The correct answer is B) Transparent fragmentation.
+(Explanation is not required)
+
+prompt 298:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 299:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 300:
+ The correct answer is B (Explanation is not required)
+
+prompt 301:
+ The correct answer is **D** (Dynamic Host Configuration Protocol (DHCP)). 
+DHCP allows a host to obtain an IP address automatically from a DHCP server on the network.
+
+prompt 302:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 303:
+ The correct answer is B) 56 Kbps
+Explanation is not required
+
+prompt 304:
+ The correct answer is D (Local Users)
+Explanation is not required
+
+prompt 305:
+ The correct answer is A) Port 21 is used for the control connection, and port 20 is used for the data connection. (Explanation is not required)
+
+prompt 306:
+ The correct answer is B (Explanation is not required)
+
+prompt 307:
+ The correct answer is D(Explanation is not required)
+
+prompt 308:
+ The correct answer is A) MAC uses a symmetric key while digital signature uses an asymmetric key. 
+MACs utilize symmetric keys for authentication, while digital signatures employ asymmetric keys for authentication and encryption.
+
+prompt 309:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 310:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 311:
+ The correct answer is **C** (Absorption and scattering of light by the impurities)
+
+Explanation is not required.
+
+prompt 312:
+ The correct answer is D (Explanation is not required)
+
+prompt 313:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 314:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 315:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 316:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 317:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 318:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 319:
+ The correct answer is B) Reliable Multicast Transport Protocol (RMTP)
+Explanation is not required.
+
+prompt 320:
+ The correct answer is A (Occam's Razor)(Explanation is not required)
+
+prompt 321:
+ The correct answer is D (Explanation is not required)
+
+prompt 322:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 323:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 324:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 325:
+ The correct answer is **C) RTP** (Explanation is not required)
+
+prompt 326:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 327:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 328:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 329:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 330:
+ The correct answer is B) Telephone scam (Explanation is not required)
+
+prompt 331:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 332:
+ The correct answer is D (Explanation is not required)
+
+prompt 333:
+ The correct answer is D (Explanation is not required)
+
+prompt 334:
+ The correct answer is A) Outsourcing network management to third-party vendors.
+(Explanation is not required)
+
+prompt 335:
+ The correct answer is A (Explanation is not required)
+
+prompt 336:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 337:
+ The correct answer is **A** (Explanation is not required).
+
+prompt 338:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 339:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 340:
+ The correct answer is D (Explanation is not required)
+
+prompt 341:
+ The correct answer is A(Explanation is not required)
+
+prompt 342:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 343:
+ The correct answer is **B) Extensible Provisioning Protocol (EPP)**
+(Explanation is not required)
+
+prompt 344:
+ The correct answer is **B) The National K-20 Initiative** (Explanation is not required)
+
+prompt 345:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 346:
+ The correct answer is B (Explanation is not required)
+
+prompt 347:
+ The correct answer is **C** (Explanation is not required).
+
+The arp command displays the ARP table that maps IP addresses to MAC addresses.
+
+prompt 348:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 349:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 350:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 351:
+ The correct answer is **C) MAC address**
+(Explanation is not required)
+
+prompt 352:
+ The correct answer is C) BGP (Explanation is not required)
+
+prompt 353:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 354:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 355:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 356:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 357:
+ The correct answer is D(Busy tone approach)
+Explanation is not required
+
+prompt 358:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 359:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 360:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 361:
+ The correct answer is B) Single-token operation
+Explanation is not required
+
+prompt 362:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 363:
+ The correct answer is **B** (Flow table and Forwarding table)
+Explanation is not required
+
+prompt 364:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 365:
+ The correct answer is A) Receiver authentication (Explanation is not required)
+
+prompt 366:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 367:
+ The correct answer is **B)** (Explanation is not required)
+
+prompt 368:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 369:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 370:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 371:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 372:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 373:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 374:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 375:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 376:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 377:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 378:
+ The correct answer is **C) Minislots**
+(Explanation is not required)
+
+prompt 379:
+ The correct answer is B (Explanation is not required)
+
+prompt 380:
+ The correct answer is **C** (Explanation is not required).
+
+Increasing the sending rate too close to the maximum link capacity can lead to increased congestion, causing significant delays and reducing throughput.
+
+prompt 381:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 382:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 383:
+ The correct answer is C) IEEE 802.11 (Explanation is not required)
+
+prompt 384:
+ The correct answer is D (Explanation is not required)
+
+prompt 385:
+ The correct answer is D (Explanation is not required)
+
+prompt 386:
+ The correct answer is C/n bits/second.
+Explanation is not required.
+
+prompt 387:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 388:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 389:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 390:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 391:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 392:
+ The correct answer is A(Explanation is not required)
+
+prompt 393:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 394:
+ The correct answer is **D) Session Description Protocol (SDP)**
+SDP is used by the Session Initiation Protocol (SIP) to describe multimedia sessions in the message body.
+
+prompt 395:
+ The correct answer is C) 110(Explanation is not required)
+
+prompt 396:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 397:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 398:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 399:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 400:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 401:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 402:
+ The correct answer is B (Explanation is not required)
+
+prompt 403:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 404:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 405:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 406:
+ The correct answer is C (Explanation is not required)
+
+prompt 407:
+ The correct answer is **C) GPRS** (Explanation is not required)
+
+prompt 408:
+ The correct answer is C) 1969 (Explanation is not required)
+
+prompt 409:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 410:
+ The correct answer is **C** (Explanation is not required).
+
+**Explanation:**
+Bit interleaver in BICM breaks the fading correlation and increases the diversity order by spreading the data bits over multiple symbols, making it less likely that all symbols will be affected by the same fading phenomenon. This improves the overall signal quality and increases the probability of successful reception.
+
+prompt 411:
+ The correct answer is **A)** (Physical layer)
+Explanation is not required
+
+prompt 412:
+ The correct answer is A) Blog.
+(Explanation is not required)
+
+prompt 413:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 414:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 415:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 416:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 417:
+ The correct answer is B (Explanation is not required)
+
+prompt 418:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 419:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 420:
+ The correct answer is C) Switch forwarding table
+(Explanation is not required)
+
+prompt 421:
+ The correct answer is A (Explanation is not required)
+
+prompt 422:
+ The correct answer is D (Employing a non-loss signal for congestion control)
+
+prompt 423:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 424:
+ The correct answer is **C) Private cloud** (Explanation is not required)
+
+prompt 425:
+ The correct answer is A (Explanation is not required)
+
+prompt 426:
+ The correct answer is **C** (Explanation is not required).
+
+SIFS is used to provide a short period of quiet time after the transmission of each data packet, ensuring that any other station that wants to transmit has a chance to access the channel before the next data packet is sent.
+
+prompt 427:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 428:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 429:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 430:
+ The correct answer is C (Explanation is not required)
+
+prompt 431:
+ The correct answer is **C** (Special characters (e.g., STX for start and ETX for end)). 
+Special characters are commonly used in asynchronous transmission systems to delineate the beginning and end of a data frame.
+
+prompt 432:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 433:
+ The correct answer is **C** (Interaction between local control plane processes and off-box processes).
+
+The augmented model in a control plane architecture facilitates interaction between local control plane processes and off-box processes, enabling more flexible and distributed control plane operations.
+
+prompt 434:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 435:
+ The correct answer is **C) Data transmission rate** (Explanation is not required)
+
+prompt 436:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 437:
+ The correct answer is D (Explanation is not required)
+
+prompt 438:
+ The correct answer is **B) Secure Shell (SSH)**
+Explanation is not required
+
+prompt 439:
+ The correct answer is **B)** (Explanation is not required)
+
+prompt 440:
+ The correct answer is B (Explanation is not required)
+
+prompt 441:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 442:
+ The correct answer is **A) service password-encryption** (Explanation is not required)
+
+prompt 443:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 444:
+ The correct answer is B (Explanation is not required)
+
+prompt 445:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 446:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 447:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 448:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 449:
+ The correct answer is D (Adaptive predictive coding)
+Explanation is not required
+
+prompt 450:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 451:
+ The correct answer is B (Explanation is not required)
+
+prompt 452:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 453:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 454:
+ The correct answer is **D) Sensing coverage** (Explanation is not required)
+
+prompt 455:
+ The correct answer is A) Header, payload, trailer.
+(Explanation is not required)
+
+prompt 456:
+ The correct answer is **B) BGP4** (Border Gateway Protocol version 4)
+Explanation is not required.
+
+prompt 457:
+ The correct answer is D (Explanation is not required)
+
+prompt 458:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 459:
+ The correct answer is **C) Code division multiple access (CDMA)** 
+Explanation is not required
+
+prompt 460:
+ The correct answer is A) Travel and tourism (Explanation is not required)
+
+prompt 461:
+ The correct answer is A (Explanation is not required)
+
+prompt 462:
+ The correct answer is A) Acceptable use policy (Explanation is not required)
+
+prompt 463:
+ The correct answer is C) Channels 1, 6, and 11 (Explanation is not required)
+
+prompt 464:
+ The correct answer is A) Frequency Shift Keying (FSK)
+Explanation is not required
+
+prompt 465:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 466:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 467:
+ The correct answer is D (Complexity in translating intent to specific configurations). 
+Explanation: Intent-based networking involves translating user intent into specific network configurations, which can be a complex process due to the dynamic and distributed nature of networks.
+
+prompt 468:
+ The correct answer is **D** (Scintillation, attenuation caused by atmospheric gases, and attenuation caused by hydrometeors).
+
+These three factors significantly affect the propagation of electromagnetic waves in satellite communication systems.
+
+prompt 469:
+ The correct answer is **D** (Orthogonal frequency division multiplexing (OFDM))
+Explanation is not required
+
+prompt 470:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 471:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 472:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 473:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 474:
+ The correct answer is B) Best Effort Routing (Explanation is not required)
+
+prompt 475:
+ The correct answer is A (Explanation is not required)
+
+prompt 476:
+ The correct answer is B(Explanation is not required)
+
+prompt 477:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 478:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 479:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 480:
+ The correct answer is C) M/M/1
+
+In the M/M/1 queuing model, sufficient buffering is assumed to hold an unlimited number of packets in the multiplexer.
+
+prompt 481:
+ The correct answer is D (Explanation is not required)
+
+prompt 482:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 483:
+ The correct answer is B) 24 (Explanation is not required)
+
+prompt 484:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 485:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 486:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 487:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 488:
+ The correct answer is A (Packet routing between networks).
+
+Packet routing between networks is a function of the Network Layer in the OSI model, not the Data Link Layer.
+
+prompt 489:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 490:
+ The correct answer is **B) Admission Control** 
+(Explanation is not required)
+
+prompt 491:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 492:
+ The correct answer is A (Explanation is not required)
+
+prompt 493:
+ The correct answer is A) Reception statistics.
+Explanation is not required.
+
+prompt 494:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 495:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 496:
+ The correct answer is D (Explanation is not required)
+
+prompt 497:
+ The correct answer is **C) A feature for virtual route forwarding** 
+(Explanation is not required)
+
+prompt 498:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 499:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 500:
+ The correct answer is B (Explanation is not required)
+
+prompt 501:
+ The correct answer is D(Explanation is not required)
+
+prompt 502:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 503:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 504:
+ The correct answer is B (Explanation is not required)
+
+prompt 505:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 506:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 507:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 508:
+ The correct answer is D (Acknowledged connection-oriented service)
+Explanation is not required
+
+prompt 509:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 510:
+ The correct answer is B) Unspecified bit rate (UBR)(Explanation is not required)
+
+prompt 511:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 512:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 513:
+ The correct answer is **C) S-MAC**
+(Explanation is not required)
+
+prompt 514:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 515:
+ The correct answer is B) PNNI (Private Network-Network Interface)
+(Explanation is not required)
+
+prompt 516:
+ The correct answer is **C) Levels of reliability** (Explanation is not required)
+
+prompt 517:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 518:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 519:
+ The correct answer is **C) 2 Mbps** (Explanation is not required)
+
+prompt 520:
+ The correct answer is B (Explanation is not required)
+
+prompt 521:
+ The correct answer is B (Explanation is not required)
+
+prompt 522:
+ The correct answer is D (Explanation is not required)
+
+prompt 523:
+ The correct answer is A (Explanation is not required)
+
+prompt 524:
+ The correct answer is A (Explanation is not required)
+
+prompt 525:
+ The correct answer is B (Explanation is not required)
+
+prompt 526:
+ The correct answer is D) RADIUS (Remote Authentication Dial-In Service) 
+(Explanation is not required)
+
+prompt 527:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 528:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 529:
+ The correct answer is **D** (Initiating the Change).(Explanation is not required)
+
+prompt 530:
+ The correct answer is A) k = n. 
+According to the Clos criterion, a multistage switch is nonblocking if the degree of the switch (k) is equal to the number of stages (n).
+
+prompt 531:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 532:
+ The correct answer is A (Explanation is not required)
+
+prompt 533:
+ The correct answer is A (Explanation is not required)
+
+prompt 534:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 535:
+ The correct answer is **B) MLD** (Multicast Listener Discovery). 
+MLD replaces IGMP for group management in IPv6.
+
+prompt 536:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 537:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 538:
+ The correct answer is **B** (Coordination of frame transmissions).
+
+MAC protocols are responsible for coordinating the transmission of data frames over a network by regulating the timing and order of frame transmissions to avoid collisions and ensure proper delivery.
+
+prompt 539:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 540:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 541:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 542:
+ The correct answer is A (Explanation is not required)
+
+prompt 543:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 544:
+ The correct answer is D (Explanation is not required)
+
+prompt 545:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 546:
+ The correct answer is **D) Echo Request** 
+(Explanation is not required)
+
+prompt 547:
+ The correct answer is **C) Controllable Bit Rate (CBR)**
+
+ATM does not provide a Controllable Bit Rate (CBR) service model.
+
+prompt 548:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 549:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 550:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 551:
+ The correct answer is A) By using the 'create-context' command (Explanation is not required)
+
+prompt 552:
+ The correct answer is A) MS-CHAPv2 (Explanation is not required)
+
+prompt 553:
+ The correct answer is **C) Protocol stack**
+(Explanation is not required)
+
+prompt 554:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 555:
+ The correct answer is **D) Digital cross-connect system** (Explanation is not required)
+
+prompt 556:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 557:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 558:
+ The correct answer is B (Explanation is not required)
+
+prompt 559:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 560:
+ The correct answer is **D** (Powerline Communications)
+Explanation is not required
+
+prompt 561:
+ The correct answer is D (Explanation is not required)
+
+prompt 562:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 563:
+ The correct answer is D (Explanation is not required)
+
+prompt 564:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 565:
+ The correct answer is B (Explanation is not required)
+
+prompt 566:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 567:
+ The correct answer is C (Explanation is not required)
+
+prompt 568:
+ The correct answer is **C) Explicit congestion notification (ECN)** 
+(Explanation is not required)
+
+prompt 569:
+ The correct answer is A (Encryption of DHCP communications)
+Explanation is not required
+
+prompt 570:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 571:
+ The correct answer is A) ICMP (Explanation is not required)
+
+prompt 572:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 573:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 574:
+ The correct answer is B (Explanation is not required)
+
+prompt 575:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 576:
+ The correct answer is **B) Connectivity** (Explanation is not required)
+
+prompt 577:
+ The correct answer is B (Permit multiple sessions to open with a single user).
+
+Authentication protocols should prevent unauthorized individuals from accessing a user's account by limiting the number of active sessions per user.
+
+prompt 578:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 579:
+ The correct answer is D (Explanation is not required)
+
+prompt 580:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 581:
+ The correct answer is **A) Hybrid transformer with echo-cancellation devices.** (Explanation is not required)
+
+prompt 582:
+ The correct answer is **D** (MAC control frames, specifically "beacon" frames).
+
+Explanation: Beacon frames are periodically transmitted by each station in the network. If a station receives a corrupted or incomplete beacon frame, it can conclude that the incoming link is broken.
+
+prompt 583:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 584:
+ The correct answer is D (Explanation is not required)
+
+prompt 585:
+ The correct answer is B (Explanation is not required)
+
+prompt 586:
+ The correct answer is **C) PIN photodiodes and APDs** (Explanation is not required)
+
+prompt 587:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 588:
+ The correct answer is D (Explanation is not required)
+
+prompt 589:
+ The correct answer is D (Explanation is not required)
+
+prompt 590:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 591:
+ The correct answer is C (Session encryption keys for data transfer)(Explanation is not required)
+
+prompt 592:
+ The correct answer is D (Explanation is not required)
+
+prompt 593:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 594:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 595:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 596:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 597:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 598:
+ The correct answer is **B) Raw socket**
+(Explanation is not required)
+
+prompt 599:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 600:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 601:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 602:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 603:
+ The correct answer is **D** (Vulnerability of being a single point of failure, addressed by having multiple trust anchors).
+
+Using a single root CA in the PKI model creates a single point of failure, where compromise of the root CA would invalidate all certificates issued by it. Modern implementations address this by employing multiple trust anchors (root CAs), distributing the risk and ensuring continuity in case one root CA is compromised.
+
+prompt 604:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 605:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 606:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 607:
+ The correct answer is D) PAgP (Port Aggregate Protocol). 
+PAgP is a Cisco-proprietary protocol used for negotiating EtherChannel links.
+
+prompt 608:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 609:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 610:
+ The correct answer is **C) debug dialpeer voip all** (Explanation is not required)
+
+prompt 611:
+ The correct answer is B) The 6500e chassis (Explanation is not required)
+
+prompt 612:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 613:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 614:
+ The correct answer is A) The end system (Explanation is not required)
+
+prompt 615:
+ The correct answer is **A)** Packets arriving too late or not at all (Explanation is not required)
+
+prompt 616:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 617:
+ The correct answer is **C** (Explanation is not required).
+
+prompt 618:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 619:
+ The correct answer is D) Quality of Service (QoS) (Explanation is not required)
+
+prompt 620:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 621:
+ The correct answer is A (Explanation is not required)
+
+prompt 622:
+ The correct answer is **C) Simplex**
+(Explanation is not required)
+
+prompt 623:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 624:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 625:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 626:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 627:
+ The correct answer is D (Explanation is not required)
+
+prompt 628:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 629:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 630:
+ The correct answer is B) DHCP (Dynamic Host Configuration Protocol) 
+Explanation is not required
+
+prompt 631:
+ The correct answer is B) 100 meters (Explanation is not required)
+
+prompt 632:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 633:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 634:
+ The correct answer is D (Explanation is not required)
+
+prompt 635:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 636:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 637:
+ The correct answer is B (Adoption of Encrypted Security Payload). 
+
+IPv6 does not include Encrypted Security Payload like IPv4.
+
+prompt 638:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 639:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 640:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 641:
+ The correct answer is **A) A system for establishing IP address segments** (Explanation is not required)
+
+prompt 642:
+ The correct answer is C (Explanation is not required)
+
+prompt 643:
+ The correct answer is **B) Connection-oriented service** (Explanation is not required)
+
+prompt 644:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 645:
+ The correct answer is D) The route becomes an external route in the new protocol. 
+(Explanation is not required)
+
+prompt 646:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 647:
+ The correct answer is D (Explanation is not required)
+
+prompt 648:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 649:
+ The correct answer is A (Explanation is not required)
+
+prompt 650:
+ The correct answer is D (Explanation is not required)
+
+prompt 651:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 652:
+ The correct answer is D) NetBT
+(Explanation is not required)
+
+prompt 653:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 654:
+ The correct answer is **B) Path vector routing** (Explanation is not required)
+
+prompt 655:
+ The correct answer is B (Explanation is not required)
+
+prompt 656:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 657:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 658:
+ The correct answer is A) IP. 
+Explanation is not required.
+
+prompt 659:
+ The correct answer is B (Explanation is not required)
+
+prompt 660:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 661:
+ The correct answer is **C) Satellite Systems**
+(Explanation is not required)
+
+prompt 662:
+ The correct answer is B) Fully Qualified Domain Name (Explanation is not required)
+
+prompt 663:
+ The correct answer is **C) Radia Perlman** (Explanation is not required)
+
+prompt 664:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 665:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 666:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 667:
+ The correct answer is A (Explanation is not required)
+
+prompt 668:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 669:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 670:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 671:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 672:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 673:
+ The correct answer is **C) DDNS** (Dynamic DNS)
+(Explanation is not required)
+
+prompt 674:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 675:
+ The correct answer is B (Explanation is not required)
+
+prompt 676:
+ The correct answer is **C) Autonomous System Boundary Router**
+(Explanation is not required)
+
+prompt 677:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 678:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 679:
+ The correct answer is D) Protocols should be easy to use from the operator¡¯s perspective (Explanation is not required)
+
+prompt 680:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 681:
+ The correct answer is B (Explanation is not required)
+
+prompt 682:
+ The correct answer is A (Explanation is not required)
+
+prompt 683:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 684:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 685:
+ The correct answer is **A) MAC Layer** (Explanation is not required)
+
+prompt 686:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 687:
+ The correct answer is A (Explanation is not required)
+
+prompt 688:
+ The correct answer is A (Explanation is not required)
+
+prompt 689:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 690:
+ The correct answer is **C) Full Duplex**
+(Explanation is not required)
+
+prompt 691:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 692:
+ The correct answer is D (Explanation is not required)
+
+prompt 693:
+ The correct answer is A) Packet Control Unit (Explanation is not required)
+
+prompt 694:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 695:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 696:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 697:
+ The correct answer is **C) show sip-ua register status** (Explanation is not required)
+
+prompt 698:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 699:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 700:
+ The correct answer is **C) 10 digits with the first three digits as the area code** (Explanation is not required)
+
+prompt 701:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 702:
+ The correct answer is **B) Fabric-enabled** 
+Explanation is not required
+
+prompt 703:
+ The correct answer is B (RBDC)
+(Explanation is not required)
+
+prompt 704:
+ The correct answer is **A) Managed switch** (Explanation is not required)
+
+prompt 705:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 706:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 707:
+ The correct answer is B) Network LSA
+Explanation is not required
+
+prompt 708:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 709:
+ The correct answer is D(Set)
+Explanation is not required.
+
+prompt 710:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 711:
+ The correct answer is D(Explanation is not required)
+
+prompt 712:
+ The correct answer is **B) Switch** 
+(Explanation is not required)
+
+prompt 713:
+ The correct answer is **C** (Adding additional 10 Gbps interfaces). 
+Expansion ports in Nexus 5000 switches provide additional 10 Gbps network connections, allowing for increased port density and network expansion.
+
+prompt 714:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 715:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 716:
+ The correct answer is B (Explanation is not required)
+
+prompt 717:
+ The correct answer is **A) The speed of the router's processor** (Explanation is not required)
+
+prompt 718:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 719:
+ The correct answer is **C) Ultra-WideBand (UWB) communication.** (Explanation is not required)
+
+prompt 720:
+ The correct answer is **A** (Explanation is not required).
+
+TCP/IP operates at the Network and Transport layers of the OSI model, responsible for reliable data transfer and routing packets between network devices.
+
+prompt 721:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 722:
+ The correct answer is A) Packet Sniffer.
+Explanation is not required.
+
+prompt 723:
+ The correct answer is **C) Point-to-multipoint routing** (Explanation is not required)
+
+prompt 724:
+ The correct answer is A. (Explanation is not required)
+
+prompt 725:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 726:
+ The correct answer is **D** (Incremental backup)
+Explanation is not required
+
+prompt 727:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 728:
+ The correct answer is A (Explanation is not required)
+
+prompt 729:
+ The correct answer is A) show metric rip (Explanation is not required)
+
+prompt 730:
+ The correct answer is C (Explanation is not required)
+
+prompt 731:
+ The correct answer is A) Local Area Network (LAN)
+Explanation is not required
+
+prompt 732:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 733:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 734:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 735:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 736:
+ The correct answer is D. Adaptive modulation and coding. 
+(Explanation: HSDPA introduces adaptive modulation and coding to adjust the data rate based on the signal strength and quality, resulting in increased data transfer speeds.)
+
+prompt 737:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 738:
+ The correct answer is D.
+
+Explanation: Jitter refers to unwanted variation in end-to-end delay in data transmission, causing disruptions in communication and affecting the performance of network applications.
+
+prompt 739:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 740:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 741:
+ The correct answer is B (Explanation is not required)
+
+prompt 742:
+ The correct answer is **C** (Visible degradation in image quality).
+
+In real-time video transmission, visible degradation in image quality is a primary concern that must be balanced with the compression ratio. Lossy compression inevitably leads to some degree of visual quality degradation, which must be acceptable for the application.
+
+prompt 743:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 744:
+ The correct answer is **A) IEEE 802.22** (Explanation is not required)
+
+prompt 745:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 746:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 747:
+ The correct answer is C (Explanation is not required)
+
+prompt 748:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 749:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 750:
+ The correct answer is D) Dual Stack Protocol (Explanation is not required)
+
+prompt 751:
+ The correct answer is C) AMC (Adaptive Modulation and Coding)
+Explanation is not required
+
+prompt 752:
+ The correct answer is B (Explanation is not required)
+
+prompt 753:
+ The correct answer is **C) The transfer of packets across many networks.** 
+(The textbook material emphasizes the packet-switching approach of the Internet architecture, where data is broken into packets and transmitted independently across multiple networks.)
+
+prompt 754:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 755:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 756:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 757:
+ The correct answer is B (Explanation is not required)
+
+prompt 758:
+ The correct answer is A (Explanation is not required)
+
+prompt 759:
+ The correct answer is D (Explanation is not required)
+
+prompt 760:
+ The correct answer is **C) Establish state** (Explanation is not required)
+
+prompt 761:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 762:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 763:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 764:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 765:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 766:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 767:
+ The correct answer is A (Explanation is not required)
+
+prompt 768:
+ The correct answer is A) It retrieves the document identified in URL.
+(Explanation is not required)
+
+prompt 769:
+ The correct answer is D (Explanation is not required)
+
+prompt 770:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 771:
+ The correct answer is **C) Random Early Detection (RED) algorithm.** 
+RED is one of the most widely used AQM algorithms due to its simplicity, effectiveness, and scalability in various network conditions.
+
+prompt 772:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 773:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 774:
+ The correct answer is **B) Mail delivery agent (MDA)**
+(Explanation is not required)
+
+prompt 775:
+ The correct answer is A (RSA public and private keys).
+
+RSA keys are not used in the first exchange of messages during the first phase of IKE to establish a bi-directional IKE SA.
+
+prompt 776:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 777:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 778:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 779:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 780:
+ The correct answer is **B** (Compression).
+
+IPsec does not provide compression as a security property.
+
+prompt 781:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 782:
+ The correct answer is **D) Network Function Virtualization (NFV)**
+(Explanation is not required)
+
+prompt 783:
+ The correct answer is B (Explanation is not required)
+
+prompt 784:
+ The correct answer is A) Systems methodology (Explanation is not required)
+
+prompt 785:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 786:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 787:
+ The correct answer is D. (TDMA and CDMA)
+Explanation is not required.
+
+prompt 788:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 789:
+ The correct answer is **B** (Explanation is not required).
+
+When the Address field in a PPP frame is set to the binary value "11111111", it signifies an error in the frame.
+
+prompt 790:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 791:
+ The correct answer is **D) Media access control (MAC) address table** (Explanation is not required)
+
+prompt 792:
+ The correct answer is B (Explanation is not required)
+
+prompt 793:
+ The correct answer is D (Explanation is not required).
+
+prompt 794:
+ The correct answer is **A) Slot number** (Explanation is not required)
+
+prompt 795:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 796:
+ The correct answer is **B) AAL3/4**
+(Explanation is not required)
+
+prompt 797:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 798:
+ The correct answer is **A) 64B/66B block coding.** (Explanation is not required)
+
+prompt 799:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 800:
+ The correct answer is D) 8
+Explanation is not required
+
+prompt 801:
+ The correct answer is D) Messages and Segments
+Explanation is not required
+
+prompt 802:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 803:
+ The correct answer is C (Explanation is not required)
+
+prompt 804:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 805:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 806:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 807:
+ The correct answer is **B** (Collisions).
+CSMA/CD primarily prevents collisions by ensuring that only one device transmits on the network at any given time.
+
+prompt 808:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 809:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 810:
+ The correct answer is C (Explanation is not required)
+
+prompt 811:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 812:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 813:
+ The correct answer is D) 2.400 GHz to 2.4835 GHz (Explanation is not required)
+
+prompt 814:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 815:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 816:
+ The correct answer is D (Explanation is not required)
+
+prompt 817:
+ The correct answer is C (Explanation is not required)
+
+prompt 818:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 819:
+ The correct answer is A (Explanation is not required)
+
+prompt 820:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 821:
+ The correct answer is **B** (Scintillation and depolarization).
+
+Scintillation and depolarization caused by atmospheric refractive index variations lead to signal distortion in a clear-sky channel.
+
+prompt 822:
+ The correct answer is A (Explanation is not required)
+
+prompt 823:
+ The correct answer is A (Explanation is not required)
+
+prompt 824:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 825:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 826:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 827:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 828:
+ The correct answer is B (Explanation is not required)
+
+prompt 829:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 830:
+ The correct answer is A) MAC of all handshake messages
+(Explanation is not required)
+
+prompt 831:
+ The correct answer is **C) Fixed-length labels** 
+(Explanation is not required)
+
+prompt 832:
+ The correct answer is D (Explanation is not required)
+
+prompt 833:
+ The correct answer is D) Hexadecimal with colon separators (Explanation is not required)
+
+prompt 834:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 835:
+ The correct answer is A (Explanation is not required)
+
+prompt 836:
+ The correct answer is B (Explanation is not required)
+
+prompt 837:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 838:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 839:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 840:
+ The correct answer is D (Run-length coding combined with Huffman coding).
+Explanation is not required.
+
+prompt 841:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 842:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 843:
+ The correct answer is D (Preemphasis)
+Preemphasis is a deterrent used to prevent numerical processing errors in lowpass nature speech signals by boosting the high-frequency energy prior to processing, thereby reducing the effect of quantization errors in the low-frequency region.
+
+prompt 844:
+ The correct answer is A) Absorption by water.
+
+Explanation is not required.
+
+prompt 845:
+ The correct answer is B) DOCSIS (Digital Optical Convergence Interface System). 
+DOCSIS is the technology primarily used by cable modems to provide high-speed internet connectivity over coaxial cables.
+
+prompt 846:
+ The correct answer is **C** (Explanation is not required).
+
+TKIP is responsible for exchanging pair-wise keys in WPA, which is essential for encrypting data traffic between wireless devices and the access point.
+
+prompt 847:
+ The correct answer is A (Explanation is not required)
+
+prompt 848:
+ The correct answer is **Fast Ethernet** (Explanation is not required)
+
+prompt 849:
+ The correct answer is **B) Packet Switching**
+
+PNNI routing technique adopts packet switching philosophy, making it scalable for both small and large networks with thousands of nodes.
+
+prompt 850:
+ The correct answer is **D** (Peer-to-Peer Paradigm)
+Explanation is not required
+
+prompt 851:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 852:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 853:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 854:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 855:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 856:
+ The correct answer is B) CSU/DSU (Customer-premises concentrator/Data service unit). 
+Explanation: In a T1 communication system, the CSU/DSU is directly connected to the data port and provides line termination, voltage conversion, and other functions to enable the connection to the telecommunication network.
+
+prompt 857:
+ The correct answer is **A) BGP**
+(Explanation is not required)
+
+prompt 858:
+ The correct answer is **C** (First Come First Serve).
+
+In a P2P file distribution, Alice uses the First Come First Serve (FCFS) strategy to decide which requests she should respond to. This means she responds to requests in the order they are received.
+
+prompt 859:
+ The correct answer is C (Explanation is not required)
+
+prompt 860:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 861:
+ The correct answer is D (Explanation is not required)
+
+prompt 862:
+ The correct answer is B) Client
+Explanation is not required
+
+prompt 863:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 864:
+ The correct answer is A (Explanation is not required)
+
+prompt 865:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 866:
+ The correct answer is C (Explanation is not required)
+
+prompt 867:
+ The correct answer is **C) A piconet**
+(Explanation is not required)
+
+prompt 868:
+ The correct answer is **C** (Explanation is not required)
+
+UDP offers minimal transport services and is unreliable as it does not provide mechanisms for reliable data transfer, sequence numbering, or congestion control.
+
+prompt 869:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 870:
+ The correct answer is **A)** (Balancing state information, optimization, and complexity).
+
+The SOS theorem deals with the problem of balancing state information, optimization, and complexity in control plane design.
+
+prompt 871:
+ The correct answer is **C) Expected Rate and Actual Rate** (Explanation is not required)
+
+prompt 872:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 873:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 874:
+ The correct answer is C) 512 bytes (Explanation is not required)
+
+prompt 875:
+ The correct answer is D) 16 subnets
+
+prompt 876:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 877:
+ The correct answer is A (Explanation is not required)
+
+prompt 878:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 879:
+ The correct answer is C) Name, Value, Type, Time to Live (Explanation is not required)
+
+prompt 880:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 881:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 882:
+ The correct answer is CDP (Cisco Discovery Protocol)
+(Explanation is not required)
+
+prompt 883:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 884:
+ The correct answer is **B** (Explanation is not required).
+
+prompt 885:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 886:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 887:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 888:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 889:
+ The correct answer is **A) Energy-Centric Routing** (Explanation is not required)
+
+prompt 890:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 891:
+ The correct answer is **C** (Support for arbitrarily small messages).
+
+Transport protocols typically handle larger units of data (packets or frames) rather than arbitrarily small messages.
+
+prompt 892:
+ The correct answer is D) Reliability. 
+Reliability measures the ability of a network to perform its intended functions consistently over time.
+
+prompt 893:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 894:
+ The correct answer is B) Buffering
+(Explanation is not required)
+
+prompt 895:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 896:
+ The correct answer is D (Explanation is not required)
+
+prompt 897:
+ The correct answer is **C** (Explanation is not required).
+
+The Structural elements of the Domain Name System (DNS) are The Root, Top-Level Domains, Domain Names, and IP Addresses.
+
+prompt 898:
+ The correct answer is D(Explanation is not required)
+
+prompt 899:
+ The correct answer is **B** (Explanation is not required).
+
+Multihoming in SCTP enables the association to remain active even if some network paths fail, ensuring continuous data transfer. This feature enhances the reliability and resilience of SCTP compared to TCP and UDP, which are not designed for multihoming.
+
+prompt 900:
+ The correct answer is D) The higher the satellite, the longer its orbital period.
+
+Explanation is not required.
+
+prompt 901:
+ The correct answer is **B** (Reduction in complexity).
+
+Overlays reduce the amount of state information in the network by simplifying the network representation and reducing the number of states that need to be tracked.
+
+prompt 902:
+ The correct answer is B (Explanation is not required)
+
+prompt 903:
+ The correct answer is **B) Distributed computing**
+(Explanation is not required)
+
+prompt 904:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 905:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 906:
+ The correct answer is D (Pulse Position Modulation (PPM)).
+Explanation is not required.
+
+prompt 907:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 908:
+ The correct answer is **A) Physical and MAC addresses** (Explanation is not required)
+
+prompt 909:
+ The correct answer is **B** (Explanation is not required).
+
+The Frame Status (FS) field in an FDDI frame indicates whether the frame was recognized and copied by the destination.
+
+prompt 910:
+ The correct answer is D) Ciphertext-only problem(Explanation is not required)
+
+prompt 911:
+ The correct answer is D) Long-wavelength (1310 nm) over single-mode fiber.
+
+Explanation is not required.
+
+prompt 912:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 913:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 914:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 915:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 916:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 917:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 918:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 919:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 920:
+ The correct answer is **D) The ALOHA protocol** (Explanation is not required)
+
+prompt 921:
+ The correct answer is **A) One-to-many alias expansion** (Explanation is not required)
+
+prompt 922:
+ The correct answer is **B)** (Explanation is not required)
+
+prompt 923:
+ The correct answer is D (Explanation is not required)
+
+prompt 924:
+ The correct answer is **C) Polling systems**
+(Explanation is not required)
+
+prompt 925:
+ The correct answer is D) 3G (Explanation is not required)
+
+prompt 926:
+ The correct answer is **C** (Explanation is not required).
+
+X.509 certificates provide a binding between an identity and public key in a public key infrastructure.
+
+prompt 927:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 928:
+ The correct answer is A) It ensures data splitting across multiple networks. 
+Framing in DS3 networks helps ensure that data is split across multiple networks, allowing for redundancy and improved fault tolerance.
+
+prompt 929:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 930:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 931:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 932:
+ The correct answer is **D) Transport Layer** (Explanation is not required)
+
+prompt 933:
+ The correct answer is A (Explanation is not required)
+
+prompt 934:
+ The correct answer is A (Explanation is not required)
+
+prompt 935:
+ The correct answer is **B** (Explanation is not required).
+
+An ICMP "packet too big" message in IPv6 is sent when a router encounters a packet that exceeds the maximum transmission unit (MTU) for the next hop on the route.
+
+prompt 936:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 937:
+ The correct answer is C) 16 active ports (Explanation is not required)
+
+prompt 938:
+ The correct answer is **B** (Explanation is not required).
+
+Switches can handle data collisions better than hubs by learning the MAC addresses of connected devices and forwarding data frames only to the intended recipient, reducing network congestion.
+
+prompt 939:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 940:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 941:
+ The correct answer is **C) Cell Global Identity** (CGI). 
+Explanation: CGI is used to uniquely identify a mobile station within a GSM network and is essential for setting a call as it allows the network to locate the mobile station and establish a connection.
+
+prompt 942:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 943:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 944:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 945:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 946:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 947:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 948:
+ The correct answer is D (Incremental). 
+Incremental backups in Windows 2000 do not clear the archive attribute of files, making them useful for backups performed between other backup operations.
+
+prompt 949:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 950:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 951:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 952:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 953:
+ The correct answer is D (Explanation is not required)
+
+prompt 954:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 955:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 956:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 957:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 958:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 959:
+ The correct answer is **A) SMDS** (Explanation is not required)
+
+prompt 960:
+ The correct answer is D (Explanation is not required)
+
+prompt 961:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 962:
+ The correct answer is A) In-phase and quadrature-phase components (Explanation is not required)
+
+prompt 963:
+ The correct answer is **C) Communication with destination administratively prohibited (Type 1, Code 1)**(Explanation is not required)
+
+prompt 964:
+ The correct answer is A (Explanation is not required)
+
+prompt 965:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 966:
+ The correct answer is **B)** (Explanation is not required)
+
+prompt 967:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 968:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 969:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 970:
+ The correct answer is **C) Base Station Subsystem (BSS)**
+(Explanation is not required)
+
+prompt 971:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 972:
+ The correct answer is B) The roles of different network protocols. 
+Manipulability allows network engineers to modify network behavior in controlled ways to isolate and identify the root cause of network issues by pinpointing which protocol is responsible for the problem.
+
+prompt 973:
+ The correct answer is D) Proxy Server Layer (Explanation is not required)
+
+prompt 974:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 975:
+ The correct answer is RR frame
+(Explanation is not required)
+
+prompt 976:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 977:
+ The correct answer is **B)** (Explanation is not required)
+
+prompt 978:
+ The correct answer is **D) Variable Bit Rate (VBR)**
+(Explanation is not required)
+
+prompt 979:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 980:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 981:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 982:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 983:
+ The correct answer is B) SHA-256(Explanation is not required)
+
+prompt 984:
+ The correct answer is **C) HTTP** (Explanation is not required)
+
+prompt 985:
+ The correct answer is **B** (Explanation is not required).
+
+HEC is primarily used to correct single errors and detect multiple errors in the header.
+
+prompt 986:
+ The correct answer is D (Implicit data routing).
+WWAN implementations do not typically involve implicit data routing.
+
+prompt 987:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 988:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 989:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 990:
+ The correct answer is **A) 10BASE-T** (Explanation is not required)
+
+prompt 991:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 992:
+ The correct answer is B (Configuring the data link layers for transmission).
+
+Data link layer configuration is not a phase in establishing a secure dialogue in the context of cryptographic protection systems.
+
+prompt 993:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 994:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 995:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 996:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 997:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 998:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 999:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1000:
+ The correct answer is **D** (Explanation is not required).
+
+prompt 1001:
+ The correct answer is B) 7 DS3s
+(Explanation is not required)
+
+prompt 1002:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1003:
+ The correct answer is **C** (Errors can cause more significant impairments in compressed data due to reduced redundancy).
+
+Compressed data has less redundancy, which means that even a small error can have a larger impact on the overall data integrity.
+
+prompt 1004:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1005:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1006:
+ The correct answer is **D** (Transmission Control Protocol (TCP))(Explanation is not required)
+
+prompt 1007:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1008:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1009:
+ The correct answer is D. (Explanation is not required)
+
+prompt 1010:
+ The correct answer is **D** (Coordinating packet synchronization with event frequency).
+
+Precise time synchronization is crucial for in-network data aggregation in WSNs to ensure that sensor readings are sampled and aggregated at the same time, capturing the true underlying phenomenon. Coordinating packet synchronization with the event frequency is essential to ensure that the aggregated data accurately reflects the event being monitored.
+
+prompt 1011:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1012:
+ The correct answer is **B) Get, Set, and Trap** (Explanation is not required)
+
+prompt 1013:
+ The correct answer is **D) FMIPv6** (Fast Mobile IPv6).
+FMIPv6 offers fast IP connectivity as soon as a new link is established, making it suitable for rapidly changing mobile environments.
+
+prompt 1014:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1015:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1016:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1017:
+ The correct answer is A (Explanation is not required)
+
+prompt 1018:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1019:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1020:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1021:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1022:
+ The correct answer is D (Explanation is not required)
+
+prompt 1023:
+ The correct answer is D) SLAAC (Explanation is not required)
+
+prompt 1024:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1025:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1026:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1027:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1028:
+ The correct answer is A) The address field normally contains the "all 1s" address. 
+Explanation is not required.
+
+prompt 1029:
+ The correct answer is A) SIP (Explanation is not required)
+
+prompt 1030:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1031:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1032:
+ The correct answer is **D** (Renegotiation of classes of service in case of admission control failure).
+COPS-SLS protocol adds the ability to renegotiate the class of service in case of admission control failure, providing more flexibility in network congestion situations.
+
+prompt 1033:
+ The correct answer is **A) Single-mode fiber** (Explanation is not required)
+
+prompt 1034:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1035:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1036:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1037:
+ The correct answer is AH and ESP (Explanation is not required)
+
+prompt 1038:
+ The correct answer is D (Losses are usually due to network congestion rather than errors).
+
+TCP congestion control assumes that segment losses are primarily caused by network congestion rather than receiver errors or other network-related factors.
+
+prompt 1039:
+ The correct answer is **B** (Packet-Too-Big Message)
+Explanation is not required.
+
+prompt 1040:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1041:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1042:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1043:
+ The correct answer is A (Explanation is not required)
+
+prompt 1044:
+ The correct answer is **A) Cumulative acknowledgment.** 
+(Explanation is not required)
+
+prompt 1045:
+ The correct answer is **D) MAC protocols** (Explanation is not required)
+
+prompt 1046:
+ The correct answer is B (Explanation is not required)
+
+prompt 1047:
+ The correct answer is A (Explanation is not required)
+
+prompt 1048:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1049:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1050:
+ The correct answer is **D** (Frequency reuse and handoff). 
+Explanation: Frequency reuse and handoff techniques allowed multiple users to share the same radio channel in different locations, enabling cellular communication in the first cellular system introduced by Bell Labs.
+
+prompt 1051:
+ The correct answer is **C) Web-crawlers** (Explanation is not required)
+
+prompt 1052:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1053:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1054:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1055:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1056:
+ The correct answer is B) Split horizon.
+Explanation: Split horizon is a mechanism used in RIP to prevent counting to infinity by limiting the number of neighboring routers that a router advertises to in its routing table.
+
+prompt 1057:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1058:
+ The correct answer is **B) DHCP** 
+(Explanation is not required)
+
+prompt 1059:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1060:
+ The correct answer is **A) Confidentiality, Data integrity, Client and Server Authentication** 
+(Explanation is not required)
+
+prompt 1061:
+ The correct answer is **C) Data Link Layer** 
+(Explanation is not required)
+
+prompt 1062:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1063:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1064:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1065:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1066:
+ The correct answer is D (Encapsulating multiple network protocols)
+
+LCP is primarily responsible for link establishment, configuration, and termination in PPP. It does not encapsulate multiple network protocols.
+
+prompt 1067:
+ The correct answer is B (Explanation is not required)
+
+prompt 1068:
+ The correct answer is C) RADIUS server
+(Explanation is not required)
+
+prompt 1069:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1070:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1071:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1072:
+ The correct answer is C) TCP (Explanation is not required)
+
+prompt 1073:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1074:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1075:
+ The correct answer is **C** (Security threats)
+(Explanation is not required)
+
+prompt 1076:
+ The correct answer is **C** (It is a concatenated signal used to accommodate higher bit rates than a standard STS-n signal).
+
+In SONET, the "c" appended to an STS-n signal indicates that it is a concatenated signal, which combines multiple STS-n signals to create a higher-capacity data stream.
+
+prompt 1077:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1078:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1079:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1080:
+ The correct answer is D (Explanation is not required)
+
+prompt 1081:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1082:
+ The correct answer is D (Explanation is not required)
+
+prompt 1083:
+ The correct answer is D) Terminal Net Login (Explanation is not required)
+
+prompt 1084:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1085:
+ The correct answer is **B** (Redirect)
+(Explanation is not required)
+
+prompt 1086:
+ The correct answer is **B) Transform coding** (Explanation is not required)
+
+prompt 1087:
+ The correct answer is B (Explanation is not required)
+
+prompt 1088:
+ The correct answer is B (Encrypt data packets for secure data transmission).
+
+WAP does not include encryption capabilities for data packets.
+
+prompt 1089:
+ The correct answer is D (Encrypting data packets for secure transmission).
+
+DHCP does not encrypt data packets for secure transmission.
+
+prompt 1090:
+ The correct answer is D (Using TCP congestion control to manage power).
+
+TCP congestion control is used to manage network congestion, not power management in 802.11 networks.
+
+prompt 1091:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1092:
+ The correct answer is D) Establish a theory of probable cause (Explanation is not required)
+
+prompt 1093:
+ The correct answer is **B) Merge checks**
+(Explanation is not required)
+
+prompt 1094:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1095:
+ The correct answer is D(Explanation is not required)
+
+prompt 1096:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1097:
+ The correct answer is **A) 802.16-2004** 
+(Explanation is not required)
+
+prompt 1098:
+ The correct answer is **C** (Explanation is not required).
+
+Error detection is the process of adding redundant information to the data that allows for detection of errors during data transmission.
+
+prompt 1099:
+ The correct answer is D) RJ-45 (Explanation is not required)
+
+prompt 1100:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1101:
+ The correct answer is **D) telephony-service system message GAD Technology** (Explanation is not required)
+
+prompt 1102:
+ The correct answer is **B) Digital cross-connect (DCC) systems** 
+(Explanation is not required)
+
+prompt 1103:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1104:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1105:
+ The correct answer is A (Explanation is not required)
+
+prompt 1106:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1107:
+ The correct answer is A) 255.255.255.224 (Explanation is not required)
+
+prompt 1108:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1109:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1110:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1111:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1112:
+ The correct answer is **C** (Bursty and asynchronous data applications)
+
+Explanation: The AAL1 PDU structure with its clock recovery and sequence numbering fields is best suited for bursty and asynchronous data applications where the data arrives in packets of varying sizes and at irregular intervals.
+
+prompt 1113:
+ The correct answer is **D) Point-to-point and point-to-multipoint connections** 
+(Explanation is not required)
+
+prompt 1114:
+ The correct answer is **D) TCP (Transmission Control Protocol)** (Explanation is not required)
+
+prompt 1115:
+ The correct answer is A (Explanation is not required)
+
+prompt 1116:
+ The correct answer is **C** (Explanation is not required).
+
+Partial and incremental SPF allows for efficient updates to the shortest path tree without having to recalculate the entire tree when only a part of the network or a few edge weights have changed.
+
+prompt 1117:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1118:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1119:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1120:
+ The correct answer is B (Explanation is not required)
+
+prompt 1121:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1122:
+ The correct answer is **C) Virtual Path**
+(Explanation is not required)
+
+prompt 1123:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1124:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1125:
+ The correct answer is **D** (Creating a dual-homed network).
+Explanation: Creating a dual-homed network ensures that if one hub router fails, traffic can still flow through the other hub router, enhancing resilience and preventing a single point of failure in the hub-and-spoke topology.
+
+prompt 1126:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1127:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1128:
+ The correct answer is **C)** Software-Defined Wide Area Networking; SD-WAN allows traffic over the Internet with the features of MPLS and high security.
+
+SD-WAN virtualizes the WAN, enabling centralized policy management and automated provisioning across multiple connections, including the public internet.
+
+prompt 1129:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1130:
+ The correct answer is D (Explanation is not required)
+
+prompt 1131:
+ The correct answer is **D** (Distinction between services, interfaces, and protocols).
+
+The OSI reference model emphasizes the separation of service from the underlying implementation details, aligning with object-oriented principles of abstraction and encapsulation.
+
+prompt 1132:
+ The correct answer is D (Explanation is not required)
+
+prompt 1133:
+ The correct answer is C) Transparent mode
+(Explanation is not required)
+
+prompt 1134:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1135:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1136:
+ The correct answer is A) SMTP (Simple Mail Transfer Protocol)
+(Explanation is not required)
+
+prompt 1137:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1138:
+ The correct answer is B (Explanation is not required)
+
+prompt 1139:
+ The correct answer is **A** (Explanation is not required). 
+TCP sockets in Python are connection-oriented, while UDP sockets are connectionless.
+
+prompt 1140:
+ The provided text does not contain any information regarding Kalpana Corporation or the marketing of switches, so I am unable to answer this question from the given context.
+
+prompt 1141:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1142:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1143:
+ The correct answer is **B) Authoritative DNS servers** (Explanation is not required)
+
+prompt 1144:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1145:
+ The correct answer is **B) VDSL** (Explanation is not required)
+
+prompt 1146:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1147:
+ The correct answer is **A) Supernetting** 
+(Explanation is not required)
+
+prompt 1148:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1149:
+ The correct answer is **C** (Explanation is not required).
+
+Connect() method is used to establish a TCP connection between the client and server by initiating the connection process.
+
+prompt 1150:
+ The correct answer is C) AAA System
+(Explanation is not required)
+
+prompt 1151:
+ The correct answer is **D) Real-time variable bit rate (rt-VBR)** 
+(Explanation is not required)
+
+prompt 1152:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1153:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1154:
+ The correct answer is A) The console will show an UNREGISTER_ABNORMAL?message (Explanation is not required)
+
+prompt 1155:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1156:
+ The correct answer is **A** (Explanation is not required).
+
+The Network Layer is responsible for controlling the operation of the subnet and handling routing of packets between devices on the network.
+
+prompt 1157:
+ The correct answer is **C) Decision Plane** (Explanation is not required)
+
+prompt 1158:
+ The correct answer is **C** (Explanation is not required).
+
+prompt 1159:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1160:
+ The correct answer is **D) Neighbor Protocol (NP)**
+Explanation is not required.
+
+prompt 1161:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1162:
+ The correct answer is **D) CAT6** (Explanation is not required)
+
+prompt 1163:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1164:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1165:
+ The correct answer is **D** (Router authentication).(Explanation is not required)
+
+prompt 1166:
+ The correct answer is **C) Sliding window mechanism** (Explanation is not required)
+
+prompt 1167:
+ The correct answer is A (Explanation is not required)
+
+prompt 1168:
+ The correct answer is B (Explanation is not required)
+
+prompt 1169:
+ The correct answer is A (Explanation is not required)
+
+prompt 1170:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1171:
+ The correct answer is D (Explanation is not required)
+
+prompt 1172:
+ The correct answer is A) The packet is forwarded by default. 
+Explanation: When a flow table entry with no specified action matches a packet in OpenFlow networking, the packet is forwarded by default to the next hop as specified in the network's routing table.
+
+prompt 1173:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1174:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1175:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1176:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1177:
+ The correct answer is D) SHA-1
+(Explanation is not required)
+
+prompt 1178:
+ The correct answer is D (Explanation is not required)
+
+prompt 1179:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1180:
+ The correct answer is **A) Source Quench** (Explanation is not required)
+
+prompt 1181:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1182:
+ The correct answer is C) UDP on port 53 (Explanation is not required)
+
+prompt 1183:
+ The correct answer is B (Explanation is not required)
+
+prompt 1184:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1185:
+ The correct answer is tasklet_schedule()
+(Explanation is not required)
+
+prompt 1186:
+ The correct answer is D (Explanation is not required)
+
+prompt 1187:
+ The correct answer is **B) Non-promiscuous mode** (Explanation is not required)
+
+prompt 1188:
+ The correct answer is **B) recvfrom()** (Explanation is not required)
+
+prompt 1189:
+ The correct answer is **D) IP address, Default Gateway, and Subnet Mask** (Explanation is not required)
+
+prompt 1190:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1191:
+ The correct answer is C (Explanation is not required)
+
+prompt 1192:
+ The correct answer is **B) 8B/10B** (Explanation is not required)
+
+prompt 1193:
+ The correct answer is **A) Slotted Seeded Channel Hopping** 
+(Explanation is not required)
+
+prompt 1194:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1195:
+ The correct answer is C) Quality of service (QoS) policies.
+(Explanation is not required)
+
+prompt 1196:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1197:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1198:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1199:
+ The correct answer is **D) Session Layer**
+(Explanation is not required)
+
+prompt 1200:
+ The correct answer is PCS 1900 (Explanation is not required)
+
+prompt 1201:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1202:
+ The correct answer is D) TLS (Explanation is not required)
+
+prompt 1203:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1204:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1205:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1206:
+ The correct answer is D (Explanation is not required)
+
+prompt 1207:
+ The correct answer is B) DNSSEC (Explanation is not required)
+
+prompt 1208:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1209:
+ The correct answer is **D) TCP or UDP Header** (Explanation is not required)
+
+prompt 1210:
+ The correct answer is B (Explanation is not required)
+
+prompt 1211:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1212:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1213:
+ The correct answer is A (Explanation is not required)
+
+prompt 1214:
+ The correct answer is **A) Message delivery guarantees.**
+Explanation: The transport protocol ensures reliable delivery of data packets between applications over a network by providing mechanisms to detect and recover from packet losses, duplicates, and out-of-order deliveries.
+
+prompt 1215:
+ The correct answer is A) Get (Explanation is not required)
+
+prompt 1216:
+ The correct answer is B (Explanation is not required)
+
+prompt 1217:
+ The correct answer is C (Explanation is not required)
+
+prompt 1218:
+ The correct answer is B) Digital signatures.
+(Explanation is not required)
+
+prompt 1219:
+ The correct answer is **D** (Orthogonal Frequency Division Multiple Access (OFDMA)).
+
+OFDMA is the primary technique used in the IEEE 802.16 WiMAX standard for bandwidth allocation and QoS provisioning by providing spatial reuse of frequency resources through orthogonal frequency division.
+
+prompt 1220:
+ The correct answer is B (Explanation is not required)
+
+prompt 1221:
+ The correct answer is **B** (Explanation is not required).
+
+In flat routing protocols, all nodes in the network participate in routing and exchange routing information with their neighbors.
+
+prompt 1222:
+ The correct answer is D (Explanation is not required)
+
+prompt 1223:
+ The correct answer is **A) Limited address space** (Explanation is not required)
+
+prompt 1224:
+ The correct answer is **C) Contention-based protocols** (Explanation is not required)
+
+prompt 1225:
+ The correct answer is B) 172.32.15.5 (Explanation is not required)
+
+prompt 1226:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1227:
+ The correct answer is **C) Open Shortest Path First (OSPF)**
+Explanation is not required.
+
+prompt 1228:
+ The correct answer is D (Explanation is not required)
+
+prompt 1229:
+ The correct answer is A (Explanation is not required)
+
+prompt 1230:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1231:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1232:
+ The correct answer is C) MTTR (Mean Time To Repair). 
+MTTR measures the average time between human errors that impact network performance.
+
+prompt 1233:
+ The correct answer is D) GMSK (Explanation is not required)
+
+prompt 1234:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1235:
+ The correct answer is A (Explanation is not required)
+
+prompt 1236:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1237:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1238:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1239:
+ The correct answer is **A) Event-driven sensing applications** (Explanation is not required)
+
+prompt 1240:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1241:
+ The correct answer is D) Code-Emulated Linear Pulses (Explanation is not required)
+
+prompt 1242:
+ The correct answer is C (Explanation is not required)
+
+prompt 1243:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1244:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1245:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1246:
+ The correct answer is A (Explanation is not required)
+
+prompt 1247:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1248:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1249:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1250:
+ The correct answer is A) The traffic to which it is subjected. (Explanation is not required)
+
+prompt 1251:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1252:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1253:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1254:
+ The correct answer is C) Route preference ordering. 
+Explanation is not required.
+
+prompt 1255:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1256:
+ The correct answer is B) TKIP (Transmission Key Integrity Protocol)
+Explanation is not required
+
+prompt 1257:
+ The correct answer is **A) Overview of wireless access infrastructure** (Explanation is not required)
+
+prompt 1258:
+ The correct answer is **B** (Confidentiality, data integrity, and source authentication). 
+IPsec provides confidentiality of the data being transmitted, ensures that the data has not been tampered with in transit, and verifies the identity of the sender and receiver.
+
+prompt 1259:
+ The correct answer is D (Explanation is not required)
+
+prompt 1260:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1261:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1262:
+ The correct answer is **A** (Explanation is not required).
+
+**Explanation:**
+The continuous or slotted time assumption in dynamic channel allocation simplifies the channel allocation process by treating time as either continuous or slotted. This allows for efficient utilization of the channel by enabling frame transmission at any moment or dividing time into discrete intervals for better performance.
+
+prompt 1263:
+ The correct answer is A (Explanation is not required)
+
+prompt 1264:
+ The correct answer is **B) Signaling and Service Negotiation (SSN)** 
+(Explanation is not required)
+
+prompt 1265:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1266:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1267:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1268:
+ The correct answer is D (Explanation is not required)
+
+prompt 1269:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1270:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1271:
+ The correct answer is B (Explanation is not required)
+
+prompt 1272:
+ The correct answer is A) Shaper, Scheduler, and Classifier (Explanation is not required)
+
+prompt 1273:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1274:
+ The correct answer is A) Forwarding 
+(Explanation is not required)
+
+prompt 1275:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1276:
+ The correct answer is **C) L2CAP** 
+(Explanation is not required)
+
+prompt 1277:
+ The correct answer is D(Quadrature Amplitude Modulation (QAM)) 
+Explanation is not required
+
+prompt 1278:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1279:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1280:
+ The correct answer is **B) Network Address Translation** (Explanation is not required)
+
+prompt 1281:
+ The correct answer is C (Explanation is not required)
+
+prompt 1282:
+ The correct answer is **C) Variable encryption rate (VER)**.
+
+ATM does not provide a variable encryption rate (VER) service model.
+
+prompt 1283:
+ The correct answer is C) Three (Explanation is not required)
+
+prompt 1284:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1285:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1286:
+ The correct answer is A) TCP (Explanation is not required)
+
+prompt 1287:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1288:
+ The correct answer is B (Explanation is not required)
+
+prompt 1289:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1290:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1291:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1292:
+ The correct answer is **D) Broadcast Channel (BCH)**
+(Explanation is not required)
+
+prompt 1293:
+ The correct answer is A) Forward Error Correction (FEC)
+(Explanation is not required)
+
+prompt 1294:
+ The correct answer is **C** (Making an early forwarding decision).
+
+PDCP is responsible for packet data convergence, which includes segmentation, reassembly, compression, and encryption/decryption. It does not involve making forwarding decisions.
+
+prompt 1295:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1296:
+ The correct answer is C) Amplitude Shift Keying (ASK)
+(Explanation is not required)
+
+prompt 1297:
+ The correct answer is **B) Orthogonal Frequency Division Multiplexing (OFDM)** 
+(Explanation is not required)
+
+prompt 1298:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1299:
+ The correct answer is B (Explanation is not required)
+
+prompt 1300:
+ The correct answer is **A) A framework for comprehensive network management.**
+
+FCAPS stands for Framework for Comprehensive Network Performance and Service management, and it provides a systematic approach to network management by dividing the process into five distinct functions: Fault management, Configuration management, Accounting management, Performance management, and Service management.
+
+prompt 1301:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1302:
+ The correct answer is D) Carrier Sense Multiple Access with Collision Avoidance (Explanation is not required)
+
+prompt 1303:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1304:
+ The correct answer is **B) Variable bit rate-real-time (VBR-rt)**.
+(Explanation is not required)
+
+prompt 1305:
+ The correct answer is B) Spectral efficiency.
+(Explanation is not required)
+
+prompt 1306:
+ The correct answer is A (Explanation is not required)
+
+prompt 1307:
+ The correct answer is C (Explanation is not required)
+
+prompt 1308:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1309:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1310:
+ The correct answer is A) WPA1
+(Explanation is not required)
+
+prompt 1311:
+ The correct answer is B) A group of routers under a single administrative control.
+Explanation is not required.
+
+prompt 1312:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1313:
+ The correct answer is **C) Both Master and Slave devices** (Explanation is not required)
+
+prompt 1314:
+ The correct answer is **C) Travel booking websites.**
+
+Travel booking websites have significantly benefited the tourism and travel industries by offering online reservation services for flights, hotels, and other travel arrangements.
+
+prompt 1315:
+ The correct answer is **D) The RFcomm protocol.** 
+RFcomm protocol in the Bluetooth Protocol Stack emulates the standard serial port found on PCs.
+
+prompt 1316:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1317:
+ The correct answer is **D) Centralized**
+(Explanation is not required)
+
+prompt 1318:
+ The correct answer is **B) From DS** (Explanation is not required)
+
+prompt 1319:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1320:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1321:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1322:
+ The correct answer is A) Flow Label (Explanation is not required)
+
+prompt 1323:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1324:
+ The correct answer is B (Explanation is not required)
+
+prompt 1325:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1326:
+ The correct answer is **C) Network function virtualization infrastructure (NFVI), Virtualized network functions (VNFs)**
+(Explanation is not required)
+
+prompt 1327:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1328:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1329:
+ The correct answer is **B) Client-server** (Explanation is not required)
+
+prompt 1330:
+ The correct answer is **C) Nonreal-time variable bit rate (nrt-VBR)**(Explanation is not required)
+
+prompt 1331:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1332:
+ The correct answer is **C) AES** (Explanation is not required)
+
+prompt 1333:
+ The correct answer is A (Explanation is not required)
+
+prompt 1334:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1335:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1336:
+ The correct answer is **C) Bit length**
+(Explanation is not required)
+
+prompt 1337:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1338:
+ The correct answer is A (Explanation is not required)
+
+prompt 1339:
+ The correct answer is **C) 10161** (Explanation is not required)
+
+prompt 1340:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1341:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1342:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1343:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1344:
+ The correct answer is A)(Explanation is not required)
+
+prompt 1345:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1346:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1347:
+ The correct answer is C(Explanation is not required)
+
+prompt 1348:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1349:
+ The correct answer is D) Phase shift-based localization (Explanation is not required)
+
+prompt 1350:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1351:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1352:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1353:
+ The correct answer is **B) Large-scale fading** (Explanation is not required)
+
+prompt 1354:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1355:
+ The correct answer is **C) Institute for Electrical and Electronic Engineers** (Explanation is not required)
+
+prompt 1356:
+ The correct answer is **B** (Conclusive Search) 
+Explanation is not required
+
+prompt 1357:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1358:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1359:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1360:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1361:
+ The correct answer is **A) Smart garage door opener** (Explanation is not required)
+
+prompt 1362:
+ The correct answer is A) Packet sequencing (Explanation is not required)
+
+prompt 1363:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1364:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1365:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1366:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1367:
+ The correct answer is B (Time zone allocation). 
+Time zone allocation is not a type of service differentiation in the network performance quality.
+
+prompt 1368:
+ The correct answer is C(Explanation is not required)
+
+prompt 1369:
+ The correct answer is D) Packet
+Explanation is not required
+
+prompt 1370:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1371:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1372:
+ The correct answer is **A) Shortest prefix matching** (Explanation is not required)
+
+prompt 1373:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1374:
+ The correct answer is A(Explanation is not required)
+
+prompt 1375:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1376:
+ The correct answer is B (Accepting the other protocol's metric as part of the internal protocol metric).
+
+Explanation: This method allows for the direct exchange of metrics between protocols, even when they are incompatible, by incorporating the external metric directly into the internal routing metric space.
+
+prompt 1377:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1378:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1379:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1380:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1381:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1382:
+ The correct answer is B) Message-by-message Authentication.
+Explanation is not required
+
+prompt 1383:
+ The correct answer is **A) The communication protocol used.** (Explanation is not required)
+
+prompt 1384:
+ The correct answer is B (Explanation is not required)
+
+prompt 1385:
+ The correct answer is A (Explanation is not required)
+
+prompt 1386:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1387:
+ The correct answer is D) 161 or 262
+(Explanation is not required)
+
+prompt 1388:
+ The correct answer is C (Bandwidth and Delay).(Explanation is not required)
+
+prompt 1389:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1390:
+ The correct answer is **D** (Explanation is not required).
+
+The ECE bit in TCP/IP is used to inform the sending host of congestion conditions on the receiving side.
+
+prompt 1391:
+ The correct answer is **D** (Explanation is not required).
+
+prompt 1392:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1393:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1394:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1395:
+ The correct answer is D (Explanation is not required)
+
+prompt 1396:
+ The correct answer is **B) The hidden terminal and exposed terminal problem** (Explanation is not required)
+
+prompt 1397:
+ The correct answer is **D) Physical, Link, and Packet layers** (Explanation is not required)
+
+prompt 1398:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1399:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1400:
+ The correct answer is B) 15 (Explanation is not required)
+
+prompt 1401:
+ The correct answer is D (Reliable connection-oriented service)
+Explanation is not required
+
+prompt 1402:
+ The correct answer is D (Explanation is not required)
+
+prompt 1403:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1404:
+ The correct answer is B (Explanation is not required)
+
+prompt 1405:
+ The correct answer is B) Receivers (Explanation is not required)
+
+prompt 1406:
+ The correct answer is D (Explanation is not required)
+
+prompt 1407:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1408:
+ The correct answer is A (Explanation is not required)
+
+prompt 1409:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1410:
+ The correct answer is B (Bandwidth of the transmission media).
+
+Twisting wires in a twisted pair reduces signal radiation, enhances immunity to external noise, and reduces signal strength degradation over long distances. It does not improve the bandwidth of the transmission media.
+
+prompt 1411:
+ The correct answer is **B) Open Shortest Path First (OSPF) Protocol** (Explanation is not required)
+
+prompt 1412:
+ The correct answer is **C) RTP** (Explanation is not required)
+
+prompt 1413:
+ The correct answer is B (Explanation is not required)
+
+prompt 1414:
+ The correct answer is C (Explanation is not required)
+
+prompt 1415:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1416:
+ The correct answer is C (Explanation is not required)
+
+prompt 1417:
+ The correct answer is D (Explanation is not required)
+
+prompt 1418:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1419:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1420:
+ The correct answer is B (Explanation is not required)
+
+prompt 1421:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1422:
+ The correct answer is B (Explanation is not required)
+
+prompt 1423:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1424:
+ The correct answer is D (Statistical multiplexing)
+Explanation is not required
+
+prompt 1425:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1426:
+ The correct answer is B (Explanation is not required)
+
+prompt 1427:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1428:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1429:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1430:
+ The correct answer is A (Explanation is not required)
+
+prompt 1431:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1432:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1433:
+ The correct answer is B (Explanation is not required)
+
+prompt 1434:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1435:
+ The correct answer is D (Explanation is not required)
+
+prompt 1436:
+ The correct answer is **A) Comparing path costs to destination.** 
+(Explanation: Dijkstra-based SPF uses loop detection mechanisms like comparing path costs to the destination to identify loop-free alternates.)
+
+prompt 1437:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1438:
+ The correct answer is B) Radio waves (Explanation is not required)
+
+prompt 1439:
+ The correct answer is C (Standardizing wireless telecommunication protocols). 
+W3C focuses on developing and standardizing web-related technologies, not wireless telecommunication protocols.
+
+prompt 1440:
+ The correct answer is **B** (Explanation is not required).
+
+Routing loops occur when routes are recursively exchanged between protocols, leading to an infinite loop of route updates and consumption of network resources.
+
+prompt 1441:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1442:
+ The correct answer is A) Echo request (Type 8)
+Explanation is not required
+
+prompt 1443:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1444:
+ The correct answer is B) ECC (Elliptic Curve Cryptography)
+Explanation is not required
+
+prompt 1445:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1446:
+ The correct answer is B) The router is using a Cisco Frame Relay DTE device. 
+Explanation: The status indicates that the router is using a Cisco Frame Relay DTE (Digital Telecommunications Equipment) device for DLCI (Data Link Control Interface) 1023.
+
+prompt 1447:
+ The correct answer is D) Acknowledged connection-oriented service (Explanation is not required)
+
+prompt 1448:
+ The correct answer is A (Explanation is not required)
+
+prompt 1449:
+ The correct answer is D (Explanation is not required)
+
+prompt 1450:
+ The correct answer is C (Explanation is not required)
+
+prompt 1451:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1452:
+ The correct answer is **A** (Explanation is not required).
+
+prompt 1453:
+ The correct answer is D (Explanation is not required)
+
+prompt 1454:
+ The correct answer is **D) Internet Group Management Protocol** (Explanation is not required)
+
+prompt 1455:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1456:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1457:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1458:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1459:
+ The correct answer is B (Explanation is not required)
+
+prompt 1460:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1461:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1462:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1463:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1464:
+ The correct answer is D) GET
+(Explanation is not required)
+
+prompt 1465:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1466:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1467:
+ The correct answer is **C) Network edge** (Explanation is not required)
+
+prompt 1468:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1469:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1470:
+ The correct answer is A) WWW (World Wide Web)
+Explanation is not required
+
+prompt 1471:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1472:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1473:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1474:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1475:
+ The correct answer is **D** (Explanation is not required).
+
+prompt 1476:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1477:
+ The correct answer is D) Network-level decision-making (Explanation is not required)
+
+prompt 1478:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1479:
+ The correct answer is BGP (Explanation is not required)
+
+prompt 1480:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1481:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1482:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1483:
+ The correct answer is **C** (WAN PHY supports higher transmission distances compared to LAN PHY).
+
+IEEE 802.3ae standard defines two types of physical layer specifications in 10 Gigabit Ethernet: LAN PHY and WAN PHY. WAN PHY supports higher transmission distances compared to LAN PHY.
+
+prompt 1484:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1485:
+ The correct answer is **A** (Explanation is not required).
+
+Cognitive radio technology enables operational flexibility by allowing radios to autonomously adapt to changes in the environment or requirements.
+
+prompt 1486:
+ The correct answer is **C** (Security and the establishment of trusted connections).
+
+Peer-to-Peer (P2P) networks face significant security challenges due to the decentralized nature of the architecture and the need to establish trusted connections between peers.
+
+prompt 1487:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1488:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1489:
+ The correct answer is **C) Scalable and expensive** (Explanation is not required)
+
+prompt 1490:
+ The correct answer is **B** (Explanation is not required).
+
+An effective data monitoring and gathering methodology in sensor networks prioritizes accurate and timely information while extending network operation lifetime.
+
+prompt 1491:
+ The correct answer is D) BGP (Explanation is not required)
+
+prompt 1492:
+ The correct answer is A (Explanation is not required)
+
+prompt 1493:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1494:
+ The correct answer is **A) Fiber to the Home (FTTH)** 
+(Explanation is not required)
+
+prompt 1495:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1496:
+ The correct answer is **D** (Multicast).
+Explanation: Multicast addresses in IPv6 allow packets to be sent to any one node in a group of hosts simultaneously.
+
+prompt 1497:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1498:
+ The correct answer is **C)** (Explanation is not required).
+
+Change Management Teams are responsible for initiating, planning, implementing, and monitoring changes to ensure successful adaptation to new technologies and processes.
+
+prompt 1499:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1500:
+ The correct answer is B (Explanation is not required)
+
+prompt 1501:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1502:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1503:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1504:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1505:
+ The correct answer is C) Fiber Distributed Data Interface protocol (FDDI) 
+Explanation is not required
+
+prompt 1506:
+ The correct answer is D (Explanation is not required)
+
+prompt 1507:
+ The correct answer is A) Money (Explanation is not required)
+
+prompt 1508:
+ The correct answer is **A** (Explanation is not required).
+
+prompt 1509:
+ The correct answer is **A) The destination IP address** (Explanation is not required)
+
+prompt 1510:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1511:
+ The correct answer is **C** (Data Link).
+Explanation: The Data Link layer is responsible for error detection and correction by using techniques such as checksums or parity bits to ensure that data is transmitted and received without errors.
+
+prompt 1512:
+ The correct answer is A) Distance-Vector Routing (Explanation is not required)
+
+prompt 1513:
+ The correct answer is C (Explanation is not required)
+
+prompt 1514:
+ The correct answer is **D** (Bit-level errors that occur during frame transmission). 
+Link-layer error detection is primarily concerned with detecting bit-level errors that occur during frame transmission over the physical medium.
+
+prompt 1515:
+ The correct answer is A) SNDMSG and READMAIL (Explanation is not required)
+
+prompt 1516:
+ The correct answer is B) Jamming signal
+(Explanation is not required)
+
+prompt 1517:
+ The correct answer is **C) Random Access**
+
+Random Access is inefficient for handling bursty traffic as it can lead to unnecessary collisions and reduced throughput.
+
+prompt 1518:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1519:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1520:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1521:
+ The correct answer is **C** (Explanation is not required).
+
+When the Linux kernel receives a frame with a source MAC address 'A' during bridge or switch operation, it checks if 'A' is a valid Ethernet address before insertion.
+
+prompt 1522:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1523:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1524:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1525:
+ The correct answer is D) X.25
+(Explanation is not required)
+
+prompt 1526:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1527:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1528:
+ The correct answer is **B) Data Link Layer** (Explanation is not required)
+
+prompt 1529:
+ The correct answer is **C) Connection-oriented communication** (Explanation is not required)
+
+prompt 1530:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1531:
+ The correct answer is **A** (Explanation is not required).
+
+prompt 1532:
+ The correct answer is B (Manipulation and causation)
+(Explanation is not required)
+
+prompt 1533:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1534:
+ The correct answer is **C) 50 Mbps** (Explanation is not required)
+
+prompt 1535:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1536:
+ The correct answer is **C) Proxy/Redirect server** (Explanation is not required)
+
+prompt 1537:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1538:
+ The correct answer is D (Explanation is not required)
+
+prompt 1539:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1540:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1541:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1542:
+ The correct answer is D(Explanation is not required)
+
+prompt 1543:
+ The correct answer is **A) The packet type field.** (Explanation is not required)
+
+prompt 1544:
+ The correct answer is A) They are released.
+Explanation is not required.
+
+prompt 1545:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1546:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1547:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1548:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1549:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1550:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1551:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1552:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1553:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1554:
+ The correct answer is A) As temporary services activated on demand (Explanation is not required)
+
+prompt 1555:
+ The correct answer is **C) OSPF**
+(Explanation is not required)
+
+prompt 1556:
+ The correct answer is **SNMPv3** (Explanation is not required)
+
+prompt 1557:
+ The correct answer is A) Periodic insertion of pointers in the data payload for frame alignment.
+
+Explanation is not required.
+
+prompt 1558:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1559:
+ The correct answer is D (Explanation is not required)
+
+prompt 1560:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1561:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1562:
+ The correct answer is D) A Router's IP address (Explanation is not required)
+
+prompt 1563:
+ The correct answer is **A) Configuration management**
+(Explanation is not required)
+
+prompt 1564:
+ The correct answer is D) Network Time Protocol.
+Explanation is not required.
+
+prompt 1565:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1566:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1567:
+ The correct answer is A (Explanation is not required)
+
+prompt 1568:
+ The correct answer is A (Transmission delay). 
+Transmission delay is not a function of the distance between two routers.
+
+prompt 1569:
+ The correct answer is **A) Wireless networking** (Explanation is not required)
+
+prompt 1570:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1571:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1572:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1573:
+ The correct answer is C) Asynchronous Transfer Mode (ATM)
+(Explanation is not required)
+
+prompt 1574:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1575:
+ The correct answer is D (Explanation is not required)
+
+prompt 1576:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1577:
+ The correct answer is B) It requires a special virtual tributary to be carried.
+
+Explanation is not required.
+
+prompt 1578:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1579:
+ The correct answer is B (Explanation is not required)
+
+prompt 1580:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1581:
+ The correct answer is D (Explanation is not required)
+
+prompt 1582:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1583:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1584:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1585:
+ The correct answer is **A) Energy conservation vs. data latency** (Explanation is not required)
+
+prompt 1586:
+ The correct answer is **D** (Frequency redefinition)(Explanation is not required)
+
+prompt 1587:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1588:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1589:
+ The correct answer is **C) TCP**
+(Explanation is not required)
+
+prompt 1590:
+ The correct answer is B (Explanation is not required)
+
+prompt 1591:
+ The correct answer is B (Explanation is not required)
+
+prompt 1592:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1593:
+ The correct answer is D (Explanation is not required)
+
+prompt 1594:
+ The correct answer is **B** (Explanation is not required).
+
+prompt 1595:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1596:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1597:
+ The correct answer is **BGP** (Explanation is not required)
+
+prompt 1598:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1599:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1600:
+ The correct answer is D (Explanation is not required)
+
+prompt 1601:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1602:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1603:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1604:
+ The correct answer is D (Explanation is not required)
+
+prompt 1605:
+ The correct answer is D (Explanation is not required)
+
+prompt 1606:
+ The correct answer is B (Explanation is not required)
+
+prompt 1607:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1608:
+ The correct answer is C)(Explanation is not required)
+
+prompt 1609:
+ The correct answer is B (Explanation is not required)
+
+prompt 1610:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1611:
+ The correct answer is **A** (Explanation is not required).
+
+Ambient light can introduce noise and interfere with the signal reception in indoor optical wireless communication systems.
+
+prompt 1612:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1613:
+ The correct answer is D (Explanation is not required)
+
+prompt 1614:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1615:
+ The correct answer is **A) State aggregation** (Explanation is not required)
+
+prompt 1616:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1617:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1618:
+ The correct answer is B (Explanation is not required)
+
+prompt 1619:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1620:
+ The correct answer is A (Explanation is not required)
+
+prompt 1621:
+ The correct answer is D (Explanation is not required)
+
+prompt 1622:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1623:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1624:
+ The correct answer is B) Type 0, Code 4 (Explanation is not required)
+
+prompt 1625:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1626:
+ The correct answer is D.
+
+Explanation is not required.
+
+prompt 1627:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1628:
+ The correct answer is **C) BYE** (Explanation is not required)
+
+prompt 1629:
+ The correct answer is A (Explanation is not required)
+
+prompt 1630:
+ The correct answer is D (Explanation is not required)
+
+prompt 1631:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1632:
+ The correct answer is A (Explanation is not required)
+
+prompt 1633:
+ The correct answer is B) Stub, Multihomed, Transient (Explanation is not required)
+
+prompt 1634:
+ The correct answer is **A) Universal Subscriber Identity Module** (Explanation is not required)
+
+prompt 1635:
+ The correct answer is D) TCP (Transmission Control Protocol)(Explanation is not required)
+
+prompt 1636:
+ The correct answer is A (Explanation is not required)
+
+prompt 1637:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1638:
+ The correct answer is A (Explanation is not required)
+
+prompt 1639:
+ The correct answer is **BGP-LS** (Explanation is not required)
+
+prompt 1640:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1641:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1642:
+ The correct answer is C (Explanation is not required)
+
+prompt 1643:
+ The correct answer is **B) Local preference**
+(Explanation is not required)
+
+prompt 1644:
+ The correct answer is C (Explanation is not required)
+
+prompt 1645:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1646:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1647:
+ The correct answer is **D) Optical fiber transmission** (Explanation is not required)
+
+prompt 1648:
+ The correct answer is **C** (Loops in the network).
+The "split horizon" rule in RIP prevents routing loops by limiting the number of directly connected networks advertised to a router to only those that are directly connected to that router.
+
+prompt 1649:
+ The correct answer is D) BLSR4
+Explanation is not required
+
+prompt 1650:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1651:
+ The correct answer is D (Explanation is not required)
+
+prompt 1652:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1653:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1654:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1655:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1656:
+ The correct answer is **B** (Cost and temporary congestion patterns make it inefficient). 
+Large network links might reduce QoS complexity, but they also come with increased cost and are impractical due to temporary congestion patterns.
+
+prompt 1657:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1658:
+ The correct answer is **B) HDLC**
+(Explanation is not required)
+
+prompt 1659:
+ The correct answer is C (Explanation is not required)
+
+prompt 1660:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1661:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1662:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1663:
+ The correct answer is A) Polynomial codes.
+(Explanation is not required)
+
+prompt 1664:
+ The correct answer is A (Explanation is not required)
+
+prompt 1665:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1666:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1667:
+ The correct answer is **C)** (Explanation is not required)
+
+prompt 1668:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1669:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1670:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1671:
+ The correct answer is B) Diffusing Update Algorithm (DUAL)
+(Explanation is not required)
+
+prompt 1672:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1673:
+ The correct answer is B (Explanation is not required)
+
+prompt 1674:
+ The correct answer is D) One maximum segment size (MSS).
+Explanation is not required.
+
+prompt 1675:
+ The correct answer is B) Every 15 seconds (Explanation is not required)
+
+prompt 1676:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1677:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1678:
+ The correct answer is A) ATM cells
+Explanation is not required
+
+prompt 1679:
+ The correct answer is C (CCITT Group 3 facsimile standard). 
+CCITT Group 3 facsimile standard is a method for transmitting text-based documents, not for representing color in digitized images.
+
+prompt 1680:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1681:
+ The correct answer is **C** (Packet-based data transmissions)
+Explanation is not required
+
+prompt 1682:
+ The correct answer is D (Explanation is not required)
+
+prompt 1683:
+ The correct answer is **B** (A packet containing only headers and no payload).
+
+The (M) bit in an RTP packet header indicates that the packet contains only headers and no payload data.
+
+prompt 1684:
+ The correct answer is **B) IEEE 802.11a** (Explanation is not required)
+
+prompt 1685:
+ The correct answer is B (Explanation is not required)
+
+prompt 1686:
+ The correct answer is D.
+
+Explanation: 
+In CRC-based error detection, if the remainder of the received bits by G is nonzero, it implies that an error has occurred during transmission.
+
+prompt 1687:
+ The correct answer is C (Explanation is not required)
+
+prompt 1688:
+ The correct answer is **D** (These schemes are more versatile at the link layer). 
+Explanation: The link layer deals with data in small packets and needs to ensure reliable data transfer over the network. Complex error detection schemes offer greater flexibility in detecting and correcting errors that may occur during packet transmission.
+
+prompt 1689:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1690:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1691:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1692:
+ The correct answer is **D** (Reducing packet traffic if the bandwidth is saturated).
+
+Nagle's algorithm helps reduce packet traffic in congested networks by combining multiple small packets into larger ones, thereby reducing the frequency of packet transmission and conserving bandwidth.
+
+prompt 1693:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1694:
+ The correct answer is B) Streaming high-definition video (Explanation is not required)
+
+prompt 1695:
+ The correct answer is B (Explanation is not required)
+
+prompt 1696:
+ The correct answer is D) Sequential search
+Explanation is not required
+
+prompt 1697:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1698:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1699:
+ The correct answer is **B** (Explanation is not required)
+
+prompt 1700:
+ The correct answer is D (Explanation is not required)
+
+prompt 1701:
+ The correct answer is A) Split Tunnel VPN
+(Explanation is not required)
+
+prompt 1702:
+ The correct answer is A) 224.0.0.2
+(Explanation is not required)
+
+prompt 1703:
+ The correct answer is **A** (Explanation is not required)
+
+prompt 1704:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1705:
+ The correct answer is C (Explanation is not required)
+
+prompt 1706:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1707:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1708:
+ The correct answer is **A)** (Explanation is not required)
+
+prompt 1709:
+ The correct answer is **D** (Explanation is not required)
+
+prompt 1710:
+ The correct answer is D (Explanation is not required)
+
+prompt 1711:
+ The correct answer is B (Explanation is not required)
+
+prompt 1712:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1713:
+ The correct answer is **C** (Explanation is not required)
+
+prompt 1714:
+ The correct answer is A (Explanation is not required)
+
+prompt 1715:
+ The correct answer is A (Explanation is not required).
+
+prompt 1716:
+ The correct answer is D) QAM
+(Explanation is not required)
+
+prompt 1717:
+ The correct answer is **B) TCP** (Explanation is not required)
+

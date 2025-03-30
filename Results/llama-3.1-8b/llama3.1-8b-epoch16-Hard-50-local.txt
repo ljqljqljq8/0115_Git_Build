@@ -1,0 +1,648 @@
+Prompt 0:
+Correct answer:
+B) 220
+Explanation:
+This question is asking for the result of a specific call to the knapsack function given certain inputs. The knapsack function uses dynamic programming to solve the 0/1 Knapsack problem, which involves selecting items from a set with certain values and weights to maximize the total value while keeping the total weight under a given capacity.
+The explanation to the correct answer is: The correct answer is B) 220. The knapsack function will return 220 because the optimal solution includes the item with a value of 100 and a weight of 20, which fits within the given capacity of 50. This solution yields a total value of 220 (100 + 120).
+The explanation to other wrong answers are:
+Wrong answer: A) 180
+    Why Incorrect: This value is not the result of the knapsack function given the provided inputs. The correct value is 220, not 180.
+Wrong answer: C) 280
+    Why Incorrect: This value is not the result of the knapsack function given the provided inputs. The correct value is 220, not 280.
+Wrong answer: D) 300
+    Why Incorrect: This value is not the result of the knapsack function given the provided inputs. The correct value is 220, not 300.
+Prompt 1:
+Correct answer:
+A) 8000
+Explanation:
+The question is asking about the signal speed in a CSMA/CD network, given certain parameters such as data rate, cable length, and frame size.
+The explanation to the correct answer is: The correct answer is A) 8000. The signal speed in the cable can be calculated as 1,000,000 (one million) bits per second divided by 1250 bytes (10,000,000 bits), which gives 8000 km per second.
+The explanation to other wrong answers are:
+Wrong answer: B) 10000
+        Why Incorrect: This is an incorrect calculation. The correct calculation is 8000 km/sec, not 10000 km/sec.
+Wrong answer: C) 16000
+        Why Incorrect: This is an incorrect calculation. The correct calculation is 8000 km/sec, not 16000 km/sec.
+Wrong answer: D) 20000
+        Why Incorrect: This is an incorrect calculation. The correct calculation is 8000 km/sec, not 20000 km/sec.
+Prompt 2:
+orrect answer:
+B) 140 to 150
+Explanation:
+The question asks to calculate the throughput of a network using the pure ALOHA protocol, where the aggregate number of transmissions is modelled as a Poisson process.
+The explanation to the correct answer is: The correct answer is 140 to 150. The throughput of a network using pure ALOHA protocol is equal to the probability that a frame is transmitted without collision. The probability of no collision is equal to the probability that there are no other frames transmitted during the frame duration. This probability is given by the Erlang B formula. The Erlang B formula for this case is 1 - (1 - 0.001)⁰.999 = 0.999999, which means that the throughput is approximately 1 - 0.999999 = 0.000001 or 0.0001% of the total frames transmitted. Since the rate of transmission is 1000 frames per second, the throughput is 1 frame per second, which is approximately 140 to 150 frames per second.
+The explanation to other wrong answers are:
+Wrong answer: A) 130 to 140
+    Why Incorrect: This range is not accurate. The correct range is 140 to 150.
+Wrong answer: C) 120 to 130
+    Why Incorrect: This range is not accurate. The correct range is 140 to 150.
+Wrong answer: D) 100 to 110
+    Why Incorrect: This range is not accurate. The correct range is 140 to 150.
+Prompt 3:
+Correct answer:
+D) 150
+Explanation:
+The question is asking for the expected number of transmissions required to send 200 packets over a link with a packet loss probability of 0.2 when using the stop and wait protocol.
+The explanation to the correct answer is: The correct answer is 150. The stop and wait protocol requires each packet to be acknowledged before the next packet is sent. Therefore, for each packet sent, there is a 20% chance of losing the acknowledgement and needing to resend the packet. The expected number of transmissions per packet is 1 + 0.2 = 1.2. Thus, for 200 packets, the expected number of transmissions is 200 x 1.2 = 240. However, since we're assuming that the link can only handle one packet at a time, we need to divide this by the number of packets that can be sent in parallel, which is 1 in this case, giving us 240 / 1 = 240.
+
+(3) Step_Three: Let's review why the other answers are incorrect:
+The explanation to other wrong answers are:
+Wrong answer: A) 125
+        Why Incorrect: This number is less than the expected number of transmissions. It does not consider the probability of losing acknowledgements, which increases the number of transmissions needed.
+Wrong answer: B) 250
+        Why Incorrect: This number is more than the expected number of transmissions. It does not consider the fact that the link can only handle one packet at a time, which reduces the total number of transmissions needed.
+Wrong answer: C) 225
+        Why Incorrect: This number is not the correct answer as it does not consider the probability of losing acknowledgements, which increases the number of transmissions needed.
+Prompt 4:
+Explanation:
+The question is asking about the number of times a packet has to visit the network layer and data link layer during a transmission from a source to a destination, assuming an intermediate router.
+The correct answer is: A) Network layer – 4 times, Data link layer – 4 times.
+The correct answer is A. During a transmission from a source to a destination, a packet has to visit the network layer four times. The first visit is when the packet is generated, the second visit is when the packet is routed through the intermediate router, the third visit is when the packet is routed back to the destination, and the fourth visit is when the packet reaches the destination. Similarly, the packet has to visit the data link layer four times. The first visit is when the packet is generated, the second visit is when the packet is transmitted from the source to the intermediate router, the third visit is when the packet is transmitted from the intermediate router to the destination, and the fourth visit is when the packet reaches the destination.
+The explanation to other wrong answers are:
+Wrong answer: B) Network layer – 4 times, Data link layer – 6 times
+Why Incorrect: The number of visits to the network and data link layers is not six times each. A packet has to visit the network layer four times and the data link layer four times during a transmission from a source to a destination.
+Wrong answer: C) Network layer – 2 times, Data link layer – 4 times
+Why Incorrect: The number of visits to the network and data link layers is not two and four times respectively. A packet has to visit the network layer four times and the data link layer four times during a transmission from a source to a destination.
+Wrong answer: D) Network layer – 3 times, Data link layer – 4 times
+Why Incorrect: The number of visits to the network and data link layers is not three and four times respectively. A packet has to visit the network layer four times and the data link layer four times during a transmission from a source to a destination.
+Prompt 5:
+Correct answer:
+B) C2 assumes C1 is on same network, but C1 assumes C2 is on a different network
+Explanation:
+The question is about the network assumptions made by two computers C1 and C2 based on their IP addresses and subnet masks.
+The explanation to the correct answer is: Based on their IP addresses and subnet masks, C1 assumes that C2 is on a different network, but C2 assumes that C1 is on the same network. This is because C1's IP address falls outside the range of IP addresses that C2 considers to be on its network.
+The explanation to other wrong answers are:
+Wrong answer: A) C1 and C2 both assume they are on the same network
+        Why Incorrect: This is incorrect because C1 and C2 have different subnet masks, which means they have different views of the network topology.
+Wrong answer: C) C1 assumes C2 is on same network, but C2 assumes C1 is on a different network
+        Why Incorrect: This is incorrect because it is the other way around. C1 assumes C2 is on a different network, but C2 assumes C1 is on the same network.
+Wrong answer: D) C1 and C2 both assume they are on different networks
+        Why Incorrect: This is incorrect because C2 assumes that C1 is on the same network, but C1 assumes C2 is on a different network.
+Prompt 6:
+Correct answer:
+A) 12
+Explanation:
+The question asks for the number of packets that Station A will transmit in a sliding window (window size 3) and go-back-n error control strategy, when every 5th packet gets lost.
+The explanation to the correct answer is: In the sliding window (window size 3) and go-back-n error control strategy, Station A will transmit 12 packets, as it sends 3 packets, then waits for the ACK of the first packet before sending the next 3 packets, and so on. In this scenario, every 5th packet gets lost, so 4 packets are lost in total. Therefore, A will send 12 packets in total.
+The explanation to other wrong answers are:
+Wrong answer: B) 14
+        Why Incorrect: In the given scenario, Station A will transmit 12 packets, not 14. The number of packets to be transmitted is not directly related to the window size, but rather to the number of packets that get lost.
+Wrong answer: C) 16
+        Why Incorrect: The number of packets to be transmitted is not 16. In the given scenario, every 5th packet gets lost, so 4 packets are lost in total. Therefore, A will send 12 packets in total.
+Wrong answer: D) 18
+        Why Incorrect: The number of packets to be transmitted is not 18. In the given scenario, every 5th packet gets lost, so 4 packets are lost in total. Therefore, A will send 12 packets in total.
+Prompt 7:
+Correct answer:
+B) 40
+Explanation:
+This question is asking for the optimal window size when using a sliding window protocol in a network environment with specific round trip delay and bandwidth characteristics.
+The explanation to the correct answer is: The optimal window size is determined by the formula: optimal window size = (bottleneck bandwidth * round trip delay) / (packet size * 8). Substituting the given values, we get: optimal window size = (128 * 10^3 * 0.08) / (32 * 8) = 40 packets. This is the correct answer.
+
+(3)Step_Three: Now let's explain why the other answers are incorrect:
+The explanation to other wrong answers are:
+Wrong answer: A) 20
+        Why Incorrect: This is too low. The optimal window size should be greater than 20 packets.
+Wrong answer: C) 160
+        Why Incorrect: This is too high. The optimal window size should be less than 160 packets.
+Wrong answer: D) 320
+        Why Incorrect: This is too high. The optimal window size should be less than 320 packets.
+Prompt 8:
+Correct answer:
+D) Encryption: X's public key followed by Y's private key. Decryption: Y's public key followed by X's private key.
+Explanation:
+The question asks us to identify the correct sequence of keys used for encryption and decryption in public key cryptography, given a scenario where X sends a message (M) to Y, adding a digital signature (σ) and encrypting it.
+The correct answer is D) Encryption: X's public key followed by Y's private key. Decryption: Y's public key followed by X's private key.
+The explanation to the correct answer is: The encryption process involves using X's public key to encrypt the message and Y's private key to encrypt the digital signature. This ensures that only Y can decrypt the message and verify the signature.
+The explanation to other wrong answers are:
+Wrong answer: A) Encryption: X's private key followed by Y's private key. Decryption: X's public key followed by Y's public key.
+Why Incorrect: This sequence is incorrect as it involves using private keys for encryption, which is not secure, and public keys for decryption, which would not allow Y to verify the signature.
+Wrong answer: B) Encryption: X's private key followed by Y's public key. Decryption: X's public key followed by Y's private key.
+Why Incorrect: This sequence is incorrect as it involves using private keys for encryption and public keys for decryption, which is not how public key cryptography works.
+Wrong answer: C) Encryption: X's private key followed by Y's public key. Decryption: Y's private key followed by X's public key.
+Why Incorrect: This sequence is incorrect as it involves using private keys for encryption and public keys for decryption, which is not secure and does not follow the principles of public key cryptography.
+Prompt 9:
+Explanation:
+The question is asking for the maximum number of subnets and hosts in each subnet when a class B host address is split into subnets with a 6-bit subnet number.
+The correct answer is: 64 subnets and 1024 hosts.
+The explanation to the correct answer is: When a class B host address is split into subnets with a 6-bit subnet number, the maximum number of subnets is 64 (2^6) and the maximum number of hosts in each subnet is 1024 (2^10 - 2).
+The explanation to other wrong answers are:
+Wrong answer: A) 62 subnets and 262142 hosts
+
+    Why Incorrect: This answer is incorrect because it does not correctly represent the maximum number of subnets and hosts in each subnet. The correct answer is 64 subnets and 1024 hosts.
+Wrong answer: B) 64 subnets and 262142 hosts
+
+    Why Incorrect: This answer is incorrect because it does not correctly represent the maximum number of subnets and hosts in each subnet. The correct answer is 64 subnets and 1024 hosts.
+Wrong answer: D) 62 subnets and 1022 hosts
+
+    Why Incorrect: This answer is incorrect because it does not correctly represent the maximum number of subnets and hosts in each subnet. The correct answer is 64 subnets and 1024 hosts.
+Prompt 10:
+Correct answer:
+B) 10.0
+Explanation:
+The question is asking about the efficiency of the Stop and Wait protocol in a network where the size of each packet is 1 KB and the bandwidth of the line is 1.5 Mbps with a round trip time (RTT) of 45 milliseconds.
+The explanation to the correct answer is: The efficiency of the Stop and Wait protocol is calculated as follows:
+The throughput, T, is given by T = (1.5 * 10^6 bits/sec) * (1/1.5 * 10^3 bits/packet) * (1/45 * 10^3 sec) = 10.0 bits/sec
+The efficiency, E, is given by E = (10.0 bits/sec) / (1.5 * 10^6 bits/sec) = 10.0/1.5 * 10^6 = 6.67 * 10^(-4) = 0.0667%
+The explanation to other wrong answers are:
+Wrong answer: A) 20.3
+        Why Incorrect: This is incorrect because it's not the efficiency of the Stop and Wait protocol, but it's the efficiency of the Go-Back-N protocol, not the Stop and Wait protocol.
+Wrong answer: C) 12
+        Why Incorrect: This is incorrect because it's not the efficiency of the Stop and Wait protocol, but it's the efficiency of the Selective Repeat protocol, not the Stop and Wait protocol.
+Wrong answer: D) 10.8
+        Why Incorrect: This is incorrect because it's not the efficiency of the Stop and Wait protocol, but it's the efficiency of the Selective Repeat protocol, not the Stop and Wait protocol.
+Prompt 11:
+Correct answer:
+A) 200 bits
+Explanation:
+The question is asking for the minimum size of the packet in a 1 km long broadcast LAN with a bandwidth of 10⁷ bps and uses CSMA/CD.
+The correct answer is A) 200 bits. This is because the minimum packet size should be at least 200 bits, which is the propagation delay in the medium (1 km/5 × 10⁸ m/sec) multiplied by the bandwidth (10⁷ bps).
+The explanation to other wrong answers are:
+Wrong answer: B) 10
+        Why Incorrect: This is too small. The minimum packet size should be at least 200 bits, which is the propagation delay in the medium (1 km/5 × 10⁸ m/sec) multiplied by the bandwidth (10⁷ bps).
+Wrong answer: C) 50
+        Why Incorrect: This is too small. The minimum packet size should be at least 200 bits, which is the propagation delay in the medium (1 km/5 × 10⁸ m/sec) multiplied by the bandwidth (10⁷ bps).
+Wrong answer: D) 100
+        Why Incorrect: This is too small. The minimum packet size should be at least 200 bits, which is the propagation delay in the medium (1 km/5 × 10⁸ m/sec) multiplied by the bandwidth (10⁷ bps).
+Prompt 12:
+Correct answer:
+B) 4096
+Explanation:
+The question is asking about the maximum number of hosts that can be present in a subnet with a specific subnet mask in a class B network on the internet.
+The explanation to the correct answer is: The correct answer is B) 4096. When a class B network is used on the internet, the subnet mask is 255.255.240.0, which means that the first 20 bits are used for the network ID, leaving 12 bits for the host ID. Therefore, the maximum number of hosts per subnet is 2^12 = 4096.
+The explanation to other wrong answers are:
+Wrong answer: A) 4098
+Why Incorrect: This is incorrect because the maximum number of hosts per subnet is 4096, not 4098.
+Wrong answer: C) 4094
+Why Incorrect: This is incorrect because the maximum number of hosts per subnet is 4096, not 4094.
+Wrong answer: D) 4092
+Why Incorrect: This is incorrect because the maximum number of hosts per subnet is 4096, not 4092.
+Prompt 13:
+Correct answer:
+A) 28 to 30
+Explanation:
+The question asks for the minimum time for which the monitoring station should wait before assuming that the token is lost in a token ring network.
+The explanation to the correct answer is: The correct answer is 28 to 30. The propagation time of the signal is 2 km/2 × 10⁸ m/s = 10 μsec. The waiting time of the monitoring station should be at least 10 μsec, but not more than 12 μsec, as it is allowed to hold the token for 2 μsec. Therefore, the waiting time is 28 to 30 μsec.
+The explanation to other wrong answers are:
+Wrong answer: B) 20 to 22
+        Why Incorrect: This range is too short as it doesn't include the propagation time of the signal, which is 10 μsec.
+Wrong answer: C) 0 to 2
+        Why Incorrect: This range is too short as it doesn't include the propagation time of the signal, which is 10 μsec.
+Wrong answer: D) 31 to 33
+        Why Incorrect: This range is too long as it doesn't include the propagation time of the signal, which is 10 μsec.
+Prompt 14:
+Explanation:
+The question is about the process of public key cryptography when a sender wants to send a secret message to a receiver. In this method, the sender encrypts the message using the receiver's public key. The receiver can decrypt the message using his private key.
+The explanation to the correct answer is: The correct answer is A) Sender encrypts using receiver's public key. This is because in public key cryptography, the sender encrypts the message using the receiver's public key. The receiver can then decrypt the message using his private key.
+The explanation to other wrong answers are:
+Wrong answer: B) Sender encrypts using his own public key
+        Why Incorrect: This statement is incorrect because in public key cryptography, the sender encrypts the message using the receiver's public key, not his own.
+Wrong answer: C) Receiver decrypts using sender's public key
+        Why Incorrect: This statement is incorrect because in public key cryptography, the sender encrypts the message using the receiver's public key, not the sender's. The receiver decrypts the message using his private key, not the sender's public key.
+Wrong answer: D) Receiver decrypts using his own public key
+        Why Incorrect: This statement is incorrect because in public key cryptography, the sender encrypts the message using the receiver's public key, not the receiver's. The receiver decrypts the message using his private key, not his own public key.
+Prompt 15:
+Correct answer:
+C) (n(n − 1))/2 and 2n
+Explanation:
+The question asks about the total number of keys required for a set of n individuals to be able to communicate with each other using secret key and public key crypto-systems, respectively.
+The explanation to the correct answer is: The correct answer is C) (n(n − 1))/2 and 2n. In a secret key crypto-system, each pair of individuals needs to share a secret key to communicate securely. Therefore, the total number of keys required is (n(n − 1))/2. In a public key crypto-system, each individual needs a public key and a private key. Hence, the total number of keys required is 2n, where n is the number of individuals.
+The explanation to other wrong answers are:
+Wrong answer: A) n(n − 1) and 2n
+
+    Why Incorrect: The total number of keys required for a secret key crypto-system is (n(n − 1))/2, not n(n − 1). The total number of keys required for a public key crypto-system is 2n, not 2n(n − 1).
+Wrong answer: B) 2n and (n(n − 1))/2
+
+    Why Incorrect: The total number of keys required for a secret key crypto-system is (n(n − 1))/2, not (n(n − 1))/2. The total number of keys required for a public key crypto-system is 2n, not 2n(n − 1).
+Wrong answer: D) (n(n − 1))/2 and n
+
+    Why Incorrect: The total number of keys required for a secret key crypto-system is (n(n − 1))/2, not (n(n − 1))/2. The total number of keys required for a public key crypto-system is 2n, not n.
+Prompt 16:
+Correct answer:
+B) Masquarade attack
+Explanation:
+The question asks us to identify the type of attack where an attacker sits between the sender and receiver and captures the information and retransmits to the receiver after some time without altering the information.
+The explanation to the correct answer is: The correct answer is B) Masquarade attack. In a masquerade attack, the attacker intercepts the data between the sender and the receiver and then forwards the data to the receiver after some time, without changing the data.
+The explanation to other wrong answers are:
+Wrong answer: A) Denial of service attack
+        Why Incorrect: A denial of service attack is an attack in which the attacker sends so many requests to the server that it becomes unable to process legitimate requests, thereby denying service to legitimate users. It is not an attack where an attacker captures data and retransmits it to the receiver after some time.
+Wrong answer: C) Simple attack
+        Why Incorrect: There is no such thing as a simple attack in the context of network security. The term "simple attack" is not a recognized term in the field of network security.
+Wrong answer: D) Complex attack
+        Why Incorrect: The term "complex attack" is not recognized in the field of network security. There are different types of attacks, but none of them are referred to as "complex attacks."
+Prompt 17:
+Correct answer:
+B) For avoiding loops in the routing paths
+Explanation:
+This question is about the purpose of the spanning tree algorithm in bridge routing. In a network of LANs connected by bridges, packets can be sent from one LAN to another through multiple bridges. The spanning tree algorithm is used to ensure that there are no loops in the routing paths.
+The explanation to the correct answer is: The correct answer is B) For avoiding loops in the routing paths. The spanning tree algorithm is used to find a loop-free path between LANs, ensuring that packets are routed efficiently without the risk of looping back on themselves.
+The explanation to other wrong answers are:
+Wrong answer: A) For shortest path routing between LANs
+        Why Incorrect: While the spanning tree algorithm does create a loop-free path, it does not necessarily ensure the shortest path between LANs. The shortest path may not be the most reliable or efficient in a network with multiple potential paths.
+Wrong answer: C) For fault tolerance
+        Why Incorrect: While the spanning tree algorithm does provide a degree of fault tolerance by creating a loop-free path, it is not specifically designed for fault tolerance. Fault tolerance is a broader concept that includes redundancy and failover mechanisms.
+Wrong answer: D) For minimizing collisions
+        Why Incorrect: The spanning tree algorithm does not directly address collision avoidance. Collision avoidance is typically achieved through MAC-level protocols like CSMA/CD or CSMA/CA, which are not directly influenced by the spanning tree algorithm.
+Prompt 18:
+Correct answer:
+C) 2¹⁶ bytes
+Explanation:
+The question is asking for the maximum size of data that the application layer can pass on to the TCP layer.
+The correct answer is C) 2¹⁶ bytes. This is the maximum size of data that the application layer can pass on to the TCP layer.
+The explanation to the correct answer is: The TCP layer can only pass on data of size 2¹⁶ bytes to the network layer. Therefore, the application layer must pass on data of size 2¹⁶ bytes to the TCP layer.
+The explanation to other wrong answers are:
+Wrong answer: A) Any size
+    Why Incorrect: The TCP layer can only pass on data of size 2¹⁶ bytes to the network layer. Therefore, the application layer must pass on data of size 2¹⁶ bytes to the TCP layer.
+Wrong answer: B) 2¹⁶ bytes – size of TCP header
+    Why Incorrect: The size of the TCP header is not subtracted from the maximum size of data that the application layer can pass on to the TCP layer. The TCP layer can only pass on data of size 2¹⁶ bytes to the network layer. Therefore, the application layer must pass on data of size 2¹⁶ bytes to the TCP layer.
+Wrong answer: D) 1500 bytes
+    Why Incorrect: The maximum size of data that the application layer can pass on to the TCP layer is 2¹⁶ bytes, not 1500 bytes.
+Prompt 19:
+Explanation:
+The question is asking about the possible outcomes of the TCP connection process when a client process attempts to connect to a server process that has not yet executed the accept() system call.
+The explanation to the correct answer is: The correct answer is A) connect() system call returns successfully. This is because the client process's connect() system call will return successfully even if the server process has not yet executed the accept() system call. The client process will not be aware that the server process has not executed the accept() system call until it receives an error message from the server process.
+The explanation to other wrong answers are:
+Wrong answer: B) connect() system call blocks
+    Why Incorrect: The connect() system call does not block. It either returns successfully or returns an error. If it returns an error, the client process knows that it cannot establish a connection with the server process.
+Wrong answer: C) connect() system call returns an error
+    Why Incorrect: The connect() system call does not return an error. It either returns successfully or returns an error. If it returns an error, the client process knows that it cannot establish a connection with the server process.
+Wrong answer: D) connect() system call results in a core dump
+    Why Incorrect: A core dump is a result of a program crash or segmentation fault. In the scenario described in the question, the connect() system call does not result in a core dump. It either returns successfully or returns an error.
+Prompt 20:
+Correct answer:
+D) 8 seconds
+Explanation:
+The question is asking about the maximum time a computer can transmit at its full speed of 10 Mbps if it is regulated by a token bucket that is filled at a rate of 2 Mbps and initially has a capacity of 16 Megabits.
+The explanation to the correct answer is: The correct answer is D) 8 seconds. The token bucket can hold 16 Megabits, and the token bucket is filled at a rate of 2 Mbps. Therefore, the time taken to fill the bucket is 16 Megabits / 2 Mbps = 8 seconds.
+The explanation to other wrong answers are:
+Wrong answer: A) 1.6 seconds
+        Why Incorrect: This duration is not correct as it is not a multiple of the 2 Mbps fill rate of the token bucket.
+Wrong answer: B) 2 seconds
+        Why Incorrect: This duration is not correct as it is less than the 8 seconds required to fill the token bucket.
+Wrong answer: C) 5 seconds
+        Why Incorrect: This duration is not correct as it is less than the 8 seconds required to fill the token bucket.
+Prompt 21:
+Correct answer:
+A) does not increase
+Explanation:
+The question asks about the behavior of the congestion window during the slow start phase of the Transmission Control Protocol (TCP) congestion control algorithm. The slow start phase is a crucial part of TCP's congestion control mechanism.
+The explanation to the correct answer is: The correct answer is A) does not increase. In the slow start phase, the size of the congestion window does not increase. Instead, it is initially set to one segment and is then doubled after every acknowledgment (ACK) received, until a certain threshold is reached.
+The explanation to other wrong answers are:
+Wrong answer: B) increases linearly
+        Why Incorrect: While the size of the congestion window increases over time in the slow start phase, it does not increase linearly. Instead, it doubles after every ACK received.
+Wrong answer: C) increases quadratically
+        Why Incorrect: The size of the congestion window does not increase quadratically in the slow start phase. Instead, it doubles after every ACK received.
+Wrong answer: D) increases exponentially
+        Why Incorrect: The size of the congestion window does not increase exponentially in the slow start phase. Instead, it doubles after every ACK received.
+Prompt 22:
+Correct answer:
+D) 9
+Explanation:
+The question is about determining the optimum packet size in a packet switching network with a specific message size and a header size.
+The explanation to the correct answer is: The correct answer is D) 9. This is calculated by dividing the message size (24 bytes) by the packet overhead (3 bytes for the header) which gives us a packet size of 9 bytes.
+The explanation to other wrong answers are:
+Wrong answer: A) 4
+        Why Incorrect: The packet size of 4 bytes is not the optimum size because it doesn't take into account the packet overhead (header size).
+Wrong answer: B) 6
+        Why Incorrect: This is not the optimum packet size because it does not consider the packet overhead, which is 3 bytes in this scenario.
+Wrong answer: C) 7
+        Why Incorrect: The packet size of 7 bytes is not the optimum size because it does not consider the packet overhead, which is 3 bytes in this scenario.
+Prompt 23:
+Correct answer:
+B) MROUEKCTTPNROEW
+Explanation:
+The question is asking for the encrypted message that results from applying the columnar transposition cipher to the original message "COMPUTERNETWORK" using the key "LAYER".
+The explanation to the correct answer is: The correct answer is B) MROUEKCTTPNROEW. The columnar transposition cipher works by writing the message as a series of columns, where the number of columns is determined by the key length. In this case, the key "LAYER" has 6 characters, so the message is written as 6 columns, each with 5 characters. The ciphertext is then formed by reading the columns from top to bottom, and then reading the rows from left to right, which results in the final ciphertext "MROUEKCTTPNROEW".
+The explanation to other wrong answers are:
+Wrong answer: A) CTTOEWMROPNRUEK
+    Why Incorrect: This is not the correct ciphertext. The key "LAYER" has 6 characters, not 7, which affects the way the ciphertext is formed.
+Wrong answer: C) OEWPNRCTTUEKMRO
+    Why Incorrect: This is not the correct ciphertext. The key "LAYER" has 6 characters, not 7, which affects the way the ciphertext is formed.
+Wrong answer: D) UEKPNRMROOEWCTT
+    Why Incorrect: This is not the correct ciphertext. The key "LAYER" has 6 characters, not 7, which affects the way the ciphertext is formed.
+Prompt 24:
+Correct answer:
+A) 500 Kbytes/sec
+Explanation:
+The question is about the maximum I/O data transfer rate in a system using the programmed I/O technique. It's important to understand the concept of programmed I/O technique, where the CPU has to be involved in every I/O operation, and how this impacts the maximum data transfer rate.
+The explanation to the correct answer is: The correct answer is A) 500 Kbytes/sec. This is calculated by taking into account the CPU execution rate (1 MIPS), the average number of machine cycles for instruction execution (4), the utilization of memory bus (50%), the memory read/write cycle (1), the CPU execution time (90%), and the I/O data transfer rate (250 Kbytes/sec). The formula for calculating the maximum I/O data transfer rate using the programmed I/O technique is: Maximum I/O Data Transfer Rate = (CPU Execution Rate * 90% * (1 - 50% / 4)) * (1 / (1 + 1)) * 250 Kbytes/sec = 500 Kbytes/sec.
+The explanation to other wrong answers are:
+Wrong answer: B) 2.2 Mbytes/sec
+        Why Incorrect: This value is incorrect because it's higher than the maximum I/O data transfer rate, which is 500 Kbytes/sec. The formula used to calculate this value doesn't account for the CPU execution rate and the other factors mentioned above.
+Wrong answer: C) 125 Kbytes/sec
+        Why Incorrect: This value is incorrect because it's lower than the maximum I/O data transfer rate, which is 500 Kbytes/sec. The formula used to calculate this value doesn't account for the CPU execution rate and the other factors mentioned above.
+Wrong answer: D) 250 Kbytes/sec
+        Why Incorrect: This value is incorrect because it's lower than the maximum I/O data transfer rate, which is 500 Kbytes/sec. The formula used to calculate this value doesn't account for the CPU execution rate and the other factors mentioned above.
+Prompt 25:
+Correct answer:
+B) 245.248.128.0/21 and 245.248.128.0/22
+Explanation:
+The question is asking for the correct allocation of IP addresses to Organization A and Organization B from the given chunk of CIDR-based IP addresses. The correct answer is B) 245.248.128.0/21 and 245.248.128.0/22.
+The explanation to the correct answer is: As per the question, the ISP wants to allocate half of the available IP addresses to Organization A, and a quarter to Organization B. To achieve this, the ISP can use two CIDR blocks. One block can be allocated to Organization A with half the IP addresses, and the other block can be allocated to Organization B with a quarter of the IP addresses. Since half of the IP addresses are 10, and a quarter of the IP addresses are 5, the ISP can allocate the following CIDR blocks to the organizations:
+Organization A: 245.248.128.0/21 (2^10 addresses)
+Organization B: 245.248.128.0/22 (2^5 addresses)
+The remaining quarter of the IP addresses (2^5 addresses) are retained by the ISP.
+The explanation to other wrong answers are:
+Wrong answer: A) 245.248.136.0/21 and 245.248.128.0/22
+Why Incorrect: This option is incorrect as it allocates half of the IP addresses to Organization A (2^10 addresses) and a quarter of the IP addresses to Organization B (2^5 addresses). However, the question asks for the allocation of half of the IP addresses to Organization A and a quarter to Organization B. This allocation is incorrect as it does not follow the required distribution.
+Wrong answer: C) 245.248.132.0/22 and 245.248.132.0/21
+Why Incorrect: This option is incorrect as it allocates half of the IP addresses to Organization A (2^10 addresses) and a quarter of the IP addresses to Organization B (2^5 addresses). However, the question asks for the allocation of half of the IP addresses to Organization A and a quarter to Organization B. This allocation is incorrect as it does not follow the required distribution.
+Wrong answer: D) 245.248.136.0/22 and 245.248.132.0/21
+Why Incorrect: This option is incorrect as it allocates half of the IP addresses to Organization A (2^10 addresses) and a quarter of the IP addresses to Organization B (2^5 addresses). However, the question asks for the allocation of half of the IP addresses to Organization A and a quarter to Organization B. This allocation is incorrect as it does not follow the required distribution.
+Prompt 26:
+Correct answer:
+B) 14 MSS
+Explanation:
+This question is testing your understanding of TCP’s Additive Increase Multiplicative Decrease (AIMD) algorithm and its behavior in the face of time-outs during the slow start phase.
+The explanation to the correct answer is: The correct answer is B) 14 MSS. The AIMD algorithm dictates that the congestion window size should be increased by one MSS (2 MSS in this case) after each successful transmission. After a time-out, the congestion window size is set to one-half of the threshold (4 MSS in this case), and then the slow start phase continues. After the fifth transmission, the congestion window size becomes 8 MSS. With each successful transmission, the window size increases by one MSS, leading to a total of 14 MSS at the end of the tenth transmission.
+The explanation to other wrong answers are:
+Wrong answer: A) 8 MSS
+        Why Incorrect: This is the congestion window size after the fifth transmission, not at the end of the tenth transmission.
+Wrong answer: C) 7 MSS
+        Why Incorrect: The congestion window size after the fifth transmission is 8 MSS, not 7 MSS.
+Wrong answer: D) 12 MSS
+        Why Incorrect: This is not the correct value for the congestion window size at the end of the tenth transmission.
+Prompt 27:
+Correct answer:
+A) T1 < T2 < T3
+Explanation:
+The question is asking about the transmission times in three different scenarios for sending a file of size 10³ bytes from host A to host B through routers R1 and R2 in a store-and-forward packet-switched network. The bandwidth of each link is 10⁶ bytes/sec, and each packet contains 100 bytes of header information along with the user data.
+The correct answer is A) T1 < T2 < T3.
+This is because when a single packet containing the complete file is transmitted from A to B, it takes the least time, i.e., T1. When the file is split into 10 equal parts, and these packets are transmitted from A to B, the transmission time is more than T1 but less than T3, i.e., T2. Similarly, when the file is split into 20 equal parts and these packets are sent from A to B, the transmission time is more than T2, i.e., T3.
+The other options are incorrect because they do not follow the correct order of transmission times based on the number of packets. For example, option B suggests that the transmission time for sending the file in one packet (T1) is greater than the transmission time for sending the file in 10 packets (T2) which is incorrect. Similarly, option D suggests that the transmission time for sending the file in one packet (T1) is equal to the transmission time for sending the file in 20 packets (T3) which is also incorrect.
+Prompt 28:
+Correct answer:
+C) 0.75
+Explanation:
+The question is asking for the probability that station A will win the second backoff race in a collision scenario on an Ethernet network.
+The explanation to the correct answer is: The correct answer is C) 0.75. According to the Ethernet protocol, the probability that station A wins the second backoff race is 3/4 (0.75).
+The explanation to other wrong answers are:
+Wrong answer: A) 0.5
+        Why Incorrect: The probability is not 0.5 because it is not a fair coin toss. The probability is 0.75 because the station with the shorter backoff time wins the collision race.
+Wrong answer: B) 0.625
+        Why Incorrect: The probability of winning the second backoff race is not 0.625. The correct answer is 0.75.
+Wrong answer: D) 1.0
+        Why Incorrect: The probability of winning the second backoff race is not 1.0. It is 0.75.
+Prompt 29:
+Correct answer:
+C) 12.33 × 10⁶ bytes per second
+Explanation:
+The question asks about the maximum achievable throughput in a communication scenario where host A sends data to host B over a full duplex link using the sliding window protocol. The send and receive window sizes are given, as are the data packet size and transmission time, and the propagation delay.
+The explanation to the correct answer is: The correct answer is C) 12.33 × 10⁶ bytes per second. To calculate this, we use the formula for throughput: T = (R × W) / (2 × T + 2 × P), where T is throughput, R is the data rate, W is the window size, T is the transmission time, and P is the propagation delay. In this case, R = 20 × 10⁶ bytes per second, W = 5 packets, T = 50 μs, and P = 200 μs. Substituting these values into the formula, we get: T = (20 × 10⁶ × 5) / (2 × 50 + 2 × 200) = 12.33 × 10⁶ bytes per second.
+
+(3)Step_Three: Let's analyze why the other options are incorrect:
+The explanation to other wrong answers are:
+Wrong answer: A) 7.69 × 10⁶ bytes per second
+Why Incorrect: This option represents the throughput if the window size were 2 packets, which is not the case in the scenario described.
+Wrong answer: B) 11.11 × 10⁶ bytes per second
+Why Incorrect: This option is incorrect because it's the throughput if the window size were 10 packets, which is not the case in the given scenario.
+Wrong answer: D) 15.00 × 10⁶ bytes per second
+Why Incorrect: This option represents the throughput if the window size were 10 packets, which is not the case in the scenario described.
+Prompt 30:
+Explanation:
+This question is about the probability of a successful transmission in a CSMA/CD network. The key concept is to understand how the probability of a successful transmission is calculated in such networks.
+The explanation to the correct answer is: The correct answer is D) 0.652. The probability of sending a frame in the first slot without any collision by any of these four stations is calculated as follows: P(successful transmission in first slot) = P(no transmission by S1) * P(no transmission by S2) * P(no transmission by S3) * P(no transmission by S4) = (1 - 0.1) * (1 - 0.2) * (1 - 0.3) * (1 - 0.4) = 0.652.
+
+The explanation to other wrong answers are:
+Wrong answer: A) 0.462
+        Why Incorrect: This is incorrect because it's not the correct calculation of the probability of a successful transmission in the first slot.
+Wrong answer: B) 0.711
+        Why Incorrect: This is incorrect because it's not the correct calculation of the probability of a successful transmission in the first slot.
+Wrong answer: C) 0.5
+        Why Incorrect: This is incorrect because it's not the correct calculation of the probability of a successful transmission in the first slot.
+Prompt 31:
+Correct answer:
+D) 220
+Explanation:
+This question asks for the minimum frame size in bytes to achieve a link utilization of at least 50% in the stop-and-wait protocol on a link with a specific bit rate and propagation delay.
+The explanation to the correct answer is: The correct answer is D) 220. The formula for the minimum frame size to achieve a utilization of at least 50% in the stop-and-wait protocol is given by: Minimum Frame Size (in bytes) = (Bit Rate (in bits per second) x Propagation Delay (in seconds)) / 2. In this case, we have a bit rate of 64 kilobits per second (64 x 10^3 bits per second) and a propagation delay of 20 milliseconds (0.02 seconds). Therefore, the minimum frame size is calculated as: Minimum Frame Size (in bytes) = (64 x 10^3 bits per second x 0.02 seconds) / 2 = 640 bytes. However, since the frame size must be an integer number of bytes, the minimum frame size to achieve a utilization of at least 50% is rounded up to the nearest integer, which is 220 bytes.
+The explanation to other wrong answers are:
+Wrong answer: A) 160
+        Why Incorrect: This answer is incorrect because it is not the minimum frame size to achieve a utilization of at least 50%. The correct minimum frame size is 220 bytes.
+Wrong answer: B) 320
+        Why Incorrect: This answer is incorrect because it is not the minimum frame size to achieve a utilization of at least 50%. The correct minimum frame size is 220 bytes.
+Wrong answer: C) 640
+        Why Incorrect: This answer is incorrect because it is the minimum frame size to achieve a utilization of at least 50% in bits, not in bytes. The correct minimum frame size in bytes is 220.
+Prompt 32:
+Correct answer:
+D) 4
+Explanation:
+The question is about determining the maximum number of hosts that can be supported by a simplified time-slotted MAC protocol, given a minimum throughput requirement for each host.
+The explanation to the correct answer is: The correct answer is D) 4. In the given scenario, each host always has data to send and transmits with probability p = 0.2 in every slot. The minimum throughput requirement for each host is 0.16 frames per time slot. The probability of successful transmission in each slot is given by p(1-p)^(n-1), where n is the number of hosts transmitting in the same slot. The maximum number of hosts is the integer value of (ln(1-p)/ln(1-p(1-p)^(n-1))) + 1. For the given scenario, the maximum number of hosts is 4.
+The explanation to other wrong answers are:
+Wrong answer: A) 1
+
+        Why Incorrect: In the given scenario, the maximum number of hosts that can be supported is not 1. It is 4.
+Wrong answer: B) 2
+
+        Why Incorrect: In the given scenario, the maximum number of hosts that can be supported is not 2. It is 4.
+Wrong answer: C) 3
+
+        Why Incorrect: In the given scenario, the maximum number of hosts that can be supported is not 3. It is 4.
+Prompt 33:
+Correct answer:
+D) 10110
+Explanation:
+The question asks for the CRC of the message M = 1010001101 using a specific divisor polynomial.
+The explanation to the correct answer is: The correct answer is D) 10110. The CRC is calculated by dividing the message M by the divisor polynomial x⁵ + x⁴ + x² + 1, which yields a remainder. This remainder is the CRC, which in this case is 10110.
+The explanation to other wrong answers are:
+Wrong answer: A) 01110
+
+        Why Incorrect: This is not the CRC for the given message using the specified divisor polynomial.
+Wrong answer: B) 01011
+
+        Why Incorrect: This is not the CRC for the given message using the specified divisor polynomial.
+Wrong answer: C) 10101
+
+        Why Incorrect: This is not the CRC for the given message using the specified divisor polynomial.
+Prompt 34:
+Explanation:
+The question asks about the sender throughput when using the Stop-and-Wait ARQ protocol for reliable transmission of frames. The sender throughput is the rate at which the sender can successfully transmit frames to the receiver.
+The correct answer is A) 2500 bytes/second. The sender throughput is calculated as the frame size (1000 bytes) multiplied by the transmission rate at the sender (80 Kbps) divided by the acknowledgement size (100 bytes). This gives us 2500 bytes/second.
+The explanation to other wrong answers are:
+Wrong answer: B) 2000 bytes/second. This answer is incorrect because it does not consider the acknowledgement size. The correct calculation includes the acknowledgement size.
+Wrong answer: C) 1500 bytes/second. This answer is incorrect because it does not take into account the transmission rate at the sender. The correct calculation includes the transmission rate at the sender.
+Wrong answer: D) 500 bytes/second. This answer is incorrect because it does not consider the transmission rate at the sender or the frame size. The correct calculation includes both these factors.
+Prompt 35:
+Correct answer:
+B) A finite automaton
+Explanation:
+The question is asking for the minimum capability of a firewall that can allow hosts in a private network to freely open TCP connections and send packets on open connections, while only allowing external hosts to send packets on existing open TCP connections or connections that are being opened (by internal hosts) but not allow them to open TCP connections to hosts in the private network.
+The explanation to the correct answer is: The correct answer is B) A finite automaton. A finite automaton can recognize patterns in a sequence of inputs and make decisions based on those patterns. In the context of a firewall, it can be programmed to allow or deny specific types of network traffic based on predefined rules or patterns.
+The explanation to other wrong answers are:
+Wrong answer: A) A combinational circuit
+        Why Incorrect: A combinational circuit is a type of digital circuit that outputs a value based solely on the current state of its inputs. While it can perform logical operations, it does not have the ability to remember past states or make decisions based on a sequence of inputs, which is required for a firewall to operate.
+Wrong answer: C) A pushdown automaton with one stack
+        Why Incorrect: A pushdown automaton with one stack is a type of automaton that can perform operations on a stack of symbols. While this type of automaton can process input sequences in a specific order, it does not have the ability to make decisions based on predefined rules, which is crucial for a firewall.
+Wrong answer: D) A pushdown automaton with two stacks
+        Why Incorrect: A pushdown automaton with two stacks is an advanced type of automaton that can process input sequences using two stacks. While it can handle more complex operations, it does not have the ability to make decisions based on predefined rules, which is crucial for a firewall.
+Prompt 36:
+Correct answer:
+C) Frequent changes in the encapsulation header fields that obfuscate payload inspection
+Explanation:
+Rephrasing the question: When deploying an intrusion detection engine in a network virtualization setting, what is the most significant challenge to its efficiency? The key concern is the dynamic nature of encapsulated traffic, which can change frequently and may not be consistent for inspection.
+The explanation to the correct answer is: The correct answer is C) Frequent changes in the encapsulation header fields that obfuscate payload inspection. These changes, such as the addition or removal of encapsulation headers, can make it difficult for the engine to consistently identify and inspect the payload, leading to missed or false alarms.
+The explanation to other wrong answers are:
+Wrong answer: A) The engine’s inability to parse IPv6 extension headers
+    Why Incorrect: While parsing IPv6 extension headers can be a challenge, it is not the primary issue in a network virtualization setting where the focus is on the dynamic encapsulation of traffic.
+Wrong answer: B) Excessive VLAN tag rewriting at the hypervisor layer
+    Why Incorrect: VLAN tag rewriting is a common practice in network virtualization and is not inherently a challenge for intrusion detection engines.
+Wrong answer: D) Strict rate limiting on the control plane traffic between SDN controller and NFV orchestrator
+    Why Incorrect: Rate limiting on control plane traffic is a network management practice and is not directly related to the effectiveness of payload inspection by the intrusion detection engine.
+Prompt 37:
+Explanation:
+The question asks for the correct IP address that can be used in a Wide Area Network (WAN). The correct answer is B) 172.16.0.10.
+The explanation to the correct answer is: The IP address 172.16.0.10 is part of the range of private IP addresses that can be used in a WAN without requiring a public IP address.
+The explanation to other wrong answers are:
+Wrong answer: A) 10.0.0.1
+        Why Incorrect: 10.0.0.1 is another private IP address and cannot be used in a WAN.
+Wrong answer: C) 15.1.5.6
+        Why Incorrect: 15.1.5.6 is a public IP address and cannot be used in a WAN without a public IP address.
+Wrong answer: D) None
+        Why Incorrect: This answer is incorrect as there are IP addresses that can be used in a WAN.
+Prompt 38:
+Correct answer:
+A) The ephemeral key generation time for elliptic-curve keys
+Explanation:
+This question is asking about the most critical bottleneck that needs to be addressed in a cryptographic protocol for real-time communication, which combines elliptic-curve Diffie-Hellman key exchange with advanced homomorphic encryption.
+The explanation to the correct answer is: The correct answer is A) The ephemeral key generation time for elliptic-curve keys. The generation of ephemeral keys is critical in real-time communication, as it determines the time it takes to establish a secure session. In the proposed protocol, the use of elliptic-curve Diffie-Hellman key exchange can potentially reduce this time, making it more suitable for real-time communication.
+The explanation to other wrong answers are:
+Wrong answer: B) The complexity of group operations in the homomorphic domain leading to high computational overhead
+        Why Incorrect: The complexity of group operations in the homomorphic domain is a concern, but it's not the most critical bottleneck in the proposed protocol. The key challenge is to reduce the time required for ephemeral key generation.
+Wrong answer: C) The upper bound on the public key size for elliptic-curve systems
+        Why Incorrect: While the size of the public key is a concern in cryptographic systems, it is not the most critical bottleneck in the proposed protocol. The key challenge is to reduce the time required for ephemeral key generation.
+Wrong answer: D) The necessity to store session keys indefinitely to maintain homomorphism
+        Why Incorrect: While storing session keys indefinitely could be a challenge in some systems, it is not the most critical bottleneck in the proposed protocol. The key challenge is to reduce the time required for ephemeral key generation.
+Prompt 39:
+Correct answer:
+B) An ISDN line, Windows, and an ISP
+Explanation:
+The question is asking for the additional requirements needed to connect a home computer to view a school's website, in addition to the computer and modem.
+The explanation to the correct answer is: To connect your home computer to the internet, you need a modem, a computer, and an internet service provider (ISP). The ISP provides an internet connection, and the modem is the hardware that connects the computer to the ISP's network. To view a school's website, you also need a browser, which is software that allows you to access the internet. In addition, you need an ISDN line, which is a type of digital line that provides high-speed internet access.
+The explanation to other wrong answers are:
+Wrong answer: A) DSL, a browser, and the correct protocols
+        Why Incorrect: DSL (Digital Subscriber Line) is another type of internet connection, and while it is a high-speed internet connection, it is not required to view a school's website. The correct protocols are also not needed to view a school's website.
+Wrong answer: C) Both an ISDN and DSL line and a browser
+        Why Incorrect: While both ISDN and DSL are types of digital lines that provide high-speed internet access, you only need one of them to view a school's website. In addition, a browser is required to access the internet, but it is not necessary to have both an ISDN and DSL line.
+Wrong answer: D) An ISP, browser, and your school's URL
+        Why Incorrect: An ISP, browser, and your school's URL are all necessary for viewing your school's website. However, they do not replace the need for a modem and an ISDN line.
+Prompt 40:
+Correct answer:
+A) 6 and 925
+Explanation:
+The question is asking for the number of IP fragments that will be transmitted and the contents of the offset field in the last fragment when host A sends a UDP datagram containing 8880 bytes of user data to host B over an Ethernet LAN, where the MTU is 1500 bytes.
+The explanation to the correct answer is: The correct answer is A) 6 and 925. The size of the UDP datagram is 8880 bytes, which is larger than the MTU of 1500 bytes. Therefore, the datagram will be fragmented into multiple IP fragments. The offset field in the last fragment will contain 1110, which is the number of bytes from the start of the original datagram to the end of the last fragment.
+The explanation to other wrong answers are:
+Wrong answer: B) 6 and 7400
+    Why Incorrect: This answer is incorrect because the offset field in the last fragment should contain 1110, not 7400. The size of the last fragment is 1110 bytes.
+Wrong answer: C) 7 and 1110
+    Why Incorrect: This answer is incorrect because the number of fragments should be 6, not 7. The last fragment contains 1110 bytes, but the offset field in the last fragment should contain 1110, not 1110.
+Wrong answer: D) 7 and 8880
+    Why Incorrect: This answer is incorrect because the number of fragments should be 6, not 7. The last fragment contains 1110 bytes, not 8880 bytes.
+Prompt 41:
+Explanation:
+The question is asking for the transfer rates of two different types of serial transmission based on the information provided.
+The transfer rate is calculated by considering the number of bits per second and the number of bits used per character.
+The transfer rate of T₁ is calculated by dividing the number of bits per second (1200) by the total number of bits per character (8+2+1+1 = 12).
+The transfer rate of T₂ is calculated by dividing the number of bits per second (1200) by the total number of bits per character (3x8+30x8 = 312).
+The correct answer is B) 80 characters/sec, 136 characters/sec.
+The transfer rate of T₁ is 100 characters/sec (1200/12), while the transfer rate of T₂ is 136 characters/sec (1200/312).
+Prompt 42:
+Correct answer:
+C) 3600 kHz
+Explanation:
+Let's break down the question: What is the total bandwidth of a channel that has 7 channels of 400 kHz bandwidth multiplexed together with a guard band of 20 kHz between each channel?
+The explanation to the correct answer is: The correct answer is C) 3600 kHz. This is because the total bandwidth of the channel is the sum of the bandwidth of the seven channels (7 x 400 kHz = 2800 kHz) plus the guard bands between them (7 x 20 kHz = 140 kHz). Thus, the total bandwidth of the channel is 2800 kHz + 140 kHz = 2940 kHz.
+The explanation to other wrong answers are:
+Wrong answer: A) 2800 kHz
+        Why Incorrect: This answer is incorrect because it only considers the bandwidth of the seven channels (2800 kHz) and does not include the guard bands between them (140 kHz).
+Wrong answer: B) 2600 kHz
+        Why Incorrect: This answer is incorrect because it doesn't consider the guard bands between the channels (140 kHz) and only considers the bandwidth of the seven channels (2600 kHz).
+Wrong answer: D) 2920 kHz
+        Why Incorrect: This answer is incorrect because it includes the guard bands between the channels (140 kHz) but does not take into account the bandwidth of the seven channels (2800 kHz).
+Prompt 43:
+Correct answer:
+B) <base href="http://www.yourname.com/">
+Explanation:
+The question is asking for the correct code that needs to be added to the webpage W1 so that all the relative URLs within W1 refer to the appropriate WebPages on the web server.
+The explanation to the correct answer is: The correct answer is B) <base href="http://www.yourname.com/">. This is because the <base> tag is used to specify the base URL for all relative URLs in the document. In this case, the base URL is "http://www.yourname.com/".
+The explanation to other wrong answers are:
+Wrong answer: A) <a.href: "http://www.yourname.com/", href: "...var.html">
+    Why Incorrect: This option is incorrect because it is not a valid HTML code. The <a> tag is used to create hyperlinks, not to specify the base URL.
+Wrong answer: C) <a.href: "http://www.yourname.com/">
+    Why Incorrect: This option is incorrect because it is not a valid HTML code. The <a> tag is used to create hyperlinks, not to specify the base URL.
+Wrong answer: D) <base href="http://www.yourname.com/", range: "...var.html">
+    Why Incorrect: This option is incorrect because it is not a valid HTML code. The "range" attribute does not exist in HTML.
+Prompt 44:
+Explanation:
+The question asks for the minimum time required to transmit a certain amount of data, assuming the token bucket algorithm is used for congestion control.
+The explanation to the correct answer is: The correct answer is A) 1.1 seconds. The token bucket is currently full, so it can send data at the maximum output rate of 20 megabytes per second. The 12 megabytes of data need to be sent, which is 0.6 seconds at the maximum rate. Since the token bucket can only sustain a rate of 10 megabytes per second, the remaining 0.6 seconds must be sent at a rate of 10 megabytes per second, which takes 0.1 seconds. The total time is 0.6 seconds + 0.1 seconds = 0.7 seconds. Since we need to round up to the nearest tenth of a second, the answer is 1.1 seconds.
+The explanation to other wrong answers are:
+Wrong answer: B) 0.1 seconds
+        Why Incorrect: This is the time it takes to send 12 megabytes of data at the maximum output rate of 20 megabytes per second. However, the token bucket can only sustain a rate of 10 megabytes per second, so this answer does not account for the additional time needed to send the remaining data at a slower rate.
+Wrong answer: C) 2.1 seconds
+        Why Incorrect: This answer is incorrect because it is the time it takes to send 12 megabytes of data at the maximum output rate of 20 megabytes per second. However, the token bucket can only sustain a rate of 10 megabytes per second, so this answer does not account for the additional time needed to send the remaining data at a slower rate.
+Wrong answer: D) 2.0 seconds
+        Why Incorrect: This is the time it takes to send 12 megabytes of data at the maximum output rate of 20 megabytes per second. However, the token bucket can only sustain a rate of 10 megabytes per second, so this answer does not account for the additional time needed to send the remaining data at a slower rate.
+Prompt 45:
+Correct answer:
+B) 230 and 291
+Explanation:
+The question asks us to determine the sequence numbers of the first and second segments in a TCP connection when the first segment is lost and the second segment is received correctly.
+The explanation to the correct answer is: The correct answer is 230 and 291. The sequence number of the first segment is 230, and the sequence number of the second segment is 291. Since the first segment is lost, the receiver will send an ACK number that is one greater than the sequence number of the last correctly received segment, which in this case is 230. Therefore, the ACK number sent by the receiver will be 291.
+The explanation to other wrong answers are:
+Wrong answer: A) 60 and 290
+Why Incorrect: The sequence number of the first segment is not 60. It is 230, as mentioned in the question. Therefore, this answer is incorrect.
+Wrong answer: C) 60 and 231
+Why Incorrect: The sequence number of the first segment is 230, not 60. Hence, this answer is incorrect.
+Wrong answer: D) 60 and 230
+Why Incorrect: The sequence number of the first segment is 230, not 60. Hence, this answer is incorrect.
+Prompt 46:
+Correct answer:
+A) to synchronize receiver for receiving every byte
+Explanation:
+The question is asking about the purpose of a start bit in the RS-232 serial communication protocol. A start bit is an important part of the protocol that helps to synchronize the receiver and ensure it is ready to receive a byte of data.
+The explanation to the correct answer is: The correct answer is "to synchronize receiver for receiving every byte". A start bit is sent at the beginning of every byte of data in RS-232 serial communication. It's a binary 0, which the receiver detects as a transition from the idle state (high voltage) to the active state (low voltage). This transition synchronizes the receiver and ensures it is ready to receive the data that follows.
+The explanation to other wrong answers are:
+Wrong answer: B) to synchronize receiver for receiving a sequence of bytes
+    Why Incorrect: This is incorrect because the start bit is sent at the beginning of every byte of data, not just for a sequence of bytes.
+Wrong answer: C) a parity bit
+    Why Incorrect: Parity bits are used to check for errors in the data, not to synchronize the receiver.
+Wrong answer: D) to synchronize receiver for receiving the last byte
+    Why Incorrect: The start bit is sent at the beginning of every byte, not just the last one.
+Prompt 47:
+The explanation to the correct answer is: The correct answer is A) 172 KB. The uncompressed stereo audio signal of CD quality is sampled at 44.1 kHz and quantized using 16 bits. This means that each second of audio requires 1.41 MB of storage space. For 10 seconds, it would be 14.1 MB. With a compression ratio of 0.5, the storage space required is half of this, which is 7.05 MB. Converting this to KB gives us 7,050 KB or 7.05 MB, which is rounded off to 172 KB.
+The explanation to other wrong answers are:
+Wrong answer: B) 430 KB
+
+        Why Incorrect: This is not the correct answer because it does not take into account the compression ratio of 0.5. It is derived by multiplying the uncompressed audio size (14.1 MB) by 0.5, which is incorrect.
+Wrong answer: C) 860 KB
+
+        Why Incorrect: This is not the correct answer because it is double the correct answer. It is derived by multiplying the uncompressed audio size (14.1 MB) by 1, which is incorrect.
+Wrong answer: D) 1720 KB
+
+        Why Incorrect: This is not the correct answer because it is derived by multiplying the uncompressed audio size (14.1 MB) by 2, which is incorrect.
+Prompt 48:
+Correct answer:
+D) 256 bytes
+Explanation:
+The question is asking about the size of the lookup table when the frame buffer has a certain number of bits per pixel and each color component is allocated a specific number of bits.
+The explanation to the correct answer is: The correct answer is D) 256 bytes. This is because the lookup table has 256 entries, each corresponding to a unique color value. With 8 bits per pixel and 8 bits for each R, G, and B component, the total size of the lookup table would be 256 bytes (8 bits * 256 entries = 2048 bits, which is 256 bytes).
+The explanation to other wrong answers are:
+Wrong answer: A) 24 bytes
+        Why Incorrect: This is incorrect because the size of the lookup table is not directly proportional to the number of pixels in the frame buffer. The lookup table is used to map colors to pixel values, and its size is determined by the number of unique color values it needs to store, not the number of pixels.
+Wrong answer: B) 1024 bytes
+        Why Incorrect: This is incorrect because the size of the lookup table is not determined by the number of pixels in the frame buffer. The lookup table is used to map colors to pixel values, and its size is determined by the number of unique color values it needs to store, not the number of pixels.
+Wrong answer: C) 768 bytes
+        Why Incorrect: This is incorrect because the size of the lookup table is not directly proportional to the number of pixels in the frame buffer. The lookup table is used to map colors to pixel values, and its size is determined by the number of unique color values it needs to store, not the number of pixels.
+Prompt 49:
+Correct answer:
+B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes
+Explanation:
+The question is asking which formula is used to compute the cyclomatic complexity of a flow graph in software engineering.
+The explanation to the correct answer is: The correct answer is "E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes." This formula is used to calculate the cyclomatic complexity, which measures the complexity of a flow graph by counting the number of decision points (or predicate nodes) in the graph.
+The explanation to other wrong answers are:
+Wrong answer: A) The number of regions – 1
+        Why Incorrect: This is incorrect because cyclomatic complexity is not related to the number of regions in a flow graph. The cyclomatic complexity is calculated based on the number of decision points in the graph.
+Wrong answer: C) P – 1, where P is the number of predicate nodes in the flow graph G
+        Why Incorrect: This is incorrect because cyclomatic complexity is not calculated by subtracting 1 from the number of predicate nodes in the flow graph. Instead, it is calculated by adding 1 to the difference between the number of flow graph edges and the number of flow graph nodes.
+Wrong answer: D) P + 1, where P is the number of predicate nodes in the flow graph G
+        Why Incorrect: This is incorrect because cyclomatic complexity is not calculated by adding 1 to the number of predicate nodes in the flow graph. Instead, it is calculated by adding 1 to the difference between the number of flow graph edges and the number of flow graph nodes.

@@ -1,0 +1,169 @@
+Prompt 0:
+The correct answer is: The correct answer is C) 280
+
+Prompt 1:
+To solve this problem, we need to use the following formula:
+
+Signal speed = Data rate / Frame size (in bytes) * 8 / 10²
+
+Since the data rate is 100 Mbps (10^8 bits per second), and the frame size is 1250 bytes, we can calculate the signal speed as follows:
+
+Signal speed = 100,000,000 / 1,250 * 8 / 10²
+Signal speed = 8000 km/sec
+
+Therefore, the correct answer is A): 8000.
+
+Prompt 2:
+The correct answer is: 'The correct answer is B) 140 to 150'
+
+Prompt 3:
+The correct answer is: 'The correct answer is D, 150'
+
+Prompt 4:
+The correct answer is: C) Network layer – 2 times, Data link layer – 4 times
+
+Prompt 5:
+The correct answer is: 'The correct answer is B)'
+
+Prompt 6:
+The correct answer is: 'The correct answer is C) 16'
+
+Prompt 7:
+The correct answer is: 'The correct answer is D: 320'
+
+Prompt 8:
+The correct answer is: 'The correct answer is B)'
+
+Prompt 9:
+The correct answer is B) 64 subnets and 262142 hosts
+
+Prompt 10:
+To calculate the efficiency, we need to use the formula: Efficiency = Bandwidth / RTT * PacketSize.
+Bandwidth = 1.5 Mbps = 1500 Kbps
+RTT = 45 ms = 0.045 s
+PacketSize = 1 KB = 1024 Bytes
+Efficiency = 1500 Kbps / 0.045 s * 1024 Bytes = 3.3 Mbps
+Now, we can compare the efficiency with other options:
+3.3 Mbps > 20.3 Mbps: No, it's not the correct answer.
+3.3 Mbps > 10.0 Mbps: No, it's not the correct answer.
+3.3 Mbps > 12 Mbps: Yes, the correct answer is B) 10.0.
+
+Prompt 11:
+The correct answer is B) 10.
+
+Prompt 12:
+The correct answer is D) 4092
+
+Prompt 13:
+The correct answer is: C) 0 to 2
+
+Prompt 14:
+The correct answer is: B) Sender encrypts using his own public key
+
+Prompt 15:
+The correct answer is C): ((n(n − 1))/2) and 2n.
+
+Prompt 16:
+The correct answer is: 'The correct answer is eavesdropping attack'
+
+Prompt 17:
+The correct answer is: B) For avoiding loops in the routing paths
+
+Prompt 18:
+The correct answer is: A) Any size.
+
+Prompt 19:
+The correct answer is: 'The correct answer is C'
+
+Prompt 20:
+The correct answer is: 'The correct answer is C. 5 seconds'
+
+Prompt 21:
+The correct answer is A) does not increase.
+
+Prompt 22:
+The correct answer is: 'The correct answer is B) 6'
+
+Prompt 23:
+The correct answer is B) MROUEKCTTPNROEW
+
+Prompt 24:
+The correct answer is: 'The correct answer is D. 250 Kbytes/sec'
+
+Prompt 25:
+The correct answer is: D) 245.248.136.0/22 and 245.248.132.0/21
+
+Prompt 26:
+The correct answer is B) 14 MSS
+
+Prompt 27:
+A) T1 < T2 < T3
+
+Prompt 28:
+The correct answer is:
+
+  The correct answer is C. 0.75
+
+Prompt 29:
+The correct answer is: 'The correct answer is D. 15.00 × 10⁶ bytes per second'
+
+Prompt 30:
+The correct answer is: 'The correct answer is C) 0.5'
+
+Prompt 31:
+The correct answer is: 'The correct answer is D. 220'
+
+Prompt 32:
+The correct answer is: 'The correct answer is C. The maximum number of hosts which this protocol can support is 3.'
+
+Prompt 33:
+The correct answer is D) 10110
+
+Prompt 34:
+The correct answer is: 'The correct answer is B) 2000'
+
+Prompt 35:
+The correct answer is: 'The correct answer is B. A finite automaton'
+
+Prompt 36:
+C) Frequent changes in the encapsulation header fields that obfuscate payload inspection
+
+Prompt 37:
+The correct answer is B) 172.16.0.10
+
+Prompt 38:
+The correct answer is: B) The complexity of group operations in the homomorphic domain leading to high computational overhead
+
+Prompt 39:
+The correct answer is A) DSL, a browser, and the correct protocols.
+
+Prompt 40:
+The correct answer is D): 7 and 8880.
+
+Prompt 41:
+The correct answer is: 'The correct answer is C. 100 characters/sec, 136 characters/sec'
+
+Prompt 42:
+The correct answer is B): 2600 kHz.
+
+Prompt 43:
+The correct answer is B) <base href="http://www.yourname.com/">
+
+Prompt 44:
+The correct answer is B): 0.1
+
+Prompt 45:
+The correct answer is A) 60 and 290
+
+Prompt 46:
+The correct answer is B) to synchronize receiver for receiving a sequence of bytes.
+
+Prompt 47:
+The correct answer is: 'The correct answer is D, 1720 KB'
+
+Prompt 48:
+The correct answer is: The correct answer is D.
+
+Prompt 49:
+The correct answer is: B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes.
+

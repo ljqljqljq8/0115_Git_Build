@@ -1,0 +1,169 @@
+Prompt 0:
+ I'm sorry, but I don't have enough information to answer the question you provided. Can you please provide more context or details about the question?
+
+Prompt 1:
+ The correct option is:
+
+D) 20000
+
+Prompt 2:
+ The option C) 160 to 170 is closest to the actual answer, which is approximately 158. The answer lies in the range of 150 to 160. Therefore, the correct answer is option C) 160 to 170.
+
+Prompt 3:
+ The correct option is B) 250.
+
+Prompt 4:
+ B) Network Layer – 2 times, Data Link Layer – 1 time.
+
+In the TCP/IP protocol suite, the Network layer is responsible for routing packets across intermediate routers towards their final destination. The Data Link layer, on the other hand, is responsible for error-free transmission of data over a physical link between adjacent network nodes (such as two computers on a local area network). Therefore, it would be more accurate to say that the Network layer is encountered 2 times (once in each direction of communication) while the Data Link layer is encountered only once during each direction of communication.
+
+Prompt 5:
+ The correct answer is option C.
+
+Prompt 6:
+ The correct option is C) 16.
+
+Prompt 7:
+ The correct option is B) 40.
+
+Prompt 8:
+ The correct answer is C) Encryption: X's private key followed by Y's public key. Decryption: Y's private key followed by X's public key.
+
+Prompt 9:
+ The correct option is D) 62 subnets and 1022 hosts.
+
+Subnetting in IPv4 involves dividing a network into smaller subnetworks called subnets. To determine the number of subnets that can be created from a given IP address, we need to consider the size of the network (indicated by the mask) and the subnetting method used.
+
+In the case of a Class C IPv4 address with 255 hosts, we can create up to 62 subnets using various subnetting methods such as subnetting with a /29 mask or subnetting with a /30 mask. The number of hosts in each subnet would depend on the size of the subnet.
+
+1. Subnetting with a /29 mask: In this method, we divide the network into 8 subnets with 30 hosts each (2^5-2).
+2. Subnetting with a /30 mask: In this method, we divide the network into 16 subnets with 14 hosts each (2^4-2).
+
+So, there are two methods to create subnets with a Class C IPv4 address and 255 hosts, resulting in a total of 62 subnets (8+16) and 1022 hosts (30*8+14\*16).
+
+Prompt 10:
+ The answer is D) 10.8.
+
+Prompt 11:
+ Option D) 100 is the correct answer.
+
+Prompt 12:
+ The correct option is C) 4094.
+
+Prompt 13:
+ B. 27 to 31
+
+Prompt 14:
+ A
+
+Prompt 15:
+ The correct option is C) (n(n − 1))/2. This formula represents the sum of all the integers from n to 1, including n but excluding 0. It's a common formula used in mathematics and computer science to calculate the sum of an arithmetic series. The other options are not correct.
+
+Prompt 16:
+ A) Denial of service attack
+
+Prompt 17:
+ The correct answer is Option B: "For avoiding loops in the routing paths".
+
+Prompt 18:
+ A) Any size
+
+Prompt 19:
+ The correct option is "C) connect() system call returns an error".
+
+Prompt 20:
+ The correct option is B) 2 seconds. The image depicts a red light that indicates stop and a green light that indicates go. After the red light turns off, drivers are expected to proceed with caution. However, it is generally recommended for drivers to wait at least 2 seconds after the green light appears before proceeding. This allows time for other vehicles to clear the intersection and ensures a smooth flow of traffic. Therefore, option B) "2 seconds" is the correct answer.
+
+Prompt 21:
+ None of the options are correct. The correct answer would depend on the context and what exactly is being referred to when talking about population density increasing exponentially.
+
+Prompt 22:
+ The answer is D.
+
+Prompt 23:
+ The correct option is A) EKPNRMROOEWCTT.
+
+Prompt 24:
+ A) 32 KBytes/sec
+
+Prompt 25:
+ The answer is A) 245.248.136.0/21 and 245.248.128.0/22.
+
+Prompt 26:
+ C) 7 MSS is correct.
+
+Prompt 27:
+ The answer is D) T1 = T3, T3 > T2.
+
+Prompt 28:
+ A) This option is incorrect because it does not follow the rules for computing the average of a set of numbers. The average of a set of numbers is found by adding all the numbers in the set and then dividing the sum by the total number of items in the set.
+
+Prompt 29:
+ The answer to this question is B) 11.11 × 10⁶ bytes per second.
+
+Prompt 30:
+ C) None of these. The question asks to identify an unknown value or variable in a given expression, but there is no specific question provided to determine what the unknown value is or what it represents.
+
+Prompt 31:
+ The correct option is B) 320. This is because a standard definition (SD) video signal has 320 pixels in its width, and this option represents a SD video signal. Other options do not match the description of an SD video signal.
+
+Prompt 32:
+ B) 2
+
+Prompt 33:
+ A) 01110
+
+Prompt 34:
+ B) 2500
+
+Prompt 35:
+ A) A pushdown automaton with one stack
+
+A pushdown automaton with only one stack cannot process input from two different sources simultaneously. Therefore, option A is incorrect.
+
+Prompt 36:
+ The correct option is C) Frequent changes in the encapsulation header fields that obfuscate payload inspection.
+
+Prompt 37:
+ The correct option is:
+C) 15.1.5.6
+This represents the IP address in the given format: major version, minor version, subnet field, and host identifier.
+
+Prompt 38:
+ The answer is (B) The complexity of group operations in the homomorphic domain leading to high computational overhead.
+
+Prompt 39:
+ B) HTTP
+
+Prompt 40:
+ C) 7 and 1110
+
+Prompt 41:
+ The correct option is B) 40 characters/sec. This is because the average person types at a speed of about 40 characters per second on a standard keyboard.
+
+Prompt 42:
+ The correct option is B) 1460 kHz.
+
+Prompt 43:
+ A
+
+Prompt 44:
+ C) None of the above
+
+Prompt 45:
+ The answer to the question is D) 60 and 230.
+
+Prompt 46:
+ B) Start from the beginning of the packet.
+
+Prompt 47:
+ The correct option is C) 860 KB.
+
+To calculate the size of a file in kilobytes, we divide the number of bytes by 1,024. Since 860 kilobytes = 860 \* 1,024 / 1,024 = 860 KB.
+
+Prompt 48:
+ The correct option is D) 256 bytes.
+
+Prompt 49:
+ The correct option is D) P + 1, where P is the number of predicate nodes in the flow graph G.
+

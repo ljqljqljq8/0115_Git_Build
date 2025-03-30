@@ -1,0 +1,1053 @@
+Prompt 0:
+ The correct answer is B) 6.67 bits/s/Hz.
+
+Prompt 1:
+ The correct answer is B.
+
+Prompt 2:
+ The correct answer is A) 110 000V.
+
+Prompt 3:
+ The correct answer is C) 01010101.
+
+Prompt 4:
+ The correct answer is B.
+
+Prompt 5:
+ The correct answer is B) IP address.
+
+Prompt 6:
+ The correct answer is A) Reduces the load on root name servers.
+
+Prompt 7:
+ The correct answer is B.
+
+Prompt 8:
+ The correct answer is B) 702.
+
+Prompt 9:
+ The correct answer is B) 48 channels.
+
+Prompt 10:
+ The correct answer is A) Provides higher flexibility and better utilization of bandwidth.
+
+Prompt 11:
+ The correct answer is B.
+
+Prompt 12:
+ The correct answer is D.
+
+Prompt 13:
+ The correct answer is A)
+
+Prompt 14:
+ The correct answer is A) It requires enhanced error correction and signal processing capabilities to handle the higher symbol rate.
+
+Prompt 15:
+ The correct answer is A.
+
+Prompt 16:
+ The correct answer is A).
+
+Prompt 17:
+ The correct answer is D.
+
+Prompt 18:
+ The correct answer is B.
+
+Prompt 19:
+ The correct answer is D.
+
+Prompt 20:
+ The correct answer is B)
+
+Prompt 21:
+ The correct answer is C.
+
+Prompt 22:
+ The correct answer is D.
+
+Prompt 23:
+ The correct answer is B.
+
+Prompt 24:
+ The correct answer is C) All of the above.
+
+Prompt 25:
+ The correct answer is B.
+
+Prompt 26:
+ The correct answer is C.
+
+Prompt 27:
+ The correct answer is A) HTTP -> SMTP -> POP3.
+
+Prompt 28:
+ The correct answer is B.
+
+Prompt 29:
+ The correct answer is D.
+
+Prompt 30:
+ The correct answer is C) To prevent IP address spoofing by validating source addresses.
+
+Prompt 31:
+ The correct answer is B) IP address and port number.
+
+Prompt 32:
+ The correct answer is A) Store the purchase record in a database and use cookies to store the database session ID.
+
+Prompt 33:
+ The correct answer is D.
+
+Prompt 34:
+ The correct answer is B.
+
+Prompt 35:
+ The correct answer is B.
+
+Prompt 36:
+ The correct answer is B) Dijkstra’s algorithm.
+
+Prompt 37:
+ The correct answer is C) By ensuring routes learned from a neighbor are not advertised back to that neighbor.
+
+Prompt 38:
+ The correct answer is A).
+
+Prompt 39:
+ The correct answer is B) Traffic shaping regulates data flow to prevent congestion and ensure smooth traffic.
+
+Prompt 40:
+ The correct answer is A.
+
+Prompt 41:
+ The correct answer is A) Cut-through switching reduces latency by beginning to forward a packet before the entire packet is received, but at the cost of potentially propagating error-containing packets.
+
+Prompt 42:
+ The correct answer is A) The leaky bucket algorithm restricts data flow to a fixed rate and buffers excess data, making it suitable for smoothing out bursty traffic but potentially causing delay when the bucket is full.
+
+Prompt 43:
+ The correct answer is C.
+
+Prompt 44:
+ The correct answer is B)
+
+Prompt 45:
+ The correct answer is B)
+
+Prompt 46:
+ The correct answer is C.
+
+Prompt 47:
+ The correct answer is B.
+
+Prompt 48:
+ The correct answer is C.
+
+Prompt 49:
+ The correct answer is B)
+
+Prompt 50:
+ The correct answer is A.
+
+Prompt 51:
+ The correct answer is C.
+
+Prompt 52:
+ The correct answer is D.
+
+Prompt 53:
+ The correct answer is A.
+
+Prompt 54:
+ The correct answer is B.
+
+Prompt 55:
+ The correct answer is B.
+
+Prompt 56:
+ The correct answer is C)
+
+Prompt 57:
+ The correct answer is D.
+
+Prompt 58:
+ The correct answer is A.
+
+Prompt 59:
+ The correct answer is B) By considering multiple factors such as path length, AS path, origin type, and multiple BGP attributes.
+
+Prompt 60:
+ The correct answer is B) By allowing multiple devices on a local network to be mapped to a single public IP address, using different port numbers for each session.
+
+Prompt 61:
+ The correct answer is D.
+
+Prompt 62:
+ The correct answer is B)
+
+Prompt 63:
+ The correct answer is B.
+
+Prompt 64:
+ The correct answer is D.
+
+Prompt 65:
+ The correct answer is C).
+
+Prompt 66:
+ The correct answer is B.
+
+Prompt 67:
+ The correct answer is B.
+
+Prompt 68:
+ The correct answer is C) By classifying traffic into categories and assigning appropriate service levels.
+
+Prompt 69:
+ The correct answer is C.
+
+Prompt 70:
+ The correct answer is B) It maps ATM addresses to IP addresses, facilitating data transfer between different network types.
+
+Prompt 71:
+ The correct answer is C.
+
+Prompt 72:
+ The correct answer is A.
+
+Prompt 73:
+ The correct answer is B)
+
+Prompt 74:
+ The correct answer is A) By controlling cell transmission rates using a leaky bucket algorithm to conform to the contract parameters.
+
+Prompt 75:
+ The correct answer is B.
+
+Prompt 76:
+ The correct answer is C.
+
+Prompt 77:
+ The correct answer is B) Simplified implementation of advanced optical networking technologies.
+
+Prompt 78:
+ The correct answer is D.
+
+Prompt 79:
+ The correct answer is B.
+
+Prompt 80:
+ The correct answer is B).
+
+Prompt 81:
+ The correct answer is C)
+
+Prompt 82:
+ The correct answer is C.
+
+Prompt 83:
+ The correct answer is B.
+
+Prompt 84:
+ The correct answer is B) By allowing packets to carry a list of forwarding instructions, reducing reliance on the routing table.
+
+Prompt 85:
+ The correct answer is C.
+
+Prompt 86:
+ The correct answer is A) IP fragmentation.
+
+Prompt 87:
+ The correct answer is D) Encapsulating Security Payload (ESP).
+
+Prompt 88:
+ The correct answer is D.
+
+Prompt 89:
+ The correct answer is C.
+
+Prompt 90:
+ The correct answer is A.
+
+Prompt 91:
+ The correct answer is B) HMAC (Hash-based Message Authentication Code).
+
+Prompt 92:
+ The correct answer is D.
+
+Prompt 93:
+ The correct answer is B.
+
+Prompt 94:
+ The correct answer is D.
+
+Prompt 95:
+ The correct answer is D.
+
+Prompt 96:
+ The correct answer is A) By clustering similar data points and representing them with a single value.
+
+Prompt 97:
+ The correct answer is C) Object-oriented programming.
+
+Prompt 98:
+ The correct answer is A.
+
+Prompt 99:
+ The correct answer is B.
+
+Prompt 100:
+ The correct answer is C) Using predictive coding with a low-precision error model.
+
+Prompt 101:
+ The correct answer is D) 1,000 kbps
+
+Prompt 102:
+ The correct answer is C) 8 kHz.
+
+Prompt 103:
+ The correct answer is B.
+
+Prompt 104:
+ The correct answer is C)
+
+Prompt 105:
+ The correct answer is B) 1 mW.
+
+Prompt 106:
+ The correct answer is C) 40 Mbps.
+
+Prompt 107:
+ The correct answer is D.
+
+Prompt 108:
+ The correct answer is A)
+
+Prompt 109:
+ The correct answer is D.
+
+Prompt 110:
+ The correct answer is A) By simplifying packet forwarding through a standardized path label mechanism.
+
+Prompt 111:
+ The correct answer is C.
+
+Prompt 112:
+ The correct answer is A)
+
+Prompt 113:
+ The correct answer is B.
+
+Prompt 114:
+ The correct answer is B)
+
+Prompt 115:
+ The correct answer is B.
+
+Prompt 116:
+ The correct answer is B.
+
+Prompt 117:
+ The correct answer is B.
+
+Prompt 118:
+ The correct answer is C) Implement a dynamic routing algorithm that recalculates paths in real-time.
+
+Prompt 119:
+ The correct answer is A.
+
+Prompt 120:
+ The correct answer is B) Replace the faulty switch immediately with a spare.
+
+Prompt 121:
+ The correct answer is B) Automatically throttle data rates for non-critical applications.
+
+Prompt 122:
+ The correct answer is A) Divert traffic through secondary routers configured with load balancing capabilities.
+
+Prompt 123:
+ The correct answer is A)
+
+Prompt 124:
+ The correct answer is A) Distribute data replication across multiple geographical locations.
+
+Prompt 125:
+ The correct answer is A) Enforce strict access controls and multi-factor authentication for remote connections.
+
+Prompt 126:
+ The correct answer is A) Maintain local backups of all critical data.
+
+Prompt 127:
+ The correct answer is B.
+
+Prompt 128:
+ The correct answer is B) Increase the subnet mask length and the number of bits used for subnetting.
+
+Prompt 129:
+ The correct answer is D.
+
+Prompt 130:
+ The correct answer is A) Segment the network by geographical locations and assign local addresses for intra-region traffic.
+
+Prompt 131:
+ The correct answer is C) Subdivide the existing address space using more specific CIDR blocks to increase the granularity of address allocation.
+
+Prompt 132:
+ The correct answer is C.
+
+Prompt 133:
+ The correct answer is A) By spoofing the care-of address to redirect traffic to an unauthorized node, leading to potential data interception and unauthorized access.
+
+Prompt 134:
+ The correct answer is A.
+
+Prompt 135:
+ The correct answer is A)
+
+Prompt 136:
+ The correct answer is B.
+
+Prompt 137:
+ The correct answer is D.
+
+Prompt 138:
+ The correct answer is D.
+
+Prompt 139:
+ The correct answer is A) Implementing a unique session identifier within each packet to differentiate between connections.
+
+Prompt 140:
+ The correct answer is B).
+
+Prompt 141:
+ The correct answer is C) 8 MSS.
+
+Prompt 142:
+ The correct answer is B.
+
+Prompt 143:
+ The correct answer is B.
+
+Prompt 144:
+ The correct answer is A.
+
+Prompt 145:
+ The correct answer is D) All of the above.
+
+Prompt 146:
+ The correct answer is C)
+
+Prompt 147:
+ The correct answer is C.
+
+Prompt 148:
+ The correct answer is A.
+
+Prompt 149:
+ The correct answer is A) Implementing Quality of Service (QoS) protocols to prioritize video traffic.
+
+Prompt 150:
+ The correct answer is C) Geo-replicate content across multiple data centers.
+
+Prompt 151:
+ The correct answer is C) Implement Forward Error Correction (FEC).
+
+Prompt 152:
+ The correct answer is C) Platform as a Service (PaaS).
+
+Prompt 153:
+ The correct answer is B) In-memory database with ACID compliance.
+
+Prompt 154:
+ The correct answer is B) MQTT.
+
+Prompt 155:
+ The correct answer is B.
+
+Prompt 156:
+ The correct answer is B.
+
+Prompt 157:
+ The correct answer is B.
+
+Prompt 158:
+ The correct answer is C.
+
+Prompt 159:
+ The correct answer is B.
+
+Prompt 160:
+ The correct answer is C) Link bonding.
+
+Prompt 161:
+ The correct answer is C) Initializes the network interface with a MAC address.
+
+Prompt 162:
+ The correct answer is B) 100 meters.
+
+Prompt 163:
+ The correct answer is D) Network Address Translation (NAT) device.
+
+Prompt 164:
+ The correct answer is C.
+
+Prompt 165:
+ The correct answer is C) Differentiated Services (DiffServ).
+
+Prompt 166:
+ The correct answer is B) 802.11ac
+
+Prompt 167:
+ The correct answer is B) Stateful Inspection Firewall.
+
+Prompt 168:
+ The correct answer is B) MSTP.
+
+Prompt 169:
+ The correct answer is C) IPSec VPN.
+
+Prompt 170:
+ The correct answer is D.
+
+Prompt 171:
+ The correct answer is A) Phase 1.
+
+Prompt 172:
+ The correct answer is D) Resource Reservation Protocol (RSVP).
+
+Prompt 173:
+ The correct answer is D) Improves data packet forwarding efficiency.
+
+Prompt 174:
+ The correct answer is B.
+
+Prompt 175:
+ The correct answer is C) 192.168.1.255
+
+Prompt 176:
+ The correct answer is B) To connect multiple devices and manage the data traffic between them.
+
+Prompt 177:
+ The correct answer is C.
+
+Prompt 178:
+ The correct answer is B) DHCP.
+
+Prompt 179:
+ The correct answer is B.
+
+Prompt 180:
+ The correct answer is A) Firewall.
+
+Prompt 181:
+ The correct answer is B) Man-in-the-Middle (MitM) attack.
+
+Prompt 182:
+ The correct answer is C) MX record.
+
+Prompt 183:
+ The correct answer is B) net view.
+
+Prompt 184:
+ The correct answer is C.
+
+Prompt 185:
+ The correct answer is B.
+
+Prompt 186:
+ The correct answer is B) RADIUS.
+
+Prompt 187:
+ The correct answer is B) RADIUS.
+
+Prompt 188:
+ The correct answer is B).
+
+Prompt 189:
+ The correct answer is A) Judicial authority.
+
+Prompt 190:
+ The correct answer is C) Port authentication.
+
+Prompt 191:
+ The correct answer is C) Novell NetWare.
+
+Prompt 192:
+ The correct answer is B) Traffic shaping.
+
+Prompt 193:
+ The correct answer is B.
+
+Prompt 194:
+ The correct answer is B) 2001:480:b6f3.
+
+Prompt 195:
+ The correct answer is A) 10.
+
+Prompt 196:
+ The correct answer is A.
+
+Prompt 197:
+ The correct answer is D.
+
+Prompt 198:
+ The correct answer is B) Creating an algorithm.
+
+Prompt 199:
+ The correct answer is C.
+
+Prompt 200:
+ The correct answer is A.
+
+Prompt 201:
+ The correct answer is C) RADIUS server.
+
+Prompt 202:
+ The correct answer is B.
+
+Prompt 203:
+ The correct answer is C) Read and Write.
+
+Prompt 204:
+ The correct answer is B) Port filtering.
+
+Prompt 205:
+ The correct answer is C) Install a backup generator.
+
+Prompt 206:
+ The correct answer is A.
+
+Prompt 207:
+ The correct answer is C.
+
+Prompt 208:
+ The correct answer is A) 11111111111111111111111100000000.
+
+Prompt 209:
+ The correct answer is B) APIPA (Automatic Private IP Addressing).
+
+Prompt 210:
+ The correct answer is C) To the 64.165.5.0/24 network on interface WAN.
+
+Prompt 211:
+ The correct answer is B) Using a ping command or the traceroute.
+
+Prompt 212:
+ The correct answer is D) –s shows the application name.
+
+Prompt 213:
+ The correct answer is B.
+
+Prompt 214:
+ The correct answer is B.
+
+Prompt 215:
+ The correct answer is B) 42 seconds.
+
+Prompt 216:
+ The correct answer is B) Poor database indexing.
+
+Prompt 217:
+ The correct answer is B) Implementing load balancing to distribute traffic evenly.
+
+Prompt 218:
+ The correct answer is D.
+
+Prompt 219:
+ The correct answer is A.
+
+Prompt 220:
+ The correct answer is D) 18.999%.
+
+Prompt 221:
+ The correct answer is B.
+
+Prompt 222:
+ The correct answer is C) Star topology.
+
+Prompt 223:
+ The correct answer is A) Blocking access to certain websites.
+
+Prompt 224:
+ The correct answer is C) Identifying potential security breaches in real-time.
+
+Prompt 225:
+ The correct answer is C) 7 MSS.
+
+Prompt 226:
+ The correct answer is C) Block all incoming and outgoing ICMP traffic.
+
+Prompt 227:
+ The correct answer is B) 0.0167/s.
+
+Prompt 228:
+ The correct answer is B) 3 × 10^(-2)/s
+
+Prompt 229:
+ The correct answer is B) 1100 to 1300.
+
+Prompt 230:
+ The correct answer is C) listen.
+
+Prompt 231:
+ The correct answer is B) 2^(n-1).
+
+Prompt 232:
+ The correct answer is D) End to end connectivity.
+
+Prompt 233:
+ The correct answer is B) 1 and 3 only.
+
+Prompt 234:
+ The correct answer is C.
+
+Prompt 235:
+ The correct answer is bind, listen, accept, recv.
+
+Prompt 236:
+ The correct answer is C.
+
+Prompt 237:
+ The correct answer is B) 4096 bytes.
+
+Prompt 238:
+ The correct answer is B) 1.1.
+
+Prompt 239:
+ The correct answer is D) Transport layer.
+
+Prompt 240:
+ The correct answer is C.
+
+Prompt 241:
+ The correct answer is B) 10.
+
+Prompt 242:
+ The correct answer is A.
+
+Prompt 243:
+ The correct answer is B) TCP, 80.
+
+Prompt 244:
+ The correct answer is C) 32 Kbps.
+
+Prompt 245:
+ The correct answer is D) Leaky bucket algorithm.
+
+Prompt 246:
+ The correct answer is 25.
+
+Prompt 247:
+ The correct answer is B) Fragment offset.
+
+Prompt 248:
+ The correct answer is 3.
+
+Prompt 249:
+ The correct answer is D.
+
+Prompt 250:
+ The correct answer is D) Error detection and correction.
+
+Prompt 251:
+ The correct answer is D) 3200 bps.
+
+Prompt 252:
+ The correct answer is FIN.
+
+Prompt 253:
+ The correct answer is B) 255.255.255.192.
+
+Prompt 254:
+ The correct answer is A.
+
+Prompt 255:
+ The correct answer is C) Prevent packets from looping indefinitely.
+
+Prompt 256:
+ The correct answer is D.
+
+Prompt 257:
+ The correct answer is B.
+
+Prompt 258:
+ The correct answer is D.
+
+Prompt 259:
+ The correct answer is C) Looking up a hostname.
+
+Prompt 260:
+ The correct answer is D.
+
+Prompt 261:
+ The correct answer is B.
+
+Prompt 262:
+ The correct answer is D) session, request and response.
+
+Prompt 263:
+ The correct answer is B) 8000 bytes.
+
+Prompt 264:
+ The correct answer is A) By progressively querying routers about the next router on the path to B using ICMP packets, starting with the first router.
+
+Prompt 265:
+ The correct answer is A) 204.204.204.0/25.
+
+Prompt 266:
+ The correct answer is B.
+
+Prompt 267:
+ The correct answer is B.
+
+Prompt 268:
+ The correct answer is C.
+
+Prompt 269:
+ The correct answer is C) Non-adaptive algorithms.
+
+Prompt 270:
+ The correct answer is D) (a), (b) and (c).
+
+Prompt 271:
+ The correct answer is B) 10.
+
+Prompt 272:
+ The correct answer is A) 2 sec.
+
+Prompt 273:
+ The correct answer is B.
+
+Prompt 274:
+ The correct answer is C.
+
+Prompt 275:
+ The correct answer is C) The packet is resent.
+
+Prompt 276:
+ The correct answer is B) IP.
+
+Prompt 277:
+ The correct answer is D) Configure and set up routers for the network.
+
+Prompt 278:
+ The correct answer is D) Network layer – 3 times, Data link layer – 4 times.
+
+Prompt 279:
+ The correct answer is C) Q and S only.
+
+Prompt 280:
+ The correct answer is A.
+
+Prompt 281:
+ The correct answer is C.
+
+Prompt 282:
+ The correct answer is B) n.
+
+Prompt 283:
+ The correct answer is B) 15.
+
+Prompt 284:
+ The correct answer is A) Denial of service attack.
+
+Prompt 285:
+ The correct answer is B) Replay Attack.
+
+Prompt 286:
+ The correct answer is D) X.509.
+
+Prompt 287:
+ The correct answer is B)
+
+Prompt 288:
+ The correct answer is D.
+
+Prompt 289:
+ The correct answer is B) 136 characters/sec.
+
+Prompt 290:
+ The correct answer is C.
+
+Prompt 291:
+ The correct answer is C) DHCP.
+
+Prompt 292:
+ The correct answer is C) DNS query, TCP SYN, HTTP GET request.
+
+Prompt 293:
+ The correct answer is C) 4800.
+
+Prompt 294:
+ The correct answer is D) 8B/10B encoding.
+
+Prompt 295:
+ The correct answer is C) 8.
+
+Prompt 296:
+ The correct answer is D.
+
+Prompt 297:
+ The correct answer is C) One stack of a larger size.
+
+Prompt 298:
+ The correct answer is B) Multipart/parallel.
+
+Prompt 299:
+ The correct answer is B) Infrastructure as a Service (IaaS), which involves providing on-demand access to computing resources, such as servers and storage, over the internet. This is closely related to architecture as a service because IaaS provides a foundation for designing and implementing cloud-based architectures.
+
+Prompt 300:
+ The correct answer is C) 20ms.
+
+Prompt 301:
+ The correct answer is A) Half the baud rate.
+
+Prompt 302:
+ The correct answer is C) 20 metres.
+
+Prompt 303:
+ The correct answer is B) 29.
+
+Prompt 304:
+ The correct answer is B) 0111110101.
+
+Prompt 305:
+ The correct answer is B) 40.
+
+Prompt 306:
+ The correct answer is B) Synchronization should be removed.
+
+Prompt 307:
+ The correct answer is C).
+
+Prompt 308:
+ The correct answer is D.
+
+Prompt 309:
+ The correct answer is A) 10000 bits.
+
+Prompt 310:
+ The correct answer is D) 160 bits.
+
+Prompt 311:
+ The correct answer is D) 100000.
+
+Prompt 312:
+ The correct answer is D.
+
+Prompt 313:
+ The correct answer is B) 250 bytes.
+
+Prompt 314:
+ The correct answer is B.
+
+Prompt 315:
+ The correct answer is C) Switch.
+
+Prompt 316:
+ The correct answer is B) 48 bit.
+
+Prompt 317:
+ The correct answer is D) 1.536 Mbps.
+
+Prompt 318:
+ The correct answer is D) 192 Gbps.
+
+Prompt 319:
+ The correct answer is C) 45.9
+
+Prompt 320:
+ The correct answer is D) (1), (2), (3) and (4).
+
+Prompt 321:
+ The correct answer is B.
+
+Prompt 322:
+ The correct answer is A) preamble.
+
+Prompt 323:
+ The correct answer is B) 25%
+
+Prompt 324:
+ The correct answer is B) socket address.
+
+Prompt 325:
+ The correct answer is C)
+
+Prompt 326:
+ The correct answer is C) 2046.
+
+Prompt 327:
+ The correct answer is A) refers to the current network.
+
+Prompt 328:
+ The correct answer is D.
+
+Prompt 329:
+ The correct answer is B.
+
+Prompt 330:
+ The correct answer is B) 13%.
+
+Prompt 331:
+ The correct answer is B.
+
+Prompt 332:
+ The correct answer is C.
+
+Prompt 333:
+ The correct answer is B) Q needs to send at least 2 HTTP requests to S, but a single TCP connection to server S is sufficient.
+
+Prompt 334:
+ The correct answer is A) HTTP, FTP.
+
+Prompt 335:
+ The correct answer is B.
+
+Prompt 336:
+ The correct answer is B.
+
+Prompt 337:
+ The correct answer is A) Active.
+
+Prompt 338:
+ The correct answer is D) block some hosts from accessing the network.
+
+Prompt 339:
+ The correct answer is C) Message.
+
+Prompt 340:
+ The correct answer is C) Use JavaScript to get the current date and time.
+
+Prompt 341:
+ The correct answer is D) XML.
+
+Prompt 342:
+ The correct answer is A) Content presented to search engine spider is different from that presented to user's browser.
+
+Prompt 343:
+ The correct answer is B.
+
+Prompt 344:
+ The correct answer is B) 3.
+
+Prompt 345:
+ The correct answer is C) Email security.
+
+Prompt 346:
+ The correct answer is 8.
+
+Prompt 347:
+ The correct answer is D) Default gateway.
+
+Prompt 348:
+ The correct answer is C.
+
+Prompt 349:
+ The correct answer is D) 5 MHz.
+
+Prompt 350:
+ The correct answer is C) 172.32.1.1
+

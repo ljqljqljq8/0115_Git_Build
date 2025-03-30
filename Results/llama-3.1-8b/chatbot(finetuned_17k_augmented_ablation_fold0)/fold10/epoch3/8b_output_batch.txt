@@ -1,0 +1,4640 @@
+prompt 0:
+
+prompt 1:
+E) Provides access control for the network
+Answer: D
+prompt 2:
+Answer: B
+prompt 3:
+Answer: A
+prompt 4:
+
+prompt 5:
+on the network
+Explanation: Maxim #2 states that a properly sized network is a stable network. Maxim #3 states that changes to a stable network should be made only when there is a good reason to do so. Maxim #4 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #5 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #6 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #7 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #8 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #9 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #10 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #11 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #12 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #13 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #14 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #15 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #16 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase the network's stability, to standardize devices across the network, to improve the network's scalability, and to improve the network's performance. Maxim #17 states that there are many valid reasons to change a properly sized network, including the following: to simplify network operations, to increase
+prompt 6:
+
+prompt 7:
+Answer: C
+prompt 8:
+Answer: D
+prompt 9:
+
+prompt 10:
+Answer: D
+prompt 11:
+and Query Refinement Protocol (QRP)
+Answer: D
+prompt 12:
+
+prompt 13:
+Answer: C
+prompt 14:
+Answer: C
+prompt 15:
+Answer: C
+prompt 16:
+band
+Answer: B
+prompt 17:
+E) Latency
+F) Bandwidth
+G) Throughput
+H) Packet Loss
+Answer: C
+Explanation: QoS Levels are used to determine average delay and jitter within network traffic. QoS is a method of setting priorities to network traffic. This is done by assigning different levels of service to network traffic.
+prompt 18:
+E) 7.2 Mcps
+Answer: C
+prompt 19:
+Answer: C
+prompt 20:
+E) To establish a point-to-point network between nodes
+F) To provide a path to the Internet for wireless clients
+Answer: B
+prompt 21:
+E) To ensure that each house has a sufficient number of mailboxes
+Answer: C
+prompt 22:
+Answer: C
+prompt 23:
+
+prompt 24:
+E) Switch configuration
+Answer: D
+prompt 25:
+Answer: B
+Explanation: Link aggregation is a method of combining multiple network links to increase the total bandwidth available to a host. Hashing is used to determine which link a packet should be sent over. Hashing ensures that each packet is sent over a different link, so that out-of-order packet delivery is avoided.
+prompt 26:
+Answer: C
+prompt 27:
+
+prompt 28:
+Answer: A
+Explanation: Boolean values are represented by the universal value 19.
+prompt 29:
+Answer: B
+prompt 30:
+E) Regulating the network traffic flow
+F) Collecting data to generate network statistics
+Answer: A
+prompt 31:
+and configuration
+Answer: C
+prompt 32:
+
+prompt 33:
+Answer: C
+prompt 34:
+
+prompt 35:
+
+prompt 36:
+
+prompt 37:
+Answer: B
+prompt 38:
+Answer: A
+prompt 39:
+E) Scalability
+Answer: B
+prompt 40:
+Answer: D
+prompt 41:
+Answer: B
+prompt 42:
+
+prompt 43:
+Answer: B
+prompt 44:
+
+prompt 45:
+Answer: C
+prompt 46:
+Answer: B
+prompt 47:
+
+prompt 48:
+
+prompt 49:
+
+prompt 50:
+
+prompt 51:
+E) Agent discovery, Registration with the home agent, and Direct routing of datagrams
+Answer: C
+prompt 52:
+Answer: D
+prompt 53:
+E) 4*Pi/8 8-PSK
+Answer: C
+prompt 54:
+Answer: B
+prompt 55:
+
+prompt 56:
+Answer: A
+Explanation: A token ring network is a type of local area network in which all devices on the network are connected by a cable in a ring.
+prompt 57:
+Answer: B
+Explanation: Jitter is the variance in packet arrival times.
+prompt 58:
+Answer: A
+prompt 59:
+
+prompt 60:
+Answer: D
+prompt 61:
+
+prompt 62:
+
+prompt 63:
+
+prompt 64:
+E) The OpenFlow switch
+Answer: D
+prompt 65:
+
+prompt 66:
+
+prompt 67:
+Answer: B
+prompt 68:
+
+prompt 69:
+Answer: D
+prompt 70:
+Answer: A
+prompt 71:
+
+prompt 72:
+E) A type of malware that hides in legitimate software
+F) A type of malware that uses encryption
+G) A type of malware that hides in legitimate software
+H) A type of malware that uses encryption
+Answer: G
+prompt 73:
+Answer: D
+prompt 74:
+
+prompt 75:
+E) To enable the network to self-heal
+Answer: B
+prompt 76:
+
+prompt 77:
+Answer: D
+prompt 78:
+Answer: D
+Explanation: Skype is the most popular proprietary VoIP service, with over 124 million daily active users.
+prompt 79:
+E) CSMA/CA
+Answer: D
+prompt 80:
+Answer: C
+prompt 81:
+Answer: A
+prompt 82:
+eys
+E) To set up symmetric encryption keys
+F) To reduce the number of SSL transactions
+G) To reduce the number of SSL transactions
+H) To set up asymmetric encryption keys
+Answer: E
+prompt 83:
+like Wi-Fi
+Answer: D
+prompt 84:
+Answer: D
+prompt 85:
+
+prompt 86:
+Answer: D
+prompt 87:
+
+prompt 88:
+for streaming
+Answer: C
+prompt 89:
+Answer: B
+prompt 90:
+that need access to the internet
+Answer: A
+prompt 91:
+Answer: C
+prompt 92:
+E) The number of connections that the network can support
+Answer: D
+prompt 93:
+
+prompt 94:
+Answer: B
+prompt 95:
+Answer: C
+prompt 96:
+
+prompt 97:
+E) Routing and NAT
+Answer: E
+prompt 98:
+Answer: D
+prompt 99:
+
+prompt 100:
+E) RLC
+F) RAN
+G) NAS
+H) S1AP
+Answer: C
+prompt 101:
+Answer: B
+prompt 102:
+Answer: A
+prompt 103:
+Answer: B
+prompt 104:
+
+prompt 105:
+Answer: C
+prompt 106:
+
+prompt 107:
+
+prompt 108:
+Explanation: The three-way handshake is the method used in a TCP/IP network to establish a connection between two hosts. The three-way handshake is the way the two hosts agree upon a sequence number and exchange synchronizing signals to establish a connection. The three-way handshake is sometimes called the SYN-SYN-ACK handshake because the three packets sent are known as SYN, SYN-ACK, and ACK.
+prompt 109:
+Answer: A
+prompt 110:
+to a <candidate> data store
+Answer: A
+prompt 111:
+E) Error recovery
+Answer: C
+prompt 112:
+
+prompt 113:
+
+prompt 114:
+Answer: B
+prompt 115:
+
+prompt 116:
+
+prompt 117:
+Answer: C
+prompt 118:
+
+prompt 119:
+Answer: A
+Explanation: AirCrack is a software application for use with wireless networking devices. It is able to crack encrypted WiFi networks using a method called brute force cracking. This method uses a dictionary attack and tries to decrypt the WEP key by brute forcing it.
+prompt 120:
+
+prompt 121:
+Answer: D
+prompt 122:
+Explanation: The htonl() function converts the unsigned integer hostlong from host byte order to network byte order. This function is used when transmitting a 32-bit quantity across a network.
+prompt 123:
+Answer: D
+prompt 124:
+Answer: C
+prompt 125:
+Answer: C
+Explanation: The connect function establishes a connection to a server. The connect function is used by a client to establish a connection with a server. The connect function is used by a client to establish a connection with a server. The connect function is used by a client to establish a connection with a server. The connect function is used by a client to establish a connection with a server.
+prompt 126:
+Answer: B
+prompt 127:
+Answer: C
+prompt 128:
+Answer: B
+prompt 129:
+E) Operation at higher frequencies than 3G systems
+F) Ability to transmit data at 100Mbps
+Answer: A
+prompt 130:
+Answer: B
+prompt 131:
+
+prompt 132:
+Answer: C
+prompt 133:
+E) interface-vlan
+F) virtual-switch
+G) ip-routing
+H) interface-vlan feature
+Answer: H
+prompt 134:
+
+prompt 135:
+Answer: A
+Explanation: In Sliding Window Protocols, the sequence numbers within a sender's window represent frames that have been sent but are as yet unacknowledged.
+prompt 136:
+to share information
+Answer: B
+prompt 137:
+
+prompt 138:
+Answer: C
+prompt 139:
+Answer: C
+prompt 140:
+Answer: C
+prompt 141:
+E) A network access point
+F) A number only used once within a protocol.
+G) A password for network security
+H) A network protocol
+Answer: F
+Explanation: A nonce is a number that is only used once within a protocol.
+prompt 142:
+Answer: D
+prompt 143:
+usage
+E) To document the network's users and their permissions
+Answer: B
+prompt 144:
+Answer: B
+prompt 145:
+
+prompt 146:
+Answer: D
+prompt 147:
+E) Data server
+Answer: D
+prompt 148:
+Answer: A
+prompt 149:
+Answer: A
+prompt 150:
+E) It matches incoming packets to a set of header field values and performs actions on matched packets. It also counts the number of packets matched by each table entry and updates the time since each table entry was last updated.
+Answer: E
+prompt 151:
+
+prompt 152:
+of the T1
+E) Configuring the DS0s
+Answer: D
+prompt 153:
+
+prompt 154:
+
+prompt 155:
+E) Sending messages to wireless devices in real time
+Answer: B
+prompt 156:
+Answer: B
+prompt 157:
+Answer: A
+prompt 158:
+
+prompt 159:
+E) UniversalString
+Answer: B
+prompt 160:
+Answer: B
+prompt 161:
+
+prompt 162:
+
+prompt 163:
+E) The upgrade process disrupts the control plane of the switch
+Answer: E
+prompt 164:
+Answer: D
+prompt 165:
+Answer: B
+prompt 166:
+
+prompt 167:
+Answer: A
+prompt 168:
+E) Flow control
+Answer: C
+prompt 169:
+information
+E) Translates metrics
+F) Provides routing information
+G) Provides a default route
+H) Provides authentication
+Answer: F
+prompt 170:
+E) Switch
+F) Bridge
+G) Gateway
+Answer: C
+prompt 171:
+
+prompt 172:
+Answer: D
+prompt 173:
+E) To provide a stronger authentication of the signer
+Answer: C
+prompt 174:
+
+prompt 175:
+Answer: B
+prompt 176:
+
+prompt 177:
+Answer: A
+prompt 178:
+
+prompt 179:
+
+prompt 180:
+Answer: B
+prompt 181:
+
+prompt 182:
+Answer: B
+prompt 183:
+Answer: B
+prompt 184:
+Answer: A
+prompt 185:
+Answer: B
+prompt 186:
+Answer: C
+prompt 187:
+
+prompt 188:
+
+prompt 189:
+Answer: B
+prompt 190:
+packets
+Answer: A
+prompt 191:
+Answer: A
+prompt 192:
+
+prompt 193:
+Answer: C
+prompt 194:
+
+prompt 195:
+E) It provides better QoS for voice and video traffic
+Answer: B
+prompt 196:
+
+prompt 197:
+Answer: A
+prompt 198:
+routine
+Answer: B
+prompt 199:
+
+prompt 200:
+
+prompt 201:
+
+prompt 202:
+
+prompt 203:
+Answer: B
+Explanation: If the web page has a digital signature, the user can verify the digital signature with the CA's public key.
+prompt 204:
+Answer: D
+prompt 205:
+
+prompt 206:
+
+prompt 207:
+Answer: D
+prompt 208:
+E) Switch
+F) T1
+Answer: D
+prompt 209:
+a specified condition
+E) It specifies a condition that must be matched
+Answer: E
+prompt 210:
+for label switching
+Answer: D
+prompt 211:
+Answer: A
+prompt 212:
+
+prompt 213:
+E) A company that sells Internet access to businesses
+Answer: D
+prompt 214:
+Answer: C
+prompt 215:
+Answer: A
+prompt 216:
+E) None of the above
+Answer: B
+prompt 217:
+E) To prevent a denial-of-service attack
+Answer: C
+prompt 218:
+Answer: B
+prompt 219:
+
+prompt 220:
+Answer: C
+prompt 221:
+Answer: D
+prompt 222:
+E) Through port blocking
+Answer: B
+prompt 223:
+Answer: D
+prompt 224:
+E) When a large number of clients are communicating simultaneously
+Answer: A
+prompt 225:
+Answer: A
+prompt 226:
+Answer: A
+prompt 227:
+Answer: D
+prompt 228:
+
+prompt 229:
+(FEC)
+Answer: D
+prompt 230:
+Answer: C
+prompt 231:
+
+prompt 232:
+Answer: A
+prompt 233:
+E) Routing calls to alternate locations
+Answer: A
+prompt 234:
+
+prompt 235:
+E) Authorization, Transaction, and Deletion
+F) Authorization, Connection, and Deletion
+G) Authorization, Connection, and Sending
+H) Connection, Transaction, and Sending
+Answer: E
+prompt 236:
+Answer: A
+prompt 237:
+E) To allow the client to send data to the server
+Answer: C
+prompt 238:
+E) Preventing certain routes from being advertised
+Answer: E
+prompt 239:
+
+prompt 240:
+Answer: A
+prompt 241:
+E) CORD
+Answer: D
+prompt 242:
+E) Transitive property of equality
+F) Closure property of multiplication
+G) Identity property of multiplication
+H) Multiplicative property of equality
+Answer: D
+prompt 243:
+Answer: B
+prompt 244:
+connected to the network
+E) The number of hops to the destination
+Answer: A
+prompt 245:
+Answer: C
+prompt 246:
+Answer: C
+prompt 247:
+in a host
+E) To create a virtual network
+F) To connect a client to a server
+G) To transfer data between computers
+H) To send data packets
+Answer: C
+prompt 248:
+
+prompt 249:
+
+prompt 250:
+Answer: A
+Explanation: HTTPS is a protocol for secure communication over a computer network. It is widely used on the Internet. HTTPS consists of communication over Hypertext Transfer Protocol (HTTP) within a connection encrypted by Transport Layer Security or its predecessor, Secure Sockets Layer. The main motivation for HTTPS is authentication of the visited website and protection of the privacy and integrity of the exchanged data while in transit. It protects against man-in-the-middle attacks. The bidirectional encryption of communications between a client and server protects against eavesdropping and tampering of the communication. In practice, this provides a reasonable degree of security in ensuring that websites are actually who they claim to be.
+prompt 251:
+E) None of the above
+Answer: B
+prompt 252:
+
+prompt 253:
+Answer: A
+prompt 254:
+E) 802.1x authentication
+F) WPA2-PSK
+G) AES encryption
+H) WPA-PSK
+Answer: B
+prompt 255:
+
+Answer: C
+prompt 256:
+Answer: C
+prompt 257:
+E) Type 11, Code 1
+Answer: C
+prompt 258:
+
+Answer: C
+prompt 259:
+E) Indicates the number of frames in the sending window
+Answer: D
+prompt 260:
+er: D
+prompt 261:
+Answer: A
+prompt 262:
+
+prompt 263:
+ 
+Answer: D
+prompt 264:
+
+prompt 265:
+
+prompt 266:
+Answer: B
+prompt 267:
+Answer: C
+prompt 268:
+Answer: A
+prompt 269:
+Answer: A
+prompt 270:
+
+prompt 271:
+Answer: D
+prompt 272:
+
+prompt 273:
+
+prompt 274:
+Answer: D
+prompt 275:
+E) Open System Path Forwarding
+F) Operational System Packet Forwarding
+G) Open System Protocol Format
+H) Operational System Packet Forwarding
+Answer: C
+prompt 276:
+
+prompt 277:
+Answer: D
+prompt 278:
+Answer: D
+prompt 279:
+Answer: D
+prompt 280:
+Answer: C
+prompt 281:
+
+prompt 282:
+E) To establish a session by inviting participants
+F) To query the capabilities of a caller
+G) To establish a connection
+H) To send a users location information to the server
+Answer: D
+prompt 283:
+Answer: D
+prompt 284:
+Answer: D
+prompt 285:
+
+prompt 286:
+
+prompt 287:
+E) Network address translation
+Answer: D
+prompt 288:
+
+prompt 289:
+
+prompt 290:
+
+prompt 291:
+Answer: D
+prompt 292:
+
+prompt 293:
+Answer: B
+prompt 294:
+E) From the bottom up, stopping when all rules are processed
+F) From the top down, stopping when all rules are processed
+G) Randomly, stopping when all rules are processed
+H) Simultaneously, stopping when all rules are processed
+Answer: B
+prompt 295:
+E) To test the strength of the network signal
+Answer: E
+prompt 296:
+o a secure area
+Answer: D
+Explanation: A mantrap is an entryway with two successive locked doors used to control access to a secure area. The first door is opened, and then the second door is opened only after the first one is closed.
+prompt 297:
+E) IP fragmentation
+Answer: D
+prompt 298:
+Answer: C
+prompt 299:
+
+prompt 300:
+
+prompt 301:
+
+prompt 302:
+E) Connections that are provisioned and then left in place for an indefinite period of time
+Answer: B
+prompt 303:
+E) 20 Mbps
+F) 2.048 Mbps
+G) 4 Mbps
+H) 64 Kbps
+Answer: H
+prompt 304:
+Answer: D
+prompt 305:
+
+prompt 306:
+
+prompt 307:
+Answer: C
+prompt 308:
+Answer: A
+Explanation: A MAC uses a symmetric key while a digital signature uses an asymmetric key.
+prompt 309:
+
+prompt 310:
+
+prompt 311:
+Answer: C
+prompt 312:
+E) Both verify MAC address assignments and manage data encryption
+Answer: D
+prompt 313:
+
+prompt 314:
+
+prompt 315:
+
+prompt 316:
+E) Increased performance of the switch
+Answer: E
+prompt 317:
+
+prompt 318:
+Answer: A
+prompt 319:
+Protocol
+Answer: C
+prompt 320:
+E) The KISS Principle
+Answer: E
+prompt 321:
+Answer: D
+prompt 322:
+Answer: D
+prompt 323:
+
+Answer: B
+prompt 324:
+E) To exchange a master secret
+F) To exchange a pre-master secret
+G) To exchange a session secret
+H) To exchange a session key
+I) To exchange a session id
+J) To exchange a session ticket
+K) To exchange a session ticket key
+L) To exchange a session ticket secret
+M) To exchange a session ticket id
+N) To exchange a session ticket key id
+O) To exchange a session ticket key secret
+P) To exchange a session ticket key id secret
+Q) To exchange a session ticket key id secret id
+R) To exchange a session ticket key id secret id id
+S) To exchange a session ticket key id secret id id id
+T) To exchange a session ticket key id secret id id id id
+U) To exchange a session ticket key id secret id id id id id
+V) To exchange a session ticket key id secret id id id id id id
+W) To exchange a session ticket key id secret id id id id id id id
+X) To exchange a session ticket key id secret id id id id id id id id
+Y) To exchange a session ticket key id secret id id id id id id id id id
+Z) To exchange a session ticket key id secret id id id id id id id id id id
+A) To terminate the session
+B) To exchange public keys
+C) To start the encryption process
+D) To perform error handling
+E) To exchange a master secret
+F) To exchange a pre-master secret
+G) To exchange a session secret
+H) To exchange a session key
+I) To exchange a session id
+J) To exchange a session ticket
+K) To exchange a session ticket key
+L) To exchange a session ticket secret
+M) To exchange a session ticket id
+N) To exchange a session ticket key id
+O) To exchange a session ticket key secret
+P) To exchange a session ticket key id secret
+Q) To exchange a session ticket key id secret id
+R) To exchange a session ticket key id secret id id
+S) To exchange a session ticket key id secret id id id
+T) To exchange a session ticket key id secret id id id id
+U) To exchange a session ticket key id secret id id id id id
+V) To exchange a session ticket key id secret id id id id id id
+W) To exchange a session ticket key id secret id id id id id id id
+X) To exchange a session ticket key id secret id id id id id id id id
+Y) To exchange a session ticket key id secret id id id id id id id id id
+Z) To exchange a session ticket key id secret id id id id id id id id id id
+A) To terminate the session
+B) To exchange public keys
+C) To start the encryption process
+D) To perform error handling
+E) To exchange a master secret
+F) To exchange a pre-master secret
+G) To exchange a session secret
+H) To exchange a session key
+I) To exchange a session id
+J) To exchange a session ticket
+K) To exchange a session ticket key
+L) To exchange a session ticket secret
+M) To exchange a session ticket id
+N) To exchange a session ticket key id
+O) To exchange a session ticket key secret
+P) To exchange a session ticket key id secret
+Q) To exchange a session ticket key id secret id
+R) To exchange a session ticket key id secret id id
+S) To exchange a session ticket key id secret id id id
+T) To exchange a session ticket key id secret id id id id
+U) To exchange a session ticket key id secret id id id id id
+V) To exchange a session ticket key id secret id id id id id id
+W) To
+prompt 325:
+Answer: C
+prompt 326:
+Answer: B
+prompt 327:
+
+prompt 328:
+Answer: C
+prompt 329:
+Answer: C
+prompt 330:
+E) Phishing
+F) Man-in-the-browser attack
+G) Man-in-the-middle attack
+H) Smishing
+Answer: E
+Explanation: Phishing is a common form of social engineering. Social engineering is the art of manipulating people so they give up confidential information. Phishing is a common form of social engineering.
+prompt 331:
+
+Answer: C
+prompt 332:
+Answer: D
+prompt 333:
+Answer: D
+prompt 334:
+
+prompt 335:
+Answer: A
+prompt 336:
+Answer: D
+prompt 337:
+
+prompt 338:
+Answer: A
+prompt 339:
+
+prompt 340:
+(PMD)
+E) The Integrated Services Digital Network (ISDN)
+Answer: D
+prompt 341:
+E) It receives and sends calls
+F) It provides a direct connection between the central office and the local exchange
+G) It is the central office of the network
+H) It controls the switching of calls
+Answer: E
+prompt 342:
+
+prompt 343:
+protocol
+Answer: B
+prompt 344:
+Answer: B
+prompt 345:
+E) To improve signal attenuation
+Answer: C
+prompt 346:
+
+prompt 347:
+
+prompt 348:
+
+prompt 349:
+
+prompt 350:
+Answer: B
+prompt 351:
+Answer: C
+prompt 352:
+Answer: C
+prompt 353:
+Answer: C
+prompt 354:
+
+prompt 355:
+between ATM switches
+E) To convert data packets into ATM cells
+Answer: B
+prompt 356:
+
+prompt 357:
+Answer: D
+prompt 358:
+Answer: D
+prompt 359:
+
+prompt 360:
+
+prompt 361:
+Answer: B
+prompt 362:
+
+prompt 363:
+E) VLAN ID
+Answer: B
+prompt 364:
+
+prompt 365:
+Answer: B
+prompt 366:
+E) It ensures that the key is not compromised
+F) It makes the key easier to manage
+Answer: E
+prompt 367:
+
+prompt 368:
+
+prompt 369:
+Answer: A
+prompt 370:
+
+prompt 371:
+
+prompt 372:
+
+prompt 373:
+E) To filter data packets
+Answer: B
+prompt 374:
+
+prompt 375:
+
+prompt 376:
+Answer: B
+prompt 377:
+E) High availability
+Answer: D
+prompt 378:
+Answer: C
+prompt 379:
+Answer: B
+prompt 380:
+E) It may cause a reduction in delay and optimal throughput
+Answer: A
+prompt 381:
+E) The colliding devices wait a random amount of time and then retransmit
+Answer: E
+prompt 382:
+
+prompt 383:
+Answer: C
+Explanation: The IEEE 802.11 standard defines the base functionality of wireless LANs.
+prompt 384:
+Answer: D
+prompt 385:
+E) Guaranteed requirements and best-effort flows
+F) Best-effort and predictable requirements
+Answer: E
+prompt 386:
+Answer: C
+Explanation: Fair queueing is a method for sharing bandwidth among multiple users. In a fluid flow fair queueing method, if there are 'n' flows and the transmission capacity is 'C', each flow is guaranteed at least C/n bits/second.
+prompt 387:
+E) To increase the speed of data transmission
+F) To provide a check for errors in the cell header
+Answer: F
+prompt 388:
+
+prompt 389:
+Answer: B
+prompt 390:
+
+prompt 391:
+E) Reduce network congestion
+Answer: B
+prompt 392:
+
+prompt 393:
+Answer: D
+Explanation: Exponential backoff is a technique used to slow down the propagation of frequent changes to reduce processing load. It is a network protocol operation that is used in many applications, such as routing protocols, to ensure that changes are not propagated too quickly and that the network can handle the load.
+prompt 394:
+
+prompt 395:
+Answer: B
+prompt 396:
+E) To specify the IP address of the default router
+Answer: A
+prompt 397:
+
+prompt 398:
+Answer: D
+prompt 399:
+Answer: D
+prompt 400:
+
+prompt 401:
+Answer: B
+prompt 402:
+
+prompt 403:
+
+prompt 404:
+
+Answer: C
+Explanation: The WCSS (Web Content Security System) is a set of standards and specifications for mobile web development. It provides a framework for creating content that can be accessed by multiple devices, regardless of their screen size or resolution.
+The WCSS is designed to improve the user experience by ensuring that content is displayed correctly on any device. It does this by defining a set of rules that developers must follow when creating content. These rules include:
+1. Using relative units for measurements, such as percentages or ems, instead of absolute units like pixels.
+2. Using media queries to adjust the layout and styling of content based on the device’s screen size.
+3. Using responsive images to ensure that images are displayed correctly on different devices.
+4. Using semantic HTML to improve accessibility and search engine optimization.
+By following these rules, developers can create content that looks great on any device, regardless of its screen size or resolution. This helps to ensure that users have a consistent experience when accessing the same content on different devices.
+prompt 405:
+
+prompt 406:
+Answer: C
+prompt 407:
+Answer: C
+prompt 408:
+Answer: C
+prompt 409:
+E) The maximum cable length in feet
+Answer: C
+prompt 410:
+Answer: C
+prompt 411:
+Answer: A
+prompt 412:
+E) WWW
+F) HTML
+G) HTTP
+H) URL
+Answer: A
+Explanation: Blog is short for 'weblog' and generally denotes a frequently updated online journal or newsletter intended for public consumption.
+prompt 413:
+
+prompt 414:
+Answer: C
+prompt 415:
+
+prompt 416:
+
+prompt 417:
+
+prompt 418:
+Answer: B
+prompt 419:
+
+Answer: D
+prompt 420:
+Answer: C
+prompt 421:
+
+prompt 422:
+Answer: D
+prompt 423:
+
+prompt 424:
+Answer: C
+prompt 425:
+Answer: A
+prompt 426:
+E) To determine the maximum number of data packets that can be transmitted
+F) To determine the maximum number of control packets that can be transmitted
+G) To establish the lowest priority level for accessing the channel
+H) To establish the highest priority level for accessing the channel
+Answer: D
+prompt 427:
+
+prompt 428:
+
+prompt 429:
+
+prompt 430:
+Answer: C
+Explanation: The DNS naming system is a system that allows you to use names to identify computers and other devices on the Internet.
+The DNS naming system uses a hierarchy of names. The top level of the hierarchy is the top-level domain. Examples of top-level domains include.com,.net, and.edu.
+The top-level domain is followed by one or more subdomains. The part of the name after the last subdomain is the hostname.
+The DNS naming system also allows you to use a domain name that does not end with a top-level domain. These domain names are called absolute domain names. Absolute domain names end with a period. The period indicates that the name is full and exact.
+For example, the domain name "www.example.com." is an absolute domain name. The domain name "www.example.com" is not an absolute domain name because it does not end with a period.
+The domain name "www.example.com." is an absolute domain name because it ends with a period.
+prompt 431:
+
+prompt 432:
+Answer: B
+prompt 433:
+Answer: C
+prompt 434:
+Answer: A
+prompt 435:
+E) Data transfer window
+Answer: E
+prompt 436:
+
+prompt 437:
+
+prompt 438:
+
+Answer: C
+Explanation: A VPN, or virtual private network, is a secure tunnel between your device and a server controlled by the VPN service. Your data is encrypted and sent through the VPN tunnel, which means that it is private and secure. VPNs are often used by businesses to allow employees to access the company's network remotely, or by individuals to protect their privacy and security while browsing the internet.
+prompt 439:
+Answer: B
+prompt 440:
+Answer: B
+prompt 441:
+
+prompt 442:
+Answer: D
+prompt 443:
+
+prompt 444:
+
+prompt 445:
+
+prompt 446:
+
+Answer: C
+prompt 447:
+Answer: C
+prompt 448:
+E) The storage capacity of the backup storage device
+F) The type of data to be copied
+G) The power supply of the backup storage device
+H) The data transfer rate of the backup storage device
+Answer: B
+prompt 449:
+Answer: D
+prompt 450:
+
+prompt 451:
+
+prompt 452:
+
+prompt 453:
+
+prompt 454:
+Answer: D
+prompt 455:
+Answer: A
+prompt 456:
+Answer: B
+prompt 457:
+E) Install a DNS server, contract with an ISP, allocate IP addresses to network devices, obtain a domain name
+A company has a web server that needs to be accessible to the internet. What is the correct sequence of steps a company must take to establish an internet presence for its web server?
+A. Obtain a domain name, contract with an ISP, install a DNS server, advertise the prefix with BGP.
+B. Install a DNS server, obtain a domain name, contract with an ISP, allocate IP addresses to network devices.
+C. Contract with an ISP, obtain a domain name, advertise the prefix with BGP, install a DNS server.
+D. Contract with an ISP, obtain a domain name, allocate IP addresses to network devices, advertise the prefix with BGP.
+E. Install a DNS server, contract with an ISP, allocate IP addresses to network devices, obtain a domain name.
+The correct sequence of steps a company must take to establish an internet presence for its web server is:
+Install a DNS server, obtain a domain name, contract with an ISP, allocate IP addresses to network devices.
+A company has a web server that needs to be accessible to the internet. What is the correct sequence of steps a company must take to establish an internet presence for its web server?
+A. Obtain a domain name, contract with an ISP, install a DNS server, advertise the prefix with BGP.
+B. Install a DNS server, obtain a domain name, contract with an ISP, allocate IP addresses to network devices.
+C. Contract with an ISP, obtain a domain name, advertise the prefix with BGP, install a DNS server.
+D. Contract with an ISP, obtain a domain name, allocate IP addresses to network devices, advertise the prefix with BGP.
+E. Install a DNS server, contract with an ISP, allocate IP addresses to network devices, obtain a domain name.
+The correct sequence of steps a company must take to establish an internet presence for its web server is:
+Install a DNS server, obtain a domain name, contract with an ISP, allocate IP addresses to network devices.
+A company has a web server that needs to be accessible to the internet. What is the correct sequence of steps a company must take to establish an internet presence for its web server?
+A. Obtain a domain name, contract with an ISP, install a DNS server, advertise the prefix with BGP.
+B. Install a DNS server, obtain a domain name, contract with an ISP, allocate IP addresses to network devices.
+C. Contract with an ISP, obtain a domain name, advertise the prefix with BGP, install a DNS server.
+D. Contract with an ISP, obtain a domain name, allocate IP addresses to network devices, advertise the prefix with BGP.
+E. Install a DNS server, contract with an ISP, allocate IP addresses to network devices, obtain a domain name.
+The correct sequence of steps a company must take to establish an internet presence for its web server is:
+Install a DNS server, obtain a domain name, contract with an ISP, allocate IP addresses to network devices.
+A company has a web server that needs to be accessible to the internet. What is the correct sequence of steps a company must take to establish an internet presence for its web server?
+A. Obtain a domain name, contract with an ISP, install a DNS server, advertise the prefix with BGP.
+B. Install a DNS server, obtain a domain name, contract with an ISP, allocate IP addresses to network devices.
+C. Contract with an ISP, obtain a domain name, advertise the prefix with BGP, install a DNS server.
+D. Contract with an ISP, obtain a domain name, allocate IP addresses to network devices, advertise the prefix with BGP.
+E. Install a DNS server, contract with an ISP, allocate IP addresses to network devices, obtain a domain name.
+The correct sequence of steps a company must take to establish an internet presence for its web
+prompt 458:
+
+prompt 459:
+
+prompt 460:
+farming
+Answer: A
+prompt 461:
+Answer: B
+prompt 462:
+Answer: A
+prompt 463:
+Answer: C
+prompt 464:
+
+prompt 465:
+
+prompt 466:
+
+prompt 467:
+Answer: D
+prompt 468:
+
+prompt 469:
+
+prompt 470:
+
+prompt 471:
+
+prompt 472:
+
+prompt 473:
+
+Answer: D
+prompt 474:
+E) Binary Exponential Regression
+F) Binary Exponential Re-synchronization
+G) Binary Exponential Re-synchronization
+H) Binary Exponential Re-synchronization
+Answer: D
+prompt 475:
+Answer: A
+prompt 476:
+E) By blocking all incoming Telnet traffic from the Internet
+Answer: B
+prompt 477:
+Answer: A
+prompt 478:
+Answer: B
+prompt 479:
+Answer: D
+prompt 480:
+Answer: C
+prompt 481:
+
+prompt 482:
+Answer: B
+prompt 483:
+Answer: D
+Explanation: Each frame contains eight slots.
+prompt 484:
+E) To provide a standard interface for network applications
+Answer: D
+prompt 485:
+
+prompt 486:
+E) Allowing for the use of the internet
+F) Providing a means of communication
+G) Providing a means of communication
+H) Preventing unauthorized access
+Answer: C
+prompt 487:
+Answer: C
+prompt 488:
+E) Multiplexing
+Answer: A
+prompt 489:
+
+prompt 490:
+mechanism
+Answer: B
+prompt 491:
+E) Lossy compression
+Answer: A
+prompt 492:
+Answer: A
+prompt 493:
+
+prompt 494:
+packets
+Answer: C
+Explanation: Variable-length subnet masking (VLSM) is a system that divides IP networks into smaller subnets.
+prompt 495:
+
+prompt 496:
+Answer: D
+Explanation: IPSec supports two types of logical relationships between hosts, called Security Associations (SAs).
+A security association is a logical relationship between two hosts that creates a secure channel between them. The secure channel is created by encrypting data that is sent between the hosts. IPSec supports two types of logical relationships between hosts, called Security Associations (SAs).
+prompt 497:
+E) A system for validating routing protocols
+F) A tool for verifying routing paths
+G) A method for verifying routing paths
+H) A feature for visualizing routing paths
+Answer: F
+prompt 498:
+E) To ensure reliable, flow-controlled service
+Answer: B
+prompt 499:
+Answer: D
+prompt 500:
+to a base station
+Answer: B
+prompt 501:
+E) By encrypting the message using the receiver's public key
+F) By using a shared secret key to encrypt the message
+G) By using the receiver's private key to encrypt the message
+H) By appending a hash of the message and the sender's public key, and sending it with the message
+Answer: D
+prompt 502:
+E) The routing protocol
+Answer: D
+prompt 503:
+Answer: B
+prompt 504:
+
+prompt 505:
+
+prompt 506:
+
+prompt 507:
+
+prompt 508:
+Answer: D
+prompt 509:
+E) Network congestion
+Answer: C
+prompt 510:
+
+prompt 511:
+
+prompt 512:
+E) To identify the device type
+Answer: D
+prompt 513:
+Answer: D
+prompt 514:
+
+prompt 515:
+
+prompt 516:
+Answer: C
+prompt 517:
+
+prompt 518:
+Answer: A
+prompt 519:
+Answer: C
+prompt 520:
+E) Because they increase the complexity of the network protocol
+Answer: B
+prompt 521:
+Answer: B
+prompt 522:
+Answer: B
+prompt 523:
+Answer: B
+prompt 524:
+E) Using a 64-bit random number or an anycast address
+Answer: A
+prompt 525:
+
+prompt 526:
+E) TFTP
+Answer: D
+prompt 527:
+Answer: A
+prompt 528:
+
+prompt 529:
+
+prompt 530:
+Answer: A
+Explanation: The Clos criterion states that a multistage switch is nonblocking if the number of switches in each stage is greater than or equal to the number of input links, or k ≥ n.
+prompt 531:
+Answer: C
+prompt 532:
+
+prompt 533:
+E) The network becomes vulnerable to attack
+F) A firewall is needed
+G) The network becomes vulnerable to attack
+H) The network becomes disconnected
+Answer: G
+prompt 534:
+E) A combination of sequence data types of different types
+Answer: E
+prompt 535:
+E) ICMP
+Answer: B
+prompt 536:
+E) To provide a single point of failure for the entire network
+Answer: B
+prompt 537:
+Answer: C
+prompt 538:
+Answer: B
+prompt 539:
+Answer: A
+prompt 540:
+Answer: C
+prompt 541:
+
+prompt 542:
+Answer: A
+prompt 543:
+Answer: A
+prompt 544:
+
+prompt 545:
+Answer: D
+prompt 546:
+
+prompt 547:
+
+prompt 548:
+
+prompt 549:
+
+prompt 550:
+Answer: C
+prompt 551:
+Answer: D
+prompt 552:
+Answer: B
+prompt 553:
+Answer: C
+prompt 554:
+
+prompt 555:
+Answer: D
+prompt 556:
+Answer: C
+prompt 557:
+Answer: B
+Explanation: QUIC allows multiple data streams within a single connection. This means that data from different streams can be sent in parallel, reducing head-of-line blocking.
+prompt 558:
+Answer: B
+prompt 559:
+E) By the number of bits in the frame
+Answer: A
+prompt 560:
+Answer: D
+prompt 561:
+
+prompt 562:
+Answer: A
+Explanation: Crypto-ransomware is a type of malware that locks a user out of a system until a ransom is paid. Ransomware is a type of malware that holds a user's system hostage until a ransom is paid. Crypto-ransomware encrypts the user's data, making it impossible for the user to access it. The user is then instructed to pay a ransom to receive a decryption key to unlock their data.
+prompt 563:
+in the channel
+Answer: D
+prompt 564:
+Answer: B
+prompt 565:
+Answer: B
+prompt 566:
+Answer: C
+prompt 567:
+Answer: C
+prompt 568:
+E) Stop-and-wait protocol
+Answer: C
+prompt 569:
+Answer: D
+prompt 570:
+Answer: A
+prompt 571:
+Answer: A
+prompt 572:
+
+prompt 573:
+Answer: C
+prompt 574:
+
+prompt 575:
+Answer: B
+prompt 576:
+E) Data Integrity
+F) Network Security
+G) Data Protection
+H) Network Reliability
+Answer: B
+prompt 577:
+
+prompt 578:
+E) By maintaining a look-up table describing the relationship between distance and elapsed time
+F) By using semi-real-time velocity information to calculate the paging zone
+G) By employing a virtual layer of location areas to reduce ping-pong effects
+H) By using a genetic algorithm to optimize the total location management cost
+Answer: C
+prompt 579:
+
+prompt 580:
+E) The shortest path to the destination is discarded
+F) The shortest path to the destination is discovered
+Answer: F
+prompt 581:
+Answer: A
+prompt 582:
+
+prompt 583:
+E) The difficulty in aligning satellite dishes
+Answer: C
+prompt 584:
+
+prompt 585:
+E) Assigning port numbers to data chunks and forming segments
+Answer: E
+prompt 586:
+Answer: C
+prompt 587:
+E) MAC protocols require coordination for transmission between stations on the same network
+Answer: B
+prompt 588:
+
+prompt 589:
+
+prompt 590:
+E) To terminate an SMTP session
+Answer: D
+prompt 591:
+Answer: C
+prompt 592:
+
+prompt 593:
+Answer: A
+prompt 594:
+Answer: B
+prompt 595:
+E) To reduce network traffic
+Answer: C
+prompt 596:
+
+prompt 597:
+
+prompt 598:
+Answer: B
+prompt 599:
+
+prompt 600:
+E) To determine the maximum number of subnets that can be created
+Answer: A
+prompt 601:
+
+prompt 602:
+E) A BGP-learned route
+Answer: C
+prompt 603:
+
+prompt 604:
+
+prompt 605:
+E) The ability of network to adapt to changing conditions
+F) The ability of network to provide uninterrupted services
+G) The ability of network to provide services with minimal loss
+H) The ability of network to provide services with minimal delay
+I) The ability of network to provide services with minimal jitter
+J) The ability of network to provide services with minimal packet loss
+K) The ability of network to provide services with minimal delay
+L) The ability of network to provide services with minimal jitter
+M) The ability of network to provide services with minimal packet loss
+N) The ability of network to provide services with minimal jitter
+O) The ability of network to provide services with minimal packet loss
+P) The ability of network to provide services with minimal jitter
+Q) The ability of network to provide services with minimal packet loss
+R) The ability of network to provide services with minimal jitter
+S) The ability of network to provide services with minimal packet loss
+T) The ability of network to provide services with minimal jitter
+U) The ability of network to provide services with minimal packet loss
+V) The ability of network to provide services with minimal jitter
+W) The ability of network to provide services with minimal packet loss
+X) The ability of network to provide services with minimal jitter
+Y) The ability of network to provide services with minimal packet loss
+Z) The ability of network to provide services with minimal jitter
+AA) The ability of network to provide services with minimal packet loss
+BB) The ability of network to provide services with minimal jitter
+CC) The ability of network to provide services with minimal packet loss
+DD) The ability of network to provide services with minimal jitter
+EE) The ability of network to provide services with minimal packet loss
+FF) The ability of network to provide services with minimal jitter
+GG) The ability of network to provide services with minimal packet loss
+HH) The ability of network to provide services with minimal jitter
+II) The ability of network to provide services with minimal packet loss
+JJ) The ability of network to provide services with minimal jitter
+KK) The ability of network to provide services with minimal packet loss
+LL) The ability of network to provide services with minimal jitter
+MM) The ability of network to provide services with minimal packet loss
+NN) The ability of network to provide services with minimal jitter
+OO) The ability of network to provide services with minimal packet loss
+PP) The ability of network to provide services with minimal jitter
+QQ) The ability of network to provide services with minimal packet loss
+RR) The ability of network to provide services with minimal jitter
+SS) The ability of network to provide services with minimal packet loss
+TT) The ability of network to provide services with minimal jitter
+UU) The ability of network to provide services with minimal packet loss
+VV) The ability of network to provide services with minimal jitter
+WW) The ability of network to provide services with minimal packet loss
+XX) The ability of network to provide services with minimal jitter
+YY) The ability of network to provide services with minimal packet loss
+ZZ) The ability of network to provide services with minimal jitter
+The correct answers are: F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, AA, BB, CC, DD, EE, FF, GG, HH, II, JJ, KK, LL, MM, NN, OO, PP, QQ, RR, SS, TT, UU, VV, WW, XX, YY, ZZ.
+prompt 606:
+E) A network protocol
+F) The type of network
+G) A network device
+H) A computer's IP address
+Answer: C
+prompt 607:
+Answer: D
+prompt 608:
+Answer: B
+prompt 609:
+E) A method to ensure that the same connection is not established multiple times
+Answer: D
+prompt 610:
+Answer: A
+prompt 611:
+Answer: B
+prompt 612:
+
+prompt 613:
+Answer: D
+prompt 614:
+Answer: B
+prompt 615:
+E) Poor bandwidth allocation
+F) Lack of Quality of Service (QoS) support
+G) Inadequate echo cancellation
+H) Excessive jitter
+Answer: H
+prompt 616:
+Answer: A
+Explanation: OSPF is used for computing the shortest path for data packet routing in an IP network.
+prompt 617:
+
+prompt 618:
+Answer: B
+prompt 619:
+implementation
+E) Call encryption
+Answer: D
+prompt 620:
+
+prompt 621:
+Answer: A
+prompt 622:
+E) None of the above
+Answer: C
+prompt 623:
+
+prompt 624:
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+A) By removing the need for any user input
+B) By focusing solely on hardware failures, ignoring cyber threats
+C) By identifying potential vulnerabilities and guiding proactive solutions
+D) By mandating all network traffic remain unencrypted
+
+prompt 625:
+Answer: D
+prompt 626:
+E) Because of high noise levels
+Answer: C
+prompt 627:
+Answer: D
+prompt 628:
+
+prompt 629:
+
+prompt 630:
+Answer: B
+prompt 631:
+E) 1000 meters
+Answer: D
+prompt 632:
+E) Progressive download
+Answer: C
+prompt 633:
+Answer: C
+prompt 634:
+E) Using a symmetric-key algorithm and the recipient's public key sent within the message
+F) Using a symmetric-key algorithm and a one-time secret key sent with the message
+G) Using a symmetric-key algorithm and a one-time secret key sent within the message
+H) Using a symmetric-key algorithm and the recipient's public key sent with the message
+Answer: C
+prompt 635:
+E) New methods for authentication
+Answer: E
+prompt 636:
+
+Answer: C
+prompt 637:
+Answer: C
+prompt 638:
+
+prompt 639:
+from a single point.
+Answer: B
+Explanation: The Wi-Fi Protected Setup (WPS) is a standard that simplifies the process of connecting devices to a Wi-Fi network. The WPS is a set of protocols that allow the configuration of a wireless network to be done by simply pushing a button. The WPS was created to allow the configuration of a wireless network to be done by simply pushing a button. The WPS is a standard that simplifies the process of connecting devices to a Wi-Fi network.
+prompt 640:
+E) Data can be sent and received, but not at the same time
+Answer: D
+prompt 641:
+Answer: A
+prompt 642:
+
+prompt 643:
+Answer: B
+prompt 644:
+Answer: B
+prompt 645:
+
+prompt 646:
+Answer: C
+prompt 647:
+Answer: D
+prompt 648:
+Answer: B
+prompt 649:
+
+prompt 650:
+E) Transfers packets across the network based on the destination address
+F) Transfers packets across the network based on the source address
+Answer: E
+prompt 651:
+Answer: C
+prompt 652:
+E) NBT
+F) WINS
+Answer: E
+prompt 653:
+E) To build a multicast tree in a network
+F) To implement multicast in a network
+Answer: B
+prompt 654:
+Answer: B
+prompt 655:
+Answer: D
+prompt 656:
+Answer: D
+prompt 657:
+between network domains
+Answer: D
+prompt 658:
+Answer: A
+prompt 659:
+E) An attacker changes the source or destination address of a message
+Answer: B
+prompt 660:
+Answer: C
+prompt 661:
+Answer: C
+prompt 662:
+Answer: B) Fully Qualified Domain Name
+Explanation: A fully qualified domain name (FQDN) is a domain name that is completely specified in the DNS, including all host and domain name components.
+prompt 663:
+Answer: C
+prompt 664:
+Answer: D
+prompt 665:
+E) To prevent voice packets from being dropped by the network
+Answer: B
+prompt 666:
+
+prompt 667:
+Answer: C
+prompt 668:
+Answer: C
+prompt 669:
+
+prompt 670:
+to calculate the shortest path
+Answer: D
+prompt 671:
+
+prompt 672:
+E) To support multiple file systems in a single directory
+Answer: A
+prompt 673:
+E) DHCP
+Answer: C
+prompt 674:
+
+prompt 675:
+
+prompt 676:
+E) Backbone Router
+F) ABR
+G) ASBR
+H) Internal Router
+Answer: G
+prompt 677:
+he receiver displays the video or plays the audio as it arrives.
+E) The receiver downloads the video or audio in a compressed format and the receiver displays the video or plays the audio as it arrives.
+Answer: D
+prompt 678:
+
+prompt 679:
+E) Protocols must be human readable
+Answer: D
+prompt 680:
+Answer: D
+prompt 681:
+
+prompt 682:
+Answer: A
+prompt 683:
+Answer: A
+prompt 684:
+
+prompt 685:
+Answer: B
+prompt 686:
+E) To provide a method for authenticating mobile devices on the network
+F) To provide a mechanism for exchanging authentication messages between the access point and the mobile device
+Answer: F
+prompt 687:
+
+prompt 688:
+
+prompt 689:
+and jamming
+Answer: D
+prompt 690:
+Answer: C
+prompt 691:
+Answer: A
+prompt 692:
+Answer: D
+prompt 693:
+Answer: A
+prompt 694:
+Answer: B
+prompt 695:
+E) They provide a mechanism for converting between different data formats
+F) They allow the sharing of resources between multiple users
+G) They provide a mechanism for the management and administration of network resources
+H) They provide a mechanism for the secure transmission of data over a network
+I) They provide a mechanism for the transmission of data over a network
+J) They provide a mechanism for the management and administration of network resources
+K) They provide a mechanism for the secure transmission of data over a network
+L) They act as gateways between different networks, helping to route packets from source to destination
+M) They provide a mechanism for converting between different data formats
+N) They detect errors in packets and request retransmissions where necessary
+O) They are responsible for physically attaching devices to the network
+P) They provide a mechanism for the transmission of data over a network
+Q) They provide a mechanism for the management and administration of network resources
+R) They provide a mechanism for the secure transmission of data over a network
+S) They provide a mechanism for the transmission of data over a network
+T) They allow the sharing of resources between multiple users
+U) They provide a mechanism for the management and administration of network resources
+V) They provide a mechanism for the secure transmission of data over a network
+W) They provide a mechanism for converting between different data formats
+X) They act as gateways between different networks, helping to route packets from source to destination
+Y) They detect errors in packets and request retransmissions where necessary
+Z) They are responsible for physically attaching devices to the network
+Answer: L
+Explanation: Routers are devices that act as gateways between different networks, helping to route packets from source to destination.
+prompt 696:
+Answer: C
+prompt 697:
+Answer: C
+prompt 698:
+
+prompt 699:
+
+prompt 700:
+Answer: C
+prompt 701:
+
+prompt 702:
+Answer: B
+prompt 703:
+
+prompt 704:
+Answer: A
+prompt 705:
+Answer: C
+prompt 706:
+
+prompt 707:
+Answer: A
+prompt 708:
+
+prompt 709:
+Answer: D
+prompt 710:
+
+prompt 711:
+
+prompt 712:
+Answer: B
+prompt 713:
+Answer: C
+prompt 714:
+E) A protocol for collision avoidance in wireless media
+F) A single wireless LAN with multiple access points
+Answer: F
+prompt 715:
+and bandwidth
+Answer: B
+prompt 716:
+E) Allow nodes to send data at any time
+Answer: B
+prompt 717:
+Answer: B
+prompt 718:
+E) All of the above
+Answer: C
+prompt 719:
+
+E) None of the above.
+Answer: C
+prompt 720:
+
+prompt 721:
+
+prompt 722:
+Answer: B
+prompt 723:
+Answer: C
+prompt 724:
+Answer: A
+prompt 725:
+
+prompt 726:
+Answer: D
+prompt 727:
+Answer: C
+prompt 728:
+E) To improve the security of the internet protocol
+Answer: A
+prompt 729:
+E) show ip rip database
+Answer: C
+prompt 730:
+E) It's intended only for reply messages
+F) It's intended for routers only
+G) It's intended for hosts only
+H) It's intended for both hosts and routers
+Answer: H
+prompt 731:
+
+prompt 732:
+Answer: B
+prompt 733:
+
+prompt 734:
+
+prompt 735:
+Answer: B
+prompt 736:
+
+prompt 737:
+
+prompt 738:
+
+prompt 739:
+
+prompt 740:
+Answer: A
+prompt 741:
+Answer: B
+prompt 742:
+Answer: C
+prompt 743:
+Answer: C
+prompt 744:
+Answer: A
+Explanation: IEEE 802.22 is a wireless standard that is specifically targeted at VHF/UHF analog TV bands for data networks.
+prompt 745:
+Answer: C
+prompt 746:
+
+prompt 747:
+Answer: B
+prompt 748:
+by introducing additional switches
+Answer: C
+prompt 749:
+Answer: B
+Explanation: XHTML Mobile Profile (XHTML MP) is a restricted version of XHTML that is optimized for use on mobile devices. XHTML MP is based on XHTML 1.0 Strict, but it is limited to a subset of XHTML elements and attributes.
+The <form> element is used to create a form in XHTML MP. The <form> element has two required attributes: action and method. The action attribute specifies the URL of the server-side script that will process the form data, and the method attribute specifies the HTTP method that will be used to send the form data to the server.
+The <form> element can also contain other XHTML elements, such as <input>, <textarea>, and <select>. These elements are used to create the form fields, such as text boxes, drop-down lists, and radio buttons.
+The following is an example of a form in XHTML MP:
+<form action="http://www.example.com/process_form.php" method="post">
+<label for="username">Username:</label>
+<input type="text" id="username" name="username">
+<label for="password">Password:</label>
+<input type="password" id="password" name="password">
+<input type="submit" value="Log in">
+In this example, the form has two text boxes for the username and password, and a submit button. When the user clicks the submit button, the form data will be sent to the server-side script at http://www.example.com/process_form.php using the POST method.
+prompt 750:
+Implementation
+Answer: D
+prompt 751:
+(Multiple Input Multiple Output)
+Answer: C
+prompt 752:
+
+prompt 753:
+
+Answer: C
+prompt 754:
+
+prompt 755:
+
+prompt 756:
+E) By using flow pinning to route traffic
+F) By dynamically allocating bandwidth based on flow requirements
+G) By using flow pinning to improve application performance
+H) By using flow pinning to optimize application performance
+Answer: H
+prompt 757:
+
+prompt 758:
+and their format
+Answer: A
+prompt 759:
+
+prompt 760:
+Answer: C
+prompt 761:
+
+prompt 762:
+Answer: B
+prompt 763:
+
+prompt 764:
+Answer: D
+prompt 765:
+
+prompt 766:
+
+prompt 767:
+
+prompt 768:
+
+prompt 769:
+Answer: D
+prompt 770:
+
+prompt 771:
+
+prompt 772:
+Answer: D
+prompt 773:
+Answer: D
+prompt 774:
+Answer: B
+prompt 775:
+Answer: A
+prompt 776:
+Answer: B
+prompt 777:
+to the request
+E) To indicate that the server should not buffer the response
+Answer: D
+prompt 778:
+Answer: B
+prompt 779:
+
+Answer: C
+prompt 780:
+Answer: B
+prompt 781:
+Answer: C
+prompt 782:
+
+prompt 783:
+
+prompt 784:
+E) Network design
+F) Feasibility study
+G) Systems analysis
+H) Systems design
+Answer: G
+Explanation: Systems analysis involves evaluating and optimizing options based on various trade-offs in network design. The systems analysis phase involves determining the feasibility of a proposed system. Systems analysis involves evaluating and optimizing options based on various trade-offs in network design. Systems analysis is a process that involves evaluating and optimizing options based on various trade-offs in network design.
+prompt 785:
+
+prompt 786:
+Answer: B
+prompt 787:
+nswer: D
+prompt 788:
+
+prompt 789:
+
+prompt 790:
+E) It can support only routing and VPN
+Answer: A
+prompt 791:
+Answer: D
+prompt 792:
+Answer: A
+prompt 793:
+
+prompt 794:
+Answer: A
+prompt 795:
+Answer: B
+prompt 796:
+Answer: C
+prompt 797:
+E) Sends data to the socket
+F) Receives data from the socket
+G) Receives incoming data from the socket
+H) Sends data from the socket
+Answer: F
+prompt 798:
+
+prompt 799:
+
+prompt 800:
+Answer: C
+Explanation: The maximum window size for Go-Back-N ARQ is equal to the sequence number field size minus 1. The sequence number field size is 3 bits, hence the maximum window size is 7.
+prompt 801:
+Answer: D
+prompt 802:
+
+prompt 803:
+E) It increases the number of security policies that can be configured in the device
+F) It increases the number of users that can be authenticated to the device
+Answer: C
+prompt 804:
+
+prompt 805:
+
+prompt 806:
+Answer: D
+prompt 807:
+E) Duplicate data
+F) Packet loss
+G) Packet damage
+H) Data corruption
+Answer: B
+prompt 808:
+Answer: B
+prompt 809:
+
+prompt 810:
+
+E) When the router is connected to a wireless network.
+Answer: C
+prompt 811:
+E) A detailed analysis of the network's current state
+Answer: B
+prompt 812:
+
+prompt 813:
+Answer: D
+prompt 814:
+Answer: A
+prompt 815:
+Answer: B
+prompt 816:
+
+prompt 817:
+
+prompt 818:
+Answer: A
+prompt 819:
+
+prompt 820:
+Answer: C
+prompt 821:
+E) Multipath fading
+Answer: E
+prompt 822:
+Answer: A
+prompt 823:
+Answer: A
+prompt 824:
+E) Routing of ATM cells to the appropriate output port
+F) Multiplexing of ATM cells from several users onto a single link
+G) Routing of ATM cells to the appropriate output port
+H) Addition of a 5-byte header to the ATM cell
+Answer: F
+prompt 825:
+E) It disables the port
+Answer: E
+prompt 826:
+Answer: C
+prompt 827:
+E) By retransmitting the entire connection
+Answer: B
+prompt 828:
+based on a hub
+Answer: B
+prompt 829:
+
+prompt 830:
+Answer: A
+prompt 831:
+Answer: C
+prompt 832:
+
+prompt 833:
+Answer: D
+prompt 834:
+Answer: C
+prompt 835:
+
+prompt 836:
+Answer: B
+prompt 837:
+in the network
+Answer: B
+prompt 838:
+
+prompt 839:
+Answer: D
+prompt 840:
+Answer: D
+prompt 841:
+Answer: B
+Explanation: The Global System for Mobile Communications (GSM) is a digital mobile phone standard that is widely used in Europe and other parts of the world. GSM uses a variety of technologies, including time division multiple access (TDMA) and code division multiple access (CDMA), to provide digital mobile communication.
+prompt 842:
+E) To declare the type of the message body
+Answer: D
+prompt 843:
+E) Spectral subtraction
+F) Pitch prediction
+G) Adaptive preemphasis
+H) Adaptive postemphasis
+Answer: D
+prompt 844:
+E) Interference by cellular phones
+F) Interference by cordless phones
+G) Interference by radar
+H) Interference by satellite communications
+Answer: G
+Explanation: interference by radar presents a challenge at frequencies around 4 GHz. 4 GHz is the frequency used by most radar systems. Interference by radar presents a challenge at frequencies around 4 GHz
+prompt 845:
+Answer: B
+prompt 846:
+
+prompt 847:
+E) A method for using congestion control to prioritize traffic
+Answer: A
+prompt 848:
+Answer: C
+prompt 849:
+Answer: C
+prompt 850:
+Answer: D
+Explanation: The peer-to-peer paradigm introduces the concept of decentralized services and protocols like Chord, Pastry, and Kademlia on the Internet.
+prompt 851:
+
+prompt 852:
+
+prompt 853:
+
+prompt 854:
+
+Answer: C
+prompt 855:
+Answer: D
+prompt 856:
+Answer: B
+prompt 857:
+E) OSPF
+Answer: A
+prompt 858:
+Answer: D
+prompt 859:
+E) Allowing only one voice call per user
+Answer: D
+prompt 860:
+nswer: D
+prompt 861:
+
+prompt 862:
+Answer: B
+prompt 863:
+Answer: B
+prompt 864:
+Answer: C
+prompt 865:
+
+prompt 866:
+Answer: C
+prompt 867:
+Answer: C
+prompt 868:
+Answer: C
+prompt 869:
+E) Increasing the size of data chunks
+Answer: A
+prompt 870:
+Answer: A
+prompt 871:
+Answer: C
+prompt 872:
+
+prompt 873:
+Answer: D
+prompt 874:
+E) 1024 bytes
+Answer: B
+prompt 875:
+Answer: D
+prompt 876:
+in the channel
+Answer: D
+prompt 877:
+and sends an error message
+E) Replaces the current label with the new label and continues processing
+Answer: E
+prompt 878:
+E) To authenticate the identity of the sender
+F) To generate a private key from a public key
+Answer: C
+prompt 879:
+Answer: C
+prompt 880:
+Explanation: A subnet mask is a 32-bit number that is used to divide an IP address into a network address and a host address. The subnet mask is a series of 1s followed by a series of 0s. The number of 1s represents the number of bits used for the network address. The remaining bits are used for the host address. The AND operation is used to separate the network address and the host address. The AND operation is performed on each bit of the IP address and the subnet mask. If the corresponding bit of the subnet mask is a 1, then the result of the AND operation is 1. If the corresponding bit of the subnet mask is a 0, then the result of the AND operation is 0. The AND operation results in the network address.
+prompt 881:
+
+prompt 882:
+E) DHCP
+F) STP
+G) RSTP
+H) LLDP-MED
+Answer: H
+prompt 883:
+
+prompt 884:
+Answer: B
+prompt 885:
+
+prompt 886:
+Answer: B
+prompt 887:
+
+prompt 888:
+Answer: D
+prompt 889:
+Answer: A
+prompt 890:
+E) Improves the accuracy of time-sensitive applications
+Answer: C
+prompt 891:
+
+prompt 892:
+
+prompt 893:
+
+prompt 894:
+E) Flow control
+F) None of the above
+Answer: C
+prompt 895:
+E) Processing packets to be forwarded and then sending them to the output port
+Answer: D
+prompt 896:
+for error detection
+Answer: D
+prompt 897:
+
+prompt 898:
+
+prompt 899:
+
+prompt 900:
+
+prompt 901:
+E) Hierarchical control plane
+Answer: B
+prompt 902:
+Answer: B
+prompt 903:
+Answer: C
+prompt 904:
+Answer: C
+prompt 905:
+Answer: B
+prompt 906:
+
+prompt 907:
+
+prompt 908:
+Answer: A
+Explanation: The physical and MAC addresses identify the physical endpoints in an Ethernet network. The logical IP addresses identify the logical endpoints in an IP network. The subnet masks are used to determine the network portion of an IP address. The port numbers identify the endpoints in a TCP or UDP network.
+prompt 909:
+
+prompt 910:
+Answer: D
+prompt 911:
+Answer: D
+prompt 912:
+
+prompt 913:
+
+Answer: D
+prompt 914:
+Answer: B
+prompt 915:
+Answer: C
+prompt 916:
+Answer: C
+prompt 917:
+E) To specify the IP address and port number of the client
+Answer: E
+prompt 918:
+Answer: C
+prompt 919:
+
+prompt 920:
+Answer: D
+prompt 921:
+E) Mail forwarding
+F) Routing
+Answer: A
+prompt 922:
+
+prompt 923:
+
+prompt 924:
+Answer: C
+prompt 925:
+Answer: D
+prompt 926:
+
+prompt 927:
+
+prompt 928:
+of the network
+Answer: D
+prompt 929:
+
+prompt 930:
+Answer: A
+prompt 931:
+
+prompt 932:
+Answer: C
+prompt 933:
+
+prompt 934:
+E) A method for sending data over multiple paths to improve reliability
+F) A feature that allows a connection to use multiple IP addresses to improve performance
+G) A technique for combining multiple streams into a single connection
+H) A service that preserves data ordering within a single stream
+I) A feature that allows a connection to support more than one network interface per endpoint
+J) A method for sending data over multiple streams to improve reliability
+K) A technique for combining multiple packets into a single stream
+L) A feature that allows a connection to use multiple network interfaces to improve performance
+M) A service that preserves data ordering across multiple paths
+N) A method for compressing multiple data chunks into one packet for efficient transmission
+O) A technique for combining multiple streams into a single packet for efficient transmission
+P) A feature that allows a connection to use multiple IP addresses to improve reliability
+Q) A technique for combining multiple packets into a single stream
+R) A service that preserves data ordering within a single path
+S) A method for sending data over multiple streams to improve performance
+T) A technique for combining multiple messages into a single packet for efficient transmission
+U) A feature that allows a connection to use multiple network interfaces to improve reliability
+V) A method for compressing multiple data chunks into one packet for efficient transmission
+W) A service that preserves data ordering across multiple streams
+X) A technique for combining multiple streams into a single connection
+Y) A feature that allows a connection to support more than one IP address per endpoint
+Z) A method for sending data over multiple paths to improve performance
+Answer: J
+prompt 935:
+
+prompt 936:
+
+E) To prevent nodes with smaller identifiers from being flooded with HELLO messages.
+Answer: C
+prompt 937:
+Answer: B
+prompt 938:
+
+prompt 939:
+Answer: C
+prompt 940:
+Answer: B
+prompt 941:
+Answer: C
+prompt 942:
+
+prompt 943:
+
+prompt 944:
+
+prompt 945:
+
+prompt 946:
+E) To redistribute only those routes that are subnetted
+Answer: C
+prompt 947:
+E) To reduce the administrative distance of the static route
+Answer: A
+prompt 948:
+Answer: B
+prompt 949:
+
+prompt 950:
+
+prompt 951:
+purposes
+E) To ensure the packet is delivered to the correct destination
+Answer: A
+prompt 952:
+
+prompt 953:
+Answer: D
+prompt 954:
+
+prompt 955:
+Answer: D
+prompt 956:
+Answer: C
+prompt 957:
+E) To enable the IPsec datagram to be routed through the public Internet
+Answer: E
+prompt 958:
+Answer: A
+prompt 959:
+Answer: A
+prompt 960:
+Answer: D
+prompt 961:
+
+prompt 962:
+Answer: A
+prompt 963:
+
+prompt 964:
+E) Send messages to multiple recipients at the same time
+The correct answer is: A) Transmit messages during an ongoing call
+The SMS feature provided by GSM was notable for its ability to transmit messages during an ongoing call. This unique capability allowed users to send and receive text messages while engaged in a voice conversation, revolutionizing mobile communication and paving the way for modern messaging services.
+prompt 965:
+Answer: B
+Explanation: CIDR provides a way to aggregate network addresses, which can be used to reduce the size of routing tables. CIDR is not used for data encryption, network configuration, or network traffic anomaly detection.
+prompt 966:
+Answer: B
+prompt 967:
+
+prompt 968:
+
+prompt 969:
+Answer: A
+prompt 970:
+
+prompt 971:
+
+prompt 972:
+Answer: D
+prompt 973:
+Answer: A
+Explanation: The WAP architecture is divided into four layers: the application layer, session layer, transport layer, and security layer. The application layer contains the WML and WMLScript specifications. The session layer is responsible for establishing a connection between the client and the WAP gateway. The transport layer is responsible for providing reliable and secure data transmission. The security layer is responsible for ensuring the security of data transmission. The proxy server layer is not part of the WAP architecture.
+prompt 974:
+Answer: C
+prompt 975:
+Answer: B
+prompt 976:
+Answer: B
+prompt 977:
+
+E) They provide integrity and confidentiality to the data packets.
+Answer: B
+prompt 978:
+
+prompt 979:
+Answer: A
+prompt 980:
+
+prompt 981:
+
+prompt 982:
+
+prompt 983:
+E) SHA-512
+Answer: E
+prompt 984:
+Answer: C
+prompt 985:
+
+prompt 986:
+E) Dedicated connections
+Answer: D
+prompt 987:
+E) Use keywords in your website content
+F) Include a search engine submission form on your website
+G) Use a search engine submission service
+H) Submit your website to search engines
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E) MSN
+F) Hotbot
+G) Ask Jeeves
+H) AOL
+Which of the following is NOT a major search engine?
+A) Google
+B) Yahoo
+C) Lycos
+D) AltaVista
+E
+prompt 988:
+E) To ensure that a flow queue gets all the bandwidth it requests
+Answer: A
+prompt 989:
+Answer: C
+prompt 990:
+Answer: C
+prompt 991:
+Answer: C
+prompt 992:
+E) Establishing the encryption and decryption keys
+Answer: B
+prompt 993:
+
+prompt 994:
+Answer: C
+prompt 995:
+Answer: B
+prompt 996:
+
+prompt 997:
+Answer: C
+prompt 998:
+E) Irreversibility and high computational speed
+Answer: C
+prompt 999:
+
+prompt 1000:
+
+prompt 1001:
+
+prompt 1002:
+Answer: B
+prompt 1003:
+
+prompt 1004:
+Answer: A
+prompt 1005:
+E) Higher bandwidth
+Answer: E
+prompt 1006:
+and Internet Protocol (IP)
+Answer: D
+prompt 1007:
+
+prompt 1008:
+
+prompt 1009:
+Answer: D
+prompt 1010:
+Answer: D
+prompt 1011:
+Answer: B
+prompt 1012:
+Answer: B
+prompt 1013:
+Answer: D
+prompt 1014:
+of time
+E) They are typically generated by a single application
+Answer: D
+prompt 1015:
+Answer: C
+prompt 1016:
+
+Answer: C
+prompt 1017:
+E) The path with the most traffic is used
+Answer: A
+prompt 1018:
+
+prompt 1019:
+Answer: C
+prompt 1020:
+
+prompt 1021:
+
+prompt 1022:
+
+prompt 1023:
+Answer: D
+prompt 1024:
+number
+Answer: C
+prompt 1025:
+Answer: B
+prompt 1026:
+
+prompt 1027:
+Answer: B
+prompt 1028:
+
+prompt 1029:
+Answer: A
+prompt 1030:
+
+prompt 1031:
+E) The synchronization of data across different devices
+Answer: E
+prompt 1032:
+
+prompt 1033:
+Answer: A
+prompt 1034:
+Answer: A
+prompt 1035:
+Answer: A
+prompt 1036:
+
+prompt 1037:
+Answer: A
+prompt 1038:
+
+prompt 1039:
+E) Redirect Message
+Answer: D
+prompt 1040:
+Answer: D
+prompt 1041:
+E) All of the above
+Answer: E
+prompt 1042:
+
+prompt 1043:
+Answer: A
+prompt 1044:
+
+prompt 1045:
+Answer: D
+prompt 1046:
+
+prompt 1047:
+
+prompt 1048:
+
+prompt 1049:
+E) Detecting and eliminating duplicate packets
+Answer: D
+prompt 1050:
+Answer: D
+prompt 1051:
+E) Botnets
+F) Web scraping
+G) Web mining
+H) Web crawling
+Answer: H
+Explanation: Web crawling is the process of visiting and indexing web pages across the internet. Search engines use web crawling to index web pages. Web crawling is the mechanism search engines use to visit and index web pages across the internet
+prompt 1052:
+
+prompt 1053:
+Answer: B
+prompt 1054:
+
+prompt 1055:
+Answer: C
+prompt 1056:
+E) Holddown timers
+Answer: C
+prompt 1057:
+E) To compute the TCP checksum
+Answer: A
+prompt 1058:
+Answer: B
+prompt 1059:
+
+prompt 1060:
+Answer: A
+prompt 1061:
+Answer: D
+prompt 1062:
+E) It allows the interface to be assigned to multiple VRFs
+Answer: B
+prompt 1063:
+Answer: D
+prompt 1064:
+
+prompt 1065:
+E) Provides a mechanism for voice data to be transported over IP networks
+Answer: E
+prompt 1066:
+Answer: D
+prompt 1067:
+
+prompt 1068:
+E) WEP
+F) DHCP server
+G) EAP
+H) SSID
+Answer: C
+prompt 1069:
+Answer: D
+prompt 1070:
+E) The ability to handle the Internet's rapid growth
+Answer: A
+prompt 1071:
+
+Answer: B
+prompt 1072:
+Explanation: TCP and UDP are transport layer protocols. SCTP is a transport layer protocol. SCTP is used for applications where error control can be achieved at the application layer itself.
+UDP does not provide error control. TCP provides error control.
+Thus, the correct answer is option B.
+prompt 1073:
+Answer: C
+prompt 1074:
+
+prompt 1075:
+E) Routing errors
+F) Network attacks
+G) Denial of service
+H) Data loss
+Answer: F
+prompt 1076:
+
+prompt 1077:
+
+prompt 1078:
+E) Through the implementation of a spanning tree algorithm
+F) Through the use of a central switch
+G) By using a token-passing mechanism
+H) Through the use of a central hub
+Answer: G
+prompt 1079:
+E) By eliminating the need for multiple network functions
+Answer: C
+prompt 1080:
+Answer: D
+prompt 1081:
+Answer: A
+prompt 1082:
+Answer: D
+prompt 1083:
+Answer: B
+Explanation: Telnet is a terminal emulation program that allows a user to log in to a remote computer and run programs on it. Telnet is used to log in to remote computers.
+prompt 1084:
+
+Answer: A
+Explanation: Latent semantic indexing is a technique that reduces the dimensionality of document spaces.
+prompt 1085:
+Answer: B
+prompt 1086:
+Answer: B
+prompt 1087:
+
+prompt 1088:
+
+prompt 1089:
+Answer: D
+prompt 1090:
+consumption
+Answer: D
+prompt 1091:
+Answer: C
+prompt 1092:
+E) Test the theory to determine the cause
+F) Establish a plan of action to resolve the problem
+G) Implement and verify the solution or the resolution
+H) Determine the root cause
+Answer: D
+prompt 1093:
+Answer: C
+Explanation: Config-sync uses a protocol to check for any syntax errors in the switch profile. If the profile has any syntax errors, the switch profile is not synchronized to the peer switch.
+prompt 1094:
+E) Releases the current IP address
+Answer: E
+prompt 1095:
+
+prompt 1096:
+
+prompt 1097:
+Answer: A
+prompt 1098:
+Answer: C
+prompt 1099:
+Answer: D
+prompt 1100:
+
+prompt 1101:
+E) ephone display GAD Technology
+Answer: D
+prompt 1102:
+E) Signaling System No. 7 (SS7)
+Answer: E
+prompt 1103:
+Answer: B
+prompt 1104:
+E) Maintaining a connective path for migrating terminals
+Answer: D
+prompt 1105:
+
+prompt 1106:
+Answer: A
+prompt 1107:
+Answer: C
+prompt 1108:
+
+prompt 1109:
+Answer: B
+prompt 1110:
+
+prompt 1111:
+
+prompt 1112:
+E) High-speed services with a large number of IP packets
+Answer: A
+prompt 1113:
+Answer: D
+prompt 1114:
+
+prompt 1115:
+
+prompt 1116:
+
+prompt 1117:
+
+prompt 1118:
+Answer: B
+prompt 1119:
+
+prompt 1120:
+
+prompt 1121:
+
+prompt 1122:
+Connection Identifier
+Answer: C
+prompt 1123:
+
+prompt 1124:
+Answer: C
+prompt 1125:
+Answer: D
+prompt 1126:
+
+prompt 1127:
+
+prompt 1128:
+
+prompt 1129:
+Answer: B
+prompt 1130:
+nswer: D
+prompt 1131:
+Answer: D
+prompt 1132:
+
+prompt 1133:
+Answer: C
+prompt 1134:
+E) To set the routing update intervals
+F) To set the routing update intervals
+G) To set the routing update intervals
+H) To set the routing update intervals
+Answer: D
+prompt 1135:
+Answer: C
+prompt 1136:
+
+prompt 1137:
+Answer: C
+prompt 1138:
+
+prompt 1139:
+
+prompt 1140:
+nswer: C
+prompt 1141:
+E) None of the above
+Answer: A
+prompt 1142:
+Answer: D
+prompt 1143:
+Answer: B
+prompt 1144:
+
+prompt 1145:
+E) IDSL
+Answer: B
+prompt 1146:
+Answer: B
+prompt 1147:
+E) NAT
+Answer: E
+prompt 1148:
+
+prompt 1149:
+
+prompt 1150:
+Answer: C
+prompt 1151:
+
+prompt 1152:
+Answer: C
+prompt 1153:
+
+prompt 1154:
+E) The console will show a REGISTER_ABNORMAL?message
+F) The phone will generate a specific error message in the console
+G) The console will show that the phone is no longer available
+H) The console will show an UNREGISTER_NORMAL?message
+I) The console will show an UNREGISTER_ABNORMAL?message
+J) The console will show that the phone is no longer available
+K) The console will show an UNREGISTER_ABNORMAL?message
+L) The console will show an UNREGISTER_NORMAL?message
+M) The console will show that the phone is no longer available
+N) The console will show an UNREGISTER_ABNORMAL?message
+O) The console will show an UNREGISTER_NORMAL?message
+P) The console will show that the phone is no longer available
+Q) The console will show an UNREGISTER_ABNORMAL?message
+R) The console will show an UNREGISTER_NORMAL?message
+S) The console will show that the phone is no longer available
+T) The console will show an UNREGISTER_ABNORMAL?message
+U) The console will show an UNREGISTER_NORMAL?message
+V) The console will show that the phone is no longer available
+W) The console will show an UNREGISTER_ABNORMAL?message
+X) The console will show an UNREGISTER_NORMAL?message
+Y) The console will show that the phone is no longer available
+Z) The console will show an UNREGISTER_ABNORMAL?message
+Answer: N
+prompt 1155:
+Answer: C
+prompt 1156:
+
+prompt 1157:
+Answer: B
+prompt 1158:
+Answer: C
+prompt 1159:
+E) To specify the kind of packet in the Protocol field
+Answer: C
+prompt 1160:
+Phase
+Answer: D
+prompt 1161:
+
+prompt 1162:
+Answer: D
+prompt 1163:
+Answer: A
+prompt 1164:
+E) To protect the core
+Answer: E
+prompt 1165:
+
+prompt 1166:
+E) Forward error correction
+Answer: C
+prompt 1167:
+
+prompt 1168:
+Answer: B
+prompt 1169:
+Answer: B
+prompt 1170:
+Answer: C
+prompt 1171:
+Answer: D
+prompt 1172:
+Answer: A
+prompt 1173:
+E) Determines the order in which messages are sent
+Answer: B
+prompt 1174:
+
+prompt 1175:
+Answer: B
+prompt 1176:
+Answer: D
+prompt 1177:
+Answer: D
+prompt 1178:
+
+prompt 1179:
+Answer: D
+prompt 1180:
+E) Echo Request
+F) Echo Reply
+G) Time Exceeded
+H) Router Solicitation
+Answer: A
+prompt 1181:
+
+prompt 1182:
+Answer: C
+prompt 1183:
+
+prompt 1184:
+E) Ensuring that a single bit change in the ciphertext will result in a single bit change in the plaintext
+F) Ensuring that a single bit change in the ciphertext will result in a change in every plaintext bit
+Answer: B
+prompt 1185:
+
+prompt 1186:
+E) The amount of data the receiver can receive before sending an acknowledgment
+Answer: D
+prompt 1187:
+Answer: B
+prompt 1188:
+
+prompt 1189:
+E) IP address, Subnet Mask, and Default Gateway
+Answer: D
+prompt 1190:
+
+prompt 1191:
+Answer: C
+prompt 1192:
+E) 8B/6B
+Answer: B
+prompt 1193:
+Answer: A
+prompt 1194:
+Answer: A
+prompt 1195:
+
+prompt 1196:
+E) To prevent replay attacks
+Answer: D
+prompt 1197:
+
+prompt 1198:
+Answer: C
+prompt 1199:
+Answer: D
+prompt 1200:
+Answer: C
+prompt 1201:
+Explanation: Performing a hardware upgrade on a network device can introduce new bugs or compatibility issues, which can pose a potential risk to the network. This is because hardware upgrades may require changes to the device's firmware or software, which can introduce new bugs or compatibility issues. Additionally, hardware upgrades may require changes to the network's configuration, which can introduce new security vulnerabilities. Therefore, it is important to carefully evaluate the potential risks and benefits of a hardware upgrade before proceeding with the upgrade.
+prompt 1202:
+E) SSL
+F) SSLv3
+G) TLSv1
+Answer: D
+prompt 1203:
+
+prompt 1204:
+
+prompt 1205:
+
+prompt 1206:
+Answer: D
+prompt 1207:
+Answer: B
+Explanation: DNSSEC is a security measure that is specifically designed to protect the domain name system (DNS).
+prompt 1208:
+Answer: D
+prompt 1209:
+E) MAC Address
+Answer: D
+prompt 1210:
+
+prompt 1211:
+
+prompt 1212:
+Answer: D
+prompt 1213:
+Answer: A
+prompt 1214:
+Answer: A
+Explanation: The transport protocol provides the following services in the network architecture: Message delivery guarantees. Encryption. Authentication. Bandwidth management.
+prompt 1215:
+Answer: B
+prompt 1216:
+
+prompt 1217:
+
+prompt 1218:
+
+Answer: B
+Explanation: A digital signature is a cryptographic mechanism that ensures a message has come from a specific sender and remains unaltered.
+prompt 1219:
+
+prompt 1220:
+
+prompt 1221:
+
+prompt 1222:
+Answer: D
+prompt 1223:
+E) Low power consumption
+F) High costs
+G) Security concerns
+H) Inability to support mobility
+Answer: A
+prompt 1224:
+E) Adaptive protocols
+F) Channel hopping-based protocols
+G) Collision avoidance-based protocols
+H) Hybrid protocols
+Answer: C
+prompt 1225:
+Answer: A
+prompt 1226:
+Answer: D
+prompt 1227:
+
+prompt 1228:
+
+prompt 1229:
+Answer: A
+prompt 1230:
+
+prompt 1231:
+by default
+Answer: B
+prompt 1232:
+Answer: B
+prompt 1233:
+Answer: D
+prompt 1234:
+
+prompt 1235:
+E) Transmits data between devices
+F) None of the above
+Answer: A
+prompt 1236:
+Answer: D
+prompt 1237:
+
+prompt 1238:
+
+prompt 1239:
+Answer: A
+prompt 1240:
+
+prompt 1241:
+Answer: A
+prompt 1242:
+
+Answer: C
+prompt 1243:
+E) They are easy to use and configure
+Answer: A
+prompt 1244:
+Answer: B
+prompt 1245:
+
+prompt 1246:
+
+prompt 1247:
+Answer: B
+prompt 1248:
+
+prompt 1249:
+
+prompt 1250:
+
+prompt 1251:
+Answer: A
+prompt 1252:
+
+prompt 1253:
+
+prompt 1254:
+Answer: C
+prompt 1255:
+Answer: B
+prompt 1256:
+Answer: B
+prompt 1257:
+
+prompt 1258:
+E) Source authentication only
+F) Confidentiality and source authentication only
+Answer: B
+prompt 1259:
+Answer: D
+prompt 1260:
+Answer: C
+prompt 1261:
+Answer: B
+prompt 1262:
+
+prompt 1263:
+Answer: A
+prompt 1264:
+and Local Policy Enforcement Point (LPEP)
+Answer: B
+prompt 1265:
+Answer: B
+prompt 1266:
+Answer: D
+prompt 1267:
+
+prompt 1268:
+Answer: D
+prompt 1269:
+Answer: B
+prompt 1270:
+
+prompt 1271:
+Answer: B
+prompt 1272:
+Answer: C
+prompt 1273:
+
+prompt 1274:
+E) Address Resolution
+F) Address Translation
+Answer: A
+prompt 1275:
+
+prompt 1276:
+Answer: D
+prompt 1277:
+
+prompt 1278:
+Answer: C
+prompt 1279:
+E) It's not compatible with other positioning techniques
+Answer: C
+prompt 1280:
+
+prompt 1281:
+Answer: C
+prompt 1282:
+
+prompt 1283:
+Answer: D
+Explanation: There are four types of denial-of-service attacks: network-based, host-based, application-based, and protocol-based.
+prompt 1284:
+Answer: C
+prompt 1285:
+Answer: B
+prompt 1286:
+Answer: A
+prompt 1287:
+
+prompt 1288:
+Answer: B
+prompt 1289:
+Answer: C
+prompt 1290:
+Answer: C
+prompt 1291:
+E) Its ability to operate in a redundant fashion
+F) Its ability to operate without being inserted into a slot
+G) The presence of a connection to the D bus
+H) Its ability to operate without an external power source
+Answer: G
+prompt 1292:
+
+prompt 1293:
+E) Error Detection
+F) Error Correction
+G) Error Handling
+H) Error Checking
+Answer: E
+prompt 1294:
+of IP packets
+Answer: D
+prompt 1295:
+Answer: B
+prompt 1296:
+
+prompt 1297:
+
+prompt 1298:
+Answer: C
+prompt 1299:
+E) A type of computer software that can be used to create interactive content
+Answer: B
+prompt 1300:
+E) A standard for digital communication
+Answer: A
+prompt 1301:
+
+Answer: B
+prompt 1302:
+Answer: D
+prompt 1303:
+
+prompt 1304:
+
+prompt 1305:
+Answer: B
+prompt 1306:
+E) Buffering frames to ensure a smooth and continuous flow of data
+Answer: A
+prompt 1307:
+Answer: C
+prompt 1308:
+
+prompt 1309:
+Answer: A
+prompt 1310:
+Answer: A
+Explanation: Wired Equivalent Privacy (WEP) was developed to address the security concerns of wireless networks. However, WEP has been shown to be vulnerable to a number of security flaws. WPA replaced WEP with a more secure protocol.
+prompt 1311:
+What is an Autonomous System (AS) in the context of Internet Service Providers (ISPs)?
+An Autonomous System (AS) in the context of Internet Service Providers (ISPs) refers to a group of routers under a single administrative control. It is a collection of IP networks that is managed by a single administrative entity, such as an ISP. Each AS has its own routing policy and can communicate with other ASs through border routers. The AS number (ASN) is a unique identifier assigned to each AS, which is used for routing purposes. ASNs are assigned by the Internet Assigned Numbers Authority (IANA) and are typically represented as a 16-bit number. ASs are an important part of the Internet infrastructure, as they allow for efficient routing of packets between different networks and ISPs.
+What is an Autonomous System (AS) in the context of Internet Service Providers (ISPs)?
+An Autonomous System (AS) is a collection of routers under a single administrative control. It is a network of networks that is managed by a single entity, such as an Internet Service Provider (ISP). ASs are used to route traffic between different networks and to ensure that the traffic is delivered to the correct destination.
+ASs are identified by a unique number, known as the AS number (ASN). The ASN is assigned by the Internet Assigned Numbers Authority (IANA) and is used to identify the network. ASNs are typically represented as a 16-bit number, although some ASNs may be longer.
+ASs are used to provide a hierarchical structure for the Internet. Each AS is responsible for routing traffic within its own network, and for routing traffic between other ASs. This allows for efficient routing of traffic between different networks, and ensures that the traffic is delivered to the correct destination.
+ASs are also used to provide security for the Internet. Each AS is responsible for ensuring that the traffic it receives is legitimate, and for preventing unauthorized access to the network. This helps to protect the network from malicious attacks, and ensures that the traffic is delivered to the correct destination.
+ASs are an important part of the Internet infrastructure, and are used to provide a secure and efficient routing system for the Internet. They are used to route traffic between different networks, and to ensure that the traffic is delivered to the correct destination.
+What is an Autonomous System (AS) in the context of Internet Service Providers (ISPs)?
+An Autonomous System (AS) is a collection of IP networks that are managed by a single administrative entity. It is a network of networks that is managed by a single entity, such as an Internet Service Provider (ISP). ASs are used to route traffic between different networks and to ensure that the traffic is delivered to the correct destination.
+ASs are identified by a unique number, known as the AS number (ASN). The ASN is assigned by the Internet Assigned Numbers Authority (IANA) and is used to identify the network. ASNs are typically represented as a 16-bit number, although some ASNs may be longer.
+ASs are used to provide a hierarchical structure for the Internet. Each AS is responsible for routing traffic within its own network, and for routing traffic between other ASs. This allows for efficient routing of traffic between different networks, and ensures that the traffic is delivered to the correct destination.
+ASs are also used to provide security for the Internet. Each AS is responsible for ensuring that the traffic it receives is legitimate, and for preventing unauthorized access to the network. This helps to protect the network from malicious attacks, and ensures that the traffic is delivered to the correct destination.
+ASs are an important part of the Internet infrastructure, and are used to provide a secure and efficient routing system for the Internet. They are used to route traffic between different networks, and to ensure that the traffic is delivered to the correct destination.
+What is an Autonomous System (AS) in the context of Internet Service Providers (ISPs)?
+An Autonomous System (AS) is a collection
+prompt 1312:
+E) It reduces the impact of packet loss on video quality
+Answer: C
+prompt 1313:
+
+prompt 1314:
+Answer: C
+prompt 1315:
+
+prompt 1316:
+Answer: B
+prompt 1317:
+Answer: D
+prompt 1318:
+E) Protected Frame
+Answer: B
+prompt 1319:
+Answer: C
+prompt 1320:
+Answer: C
+prompt 1321:
+
+prompt 1322:
+E) Traffic Control
+Answer: A
+prompt 1323:
+Answer: C
+prompt 1324:
+
+prompt 1325:
+Answer: C
+prompt 1326:
+Answer: C
+prompt 1327:
+Answer: C
+prompt 1328:
+Answer: A
+prompt 1329:
+
+Answer: B
+prompt 1330:
+
+prompt 1331:
+Answer: A
+prompt 1332:
+Answer: C
+Explanation: DES was replaced by AES.
+prompt 1333:
+
+prompt 1334:
+Answer: A
+prompt 1335:
+Answer: B
+prompt 1336:
+Answer: C
+Explanation: In digital signals, each bit is represented by a square wave pulse of a particular duration. The duration of the pulse is called the bit length.
+prompt 1337:
+
+prompt 1338:
+
+prompt 1339:
+Answer: B
+Explanation: The SNMP agent listens on port 161 for SNMP messages. When using Secure SNMP, SNMP messages are sent over a secure tunnel. The SNMP agent listens on port 10161 for Secure SNMP messages.
+prompt 1340:
+
+prompt 1341:
+E) To provide a contention-free protocol for connection-oriented data traffic
+Answer: C
+prompt 1342:
+Answer: B
+prompt 1343:
+Answer: B
+prompt 1344:
+Answer: A
+prompt 1345:
+Answer: D
+Explanation: Processing gain is a measure of the reduction in interference and noise in a CDMA system. It is the ratio of the signal bandwidth to the bandwidth of the noise and interference. In a CDMA system, the processing gain is typically very high, which means that the system is very effective at reducing interference and noise.
+prompt 1346:
+
+prompt 1347:
+E) None of the above
+Answer: B
+prompt 1348:
+Answer: D
+prompt 1349:
+Answer: D
+prompt 1350:
+E) To determine the best routing path between network domains
+Answer: B
+prompt 1351:
+Answer: A
+Explanation: A BitTorrent peer-to-peer file distribution system is a decentralized file distribution system that relies on a network of computers to distribute a file. An infrastructure node, also known as a 'tracker', keeps track of peers participating in the distribution of a particular file.
+prompt 1352:
+
+prompt 1353:
+Answer: B
+prompt 1354:
+E) UMTS operates using 2 x 25 MHz bands while GSM uses 2 X 60 MHz bands
+Answer: E
+prompt 1355:
+Answer: C
+prompt 1356:
+Answer: B
+Explanation: The four types of search identified in the context of Information Retrieval are:
+Existence Search
+Comprehensive Search
+Exploratory Search
+Focused Search
+prompt 1357:
+
+prompt 1358:
+
+prompt 1359:
+
+prompt 1360:
+Answer: B
+prompt 1361:
+Answer: A
+prompt 1362:
+Answer: D
+prompt 1363:
+Answer: C
+prompt 1364:
+Answer: C
+prompt 1365:
+
+prompt 1366:
+E) To prevent hackers from accessing the network
+Answer: A
+prompt 1367:
+Answer: C
+prompt 1368:
+Answer: C
+prompt 1369:
+E) Packet Segment
+Answer: D
+prompt 1370:
+Answer: A
+prompt 1371:
+
+prompt 1372:
+E) None of the above
+Answer: B
+prompt 1373:
+during the handshake
+E) To prevent a "man-in-the-middle attack" during the handshake
+F) To prevent a "replay attack" during the handshake
+G) To prevent a "man-in-the-middle attack" during the data transfer
+H) To prevent a "replay attack" during the data transfer
+I) To prevent a "connection replay attack" during the data transfer
+J) To prevent a "man-in-the-middle attack" during the connection close
+K) To prevent a "replay attack" during the connection close
+L) To prevent a "connection replay attack" during the connection close
+Answer: F
+prompt 1374:
+Answer: C
+prompt 1375:
+
+prompt 1376:
+Answer: A
+prompt 1377:
+Answer: D
+prompt 1378:
+
+prompt 1379:
+E) To prevent unauthorized access to the network
+F) To prevent data from being lost
+G) To prevent data from being altered
+H) To prevent data from being intercepted
+Answer: D
+prompt 1380:
+
+prompt 1381:
+
+prompt 1382:
+E) Digital Signature
+Answer: E
+prompt 1383:
+
+prompt 1384:
+
+prompt 1385:
+Answer: A
+prompt 1386:
+E) To compress the data for transmission
+Answer: A
+prompt 1387:
+Answer: A
+prompt 1388:
+E) Load and Delay
+Answer: C
+prompt 1389:
+Answer: D
+prompt 1390:
+
+prompt 1391:
+
+prompt 1392:
+
+E) To prevent traffic from entering the control plane.
+Answer: C
+prompt 1393:
+
+prompt 1394:
+
+prompt 1395:
+
+prompt 1396:
+Answer: B
+prompt 1397:
+Answer: D
+prompt 1398:
+Answer: C
+prompt 1399:
+Answer: A
+prompt 1400:
+Answer: B
+prompt 1401:
+Answer: B
+prompt 1402:
+E) To enable the Internet to function as a private network
+Answer: D
+prompt 1403:
+
+Answer: A
+prompt 1404:
+Answer: D
+prompt 1405:
+Answer: A
+prompt 1406:
+
+prompt 1407:
+E) To prevent the loss of data due to collisions
+Answer: A
+prompt 1408:
+
+prompt 1409:
+Answer: B
+prompt 1410:
+Answer: D
+prompt 1411:
+
+prompt 1412:
+Answer: C
+prompt 1413:
+Answer: B
+prompt 1414:
+
+prompt 1415:
+
+prompt 1416:
+E) Minimizing the number of subnets that are reachable
+Answer: C
+prompt 1417:
+Answer: D
+prompt 1418:
+Answer: A
+prompt 1419:
+Answer: B
+prompt 1420:
+Answer: A
+prompt 1421:
+Answer: A
+prompt 1422:
+
+prompt 1423:
+Answer: B
+prompt 1424:
+Answer: D
+prompt 1425:
+
+prompt 1426:
+
+prompt 1427:
+
+prompt 1428:
+
+prompt 1429:
+
+prompt 1430:
+Answer: A
+prompt 1431:
+
+prompt 1432:
+
+prompt 1433:
+Answer: A
+prompt 1434:
+
+prompt 1435:
+
+prompt 1436:
+E) Comparing path lengths to destination
+F) Utilizing a separate routing protocol
+G) Comparing path lengths to destination
+H) Comparing path costs to destination
+Answer: A
+prompt 1437:
+Answer: C
+prompt 1438:
+Answer: B
+prompt 1439:
+Answer: C
+prompt 1440:
+E) To improve network stability
+Answer: B
+prompt 1441:
+E) It requires manual configuration of each router
+Answer: C
+prompt 1442:
+
+prompt 1443:
+Answer: B
+prompt 1444:
+Answer: D
+prompt 1445:
+Answer: A
+prompt 1446:
+
+prompt 1447:
+Answer: C
+prompt 1448:
+
+prompt 1449:
+
+prompt 1450:
+
+prompt 1451:
+
+prompt 1452:
+
+prompt 1453:
+E) 255.255.255.240
+Answer: E
+prompt 1454:
+Answer: A
+prompt 1455:
+Answer: B
+prompt 1456:
+
+prompt 1457:
+Answer: B
+prompt 1458:
+
+prompt 1459:
+Answer: B
+prompt 1460:
+
+prompt 1461:
+Answer: B
+prompt 1462:
+Answer: B
+prompt 1463:
+Answer: C
+prompt 1464:
+E) PUT
+F) TRACE
+G) OPTIONS
+H) PATCH
+Answer: D
+prompt 1465:
+E) Applications requiring high security
+Answer: A
+prompt 1466:
+Answer: D
+prompt 1467:
+Answer: C
+Explanation: Fog computing is a distributed computing architecture that uses multiple devices to process data closer to the data source. This architecture minimizes the latency of data processing.
+prompt 1468:
+Answer: D
+prompt 1469:
+Answer: A
+Explanation: Network management tools are used to automate the configuration and management of network devices.
+prompt 1470:
+
+prompt 1471:
+Answer: A
+prompt 1472:
+Answer: C
+prompt 1473:
+
+prompt 1474:
+E) The context cannot be configured as a transparent firewall
+Answer: D
+prompt 1475:
+
+prompt 1476:
+
+prompt 1477:
+Answer: D
+prompt 1478:
+access
+Answer: C
+prompt 1479:
+Answer: B
+prompt 1480:
+E) Managing the network topology
+Answer: B
+prompt 1481:
+Answer: B
+prompt 1482:
+Answer: C
+prompt 1483:
+
+prompt 1484:
+Answer: C
+prompt 1485:
+E) To reduce the efficiency of the radio
+Answer: A
+prompt 1486:
+Answer: C
+prompt 1487:
+
+prompt 1488:
+
+prompt 1489:
+Answer: C
+prompt 1490:
+
+prompt 1491:
+Answer: D
+prompt 1492:
+Answer: A
+prompt 1493:
+
+prompt 1494:
+Answer: A
+prompt 1495:
+
+prompt 1496:
+E) Broadcast
+Answer: A
+prompt 1497:
+(Eg: Telnet, FTP, etc.)
+Answer: D
+prompt 1498:
+
+prompt 1499:
+
+prompt 1500:
+Answer: B
+prompt 1501:
+Answer: B
+prompt 1502:
+E) The temporary home network address of the mobile user
+Answer: D
+prompt 1503:
+Answer: B
+prompt 1504:
+
+prompt 1505:
+Answer: D
+prompt 1506:
+E) Limiting user access
+F) Providing high availability
+G) Eliminating redundancy
+H) Reducing latency
+Answer: D
+Explanation: The main idea behind decentralized network management is to disperse management roles. Decentralized network management is a method of managing a network that distributes the management responsibilities among all the computers on the network.
+prompt 1507:
+Answer: C
+prompt 1508:
+Answer: A
+prompt 1509:
+Answer: A
+prompt 1510:
+
+Answer: A
+prompt 1511:
+Answer: C
+prompt 1512:
+Answer: A
+prompt 1513:
+Answer: B
+prompt 1514:
+
+E) Packet-level errors that occur during frame transmission.
+Answer: D
+prompt 1515:
+E) Mail
+Answer: E
+Explanation: In 1972, Ray Tomlinson developed the first electronic mail (e-mail) software. He used SNDMSG and READMAIL to send and receive messages.
+prompt 1516:
+E) Collision alert signal
+Answer: B
+prompt 1517:
+E) DTDAMA (dynamic time division multiple access)
+Answer: A
+prompt 1518:
+
+prompt 1519:
+E) All of the above
+Answer: E
+prompt 1520:
+E) All of the above
+Answer: E
+prompt 1521:
+
+prompt 1522:
+Answer: A
+prompt 1523:
+E) By increasing the number of routes
+Answer: A
+prompt 1524:
+
+prompt 1525:
+Answer: D
+prompt 1526:
+guarantees
+E) To provide network address translation (NAT)
+Answer: B
+prompt 1527:
+E) To assign virtual IP addresses to virtual ports
+Answer: D
+prompt 1528:
+E) Session Layer
+Answer: B
+prompt 1529:
+E) Flow control
+F) Positive acknowledgment with retransmission
+G) Negative acknowledgment with retransmission
+H) Connectionless communication
+Answer: F
+prompt 1530:
+across multiple paths
+Answer: A
+prompt 1531:
+
+prompt 1532:
+and abstraction
+Answer: B
+prompt 1533:
+Answer: B
+prompt 1534:
+Answer: D
+prompt 1535:
+
+prompt 1536:
+Answer: C
+Explanation: SIP-based architecture enhances the usability of VoIP by supporting personal mobility. The SIP-based architecture includes proxy/redirect servers, user agents, and registrar servers. Proxy/redirect servers are responsible for locating the called party, and for routing the call to the called party. User agents are responsible for establishing and terminating sessions, and for exchanging session information with the proxy/redirect servers. Registrar servers are responsible for maintaining a list of users and their current locations. The multipoint control unit (MCU) is responsible for establishing and maintaining a conference call.
+prompt 1537:
+
+prompt 1538:
+
+prompt 1539:
+
+prompt 1540:
+
+prompt 1541:
+Answer: A
+Explanation: The flexibility to add new custom-designed application protocols enables the Internet to become popular and worldwide.
+prompt 1542:
+Answer: D
+prompt 1543:
+field
+Answer: A
+Explanation: Ethernet is a common type of network technology that is used to interconnect computers and other devices in a local area network. Ethernet uses a frame format to deliver data across the network. The frame contains a preamble, destination address, source address, packet type field, data, and cyclic redundancy check (CRC) field. The packet type field contains the demultiplexing key that determines to which higher-level protocols the frame should be delivered.
+prompt 1544:
+
+prompt 1545:
+
+prompt 1546:
+Answer: C
+prompt 1547:
+
+prompt 1548:
+
+prompt 1549:
+
+prompt 1550:
+Answer: C
+prompt 1551:
+
+prompt 1552:
+file
+E) To ensure that all changes are saved to the configuration file
+Answer: B
+prompt 1553:
+Answer: C
+prompt 1554:
+Answer: C
+prompt 1555:
+Answer: C
+prompt 1556:
+Answer: C
+prompt 1557:
+
+prompt 1558:
+E) To avoid the loss of important message information
+Answer: C
+prompt 1559:
+
+Answer: D
+prompt 1560:
+
+Answer: C
+prompt 1561:
+
+prompt 1562:
+E) Another host's IP address
+F) Another host's MAC address
+Answer: B
+prompt 1563:
+E) Accounting management
+F) Network management
+Answer: D
+prompt 1564:
+
+prompt 1565:
+Answer: B
+prompt 1566:
+Answer: C
+prompt 1567:
+E) Assignment of a default gateway
+Answer: A
+prompt 1568:
+Answer: D
+prompt 1569:
+Answer: C
+Explanation: The most common use of the concept of bridging is in wired Ethernet networks. Wired Ethernet networks use hubs to connect devices together. A hub is a device that connects several Ethernet cables together. Each Ethernet cable connects to a different computer or device. When a computer sends data, the hub forwards the data to all the other Ethernet cables connected to it. This way, all the computers connected to the hub can receive the data.
+prompt 1570:
+
+prompt 1571:
+Answer: B
+Explanation: IEEE 802.11n is the latest standard for Wi-Fi. It provides improved range and data throughput. IEEE 802.11n is backward compatible with the 802.11a, 802.11b, and 802.11g standards.
+prompt 1572:
+
+prompt 1573:
+
+prompt 1574:
+Answer: D
+prompt 1575:
+E) None of the above
+Answer: D
+prompt 1576:
+Answer: D
+prompt 1577:
+
+prompt 1578:
+
+prompt 1579:
+
+prompt 1580:
+Answer: A
+Explanation: SOAP (Simple Object Access Protocol) is a protocol that is used to transfer machine-readable document formats like XML and JSON.
+prompt 1581:
+E) To prevent a device from being assigned an IP address on the same subnet
+Answer: D
+prompt 1582:
+Answer: C
+prompt 1583:
+E) The introduction of the first routers
+Answer: A
+prompt 1584:
+E) Because early Internet protocols required a separate connection for each type of communication
+Answer: D
+prompt 1585:
+E) Data integrity vs. data latency
+Answer: B
+prompt 1586:
+Answer: B
+prompt 1587:
+
+prompt 1588:
+E) Its susceptibility to interference
+Answer: E
+prompt 1589:
+Answer: C
+prompt 1590:
+Answer: B
+prompt 1591:
+Answer: B
+prompt 1592:
+E) To reduce the number of paths
+Answer: D
+prompt 1593:
+
+prompt 1594:
+
+prompt 1595:
+Answer: A
+prompt 1596:
+Answer: A
+prompt 1597:
+E) RIP
+F) LDP
+Answer: F
+prompt 1598:
+
+prompt 1599:
+E) To increase the number of possible network topologies
+Answer: C
+prompt 1600:
+E) The loss of signal quality as it passes through different layers of the atmosphere
+Answer: D
+prompt 1601:
+
+prompt 1602:
+Answer: B
+prompt 1603:
+
+prompt 1604:
+Answer: D
+prompt 1605:
+
+Answer: D
+prompt 1606:
+Answer: B
+prompt 1607:
+
+prompt 1608:
+
+prompt 1609:
+
+prompt 1610:
+E) It is used to create inbound Security Associations
+F) It is used for Authentication of the payload
+G) It is used to create outbound Security Associations
+H) It is used to ensure Confidentiality of the payload
+Answer: G
+prompt 1611:
+
+prompt 1612:
+
+prompt 1613:
+
+prompt 1614:
+
+prompt 1615:
+Answer: B
+prompt 1616:
+E) Managing network traffic
+F) Improving network performance
+G) Reducing latency
+H) Increasing network speed
+Answer: A
+prompt 1617:
+
+prompt 1618:
+Answer: D
+prompt 1619:
+Answer: B
+prompt 1620:
+
+prompt 1621:
+
+prompt 1622:
+Answer: B
+prompt 1623:
+Answer: B
+prompt 1624:
+E) Type 8, Code 0
+Answer: C
+prompt 1625:
+E) The bridge with the highest identifier based on its MAC address
+F) The bridge with the lowest identifier based on its MAC address
+G) The bridge with the lowest identifier based on its IP address
+H) The bridge with the highest identifier based on its IP address
+Answer: F
+prompt 1626:
+
+prompt 1627:
+Answer: A
+Explanation: MPLS is a mechanism for forwarding packets along routes that are not typically possible with standard IP routing protocols.
+prompt 1628:
+Answer: C
+prompt 1629:
+
+prompt 1630:
+Answer: D
+prompt 1631:
+
+prompt 1632:
+
+prompt 1633:
+E) Stub, Multihomed, Customer
+F) Stub, Transient, Multihomed
+G) Stub, Multihomed, Resistant
+H) Stub, Multihomed, Provider
+Answer: E
+prompt 1634:
+Management
+Answer: B
+prompt 1635:
+
+prompt 1636:
+
+prompt 1637:
+E) To enable a client to connect to a server
+Answer: A
+prompt 1638:
+
+prompt 1639:
+Answer: C
+prompt 1640:
+Answer: B
+prompt 1641:
+
+prompt 1642:
+E) The use of a single mail server for all email services
+Answer: E
+prompt 1643:
+value
+E) Weight
+Answer: B
+prompt 1644:
+Answer: C
+prompt 1645:
+Answer: B
+prompt 1646:
+E) Asymmetric encryption is generally slower than symmetric encryption
+Answer: A
+prompt 1647:
+Answer: D
+prompt 1648:
+Answer: C
+prompt 1649:
+Answer: D
+prompt 1650:
+Answer: C
+prompt 1651:
+E) It checks the TTL
+Answer: D
+prompt 1652:
+Answer: A
+prompt 1653:
+by identifying and rejecting requests from certain clients or classes
+Answer: A
+prompt 1654:
+E) To indicate the size of the frame
+Answer: D
+prompt 1655:
+Answer: B
+prompt 1656:
+Answer: B
+prompt 1657:
+Answer: B
+prompt 1658:
+Answer: C
+prompt 1659:
+E) It does not provide message integrity
+F) It does not provide authentication
+G) It does not provide non-repudiation
+H) It can be easily forged by an adversary as no secret key is involved
+Answer: A
+prompt 1660:
+Answer: C
+prompt 1661:
+
+prompt 1662:
+
+prompt 1663:
+Answer: A
+prompt 1664:
+E) To allow the interface to become the DR for the EIGRP network
+F) To allow the interface to become the backup DR for the EIGRP network
+G) To allow the interface to send EIGRP updates
+H) To allow the interface to receive EIGRP updates
+Answer: G
+prompt 1665:
+Answer: B
+prompt 1666:
+and throughput
+Answer: A
+prompt 1667:
+
+Answer: C
+prompt 1668:
+Answer: B
+prompt 1669:
+
+prompt 1670:
+
+prompt 1671:
+E) SIA Detection
+Answer: B
+prompt 1672:
+E) A type of network connection
+Answer: A
+prompt 1673:
+
+prompt 1674:
+plus three round-trip times (RTTs)
+Answer: D
+prompt 1675:
+Answer: A
+prompt 1676:
+E) NACKs increase the retransmission timeout value
+Answer: A
+prompt 1677:
+
+prompt 1678:
+Answer: A
+prompt 1679:
+Answer: D
+prompt 1680:
+Answer: B
+prompt 1681:
+Answer: D
+prompt 1682:
+of location areas
+E) Implementing a single-layer but small overlapping location area scheme
+Answer: D
+prompt 1683:
+Answer: B
+prompt 1684:
+Answer: A
+prompt 1685:
+Answer: B
+prompt 1686:
+Answer: D
+prompt 1687:
+Answer: B
+prompt 1688:
+Answer: C
+prompt 1689:
+patterns whereas nonadaptive algorithms do not
+Answer: D
+prompt 1690:
+Answer: B
+prompt 1691:
+E) Because UDP is a connection-oriented protocol requiring a three-way handshake
+F) Because UDP is a connectionless protocol facilitating stateless communication
+Answer: F
+prompt 1692:
+Answer: C
+prompt 1693:
+E) Reduces the effectiveness of WPA2-PSK
+Answer: C
+prompt 1694:
+E) A 3D hologram
+F) A satellite image
+G) An online news article
+H) A digital music file
+Answer: H
+prompt 1695:
+
+prompt 1696:
+Answer: C
+prompt 1697:
+
+prompt 1698:
+
+prompt 1699:
+E) Creates a tunnel for packets to travel through
+Answer: B
+prompt 1700:
+Answer: D
+prompt 1701:
+E) Remote Access VPN
+Answer: A
+prompt 1702:
+Answer: B
+prompt 1703:
+
+prompt 1704:
+Answer: D
+prompt 1705:
+Answer: B
+prompt 1706:
+
+prompt 1707:
+Answer: C
+prompt 1708:
+in the packet
+Answer: A
+prompt 1709:
+E) It is vulnerable to brute-force attacks
+The answer is C but I don't understand why. Can someone please explain?
+public-key cryptography
+$\begingroup$ In the context of email, you're right, that's not the right answer. But I'm guessing that's not the context of the question. $\endgroup$ – poncho Jul 11 '16 at 15:23
+$\begingroup$ This is a multiple choice question and I can only pick one answer. $\endgroup$ – user10001 Jul 11 '16 at 15:26
+$\begingroup$ I'd say that this is a poor question, since it's not clear what the context is. $\endgroup$ – poncho Jul 11 '16 at 15:27
+$\begingroup$ It's a question from a test and it says that the question is about secure e-mail. $\endgroup$ – user10001 Jul 11 '16 at 15:31
+$\begingroup$ The answer is C. The question is poorly worded, and the answer is misleading. I think the question is trying to say "It cannot guarantee message integrity for long messages". $\endgroup$ – mikeazo Jul 11 '16 at 15:39
+The answer is C. The question is poorly worded, and the answer is misleading. I think the question is trying to say "It cannot guarantee message integrity for long messages".
+To elaborate, it's easy to encrypt and decrypt large messages using public key cryptography. It's not vulnerable to brute force attacks. It's just that you need a way to verify that the message wasn't tampered with. If you can't do that, then you can't be sure that the message is what the sender intended to send. This is what the question is trying to get at.
+$\begingroup$ So what's the difference between integrity and authenticity? $\endgroup$ – user10001 Jul 11 '16 at 15:44
+$\begingroup$ @user10001: "integrity" is a property of a message, and it means that the message has not been tampered with. "authenticity" is a property of the sender, and it means that the message is from the person that you think it is from. $\endgroup$ – poncho Jul 11 '16 at 15:46
+$\begingroup$ @user10001: the difference is that authenticity is a property of the sender, and integrity is a property of the message. $\endgroup$ – mikeazo Jul 11 '16 at 15:47
+$\begingroup$ @user10001: "integrity" is a property of a message, and it means that the message has not been tampered with. "authenticity" is a property of the sender, and it means that the message is from the person that you think it is from. $\endgroup$ – poncho Jul 11 '16 at 15:47
+$\begingroup$ @user10001: I'm not sure what you are asking. If you are asking how you can verify integrity, that is a different question. $\endgroup$ – mikeazo Jul 11 '16 at 15:49
+Not the answer you're looking for? Browse other questions tagged public-key cryptography or ask your own question.
+Is it possible to create a secure public key based email system?
+Why is it impossible to encrypt a message using the public key of the recipient?
+Why is public key cryptography not used for encryption?
+Why does the public key of the receiver need to be used for encryption?
+Why does public key cryptography require a secret key?
+Why is public key cryptography more secure than symmetric key cryptography?
+Why is public key cryptography so slow?
+Why is public key cryptography not used for encryption and decryption?
+Why is public key cryptography more secure than symmetric key cryptography for
+prompt 1710:
+
+prompt 1711:
+
+prompt 1712:
+Answer: C
+prompt 1713:
+
+prompt 1714:
+
+prompt 1715:
+
+prompt 1716:
+E) QPSK
+Answer: D
+prompt 1717:
+Explanation: TCP is a connection-oriented protocol that is known for its reliability. It provides reliable, in-sequence delivery of packets. SCTP is a connection-oriented protocol that is known for its reliability and multi-homing support. UDP is a connectionless protocol that is known for its low overhead and high performance. ICMP is a connectionless protocol that is used for error reporting and diagnostic purposes. 208

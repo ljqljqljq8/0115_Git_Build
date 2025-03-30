@@ -1,0 +1,1000 @@
+Prompt 0:
+To design a baseband digital transmission system that can achieve a minimum data rate of 20 Mbps, while being constrained by a channel with a 3-dB bandwidth of 3 MHz, we need to consider the modulation efficiency. The modulation efficiency is defined as the bit rate divided by the carrier frequency, and it represents how many bits are transmitted per hertz. In this case, the minimum required modulation efficiency is:
+
+Modulation efficiency = Data rate / Carrier frequency
+                                  = 20 Mbps / 3 MHz
+                                  = 20,000 bits/s / 3,000,000 Hz
+                                  = 0.0667 bits/s/Hz
+
+Therefore, the minimum required modulation efficiency to meet the data rate requirement is 0.0667 bits/s/Hz, which corresponds to option B) 6.67 bits/s/Hz.
+
+Prompt 1:
+The correct answer is D) 1100 B00V B00V B00V
+
+Prompt 2:
+The correct answer is B) 00000000
+
+Prompt 3:
+A) It offers higher throughput due to the localized handling of queries.
+
+Prompt 4:
+The correct answer is: 'Neither A nor B'
+
+Prompt 5:
+The correct answer is A): 'Reduces the load on root name servers.'
+
+Prompt 6:
+The correct answer is: B) It operates as a bridge at the data link layer.
+
+Prompt 7:
+The correct answer is: The correct answer is C. 450 calls
+
+Prompt 8:
+The correct answer is A): Provides higher flexibility and better utilization of bandwidth.
+
+Prompt 9:
+The correct answer is B) POP3 downloads emails to the client, allowing offline access and reducing server storage load.
+
+Prompt 10:
+The correct answer is D): Both the need to support different types of services and the technical adjustments required in signal encoding.
+
+Prompt 11:
+A) It reduces interference, allowing for clearer signal transmission between closely packed channels.
+
+Prompt 12:
+A) It requires enhanced error correction and signal processing capabilities to handle the higher symbol rate.
+
+Prompt 13:
+The correct answer is: A) The main challenge is the higher bandwidth requirement for streaming, which can be addressed by implementing advanced video compression techniques.
+
+Prompt 14:
+The correct answer is D) Time slots and frequency bands should be dynamically allocated based on real-time usage statistics to optimize resource utilization.
+
+Prompt 15:
+The correct answer is: A) CHAP uses a three-way handshake to periodically verify the identity of the peer using a shared secret, without transmitting the actual password.
+
+Prompt 16:
+The correct answer is D) The advertised window specifies the number of frames the receiver is ready to accept, helping to manage the flow control by preventing buffer overflow.
+
+Prompt 17:
+The correct answer is B): RNR status allows the network to temporarily halt data transmission, providing time to clear congestion without dropping packets.
+
+Prompt 18:
+A) CHAP directly impacts data integrity by checking each packet for errors using a checksum.
+
+Prompt 19:
+The correct answer is A): By ensuring that each frame is acknowledged individually, providing a more reliable error-checking mechanism.
+
+Prompt 20:
+The correct answer is C): Selective Repeat ARQ reduces the need for retransmissions by only retransmitting erroneous frames, improving bandwidth utilization.
+
+Prompt 21:
+The correct answer is B): To prevent framing errors by ensuring that special control characters are not mistaken for data.
+
+Prompt 22:
+The correct answer is: B) Timing jitter introduces variability in packet arrival times, which can be mitigated using buffers to smooth out the delivery times.
+
+Prompt 23:
+The correct answer is C) It dynamically adjusts the rate of data transmission based on the receiver’s buffer capacity, preventing overflow.
+
+Prompt 24:
+The correct answer is A) HTTP -> SMTP -> POP3
+
+Prompt 25:
+The correct answer is A): TCP, because it ensures reliable delivery.
+
+Prompt 26:
+The correct answer is D) By storing frequently accessed objects locally to reduce retrieval time.
+
+Prompt 27:
+The correct answer is A): To block traffic from specific IP addresses.
+
+Prompt 28:
+The correct answer is B) IP address and port number.
+
+Prompt 29:
+The correct answer is A): Store the purchase record in a database and use cookies to store the database session ID.
+
+Prompt 30:
+The correct answer is D) By storing frequently accessed objects locally to reduce retrieval time.
+
+Prompt 31:
+The correct answer is: B) Queue management prioritizes packet processing to avoid congestion and packet loss.
+
+Prompt 32:
+The correct answer is A) Bellman-Ford algorithm, because it calculates the shortest path based on link cost.
+
+Prompt 33:
+B) By ignoring updates from specific neighbors known to be part of a loop.
+
+Prompt 34:
+The correct answer is A): HOL blocking causes delays for packets behind a blocked packet, and it can be mitigated by using output buffering.
+
+Prompt 35:
+The correct answer is: B) Traffic shaping regulates data flow to prevent congestion and ensure smooth traffic.
+
+Prompt 36:
+The correct answer is A): It causes routes to be advertised indefinitely, and it is addressed by setting a maximum hop count.
+
+Prompt 37:
+A) Cut-through switching reduces latency by beginning to forward a packet before the entire packet is received, but at the cost of potentially propagating error-containing packets.
+
+Prompt 38:
+The correct answer is A): The leaky bucket algorithm restricts data flow to a fixed rate and buffers excess data, making it suitable for smoothing out bursty traffic but potentially causing delay when the bucket is full.
+
+Prompt 39:
+The correct answer is C) Bufferbloat occurs when large buffers delay packet processing; implementing active queue management like RED can mitigate this.
+
+Prompt 40:
+A) The challenge is route flapping; it's addressed by temporarily disabling the paths.
+
+Prompt 41:
+The correct answer is A): It determines the largest size of IP datagrams that can be sent.
+
+Prompt 42:
+The correct answer is: C) By dividing larger networks into logically manageabl
+
+Prompt 43:
+The correct answer is B) RARP provides the workstation with its IP address using the workstation’s MAC address.
+
+Prompt 44:
+The correct answer is C): RARP uses a device's MAC address to return its pre-configured IP address, whereas DHCP can allocate IP addresses dynamically.
+
+Prompt 45:
+The correct answer is A) Overhead congestion from frequent RARP requests; mitigated by implementing rate limiting on RARP traffic.
+
+Prompt 46:
+The correct answer is A) Replace RARP servers with DHCP servers gradually, segment by segment, to manage IP allocation dynamically.
+
+Prompt 47:
+The correct answer is A): CIDR allows multiple subnets to share a single broadcast domain, reducing overhead.
+
+Prompt 48:
+The correct answer is D): ASNs uniquely identify each autonomous system, enabling route advertisements and policy implementations across the internet.
+
+Prompt 49:
+The correct answer is: A) OSPF uses a flooding mechanism to immediately notify all nodes within an area of the change.
+
+Prompt 50:
+C) IPv6 eliminates all forms of fragmentation, relying solely on path MTU discovery.
+
+Prompt 51:
+The correct answer is: A) TCP increases the congestion window exponentially in response to each ACK received.
+
+Prompt 52:
+The correct answer is B): By broadcasting the entire routing table periodically to all nodes within the network.
+
+Prompt 53:
+The correct answer is D): RIP uses hop count as the only metric, limiting its effectiveness in larger networks due to a maximum count of 15 hops.
+
+Prompt 54:
+The correct answer is A): 'SYN, SYN-ACK, ACK exchange to synchronize sequence numbers and establish connection parameters.'
+
+Prompt 55:
+The correct answer is: B) By considering multiple factors such as path length, AS path, origin type, and multiple BGP attributes.
+
+Prompt 56:
+B) By allowing multiple devices on a local network to be mapped to a single public IP address, using different port numbers for each session.
+
+Prompt 57:
+The correct answer is: A) By maintaining a central database of all IP addresses and their corresponding MAC addresses.
+
+Prompt 58:
+The correct answer is: B) To enable hierarchical routing and address resolution between different ATM networks.
+
+Prompt 59:
+The correct answer is A): ATM ARP maps IP addresses directly to MAC addresses without intermediaries.
+
+Prompt 60:
+The correct answer is A) By redirecting cells through a different path after a primary route failure.
+
+Prompt 61:
+The correct answer is C) By dividing messages into 48-byte cells and ensuring correct reassembly using sequence numbers.
+
+Prompt 62:
+The correct answer is: B) To facilitate interoperability and communication between different service providers' ATM networks.
+
+Prompt 63:
+The correct answer is: B) To enable hierarchical routing and address resolution between different ATM networks.
+
+Prompt 64:
+The correct answer is: C) By classifying traffic into categories and assigning appropriate service levels.
+
+Prompt 65:
+The correct answer is: C) It enables seamless connection and routing decisions between different private networks.
+
+Prompt 66:
+The correct answer is: C) To segment and reassemble data into cells that conform to ATM’s fixed-size requirement.
+
+Prompt 67:
+The correct answer is: B) AAL1 provides better error correction capabilities tailored for continuous bit rate services.
+
+Prompt 68:
+The correct answer is: A) It negotiates bandwidth allocation dynamically between network devices.
+
+Prompt 69:
+The correct answer is: A) By controlling cell transmission rates using a leaky bucket algorithm to conform to the contract parameters.
+
+Prompt 70:
+The correct answer is: A) It defines a physical segmentation of the ATM network to isolate traffic and enhance security.
+
+Prompt 71:
+The correct answer is: A) It is responsible for ensuring data encryption and decryption across the network to maintain confidentiality.
+
+Prompt 72:
+The correct answer is:
+A) By using a unified signaling protocol to manage Ethernet, SONET, and WDM signals, thereby simplifying cross-layer traffic engineering.
+
+Prompt 73:
+The correct answer is: 'A) By allocating a separate LSP for each type of service, which isolates and secures service-specific traffic.'
+
+Prompt 74:
+The correct answer is：B）It provides increased bandwidth and redundancy, minimizing potential downtime and delays for the critical application.
+
+Prompt 75:
+The correct answer is: B) By allowing the pre-configuration of bandwidth and prioritizing VoIP traffic over less latency-sensitive data.
+
+Prompt 76:
+The correct answer is: C) By reserving a portion of the bandwidth solely for voice packets and forwarding them ahead of other traffic.
+
+Prompt 77:
+The correct answer is C): It initiates the LSP setup and carries the LSP requirements down the path.
+
+Prompt 78:
+The correct answer is: B) By allowing packets to carry a list of forwarding instructions, reducing reliance on the routing table.
+
+Prompt 79:
+To calculate the probability of two different inputs producing the same MD5 hash, we can use the following formula:
+P(hash collision) = 1 / (2^bits - 1)
+Where P(hash collision) is the probability of a hash collision, bits is the number of bits in the hash value, and 2^bits - 1 is the total number of possible hash values.
+In this case, we have 128 bits (128-bit hash value), so:
+P(hash collision) = 1 / (2^128 - 1)
+P(hash collision) = 1 x 10^-38
+So, the correct answer is:
+The correct answer is B) 1 x 10^-38
+
+Prompt 80:
+The correct answer is B) Payload Data.
+Only the original IP header and ESP header are encrypted when setting up an IPSec tunnel mode connection. The ESP trailer is not encrypted.
+
+Prompt 81:
+The correct answer is D): 'The correct answer is ESP.'
+
+Prompt 82:
+The correct answer is: D) KDCs act as trusted third parties that verify user credentials and distribute session keys that are used for the encryption and decryption of communications.
+
+Prompt 83:
+The correct answer is: D) It is involved in generating the initial values for the hash computation, thereby making the hash output unique to each session.
+
+Prompt 84:
+The correct answer is A): 'ESP in tunnel mode encapsulates the entire IP packet, adding a new IP header configured with the VPN gateway addresses, enhancing security by hiding the original packet details.
+
+Prompt 85:
+The correct answer is: B) It ensures that both the data integrity and the authenticity of a message are maintained by combining a hash function and a secret cryptographic key.
+
+Prompt 86:
+The correct answer is: A) By verifying the digital signature with the CA’s own private key to ensure it matches the public key in the database.
+
+Prompt 87:
+The correct answer is: A) ADPCM uses a variable step size to adapt to signal changes, reducing error.
+
+Prompt 88:
+The correct answer is: A) It assigns shorter codes to less frequent symbols to maximize the entropy.
+
+Prompt 89:
+The correct answer is: D) It reduces redundancy by referencing both previous and future frames for data prediction.
+
+Prompt 90:
+The correct answer is A) By clustering similar data points and representing them with a single value.
+
+Prompt 91:
+The correct answer is B) Object-based coding that allows elements to be manipulated independently.
+
+Prompt 92:
+The correct answer is: A) It allows a single stream to be decoded at various resolutions, depending on the device.
+
+Prompt 93:
+The correct answer is: C) The variability of action scenes which affects bitrate requirements.
+
+Prompt 94:
+The correct answer is B) Applying DCT on groups of images and then using Huffman coding.
+
+Prompt 95:
+The correct answer is A): 0.5 Mbps
+
+Prompt 96:
+The correct answer is B): 4 kHz
+
+Prompt 97:
+The correct answer is: B) It introduces distortion that increases with the number of quantization levels.
+
+Prompt 98:
+The correct answer is: C) To prevent overlapping of adjacent frequency bands and reduce crosstalk.
+
+Prompt 99:
+The correct answer is: 'The correct answer is A) 3.16 mW'
+
+Prompt 100:
+The correct answer is: 'The correct answer is C. 40 Mbps'
+
+Prompt 101:
+The correct answer is A) Frequency Shift Keying (FSK) with a shift of 25 kHz
+
+Prompt 102:
+The correct answer is A) By negotiating security associations and establishing shared keys between communicating parties.
+
+Prompt 103:
+The correct answer is C) It leverages continuous phase shifts, effectively increasing the complexity of decoding by unauthorized receivers.
+
+Prompt 104:
+The correct answer is A): By simplifying packet forwarding through a standardized path label mechanism.
+
+Prompt 105:
+The correct answer is C) DSP algorithms identify and negate ambient noise patterns from the audio signal in real-time.
+
+Prompt 106:
+The correct answer is: B) It prevents signal reflection and power loss at the interface between different transmission media.
+
+Prompt 107:
+The correct answer is: B) MPLS utilizes a dynamic label-switched path (LSP) that automatically finds an alternative route without manual intervention.
+
+Prompt 108:
+The correct answer is: B) It reduces the incidence of integration errors by automatically compiling and testing code segments as soon as they are committed to the repository.
+
+Prompt 109:
+The correct answer is: B) MPPT continuously adjusts the electrical load to ensure that solar panels operate at optimal efficiency, maximizing energy output regardless of varying sunlight conditions.
+
+Prompt 110:
+The correct answer is: B) VFD adjusts the motor's electrical frequency and voltage to match the load requirement, reducing excess energy consumption.
+
+Prompt 111:
+The correct answer is: A) RTLS allows for remote monitoring of patient vitals via networked sensors, reducing the need for direct patient contact and potentially saving time for healthcare staff.
+
+Prompt 112:
+The correct answer is C) Implement a dynamic routing algorithm that recalculates paths in real-time.
+
+Prompt 113:
+The correct answer is A) Redirect all traffic to the next available path with the least number of hops.
+
+Prompt 114:
+The correct answer is A) Implement Quality of Service (QoS) rules to prioritize critical traffic.
+
+Prompt 115:
+The correct answer is: A) Temporarily segment the network to isolate traffic spikes.
+
+Prompt 116:
+The correct answer is: A) Divert traffic through secondary routers configured with load balancing capabilities.
+
+Prompt 117:
+The correct answer is A): By utilizing NAT64 to translate IPv6 addresses to IPv4 addresses where necessary.
+
+Prompt 118:
+The correct answer is A) Distribute data replication across multiple geographical locations.
+
+Prompt 119:
+The correct answer is A) Enforce strict access controls and multi-factor authentication for remote connections.
+
+Prompt 120:
+The correct answer is A) Maintain local backups of all critical data.
+
+Prompt 121:
+The correct answer is B) Implement a separate VLAN for each department, routing inter-VLAN traffic through a dedicated firewall.
+
+Prompt 122:
+The correct answer is A) Decrease the subnet mask length to reduce the number of bits used for subnetting.
+
+Prompt 123:
+The correct answer is: A) Configure each router to advertise only the routes provided by its directly connected ISP.
+
+Prompt 124:
+The correct answer is A) Segment the network by geographical locations and assign local addresses for intra-region traffic.
+
+Prompt 125:
+The correct answer is: C) Subdivide the existing address space using more specific CIDR blocks to increase the granularity of address allocation.
+
+Prompt 126:
+The correct answer is: A) The memory requirement for tracking AS paths increases exponentially with the number of networks, potentially leading to scalability issues in large networks.
+
+Prompt 127:
+The correct answer is: A) By spoofing the care-of address to redirect traffic to an unauthorized node, leading to potential data interception and unauthorized access.
+
+Prompt 128:
+The correct answer is: A) It introduces significant latency in the communication path, potentially impacting real-time applications and reducing overall network performance.
+
+Prompt 129:
+The correct answer is: A) The "shim" header introduces less overhead per packet, allowing a higher ratio of payload to total packet size, thus optimizing bandwidth usage.
+
+Prompt 130:
+The correct answer is A) The client sends a FIN, the server responds with a FIN and ACK simultaneously, and then the client sends an ACK.
+
+Prompt 131:
+The correct answer is: A) The correct answer is A, as the high bandwidth and delay combination require 32 bits for the AdvertisedWindow field and 32 bits for the SequenceNum field.
+
+Prompt 132:
+The correct answer is A) Calculate the bandwidth-delay product and adjust for window size, but be uncertain about the exact sequence number wraparound.
+
+Prompt 133:
+C) Including a sequence number that resets with each new connection initiation.
+
+Prompt 134:
+The correct answer is B) It supports a substantial number of unique label paths within typical networks, but in complex VPN implementations, the number of unique labels needed can exceed this bit limit.
+
+Prompt 135:
+The correct answer is: 'The correct answer is C. 8 MSS'
+
+Prompt 136:
+B) The sender will retransmit packets 2 and 3 only.
+
+Prompt 137:
+The correct answer is: A) The router will drop incoming packets with a probability that increases linearly with the queue size.
+
+Prompt 138:
+The correct answer is: B) The sender will continue sending data without any regard to the receiver's window size.
+
+Prompt 139:
+The correct answer is: 'Duplication of the first packet should not duplicate the “connection.” Loss of the final ACK should not necessarily leave the server in doubt as to whether the transfer succeeded. A late-arriving packet from a past connection shouldn’t be interpretable as part of a current connection. D)'
+
+Prompt 140:
+The correct answer is B) It could lead to increased packet loss due to frequent size adjustments.
+
+Prompt 141:
+The correct answer is C) Implementing a passive monitoring tool that analyzes traffic metadata.
+
+Prompt 142:
+The correct answer is B) Using a VPN with high-level encryption for all data transfers.
+
+Prompt 143:
+The correct answer is A) Implementing Quality of Service (QoS) protocols to prioritize video traffic.
+
+Prompt 144:
+The correct answer is C. Geo-replicate content across multiple data centers
+
+Prompt 145:
+The correct answer is C. Implement Forward Error Correction (FEC)
+
+Prompt 146:
+The correct answer is B. In-memory database with ACID compliance ensures the best balance between performance and transaction integrity for a software application managing real-time, high-volume financial transactions.
+
+Prompt 147:
+The correct answer is: 'CoAP'
+
+Prompt 148:
+The correct answer is: C) Single-mode fiber with SC connectors can span up to 10 km, suitable for large data centers.
+
+Prompt 149:
+The correct answer is: A) Use of at least CAT 5e cabling to support distances up to 100 meters.
+
+Prompt 150:
+A) LC connectors due to their compact size and ease of use in high-density environments.
+
+Prompt 151:
+The correct answer is A): The type of multimode fiber used must be OM3 or higher to support longer distances.
+
+Prompt 152:
+The correct answer is: A) 1000BaseT with shielded CAT 6 cabling.
+
+Prompt 153:
+The correct answer is: 'The correct answer is C) Link bonding.'
+
+Prompt 154:
+The correct answer is: D) Directs data frames to devices based on MAC address
+
+Prompt 155:
+The correct answer is D) 200 meters.
+
+Prompt 156:
+The correct answer is D): 'Network Address Translation (NAT) device'.
+
+Prompt 157:
+The correct answer is C): to organize and manage cable connections.
+
+Prompt 158:
+The correct answer is B. Integrated Services (IntServ) with RSVP
+
+Prompt 159:
+The correct answer is B) 802.11ac.
+
+Prompt 160:
+The correct answer is B) Stateful Inspection Firewall.
+
+Prompt 161:
+The correct answer is A): Spanning Tree Protocol (STP).
+
+Prompt 162:
+The correct answer is C) IPSec VPN.
+
+Prompt 163:
+The correct answer is D) BGP may not select the best path based on policy preferences.
+
+Prompt 164:
+The correct answer is A) Phase 1.
+
+Prompt 165:
+The correct answer is D) Resource Reservation Protocol (RSVP). RSVP guarantees bandwidth reservation for critical applications by setting up reserved paths and signaling between endpoints to ensure that traffic follows these reserved paths.
+
+Prompt 166:
+The correct answer is: 'The correct answer is D. Improves data packet forwarding efficiency'
+
+Prompt 167:
+The correct answer is: 'The correct answer is C. In Software-Defined Networking (SDN), the controller plays a central role in the network architecture by providing centralized control and management of the network.'
+
+Prompt 168:
+The correct answer is D) 192.168.1.254
+
+Prompt 169:
+The correct answer is: B) To connect multiple devices and manage the data traffic between them.
+
+Prompt 170:
+The correct answer is: A) IPv6 addresses are 128 bits in length.
+
+Prompt 171:
+The correct answer is B) DHCP.
+
+Prompt 172:
+The correct answer is C) To block unauthorized access while permitting outward communication.
+
+Prompt 173:
+The correct answer is: 'Intrusion Detection System; to detect unauthorized access.'
+
+Prompt 174:
+The correct answer is A) Man-in-the-Middle (MitM) attack.
+
+Prompt 175:
+The correct answer is C) MX record.
+
+Prompt 176:
+The correct answer is D) Have your users PING the server.
+
+Prompt 177:
+The correct answer is A) . (dot)
+
+Prompt 178:
+The correct answer is B) RADIUS.
+
+Prompt 179:
+The correct answer is C) 802.1X
+
+Prompt 180:
+The correct answer is A) MAC (Message Authentication Code).
+
+Prompt 181:
+The correct answer is C) Root authority.
+
+Prompt 182:
+The correct answer is C) Port authentication
+
+Prompt 183:
+The correct answer is A) Microsoft Windows NT.
+
+Prompt 184:
+B) Traffic shaping
+
+Prompt 185:
+The correct answer is A): 'No, because NAT has been replaced with a new version called NAT6. '
+
+Prompt 186:
+The correct answer is B) 2001:480:b6f3.
+
+Prompt 187:
+The correct answer is A) 2001:489:f::1f:0:d.
+
+Prompt 188:
+The correct answer is A) The installer failed to install the POTS filters on the phones.
+
+Prompt 189:
+The correct answer is B) Google is down.
+
+Prompt 190:
+The correct answer is B) When you have an intermittent connection problem.
+
+Prompt 191:
+The correct answer is A) The installer failed to install the POTS filters on the phones.
+
+Prompt 192:
+The correct answer is D) NAS server
+
+Prompt 193:
+The correct answer is C) A DoS attacks a single system while a DDoS attacks multiple systems.
+
+Prompt 194:
+The correct answer is A) Read only.
+
+Prompt 195:
+The correct answer is B) Port filtering.
+
+Prompt 196:
+The correct answer is C.
+
+Prompt 197:
+The correct answer is C) They are used to connect hubs.
+
+Prompt 198:
+The correct answer is C) Replace the hub with a switch.
+
+Prompt 199:
+The correct answer is B) 00000000000000000000000011111111
+
+Prompt 200:
+The correct answer is B) APIPA (Automatic Private IP Addressing).
+
+Prompt 201:
+The correct answer is A) To the default gateway on interface WAN.
+
+Prompt 202:
+The correct answer is: 'Bandwidth allocation'
+
+Prompt 203:
+C) Leads to frequent timeouts and session interruptions.
+
+Prompt 204:
+To calculate the total data transfer time, we need to divide the file size by the bandwidth and add the latency time. So, 500 MB / 100 Mbps = 0.5 MB/s and 0.5 MB/s * 1000 ms/s = 500 ms = 500 milliseconds. Adding the latency time, 500 ms + 20 ms = 520 ms = 520 milliseconds. The total time taken is 520 milliseconds.
+Therefore, the correct answer is: 'The correct answer is B) 42 seconds.'
+
+Prompt 205:
+The correct answer is C) Inadequate CDN (Content Delivery Network) deployment.
+
+Prompt 206:
+The correct answer is: A) Upgrading the physical hardware of the data centers.
+
+Prompt 207:
+The correct answer is: D) Potential unauthorized access due to weak encryption.
+
+Prompt 208:
+The correct answer is: 'The correct answer is A)'
+
+Prompt 209:
+The correct answer is B): 1.89%
+
+Prompt 210:
+The correct answer is A) When employees use weak passwords.
+
+Prompt 211:
+B) Blocking traffic from suspicious IP addresses.
+
+Prompt 212:
+The correct answer is B): Identifying potential security breaches in real-time.
+
+Prompt 213:
+The correct answer is B): 14 MSS
+
+Prompt 214:
+The correct answer is D.
+
+Prompt 215:
+The correct answer is: 'The correct answer is A) 0.015/s'
+
+Prompt 216:
+The correct answer is: A) 0.015/s
+
+Prompt 217:
+The correct answer is: A) 800 to 1000
+
+Prompt 218:
+The correct answer is C) listen.
+
+Prompt 219:
+The correct answer is A) 2^n.
+
+Prompt 220:
+The correct answer is A) Recovery from packet losses.
+
+Prompt 221:
+The correct answer is B) 1 and 3 only
+
+Prompt 222:
+The correct answer is B) 8.
+
+Prompt 223:
+The correct answer is: A) listen, accept, bind, recv
+
+Prompt 224:
+The correct answer is: B) 4
+
+Prompt 225:
+The correct answer is: 'The correct answer is D) 8192 bytes'
+
+Prompt 226:
+The correct answer is D): 'The correct answer is 2.0'
+
+Prompt 227:
+The correct answer is: 'The correct answer is D)'.
+
+Prompt 228:
+The correct answer is: 'The correct answer is C)'
+
+Prompt 229:
+The correct answer is: 'The correct answer is D) 80'
+
+Prompt 230:
+The correct answer is: 'The correct answer is A and B are true; C and D are false.'
+
+Prompt 231:
+The correct answer is B) TCP, 80
+
+Prompt 232:
+The correct answer is A): 64 Kbps
+
+Prompt 233:
+The correct answer is D. Leaky bucket algorithm
+
+Prompt 234:
+The correct answer is: 'The correct answer is C) 53'
+
+Prompt 235:
+The correct answer is C) Checksum.
+
+Prompt 236:
+The correct answer is: A) 6
+
+Prompt 237:
+The correct answer is: 'The correct answer is D. SYN bit =1, SEQ number =Y, ACK bit =1, ACK number =X, FIN bit =0'
+
+Prompt 238:
+The correct answer is A) 400 bps
+
+Prompt 239:
+The correct answer is A) FIN.
+
+Prompt 240:
+The correct answer is A) 255.255.255.0
+
+Prompt 241:
+The correct answer is D) Middle fragment, 300 and 689
+
+Prompt 242:
+The correct answer is A) Ensure packets reach destination within that time
+
+Prompt 243:
+The correct answer is C): S1 and S3 are true, but S2 is false
+
+Prompt 244:
+The correct answer is: 'The correct answer is A)'.
+
+Prompt 245:
+The correct answer is B): 6
+
+Prompt 246:
+The correct answer is C.
+
+Prompt 247:
+The correct answer is D) The packet source cannot set the route of an outgoing packet; the route is determined only by the routing tables in the routers on the way
+
+Prompt 248:
+The correct answer is D) 223
+
+Prompt 249:
+The correct answer is D) session, request and response.
+
+Prompt 250:
+The correct answer is: 'The correct answer is D. The maximum transmit window size is 12000 bytes.'
+
+Prompt 251:
+A) By progressively querying routers about the next router on the path to B using ICMP packets, starting with the first router
+
+Prompt 252:
+The correct answer is B) 204.204.204.0/255.255.255.192 204.204.204.192/255.255.255.128 204.204.204.64/255.255.255.128
+
+Prompt 253:
+The correct answer is: 'The correct answer is B)'
+
+Prompt 254:
+The correct answer is D) None of these
+
+Prompt 255:
+The correct answer is A) Host need subnet mask for ANDing process inorder to know own network.
+
+Prompt 256:
+The correct answer is A) Static algorithms
+
+Prompt 257:
+The correct answer is A): (a) and (b) only.
+
+Prompt 258:
+The correct answer is: 'The correct answer is C) 30'
+
+Prompt 259:
+The correct answer is: 'The correct answer is D) 1 sec'
+
+Prompt 260:
+The correct answer is A) False
+
+Prompt 261:
+The correct answer is A) 62 subnets and 262142 hosts.
+
+Prompt 262:
+The correct answer is: A) The number of hops this packet can travel is 2.
+
+Prompt 263:
+The correct answer is B): IP.
+
+Prompt 264:
+The correct answer is: A) Network layer – 4 times, Data link layer – 4 times
+
+Prompt 265:
+The correct answer is D. R and S only
+
+Prompt 266:
+The correct answer is: A) Sender encrypts using receiver’s public key
+
+Prompt 267:
+The correct answer is: 'Both are false'
+
+Prompt 268:
+The correct answer is: 'The correct answer is D) O(n)'
+
+Prompt 269:
+The correct answer is D) 11
+
+Prompt 270:
+The correct answer is: 'The correct answer is eavesdropping attack'
+
+Prompt 271:
+The correct answer is: A) Masquerade Attack
+
+Prompt 272:
+The correct answer is: A) Private key is kept by the receiver and public key is announced to the public.
+
+Prompt 273:
+The correct answer is B) All of the above
+
+Prompt 274:
+The correct answer is B): 80 characters/sec, 136 characters/sec
+
+Prompt 275:
+The correct answer is: A) min (M, N)
+
+Prompt 276:
+The correct answer is B) DNS query, HTTP GET request, TCP SYN
+
+Prompt 277:
+The correct answer is: 'The correct answer is D) 1200 band'
+
+Prompt 278:
+The correct answer is D) 8B/10B encoding.
+
+Prompt 279:
+The hamming distance between the octets of 0xAA and 0x55 is 3.
+因此，答案是：
+The correct answer is 3
+
+Prompt 280:
+The correct answer is: 'A) A combinational circuit'
+
+Prompt 281:
+The correct answer is A) Multipart/mixed
+
+Prompt 282:
+The correct answer is B) Architecture as a service.
+
+Prompt 283:
+The correct answer is: 'The correct answer is A) 16ms'
+
+Prompt 284:
+The correct answer is B) 200 metres of cable
+
+Prompt 285:
+The correct answer is: C) 0 to 2
+
+Prompt 286:
+The correct answer is B) 0111110101
+
+Prompt 287:
+The correct answer is: 'The correct answer is C) 160'
+
+Prompt 288:
+The correct answer is: A) Receiver is to be synchronized for byte reception
+
+Prompt 289:
+The correct answer is: A) IEEE 802.11 wireless LAN runs CSMA/CD protocol
+
+Prompt 290:
+The correct answer is A) False.
+
+Prompt 291:
+The correct answer is: 'The correct answer is C) 5000 bits'
+
+Prompt 292:
+The correct answer is B) 80 bits
+
+Prompt 293:
+The correct answer is: 'The correct answer is B. 2000'
+
+Prompt 294:
+The correct answer is: 'A) True'
+
+Prompt 295:
+The correct answer is A): 125 bytes.
+
+Prompt 296:
+The correct answer is 'Switch'.
+
+Prompt 297:
+The correct answer is C) 64 bit
+
+Prompt 298:
+The correct answer is A) 192 kbps.
+
+Prompt 299:
+The correct answer is A) 96 Gbps
+
+Prompt 300:
+The correct answer is: A) (1)
+
+Prompt 301:
+The correct answer is D) Not applicable
+
+Prompt 302:
+The correct answer is A) Preamble.
+
+Prompt 303:
+The correct answer is 'The correct answer is C. 40%'
+
+Prompt 304:
+The correct answer is: B) socket address
+
+Prompt 305:
+The correct answer is: D) 245.248.136.0/22 and 245.248.132.0/21
+
+Prompt 306:
+The correct answer is A) 1022
+
+Prompt 307:
+The correct answer is B) refers to broadcast on the local network.
+
+Prompt 308:
+The correct answer is B) I only
+
+Prompt 309:
+The correct answer is: A) I and II only
+
+Prompt 310:
+The correct answer is A) 12.5%
+
+Prompt 311:
+The correct answer is D.
+
+Prompt 312:
+The correct answer is B) 4,1,2,3
+
+Prompt 313:
+The correct answer is B) Q needs to send at least 2 HTTP requests to S, but a single TCP connection to server S is sufficient
+
+Prompt 314:
+The correct answer is: A) HTTP, FTP
+
+Prompt 315:
+The correct answer is B) A cookie gains entry to the user’s work area through an HTTP header.
+
+Prompt 316:
+The correct answer is: 'The correct answer is D. All statements (S1), (S2), and (S3) are correct.'
+
+Prompt 317:
+The correct answer is: 'The correct answer is HTML (Hypertext Markup Language)'
+
+Prompt 318:
+D) block some hosts from accessing the network
+
+Prompt 319:
+The correct answer is D) Display the client time as part of the page
+
+Prompt 320:
+The correct answer is A) Content presented to search engine spider is different from that presented to user's browser
+
+Prompt 321:
+The correct answer is C): ((n(n - 1))/2) and 2n
+
+Prompt 322:
+The correct answer is B) 3
+
+Prompt 323:
+The correct answer is: The correct answer is D) 33
+
+Prompt 324:
+The correct answer is B) DNS server.
+
+Prompt 325:
+The correct answer is A) 2 MHz
+
+Prompt 326:
+The correct answer is B) 192.168.52.62
+

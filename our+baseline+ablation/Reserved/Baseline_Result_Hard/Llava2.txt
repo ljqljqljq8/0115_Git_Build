@@ -1,0 +1,1021 @@
+Prompt 0:
+The correct answer is B) 6.67 bits/s/Hz.
+
+To meet the data rate requirement of 20 Mbps with a channel bandwidth of 3 MHz, the minimum required modulation efficiency is:
+
+20 Mbps = 20 \* 1,000,000 bits/s
+
+3 MHz = 3 \* 1,000,000 Hz
+
+Modulation efficiency (bits/s/Hz) = data rate (bits/s) / channel bandwidth (Hz)
+
+Modulation efficiency = 20 \* 1,000,000 / 3,000,000
+
+Modulation efficiency = 6.67 bits/s/Hz
+
+Prompt 1:
+The correct answer is D) 1100 B00V B00V B00V
+
+Prompt 2:
+C) 01010101
+
+Prompt 3:
+A
+
+Prompt 4:
+B) IP address
+
+Prompt 5:
+A
+
+Prompt 6:
+C) It functions as a repeater at the physical layer.
+
+Prompt 7:
+The correct answer is B.
+
+If the digital communication system has a bit rate of 45 Mbps, it can support 625 simultaneous PCM voice calls, assuming each call requires 64 kbps. This is because 45 Mbps is equal to 5.625 MBps, and each MBps can support 625 simultaneous calls.
+
+Prompt 8:
+A
+
+Prompt 9:
+B
+
+Prompt 10:
+D) Both the need to support different types of services and the technical adjustments required in signal encoding.
+
+Prompt 11:
+A
+
+Prompt 12:
+A) It requires enhanced error correction and signal processing capabilities to handle the higher symbol rate.
+
+Prompt 13:
+The correct answer is A
+
+Prompt 14:
+The correct answer is D.
+
+Prompt 15:
+A
+
+Prompt 16:
+D) The advertised window specifies the number of frames the receiver is ready to accept, helping to manage the flow control by preventing buffer overflow.
+
+Prompt 17:
+B) RNR status allows the network to temporarily halt data transmission, providing time to clear congestion without dropping packets.
+
+Prompt 18:
+The correct answer is C) CHAP uses a three-way handshake to periodically verify the identity of the peer using a shared secret, without transmitting the actual password.
+
+Prompt 19:
+The correct answer is D.
+
+Prompt 20:
+C) Selective Repeat ARQ reduces the need for retransmissions by only retransmitting erroneous frames, improving bandwidth utilization.
+
+Prompt 21:
+B) To prevent framing errors by ensuring that special control characters are not mistaken for data.
+
+Prompt 22:
+B
+
+Prompt 23:
+C
+
+Prompt 24:
+The correct answer is D) HTTPS -> POP3 -> SMTP.
+
+First, Alice sends her message to the mail server using HTTPS (Hypertext Transfer Protocol Secure) to establish a secure connection. The message is then passed to the POP3 (Post Office Protocol version 3) server, which retrieves it from the mail server and stores it on the user's computer. Finally, the message is transferred to the SMTP (Simple Mail Transfer Protocol) server, which sends it to Bob's mail server using the same POP3 protocol.
+
+Prompt 25:
+B) UDP, because it has lower latency by avoiding connection setup.
+
+Prompt 26:
+D
+
+Prompt 27:
+B
+
+Prompt 28:
+B) IP address and port number
+
+Prompt 29:
+A
+
+Prompt 30:
+D
+
+Prompt 31:
+B
+
+Prompt 32:
+The correct answer is B) Dijkstra's algorithm. Dijkstra's algorithm is a shortest path algorithm that finds the shortest path in a weighted graph, which is the most common approach to packet-switching networks. The algorithm calculates the shortest path by repeatedly updating the shortest path tree, which is a tree that represents the shortest path from the source node to all other nodes in the graph. The Bellman-Ford algorithm is a variant of Dijkstra's algorithm that can handle negative weight cycles, but it is not the most common algorithm for packet-switching networks. The distance-vector protocol is a routing algorithm that distributes the shortest path information across the network, but it is not the most common algorithm for packet-switching networks. Source routing is a routing algorithm that determines the entire path from the source node to the destination node, but it is not the most common algorithm for packet-switching networks.
+
+Prompt 33:
+The correct answer is D.
+
+Prompt 34:
+The correct answer is A
+
+Prompt 35:
+B
+
+Prompt 36:
+A
+
+Prompt 37:
+The correct answer is A.
+
+Prompt 38:
+The correct answer is A.
+
+Prompt 39:
+The correct answer is C) Bufferbloat occurs when large buffers delay packet processing; implementing active queue management like RED can mitigate this.
+
+Prompt 40:
+A) The challenge is route flapping; it's addressed by temporarily disabling the paths.
+
+Prompt 41:
+B
+
+Prompt 42:
+C) By dividing larger networks into logically manageable smaller networks.
+
+Prompt 43:
+B) RARP provides the workstation with its IP address using the workstation’s MAC address.
+
+Prompt 44:
+C) RARP uses a device's MAC address to return its pre-configured IP address, whereas DHCP can allocate IP addresses dynamically.
+
+Prompt 45:
+A) Overhead congestion from frequent RARP requests; mitigated by implementing rate limiting on RARP traffic.
+
+Prompt 46:
+The correct answer is A) Replace RARP servers with DHCP servers gradually, segment by segment, to manage IP allocation dynamically.
+
+Prompt 47:
+C) CIDR uses variable-length subnet masking to reduce the wastage of IP addresses and enhance the flexibility of address allocation.
+
+Prompt 48:
+D) ASNs uniquely identify each autonomous system, enabling route advertisements and policy implementations across the internet.
+
+Prompt 49:
+The correct answer is A) OSPF uses a flooding mechanism to immediately notify all nodes within an area of the change.
+
+Prompt 50:
+B
+
+Prompt 51:
+B
+
+Prompt 52:
+The correct answer is C) By each router independently calculating the shortest path to every other router using Dijkstra's algorithm.
+
+Prompt 53:
+D
+
+Prompt 54:
+A) SYN, SYN-ACK, ACK exchange to synchronize sequence numbers and establish connection parameters.
+
+Prompt 55:
+B) By considering multiple factors such as path length, AS path, origin type, and multiple BGP attributes.
+
+Prompt 56:
+B
+
+Prompt 57:
+D
+
+Prompt 58:
+The correct answer is B) To enable hierarchical routing and address resolution between different ATM networks.
+
+Prompt 59:
+The correct answer is B) ATM ARP maps ATM addresses to logical network addresses rather than hardware addresses.
+
+Prompt 60:
+B) By establishing multiple concurrent routes for redundancy.
+
+Prompt 61:
+C
+
+Prompt 62:
+B) To facilitate interoperability and communication between different service providers' ATM networks.
+
+Prompt 63:
+B) To enable hierarchical routing and address resolution between different ATM networks.
+
+Prompt 64:
+C) By classifying traffic into categories and assigning appropriate service levels.
+
+Prompt 65:
+C) It enables seamless connection and routing decisions between different private networks.
+
+Prompt 66:
+C) To segment and reassemble data into cells that conform to ATM's fixed-size requirement.
+
+Prompt 67:
+B) AAL1 provides better error correction capabilities tailored for continuous bit rate services.
+
+Prompt 68:
+The correct answer is D) It facilitates the multiplexing of multiple streams onto a single ATM connection.
+
+Prompt 69:
+C) By dynamically adjusting the size of ATM cells according to the current load on the network.
+
+Prompt 70:
+A
+
+Prompt 71:
+C
+
+Prompt 72:
+A
+
+Prompt 73:
+D
+
+Prompt 74:
+The correct answer is B
+
+Prompt 75:
+B) By allowing the pre-configuration of bandwidth and prioritizing VoIP traffic over less latency-sensitive data.
+
+Prompt 76:
+The correct answer is C) By reserving a portion of the bandwidth solely for voice packets and forwarding them ahead of other traffic.
+
+Prompt 77:
+C) It initiates the LSP setup and carries the LSP requirements down the path.
+
+Prompt 78:
+B) By allowing packets to carry a list of forwarding instructions, reducing reliance on the routing table.
+
+Prompt 79:
+The correct answer is A. The probability of two different inputs producing the same hash value is 1 in 2^128, which is approximately 1 in 10^128 or 1 in 10^-39.
+
+Prompt 80:
+A) The original IP header
+
+Prompt 81:
+C) Internet Key Exchange (IKE)
+
+Prompt 82:
+D
+
+Prompt 83:
+The correct answer is D) It is involved in generating the initial values for the hash computation, thereby making the hash output unique to each session.
+
+Prompt 84:
+A
+
+Prompt 85:
+B) It ensures that both the data integrity and the authenticity of a message are maintained by combining a hash function and a secret cryptographic key.
+
+Prompt 86:
+A
+
+Prompt 87:
+A) ADPCM uses a variable step size to adapt to signal changes, reducing error.
+
+Prompt 88:
+D
+
+Prompt 89:
+The correct answer is D) It reduces redundancy by referencing both previous and future frames for data prediction.
+
+Prompt 90:
+A) By clustering similar data points and representing them with a single value.
+
+Prompt 91:
+B) Object-based coding that allows elements to be manipulated independently.
+
+Prompt 92:
+A) It allows a single stream to be decoded at various resolutions, depending on the device.
+
+Prompt 93:
+C) The variability of action scenes which affects bitrate requirements.
+
+Prompt 94:
+D) Using predictive coding with a high-precision error model.
+
+Prompt 95:
+The correct answer is B) 5 Mbps
+
+Prompt 96:
+The correct answer is B) 4 kHz.
+
+Prompt 97:
+B
+
+Prompt 98:
+C
+
+Prompt 99:
+The correct answer is A
+
+Prompt 100:
+The correct answer is B) 20 Mbps
+
+Prompt 101:
+The correct answer is D) Pulse Code Modulation (PCM) with 8 bits per sample.
+
+Prompt 102:
+A
+
+Prompt 103:
+D
+
+Prompt 104:
+A
+
+Prompt 105:
+C) DSP algorithms identify and negate ambient noise patterns from the audio signal in real-time.
+
+Prompt 106:
+B) It prevents signal reflection and power loss at the interface between different transmission media.
+
+Prompt 107:
+B
+
+Prompt 108:
+The correct answer is B. Continuous Integration (CI) significantly reduces the incidence of integration errors by automatically compiling and testing code segments as soon as they are committed to the repository. This helps developers identify and fix issues early in the development process, ensuring that the final product is of high quality and meets the desired functionality.
+
+Prompt 109:
+B
+
+Prompt 110:
+B) VFD adjusts the motor's electrical frequency and voltage to match the load requirement, reducing excess energy consumption.
+
+Prompt 111:
+B
+
+Prompt 112:
+C) Implement a dynamic routing algorithm that recalculates paths in real-time.
+
+Prompt 113:
+D) Send duplicate packets over multiple paths to guarantee delivery.
+
+Prompt 114:
+B) Replace the faulty switch immediately with a spare.
+
+Prompt 115:
+C) Deploy additional virtual switches to handle excess traffic.
+
+Prompt 116:
+A) Divert traffic through secondary routers configured with load balancing capabilities.
+
+Prompt 117:
+A
+
+Prompt 118:
+A) Distribute data replication across multiple geographical locations.
+
+Prompt 119:
+A) Enforce strict access controls and multi-factor authentication for remote connections.
+
+Prompt 120:
+A
+
+Prompt 121:
+B) Implement a separate VLAN for each department, routing inter-VLAN traffic through a dedicated firewall.
+
+Prompt 122:
+A) Decrease the subnet mask length to reduce the number of bits used for subnetting.
+
+Prompt 123:
+D) Employ BGP to manage the routes advertised by each ISP and prevent routing loops.
+
+Prompt 124:
+A
+
+Prompt 125:
+The correct answer is C) Subdivide the existing address space using more specific CIDR blocks to increase the granularity of address allocation.
+
+Prompt 126:
+A
+
+Prompt 127:
+A
+
+Prompt 128:
+A
+
+Prompt 129:
+The correct answer is A
+
+Prompt 130:
+C) The client sends a FIN, the server delays responding, and the client retransmits the FIN leading to simultaneous FIN and ACK exchanges.
+
+Prompt 131:
+The correct answer is B.
+
+Prompt 132:
+B) Consider the RTT and bandwidth, calculate window size in bytes, and use this to determine bits required for SequenceNum, but the advertised window might be less certain.
+
+Prompt 133:
+B) Using a timestamp in each packet to determine the freshness and discard outdated packets.
+
+Prompt 134:
+The correct answer is A.
+
+Prompt 135:
+The correct answer is B.
+
+Prompt 136:
+B
+
+Prompt 137:
+A
+
+Prompt 138:
+The correct answer is A.
+
+Prompt 139:
+The correct answer is D
+
+Prompt 140:
+The correct answer is C.
+
+Prompt 141:
+C) Implementing a passive monitoring tool that analyzes traffic metadata.
+
+Prompt 142:
+The correct answer is A) Implementing end-to-end encryption using AES-256.
+
+Prompt 143:
+A
+
+Prompt 144:
+C) Geo-replicate content across multiple data centers
+
+Prompt 145:
+C) Implement Forward Error Correction (FEC)
+
+Prompt 146:
+B) In-memory database with ACID compliance
+
+Prompt 147:
+B) MQTT
+
+Prompt 148:
+The correct answer is A.
+
+Prompt 149:
+A
+
+Prompt 150:
+The correct answer is D) MT-RJ connectors for supporting high bandwidth over existing fiber infrastructure.
+
+Prompt 151:
+A
+
+Prompt 152:
+The correct answer is A
+
+Prompt 153:
+C
+
+Prompt 154:
+D
+
+Prompt 155:
+The correct answer is A
+
+Prompt 156:
+D
+
+Prompt 157:
+C) To organize and manage cable connections
+
+Prompt 158:
+B) Integrated Services (IntServ) with RSVP
+
+Prompt 159:
+B) 802.11ac
+
+Prompt 160:
+B) Stateful Inspection Firewall
+
+Prompt 161:
+A) Spanning Tree Protocol (STP)
+
+Prompt 162:
+B) SSL/TLS
+
+Prompt 163:
+A) BGP routing table size increases exponentially
+
+Prompt 164:
+A
+
+Prompt 165:
+D) Resource Reservation Protocol (RSVP)
+
+Prompt 166:
+The correct answer is D) Improves data packet forwarding efficiency.
+
+Prompt 167:
+C) Centralized control and management of the network
+
+Prompt 168:
+C) 192.168.1.255
+
+Prompt 169:
+B
+
+Prompt 170:
+C) IPv6 provides a larger address space compared to IPv4.
+
+Prompt 171:
+B) DHCP
+
+Prompt 172:
+C) To block unauthorized access while permitting outward communication
+
+Prompt 173:
+B) Intrusion Detection System; to detect unauthorized access
+
+Prompt 174:
+A) Man-in-the-Middle (MitM) attack
+
+Prompt 175:
+C) MX record
+
+Prompt 176:
+C) Replace the NIC on the server, because it has failed.
+
+Prompt 177:
+A
+
+Prompt 178:
+B
+
+Prompt 179:
+C) 802.1X
+
+Prompt 180:
+C
+
+Prompt 181:
+B) Web of trust
+
+Prompt 182:
+C) Port authentication
+
+Prompt 183:
+B) NeXTSTEP
+
+Prompt 184:
+B
+
+Prompt 185:
+D) Yes, because of the limited nature of IPv6 addressing.
+
+Prompt 186:
+The correct answer is D
+
+Prompt 187:
+The correct answer is B) 2001:489:f::1f00::d.
+
+Prompt 188:
+A
+
+Prompt 189:
+D) The DNS server is down.
+
+Prompt 190:
+C) When you have a dead connection and you suspect a broken cable.
+
+Prompt 191:
+C) The house phone lines can’t handle the bandwidth of both the phone and DSL.
+
+Prompt 192:
+C
+
+Prompt 193:
+The correct answer is C) A DoS attacks a single system while a DDoS attacks multiple systems.
+
+Prompt 194:
+The correct answer is C) Read and Write.
+
+Prompt 195:
+B) Port filtering
+
+Prompt 196:
+C
+
+Prompt 197:
+B) They reverse the sending and receiving wire pairs.
+
+Prompt 198:
+C) Replace the hub with a switch.
+
+Prompt 199:
+The correct answer is D
+
+Prompt 200:
+B) APIPA (Automatic Private IP Addressing)
+
+Prompt 201:
+D) Nowhere; the routing table does not have a route for that address.
+
+Prompt 202:
+C) Latency and jitter control
+
+Prompt 203:
+C) Leads to frequent timeouts and session interruptions.
+
+Prompt 204:
+The correct answer is B
+
+Prompt 205:
+A
+
+Prompt 206:
+B) Implementing load balancing to distribute traffic evenly.
+
+Prompt 207:
+D) Potential unauthorized access due to weak encryption.
+
+Prompt 208:
+A) Regularly updating the firewall's firmware and software.
+
+Prompt 209:
+The correct answer is B) 1.89%.
+
+Prompt 210:
+A
+
+Prompt 211:
+B) Blocking traffic from suspicious IP addresses.
+
+Prompt 212:
+B
+
+Prompt 213:
+The correct answer is C) 7 MSS.
+
+In TCP's AIMD algorithm, the congestion window size is initially set to the value of the minimum segment size (MSS) multiplied by the scaling factor (2 in this case). After each successful transmission, the congestion window size increases by the MSS. On the other hand, if a timeout occurs, the congestion window size is reduced by the MSS.
+
+In this case, the initial congestion window size is 2 \* MSS = 2 \* 14 = 28 bytes. After the first successful transmission, the congestion window size increases to 28 + 14 = 42 bytes. After the second successful transmission, it increases to 42 + 14 = 56 bytes. After the third successful transmission, it increases to 56 + 14 = 69 bytes. After the fourth successful transmission, it increases to 69 + 14 = 83 bytes. However, during the fifth transmission, a timeout occurs.
+
+At this point, the congestion window size is reduced to 8 \* MSS = 8 \* 14 = 112 bytes. After the fifth successful transmission, the congestion window size increases to 112 + 14 = 126 bytes. After the sixth successful transmission, it increases to 126 + 14 = 140 bytes. After the seventh successful transmission, it increases to 140 + 14 = 154 bytes. After the eighth successful transmission, it increases to 154 + 14 = 168 bytes. Finally, after the ninth successful transmission, it increases to 168 + 14 = 182 bytes.
+
+Therefore, the congestion window size at the end of the tenth transmission is 182 \* MSS = 182 \* 14 = 2728 bytes.
+
+Prompt 214:
+The correct answer is D
+
+Prompt 215:
+The correct answer is B) 0.064/s
+
+Prompt 216:
+The correct answer is D) 0.327/s
+
+Prompt 217:
+The correct answer is B) 1100 to 1300.
+
+Prompt 218:
+D
+
+Prompt 219:
+The correct answer is B) 2^(n-1)
+
+Prompt 220:
+C
+
+Prompt 221:
+'The correct answer is B'
+
+Prompt 222:
+The correct answer is B.
+
+Prompt 223:
+The correct answer is D) accept, listen, bind, recv.
+
+Prompt 224:
+The correct answer is D
+
+Prompt 225:
+The correct answer is C.
+
+Prompt 226:
+The correct answer is B
+
+Prompt 227:
+D
+
+Prompt 228:
+The correct answer is C
+
+Prompt 229:
+The correct answer is D) 80
+
+Prompt 230:
+B) A and B are false; C and D are true.
+
+Prompt 231:
+B
+
+Prompt 232:
+The correct answer is B) 32 Mbps.
+
+Prompt 233:
+D
+
+Prompt 234:
+The correct answer is B) 27
+
+Prompt 235:
+B
+
+Prompt 236:
+The correct answer is C) 8.
+
+Prompt 237:
+The correct answer is D
+
+Prompt 238:
+The correct answer is B) 800 bps.
+
+Prompt 239:
+A
+
+Prompt 240:
+B
+
+Prompt 241:
+C) Last fragment, 2400 and 2759
+
+Prompt 242:
+The correct answer is A) Ensure packets reach destination within that time.
+
+Prompt 243:
+The correct answer is D) S1 and S3 are true, but S2 is false.
+
+Prompt 244:
+The correct answer is A) RIP uses distance vector routing and OSPF uses link state routing.
+
+Prompt 245:
+The correct answer is B
+
+Prompt 246:
+C) Finding the IP address that corresponds to a MAC address
+
+Prompt 247:
+B) IP packets from the same source to the same destination can take different routes in the network
+
+Prompt 248:
+The correct answer is A) 158
+
+Prompt 249:
+D) session, request and response
+
+Prompt 250:
+The correct answer is D
+
+Prompt 251:
+A
+
+Prompt 252:
+D) 204.204.204.128/255.255.255.128 204.204.204.0/255.255.255.192 204.204.204.64/255.255.255.192
+
+Prompt 253:
+B) Ethernet frame includes a checksum field and IP packet includes a CRC field
+
+Prompt 254:
+B
+
+Prompt 255:
+The correct answer is C) To know if intended packet is supposed to send to router or not.
+
+Prompt 256:
+C) Non-adaptive algorithms
+
+Prompt 257:
+D) (a), (b) and (c) Only
+
+Prompt 258:
+The correct answer is A) 20
+
+Prompt 259:
+The correct answer is B) 3 sec.
+
+Prompt 260:
+D
+
+Prompt 261:
+The correct answer is A.
+
+Prompt 262:
+The correct answer is A. The first 8 bits of the incoming IP packet are 0100 0010. This corresponds to the binary value 128 in decimal. The first bit (0 or 1) indicates the direction of the packet (0 for incoming and 1 for outgoing), the second bit (0 or 1) indicates the network portion of the address, the third bit (0 or 1) indicates the host portion of the address, the fourth bit (0 or 1) indicates the packet type, and the last four bits (0000 or 1111) indicate the packet length in 32-bit words. The first four bits of the incoming packet are 0000, indicating that the packet is a 128-bit packet and not a 32-bit packet. This means that the packet can travel 2 hops before it is discarded.
+
+Prompt 263:
+B) IP
+
+Prompt 264:
+The correct answer is A.
+
+Prompt 265:
+The correct answer is [S] MD5
+
+Prompt 266:
+A) Sender encrypts using receiver’s public key
+
+Prompt 267:
+The correct answer is B
+
+Prompt 268:
+The correct answer is A) O(logn)
+
+Prompt 269:
+The correct answer is B) 35.
+
+Prompt 270:
+B) Masquerade attack
+
+Prompt 271:
+B) Replay Attack
+
+Prompt 272:
+A
+
+Prompt 273:
+C
+
+Prompt 274:
+The correct answer is D
+
+Prompt 275:
+The correct answer is A) min (M, N)
+
+Prompt 276:
+The correct answer is D.
+
+Prompt 277:
+The correct answer is B.
+
+Prompt 278:
+D) 8B/10B encoding
+
+Prompt 279:
+The correct answer is C
+
+Prompt 280:
+B) A finite automaton
+
+Prompt 281:
+D) Multipart/alternative
+
+Prompt 282:
+B) Architecture as a service
+
+Prompt 283:
+The correct answer is D) 22ms
+
+Prompt 284:
+The correct answer is C) 20 metres of cable.
+
+Prompt 285:
+The correct answer is B) 20 to 22
+
+Prompt 286:
+The correct answer is B
+
+Prompt 287:
+The correct answer is B
+
+Prompt 288:
+D
+
+Prompt 289:
+D) There is no contention in a CSMA/CD network
+
+Prompt 290:
+D
+
+Prompt 291:
+The correct answer is A) 10000 bits
+
+Prompt 292:
+The correct answer is C) 160 bytes.
+
+Prompt 293:
+The correct answer is A) 2500
+
+Prompt 294:
+D) The exponential backoff mechanism reduces the probability of collision on retransmissions.
+
+Prompt 295:
+The correct answer is D) None of these.
+
+Prompt 296:
+C) Switch
+
+Prompt 297:
+The correct answer is A
+
+Prompt 298:
+The correct answer is B) 512 kbps.
+
+Explanation: To calculate the required bit rate, we need to consider the number of characters in a page and the number of pages per second. 
+
+Assuming an average of 24 lines with 80 characters per line, the total number of characters per page is 24 \* 80 = 1920 characters. 
+
+If we want to download 100 pages per second, we need to download 1920 characters per second. 
+
+The required bit rate is calculated as follows:
+
+Bit rate = Total number of characters per second \* Number of bits per character
+
+Bit rate = 1920 \* 8
+
+Bit rate = 15,360 bits per second
+
+Therefore, the required bit rate is 512 kbps or 0.512 Mbps.
+
+Prompt 299:
+C) 512 Gbps
+
+Prompt 300:
+The correct answer is D) (1), (2), (3) and (4)
+
+Prompt 301:
+A) INT signal is sent by the terminal driver when one types and it is a request to terminate the current operation.
+
+Prompt 302:
+A) preamble
+
+Prompt 303:
+The correct answer is C.
+
+Prompt 304:
+B) socket address
+
+Prompt 305:
+The correct answer is A) 245.248.128.0/21 and 245.248.128.0/22.
+
+Prompt 306:
+The correct answer is B) 1023
+
+Prompt 307:
+B
+
+Prompt 308:
+The correct answer is C) II and III only.
+
+Prompt 309:
+The correct answer is D
+
+Prompt 310:
+The correct answer is A
+
+Prompt 311:
+The correct answer is D
+
+Prompt 312:
+The correct answer is D
+
+Prompt 313:
+The correct answer is D
+
+Prompt 314:
+A
+
+Prompt 315:
+C) A cookie has an expiry date and time
+
+Prompt 316:
+'The correct answer is D'
+
+Prompt 317:
+C) Dynamic
+
+Prompt 318:
+D) block some hosts from accessing the network
+
+Prompt 319:
+B) Refresh the page automatically after a specified interval
+
+Prompt 320:
+The correct answer is D
+
+Prompt 321:
+The correct answer is C) ((n(n - 1))/2) and 2n
+
+Prompt 322:
+D) None of these
+
+Prompt 323:
+The correct answer is [D] 33
+
+Prompt 324:
+D
+
+Prompt 325:
+The correct answer is A) 2 MHz
+
+Prompt 326:
+D) None of the Above
+

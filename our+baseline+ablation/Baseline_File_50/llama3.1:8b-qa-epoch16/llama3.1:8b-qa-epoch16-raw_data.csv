@@ -1,0 +1,491 @@
+Question,Answer,llama3.1:8b-qa-epoch16
+"Consider the following dynamic programming code snippet for solving the 0/1 Knapsack problem:
+
+def knapsack(values, weights, capacity, n):
+    if n == 0 or capacity == 0:
+        return 0
+    if weights[n-1] > capacity:
+        return knapsack(values, weights, capacity, n-1)
+    else:
+        return max(values[n-1] + knapsack(values, weights, capacity-weights[n-1], n-1),
+                   knapsack(values, weights, capacity, n-1))
+Given the values [60, 100, 120] and weights [10, 20, 30], what would be the output of calling knapsack(values, weights, 50, 3)?
+
+A) 180
+B) 220
+C) 280
+D) 300",D) 300,"Correct answer:
+C) 280
+
+"
+"Consider a CSMA/CD network that transmits data at a rate of 100 Mbps (10⁸ bits per second) over a 1 km (kilometre) cable with no repeaters. If the minimum frame size required for this network is 1250 bytes, what is the signal speed (km/sec) in the cable?
+
+A) 8000
+B) 10000
+C) 16000
+D) 20000",D) 20000,"Correct answer:
+D) 20000
+
+"
+"Consider a network using the pure ALOHA medium access control protocol, where each frame is of length 1,000 bits. The channel transmission rate is 1 Mbps (=10⁶ bits per second). The aggregate number of transmissions across all the nodes (including new frame transmissions and retransmitted frames due to collisions) is modelled as a Poisson process with a rate of 1,000 frames per second. Throughput is defined as the average number of frames successfully transmitted per second. The throughput of the network (rounded to the nearest integer) is ______________ .
+
+A) 130 to 140
+B) 140 to 150
+C) 120 to 130
+D) 100 to 110",A) 130 to 140,"orrect answer:
+C) 120 to 130
+
+"
+"Consider a link with packet loss probability of 0.2. What is the expected number of transmissions it would take to transfer 200 packets given that the stop and wait protocol is used?
+
+A) 125
+B) 250
+C) 225
+D) 150",B) 250,"Correct answer:
+A) 125
+
+"
+"Assume that Source S and Destination D are connected through an intermediate router R. How many times a packet has to visit the network layer and data link layer during a transmission from S to D?
+
+A) Network layer – 4 times, Data link layer – 4 times
+B) Network layer – 4 times, Data link layer – 6 times
+C) Network layer – 2 times, Data link layer – 4 times
+D) Network layer – 3 times, Data link layer – 4 times
+
+
+
+
+
+
+
+","D) Network layer – 3 times, Data link layer – 4 times","Correct answer:
+C) Network layer – 2 times, Data link layer – 4 times
+
+"
+"Two computers C1 and C2 are configured as follows. C1 has IP address 203.197.2.53 and netmask 255.255.128.0. C2 has IP address 203.197.75.201 and netmask 255.255.192.0. Which one of the following statements is true?
+
+A) C1 and C2 both assume they are on the same network
+B) C2 assumes C1 is on same network, but C1 assumes C2 is on a different network
+C) C1 assumes C2 is on same network, but C2 assumes C1 is on a different network
+D) C1 and C2 both assume they are on different networks","C) C1 assumes C2 is on same network, but C2 assumes C1 is on a different network","Correct answer:
+C) C1 assumes C2 is on same network, but C2 assumes C1 is on a different network
+
+"
+"Station A needs to send a message consisting of 9 packets to Station B using a sliding window (window size 3) and go-back-n error control strategy. All packets are ready and immediately available for transmission. If every 5th packet that A transmits gets lost (but no ACKs from B ever get lost), then what is the number of packets that A will transmit for sending the message to B?
+
+A) 12
+B) 14
+C) 16
+D) 18",C) 16,"Correct answer:
+B) 14
+
+"
+"Station A uses 32 byte packets to transmit messages to Station B using a sliding window protocol. The round trip delay between A and B is 80 milliseconds and the bottleneck bandwidth on the path between A and B is 128 kbps. What is the optimal window size that A should use?
+
+A) 20
+B) 40
+C) 160
+D) 320",B) 40,"Correct answer:
+D) 320
+
+"
+"Using public key cryptography, X adds a digital signature σ to a message M, encrypts (M, σ) and sends it to Y, where it is decrypted. Which one of the following sequence of keys is used for operations?
+
+A) Encryption: X’s private key followed by Y’s private key. Decryption: X’s public key followed by Y’s public key.
+B) Encryption: X’s private key followed by Y’s public key. Decryption: X’s public key followed by Y’s private key.
+C) Encryption: X’s private key followed by Y’s public key. Decryption: Y’s private key followed by X’s public key.
+D) Encryption: X’s public key followed by Y’s private key. Decryption: Y’s public key followed by X’s private key.",C) Encryption: X’s private key followed by Y’s public key. Decryption: Y’s private key followed by X’s public key.,"Correct answer:
+B) Encryption: X’s private key followed by Y’s public key. Decryption: X’s public key followed by Y’s private key.
+
+"
+"The address of a class B host is to be split into subnets with a 6-bit subnet number. What is the maximum number of subnets and the maximum number of hosts in each subnet?
+
+A) 62 subnets and 262142 hosts
+B) 64 subnets and 262142 hosts
+C) 64 subnets and 1024 hosts
+D) 62 subnets and 1022 hosts
+",D) 62 subnets and 1022 hosts,"Correct answer:
+
+A) 62 subnets and 262142 hosts
+
+"
+"The bandwidth of the line is 1.5 Mbps with round trip time (RTT) as 45 milliseconds. If the size of each packet is 1 KB (kilobytes), then what is the efficiency in Stop and Wait protocol?
+
+A) 20.3
+B) 10.0
+C) 12
+D) 10.8",D) 10.8,"Correct answer:
+D) 10.8
+
+"
+"A 1 km long broadcast LAN has bandwidth (BW) of 10⁷ bps and uses CSMA/CD, then what is the minimum size of the packet?
+Given: velocity (v) = 2 × 10⁸ m/sec
+
+A) 200 bits
+B) 10
+C) 50
+D) 100",D) 100,"Correct answer:
+A) 200 bits
+
+"
+"Consider Subnet mask of class B network on the internet is 255.255.240.0. What is the maximum number of hosts per subnet?
+
+A) 4098
+B) 4096
+C) 4094
+D) 4092",C) 4094,"Correct answer:
+A) 4098
+
+"
+"Consider a token ring network with a length of 2 km having 10 stations including a monitoring station. The propagation speed of the signal is 2 × 10⁸ m/s and the token transmission time is ignored. If each station is allowed to hold the token for 2 μsec, the minimum time for which the monitoring station should wait (in μsec) before assuming that the token is lost is _______.
+
+A) 28 to 30
+B) 20 to 22
+C) 0 to 2
+D) 31 to 33",A) 28 to 30,"Correct answer:
+A) 28 to 30
+
+"
+"A sender is employing public key cryptography to send a secret message to a receiver. Which one of the following statements is TRUE?
+
+A) Sender encrypts using receiver’s public key
+B) Sender encrypts using his own public key
+C) Receiver decrypts using sender’s public key
+D) Receiver decrypts using his own public key
+",A) Sender encrypts using receiver’s public key,"Correct answer:
+
+A) Sender encrypts using receiver’s public key
+
+"
+"The total number of keys required for a set of n individuals to be able to communicate with each other using secret key and public key crypto-systems, respectively are:
+
+A) n(n − 1) and 2n
+B) 2n and (n(n − 1))/2
+C) (n(n − 1))/2 and 2n
+D) (n(n − 1))/2 and n",C) (n(n − 1))/2 and 2n,"Correct answer:
+B) 2n and (n(n − 1))/2
+
+"
+"An attacker sits between the sender and receiver and captures the information and retransmits to the receiver after some time without altering the information. This attack is called as _____.
+
+A) Denial of service attack
+B) Masquarade attack
+C) Simple attack
+D) Complex attack",A) Denial of service attack,"Correct answer:
+B) Masquarade attack
+
+"
+"In a network of LANs connected by bridges, packets are sent from one LAN to another through intermediate bridges. Since more than one path may exist between two LANs, packets may have to be routed through multiple bridges. Why is the spanning tree algorithm used for bridge-routing?
+
+A) For shortest path routing between LANs
+B) For avoiding loops in the routing paths
+C) For fault tolerance
+D) For minimizing collisions
+",B) For avoiding loops in the routing paths,"Correct answer:
+B) For avoiding loops in the routing paths
+
+"
+"What is the maximum size of data that the application layer can pass on to the TCP layer below?
+
+A) Any size
+B) 2¹⁶ bytes – size of TCP header
+C) 2¹⁶ bytes
+D) 1500 bytes",A) Any size,"Correct answer:
+C) 2¹⁶ bytes
+
+"
+"A client process P needs to make a TCP connection to a server process S. Consider the following situation: the server process S executes a socket(), a bind() and a listen() system call in that order, following which it is preempted. Subsequently, the client process P executes a socket() system call followed by connect() system call to connect to the server process S. The server process has not executed any accept() system call. Which one of the following events could take place?
+
+A) connect() system call returns successfully
+B) connect() system call blocks
+C) connect() system call returns an error
+D) connect() system call results in a core dump
+",C) connect() system call returns an error,"Correct answer:
+
+B) connect() system call blocks
+
+"
+"A computer on a 10 Mbps network is regulated by a token bucket. The token bucket is filled at a rate of 2 Mbps. It is initially filled to capacity with 16 Megabits. What is the maximum duration for which the computer can transmit at the full 10 Mbps?
+
+A) 1.6 seconds
+B) 2 seconds
+C) 5 seconds
+D) 8 seconds",B) 2 seconds,"Correct answer:
+A) 1.6 seconds
+
+"
+"In the slow start phase of the TCP congestion control algorithm, the size of the congestion window
+
+A) does not increase
+B) increases linearly
+C) increases quadratically
+D) increases exponentially",D) increases exponentially,"Correct answer:
+B) increases linearly
+
+"
+"In a packet switching network, packets are routed from source to destination along a single path having two intermediate nodes. If the message size is 24 bytes and each packet contains a header of 3 bytes, then the optimum packet size is:
+
+A) 4
+B) 6
+C) 7
+D) 9",D) 9,"Correct answer:
+D) 9
+
+"
+"A message ""COMPUTERNETWORK"" is encrypted (ignore quotes) using columnar transposition cipher with a key ""LAYER"". The encrypted message is:
+
+A) CTTOEWMROPNRUEK
+B) MROUEKCTTPNROEW
+C) OEWPNRCTTUEKMRO
+D) UEKPNRMROOEWCTT",D) UEKPNRMROOEWCTT,"Correct answer:
+D) UEKPNRMROOEWCTT
+
+"
+"The CPU of a system having 1 MIPS execution rate needs 4 machine cycles on average for executing an instruction. Fifty percent of the cycles use the memory bus. A memory read/write employs one machine cycle. For execution of the programs, the system utilizes 90 percent of the CPU time. For block data transfer, an I/O device is attached to the system while the CPU executes the background programs continuously. What is the maximum I/O data transfer rate if programmed I/O data transfer technique is used?
+
+A) 500 Kbytes/sec
+B) 2.2 Mbytes/sec
+C) 125 Kbytes/sec
+D) 250 Kbytes/sec",D) 250 Kbytes/sec,"Correct answer:
+D) 250 Kbytes/sec
+
+"
+"An Internet Service Provider (ISP) has the following chunk of CIDR-based IP addresses available with it: 245.248.128.0/20. The ISP wants to give half of this chunk of addresses to Organization A, and a quarter to Organization B while retaining the remaining with itself. Which of the following is a valid allocation of addresses to A and B? [GATE CSE 2012]
+
+A) 245.248.136.0/21 and 245.248.128.0/22
+B) 245.248.128.0/21 and 245.248.128.0/22
+C) 245.248.132.0/22 and 245.248.132.0/21
+D) 245.248.136.0/22 and 245.248.132.0/21",A) 245.248.136.0/21 and 245.248.128.0/22,"Correct answer:
+A) 245.248.136.0/21 and 245.248.128.0/22
+
+"
+"Consider an instance of TCP’s Additive Increase Multiplicative Decrease (AIMD) algorithm where the window size at the start of the slow start phase is 2 MSS and the threshold at the start of the first transmission is 8 MSS. Assume that a time-out occurs during the fifth transmission. Find the congestion window size at the end of the tenth transmission.
+
+A) 8 MSS
+B) 14 MSS
+C) 7 MSS
+D) 12 MSS",C) 7 MSS,"Correct answer:
+B) 14 MSS
+
+"
+"Consider the store-and-forward packet-switched network given below. Assume that the bandwidth of each link is 10⁶ bytes/sec. A user on host A sends a file of size 10³ bytes to host B through routers R1 and R2 in three different ways. In the first case, a single packet containing the complete file is transmitted from A to B. In the second case, the file is split into 10 equal parts, and these packets are transmitted from A to B. In the third case, the file is split into 20 equal parts and these packets are sent from A to B. Each packet contains 100 bytes of header information along with the user data. Consider only transmission time and ignore processing, queuing and propagation delays. Also assume that there are no errors during transmission. Let T1, T2, and T3 be the times taken to transmit the file in the first, second, and third case respectively. Which one of the following is CORRECT?                                                                                                    A---R1---R2---B
+
+A) T1 < T2 < T3
+B) T1 > T2 > T3
+C) T2 = T3, T3 < T1
+D) T1 = T3, T3 > T2","D) T1 = T3, T3 > T2","Correct answer:
+B) T1 > T2 > T3
+
+"
+"A and B are the only two stations on an Ethernet. Each has a steady queue of frames to send. Both A and B attempt to transmit a frame, collide, and A wins the first backoff race. At the end of this successful transmission by A, both A and B attempt to transmit and collide. The probability that A wins the second backoff race is:
+
+A) 0.5
+B) 0.625
+C) 0.75
+D) 1.0",B) 0.625,"Correct answer:
+C) 0.75
+
+"
+"Host A is sending data to host B over a full duplex link. A and B are using the sliding window protocol for flow control. The send and receive window sizes are 5 packets each. Data packets (sent only from A to B) are all 1000 bytes long and the transmission time for such a packet is 50 μs. Acknowledgement packets (sent only from B to A) are very small and require negligible transmission time. The propagation delay over the link is 200 μs. What is the maximum achievable throughput in this communication?
+
+A) 7.69 × 10⁶ bytes per second
+B) 11.11 × 10⁶ bytes per second
+C) 12.33 × 10⁶ bytes per second
+D) 15.00 × 10⁶ bytes per second",B) 11.11 × 10⁶ bytes per second,"Correct answer:
+C) 12.33 × 10⁶ bytes per second
+
+"
+"Consider a LAN with four nodes S1, S2, S3, and S4. Time is divided into fixed-size slots, and a node can begin its transmission only at the beginning of a slot. A collision is said to have occurred if more than one node transmits in the same slot. The probabilities of generation of a frame in a time slot by S1, S2, S3, and S4 are 0.1, 0.2, 0.3, and 0.4 respectively. The probability of sending a frame in the first slot without any collision by any of these four stations is _________.
+
+A) 0.462
+B) 0.711
+C) 0.5
+D) 0.652
+",A) 0.462,"Correct answer:
+
+B) 0.711
+
+"
+"Suppose that the stop-and-wait protocol is used on a link with a bit rate of 64 kilobits per second and 20 milliseconds propagation delay. Assume that the transmission time for the acknowledgment and the processing time at nodes are negligible. Then the minimum frame size in bytes to achieve a link utilization of at least 50% is _________.
+
+A) 160
+B) 320
+C) 640
+D) 220",B) 320,"Correct answer:
+C) 640
+
+"
+"Consider a simplified time-slotted MAC protocol, where each host always has data to send and transmits with probability p = 0.2 in every slot. There is no backoff, and one frame can be transmitted in one slot. If more than one host transmits in the same slot, then the transmissions are unsuccessful due to collision. What is the maximum number of hosts which this protocol can support, if each host has to be provided a minimum throughput of 0.16 frames per time slot?
+
+A) 1
+B) 2
+C) 3
+D) 4",B) 2,"Correct answer:
+D) 4
+
+"
+"Consider the following message M = 1010001101. The cyclic redundancy check (CRC) for this message using the divisor polynomial x⁵ + x⁴ + x² + 1 is :
+
+A) 01110
+B) 01011
+C) 10101
+D) 10110",A) 01110,"Correct answer:
+A) 01110
+
+"
+"A sender uses the Stop-and-Wait ARQ protocol for reliable transmission of frames. Frames are of size 1000 bytes and the transmission rate at the sender is 80 Kbps (1 Kbps = 1000 bits/second). The size of an acknowledgement is 100 bytes and the transmission rate at the receiver is 8 Kbps. The one-way propagation delay is 100 milliseconds.
+
+Assuming no frame is lost, the sender throughput is __________ bytes/second.
+
+A) 2500
+B) 2000
+C) 1500
+D) 500
+",A) 2500,"Correct answer:
+
+C) 1500
+
+"
+"A firewall is to be configured to allow hosts in a private network to freely open TCP connections and send packets on open connections. However, it will only allow external hosts to send packets on existing open TCP connections or connections that are being opened (by internal hosts) but not allow them to open TCP connections to hosts in the private network. To achieve this, the minimum capability of the firewall should be that of:
+
+A) A combinational circuit
+B) A finite automaton
+C) A pushdown automaton with one stack
+D) A pushdown automaton with two stacks",D) A pushdown automaton with two stacks,"Correct answer:
+D) A pushdown automaton with two stacks
+
+"
+"In a network virtualization environment using NFV (Network Functions Virtualization) and SDN (Software-Defined Networking), a newly deployed intrusion detection engine inspects encapsulated traffic (VXLAN, GRE) at scale. Which challenge is most likely to degrade the engine’s effectiveness?
+
+A) The engine’s inability to parse IPv6 extension headers
+B) Excessive VLAN tag rewriting at the hypervisor layer
+C) Frequent changes in the encapsulation header fields that obfuscate payload inspection
+D) Strict rate limiting on the control plane traffic between SDN controller and NFV orchestrator",C) Frequent changes in the encapsulation header fields that obfuscate payload inspection,"Correct answer:
+C) Frequent changes in the encapsulation header fields that obfuscate payload inspection
+
+"
+"Which of the following IP addresses can be used in a WAN?
+
+A) 10.0.0.1
+B) 172.16.0.10
+C) 15.1.5.6
+D) None
+",C) 15.1.5.6,"Correct answer:
+
+D) None
+
+"
+"A novel cryptographic protocol for end-to-end security is proposed, combining elliptic-curve Diffie-Hellman key exchange with advanced homomorphic encryption for data payloads. Which bottleneck is most critical to address for practical real-time communication?
+
+A) The ephemeral key generation time for elliptic-curve keys
+B) The complexity of group operations in the homomorphic domain leading to high computational overhead
+C) The upper bound on the public key size for elliptic-curve systems
+D) The necessity to store session keys indefinitely to maintain homomorphism",B) The complexity of group operations in the homomorphic domain leading to high computational overhead,"Correct answer:
+B) The complexity of group operations in the homomorphic domain leading to high computational overhead
+
+"
+"If you want to connect your home computer so that you can view your school's website, in addition to your computer and modem you will need
+
+A) DSL, a browser, and the correct protocols
+B) An ISDN line, Windows, and an ISP
+C) Both an ISDN and DSL line and a browser
+D) An ISP, browser, and your school's URL","A) DSL, a browser, and the correct protocols","Correct answer:
+C) Both an ISDN and DSL line and a browser
+
+"
+"Host A sends a UDP datagram containing 8880 bytes of user data to host B over an Ethernet LAN. Ethernet frames may carry data up to 1500 bytes (i.e., MTU = 1500 bytes). The size of the UDP header is 8 bytes and the size of the IP header is 20 bytes. There is no option field in the IP header. How many total number of IP fragments will be transmitted and what will be the contents of the offset field in the last fragment?
+
+A) 6 and 925
+B) 6 and 7400
+C) 7 and 1110
+D) 7 and 8880",C) 7 and 1110,"Correct answer:
+D) 7 and 8880
+
+"
+"A serial transmission T₁ uses 8 information bits, 2 start bits, 1 stop bit, and 1 parity bit for each character. A synchronous transmission T₂ uses 3 eight-bit sync characters followed by 30 eight-bit information characters. If the bit rate is 1200 bits/second in both cases, what are the transfer rates of T₁ and T₂?
+
+A) 100 characters/sec, 153 characters/sec
+B) 80 characters/sec, 136 characters/sec
+C) 100 characters/sec, 136 characters/sec
+D) 80 characters/sec, 153 characters/sec
+","C) 100 characters/sec, 136 characters/sec","Correct answer:
+
+D) 80 characters/sec, 153 characters/sec
+
+"
+"What will be the total minimum bandwidth of the channel required for 7 channels of 400 kHz bandwidth multiplexed together with each guard band of 20 kHz?
+
+A) 2800 kHz
+B) 2600 kHz
+C) 3600 kHz
+D) 2920 kHz",D) 2920 kHz,"Correct answer:
+D) 2920 kHz
+
+"
+"In a web server, ten WebPages are stored with the URLs of the form http://www.yourname.com/var.html, where var is a different number from 1 to 10 for each Webpage. Suppose, the client stores the Webpage with var = 1 (say W1) in the local machine, edits and then tests. The rest of the WebPages remain on the web server. W1 contains several relative URLs of the form “var.html” referring to the other WebPages. Which one of the following statements needs to be added in W1, so that all the relative URLs in W1 refer to the appropriate WebPages on the web server?
+
+A) <a.href: ""http://www.yourname.com/"", href: ""...var.html"">
+B) <base href=""http://www.yourname.com/"">
+C) <a.href: ""http://www.yourname.com/"">
+D) <base href=""http://www.yourname.com/"", range: ""...var.html"">","B) <base href=""http://www.yourname.com/"">","Correct answer:
+B) <base href=""http://www.yourname.com/"">
+
+"
+"For a host machine that uses the token bucket algorithm for congestion control, the token bucket has a capacity of 1 megabyte and the maximum output rate is 20 megabytes per second. Tokens arrive at a rate to sustain output at a rate of 10 megabytes per second. The token bucket is currently full and the machine needs to send 12 megabytes of data. The minimum time required to transmit the data is _________________ seconds.
+
+A) 1.1
+B) 0.1
+C) 2.1
+D) 2.0
+",A) 1.1,"Correct answer:
+
+B) 0.1
+
+"
+"Consider a TCP connection in a state where there are no outstanding ACKs. The sender sends two segments back to back. The sequence numbers of the first and second segments are 230 and 290 respectively. The first segment was lost, but the second segment was received correctly by the receiver. Let X be the amount of data carried in the first segment (in bytes), and Y be the ACK number sent by the receiver. The values of X and Y (in that order) are
+
+A) 60 and 290
+B) 230 and 291
+C) 60 and 231
+D) 60 and 230",D) 60 and 230,"Correct answer:
+B) 230 and 291
+
+"
+"Purpose of a start bit in RS-232 serial communication protocol is
+
+A) to synchronize receiver for receiving every byte
+B) to synchronize receiver for receiving a sequence of bytes
+C) a parity bit
+D) to synchronize receiver for receiving the last byte",A) to synchronize receiver for receiving every byte,"Correct answer:
+A) to synchronize receiver for receiving every byte
+
+"
+"Consider an uncompressed stereo audio signal of CD quality which is sampled at 44.1 kHz and quantized using 16 bits. What is the required storage space if a compression ratio of 0.5 is achieved for 10 seconds of this audio?
+
+A) 172 KB
+B) 430 KB
+C) 860 KB
+D) 1720 KB
+",C) 860 KB,"Correct answer:
+
+C) 860 KB
+
+"
+"If the frame buffer has 8 bits per pixel and 8 bits are allocated for each of the R, G, B components, what would be the size of the lookup table?
+
+A) 24 bytes
+B) 1024 bytes
+C) 768 bytes
+D) 256 bytes",D) 256 bytes,"Correct answer:
+D) 256 bytes
+
+"
+"Which one of the following is used to compute cyclomatic complexity?
+
+A) The number of regions – 1
+B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes
+C) P – 1, where P is the number of predicate nodes in the flow graph G
+D) P + 1, where P is the number of predicate nodes in the flow graph G","D) P + 1, where P is the number of predicate nodes in the flow graph G","Correct answer:
+B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes
+
+"

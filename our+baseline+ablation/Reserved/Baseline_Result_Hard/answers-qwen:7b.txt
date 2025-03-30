@@ -1,0 +1,1017 @@
+Prompt 0:
+ The correct answer is  [6.67]
+
+Prompt 1:
+ The correct answer is [1100 000V]
+
+Prompt 2:
+ The correct answer is  [01010101]}
+
+Prompt 3:
+ 'The correct answer is [A]'.
+
+Prompt 4:
+ The correct answer is [B] IP address.
+
+Prompt 5:
+ 'The correct answer is [Reduces the load on root name servers.]'
+
+Prompt 6:
+ The correct answer is  [B)]
+
+Prompt 7:
+ The correct answer is [703 calls].
+
+Prompt 8:
+ 'The correct answer is  [A] Provides higher flexibility and better utilization of bandwidth.'
+
+Prompt 9:
+ The correct answer is  [B] POP3 downloads emails to the client, allowing offline access and reducing server storage load.
+
+Prompt 10:
+ 'The correct answer is [D] Both the need to support different types of services and the technical adjustments required in signal encoding.'
+
+Prompt 11:
+ The correct answer is  [A]
+
+Prompt 12:
+ 'The correct answer is [A]'
+
+Prompt 13:
+ 'The correct answer is [A]'.
+
+Prompt 14:
+ The correct answer is  [D] Time slots and frequency bands should be dynamically allocated based on real-time usage statistics to optimize resource utilization.](This statement directly addresses the requirement of dynamically allocating time slots and frequency bands based on usage statistics for optimal resource utilization.)
+
+Prompt 15:
+ The correct answer is [A] CHAP uses a three-way handshake to periodically verify the identity of the peer using a shared secret, without transmitting the actual password.
+
+Prompt 16:
+ The correct answer is D) The advertised window specifies the number of frames the receiver is ready to accept, helping to manage the flow control by preventing buffer overflow.
+
+Prompt 17:
+ 'The correct answer is B) RNR status allows the network to temporarily halt data transmission, providing time to clear congestion without dropping packets.'
+
+Prompt 18:
+ The correct answer is  [C] CHAP uses a three-way handshake to periodically verify the identity of the peer using a shared secret, without transmitting the actual password.]
+
+Prompt 19:
+ 'The correct answer is  [D] By allowing multiple frames to be sent before requiring an acknowledgment, thus keeping the pipeline full and reducing idle times.'
+
+Prompt 20:
+ The correct answer is  [C) Selective Repeat ARQ]
+
+Prompt 21:
+ 'The correct answer is [B] To prevent framing errors by ensuring that special control characters are not mistaken for data.'
+
+Prompt 22:
+ 'The correct answer is [B] Timing jitter introduces variability in packet arrival times, which can be mitigated using buffers to smooth out the delivery times.'
+
+Prompt 23:
+ The correct answer is  [C] ]
+
+Prompt 24:
+ 'The correct answer is [A] HTTP -> SMTP -> POP3'
+
+Prompt 25:
+ 'The correct answer is [UDP]'
+
+Prompt 26:
+ 'The correct answer is [D] By storing frequently accessed objects locally to reduce retrieval time.'
+
+Prompt 27:
+ The correct answer is  [C] To prevent IP address spoofing by validating source addresses.
+
+Prompt 28:
+ 'The correct answer is [B] IP address and port number'
+
+Prompt 29:
+ 'The correct answer is [A] Store the purchase record in a database and use cookies to store the database session ID.'
+
+Prompt 30:
+ The correct answer is  [D] By storing frequently accessed objects locally to reduce retrieval time.](Explanation: The described approach, which involves storing commonly used data close to where it's needed, is a technique often used in computer systems design to optimize performance.)
+
+Prompt 31:
+ 'The correct answer is B) Queue management prioritizes packet processing to avoid congestion and packet loss.'
+
+Prompt 32:
+ 'The correct answer is B) Dijkstra’s algorithm'
+
+Prompt 33:
+ The correct answer is  [C] By ensuring routes learned from a neighbor are not advertised back to that neighbor.] 
+
+This method, often referred to as "route filtering" or "route policy," ensures that routes received from a neighboring device are not propagated back to the same neighbor. This practice can help improve network performance and prevent routing loops.
+
+Prompt 34:
+ The correct answer is A) HOL blocking causes delays for packets behind a blocked packet, and it can be mitigated by using output buffering.
+
+This statement accurately explains the behavior of HOL (Head-of-Line) blocking in computer networking. When a high-priority packet, like an HOL packet, reaches the end of the queue and blocks further packets, other packets behind the blocked packet will experience delays. Output buffering is a technique that can be used to mitigate HOL blocking by temporarily holding packets in memory before sending them, thus avoiding the delay caused by blocking at the head of the queue.
+
+Prompt 35:
+ 'The correct answer is B) Traffic shaping regulates data flow to prevent congestion and ensure smooth traffic.'
+
+Prompt 36:
+ The correct answer is  [A]
+
+Prompt 37:
+ 'The correct answer is A) Cut-through switching reduces latency by beginning to forward a packet before the entire packet is received, but at the cost of potentially propagating error-containing packets.'
+
+Prompt 38:
+ 'The correct answer is A) The leaky bucket algorithm restricts data flow to a fixed rate and buffers excess data, making it suitable for smoothing out bursty traffic but potentially causing delay when the bucket is full.'
+
+Prompt 39:
+ 'The correct answer is  [C] Bufferbloat occurs when large buffers delay packet processing; implementing active queue management like RED can mitigate this.'
+
+Prompt 40:
+ 'The correct answer is [B]'.
+
+Prompt 41:
+ The correct answer is B) It specifies the largest amount of data that can be received in a single TCP segment.
+
+Prompt 42:
+ The correct answer is  [C) Dividing larger networks into logically manageable smaller networks.]
+
+Prompt 43:
+ The correct answer is B) RARP provides the workstation with its IP address using the workstation’s MAC address.
+
+This statement accurately describes the Role Addressing Protocol (RARP), which is used to map a device's MAC address to its corresponding IP address. This function is particularly useful in environments where dynamic addressing is required, such as local area networks (LANs).
+
+Prompt 44:
+ The correct answer is  [C] RARP uses a device's MAC address to return its pre-configured IP address, whereas DHCP can allocate IP addresses dynamically.]
+
+Prompt 45:
+ 'The correct answer is [B] Security vulnerabilities due to unencrypted RARP messages; mitigated by transitioning to more secure protocols like DHCP.'
+
+Prompt 46:
+ 'The correct answer is [A] Replace RARP servers with DHCP servers gradually, segment by segment, to manage IP allocation dynamically.'
+
+Prompt 47:
+ The correct answer is  [CIDR uses variable-length subnet masking to reduce waste of IP addresses and improve flexibility in allocation.]
+
+Prompt 48:
+ 'The correct answer is  [D] ASNs'
+
+Prompt 49:
+ The correct answer is  [A] OSPF uses a flooding mechanism to immediately notify all nodes within an area of the change.
+
+Prompt 50:
+ 'The correct answer is [IPv6 allows only the source node to perform fragmentation, reducing the load on routers and minimizing the chance of fragmentation-related delays]'.
+
+Prompt 51:
+ 'The correct answer is B) TCP reduces the congestion window by half upon detecting packet loss through triple duplicate ACKs or a timeout.'
+
+Prompt 52:
+ The correct answer is [By each router independently calculating the shortest path using Dijkstra’s algorithm based on the latest link-state information.] 
+
+This statement best describes how routers in a network typically determine the shortest paths to other routers. They use Dijkstra's algorithm, which is an iterative process that calculates the shortest path from a source node to all other nodes in the network. This process is based on the most recent and updated information about the link states between routers.
+
+Prompt 53:
+ The correct answer is  [D] ] The statement provided correctly answers the question by stating that RIP uses hop count as the only metric, which limits its effectiveness in larger networks due to a maximum count of 15 hops. This directly addresses the question about RIP's reliance on hop count and its limitations.
+
+Prompt 54:
+ 'The correct answer is [A] SYN, SYN-ACK, ACK exchange to synchronize sequence numbers and establish connection parameters.'
+
+Prompt 55:
+ The correct answer is [B] By considering multiple factors such as path length, AS path, origin type, and multiple BGP attributes.
+
+Prompt 56:
+ The correct answer is  [B] By allowing multiple devices on a local network to be mapped to a single public IP address, using different port numbers for each session.](This explanation is provided to fulfill the request for an answer format. The answer itself, which is the process of mapping multiple devices to a single public IP with distinct port numbers for each session, is already given in option [B].)
+
+Prompt 57:
+ 'The correct answer is [D] By sending an ARP request to ensure no other device is using the assigned IP address before finalizing the assignment.'
+
+Prompt 58:
+ 'The correct answer is B) To enable hierarchical routing and address resolution between different ATM networks.'
+
+Prompt 59:
+ 'The correct answer is [B] ATM ARP maps ATM addresses to logical network addresses rather than hardware addresses.'
+
+Prompt 60:
+ The correct answer is  [D) By reversing the route setup process to find an alternative path when a setup request is blocked.]
+
+Prompt 61:
+ The correct answer is  [Dividing messages into 48-byte cells and ensuring correct reassembly using sequence numbers.] 
+
+This method is commonly used for error detection and correction in communication systems, particularly in the context of networking protocols like Ethernet. By dividing large messages into smaller cells with specific byte lengths, and appending sequence numbers to each cell, both parties can ensure that the original message is correctly reconstructed even if some cells are lost during transmission.
+
+Prompt 62:
+ 'The correct answer is [B] To facilitate interoperability and communication between different service providers' ATM networks.'
+
+Prompt 63:
+ 'The correct answer is B) To enable hierarchical routing and address resolution between different ATM networks.'
+
+Prompt 64:
+ 'The correct answer is  [C] By classifying traffic into categories and assigning appropriate service levels.'
+
+Prompt 65:
+ 'The correct answer is [C]'It enables seamless connection and routing decisions between different private networks.
+
+Prompt 66:
+ 'The correct answer is [C] To segment and reassemble data into cells that conform to ATM’s fixed-size requirement.'
+
+Prompt 67:
+ 'The correct answer is [AAL2 supports variable bit rates and is suitable for intermittent transmission of sensitive data].']
+
+Prompt 68:
+ The correct answer is  [B)]
+
+Prompt 69:
+ The correct answer is A) By controlling cell transmission rates using a leaky bucket algorithm to conform to the contract parameters.
+
+Prompt 70:
+ The correct answer is  [B)]
+
+Prompt 71:
+ The correct answer is D) The ATM layer facilitates the sequential transport of fixed-size cells through the network's physical layer. 
+
+This statement accurately describes the function of the Application Layer (ATM) within the OSI model. The ATM layer, which operates at the fourth level, converts variable-length data into fixed-sized packets called cells before sending them across the physical layer.
+
+Prompt 72:
+ The correct answer is  [A] By using a unified signaling protocol to manage Ethernet, SONET, and WDM signals, thereby simplifying cross-layer traffic engineering.
+
+Prompt 73:
+ The correct answer is  '[D] By creating a structured path layout that simplifies the addition of new routes and services.''(Explanation: The given statement directly answers the question about how to add new routes and services in a transportation system.)'
+
+Prompt 74:
+ 'The correct answer is [B] It provides increased bandwidth and redundancy, minimizing potential downtime and delays for the critical application.'
+
+Prompt 75:
+ The correct answer is  [B)] By allowing the pre-configuration of bandwidth and prioritizing VoIP traffic over less latency- sensitive data.
+
+Prompt 76:
+ The correct answer is  [C] By reserving a portion of the bandwidth solely for voice packets and forwarding them ahead of other traffic. ]
+
+Prompt 77:
+ 'The correct answer is  [C]'
+
+Prompt 78:
+ 'The correct answer is [B] By allowing packets to carry a list of forwarding instructions, reducing reliance on the routing table.'
+
+Prompt 79:
+ The correct answer is  [2.93 x 10^-39]}
+
+Prompt 80:
+ The correct answer is  [C) The new IP header]
+
+Prompt 81:
+ 'The correct answer is D) Encapsulating Security Payload (ESP)'
+
+Prompt 82:
+ 'The correct answer is D) KDCs act as trusted third parties that verify user credentials and distribute session keys that are used for the encryption and decryption of communications.'
+
+Prompt 83:
+ The correct answer is  [C] The session key is not directly used in SHA-1, which solely relies on a hash function to ensure data integrity without encryption.
+
+Prompt 84:
+ 'The correct answer is  [A] ESP in tunnel mode encapsulates the entire IP packet, adding a new IP header configured with the VPN gateway addresses, enhancing security by hiding the original packet details.'
+
+Prompt 85:
+ 'The correct answer is [B]'
+
+Prompt 86:
+ 'The correct answer is  [D] By maintaining a list of revoked certificates and ensuring the certificate used is not on that list before validation.'
+
+Prompt 87:
+ The correct answer is A) ADPCM uses a variable step size to adapt to signal changes, reducing error.
+
+Prompt 88:
+ 'The correct answer is [D]'It assigns shorter codes to more frequent symbols, reducing the overall bit requirement.
+
+Prompt 89:
+ The correct answer is  [D) It reduces redundancy by referencing both previous and future frames for data prediction.]
+
+Prompt 90:
+ The correct answer is  [A] By clustering similar data points and representing them with a single value.
+
+Prompt 91:
+ The correct answer is: [B] Object-based coding that allows elements to be manipulated independently.
+
+Prompt 92:
+ 'The correct answer is [A]'.
+
+Prompt 93:
+ 'The correct answer is  [C] The variability of action scenes which affects bitrate requirements.'
+
+Prompt 94:
+ 'The correct answer is [D] Using predictive coding with a high-precision error model.'
+
+Prompt 95:
+ The correct answer is  [0.5 Mbps]}
+
+Prompt 96:
+ The correct answer is [8 kHz].
+
+Prompt 97:
+ The correct answer is B) It introduces distortion that increases with the number of quantization levels.
+
+Prompt 98:
+ The correct answer is  [C] To prevent overlapping of adjacent frequency bands and reduce crosstalk.
+
+Prompt 99:
+ The correct answer is [1 mW]
+
+Prompt 100:
+ The correct answer is [40 Mbps]
+
+Prompt 101:
+ The correct answer is  [D] Pulse Code Modulation (PCM) with 8 bits per sample ]
+
+Prompt 102:
+ 'The correct answer is [A] By negotiating security associations and establishing shared keys between communicating parties.'
+
+Prompt 103:
+ The correct answer is  [D] ]
+
+Prompt 104:
+ 'The correct answer is [A] By simplifying packet forwarding through a standardized path label mechanism.'
+
+Prompt 105:
+ 'The correct answer is  [DSP algorithms identify and negate ambient noise patterns from the audio signal in real-time.]'
+
+Prompt 106:
+ 'The correct answer is [B]'It prevents signal reflection and power loss at the interface between different transmission media.
+
+Prompt 107:
+ The correct answer is B) MPLS utilizes a dynamic label-switched path (LSP) that automatically finds an alternative route without manual intervention.
+
+Prompt 108:
+ The correct answer is  B) It reduces the incidence of integration errors by automatically compiling and testing code segments as soon as they are committed to the repository.
+
+Prompt 109:
+ 'The correct answer is B) MPPT continuously adjusts the electrical load to ensure that solar panels operate at optimal efficiency, maximizing energy output regardless of varying sunlight conditions.'
+
+Prompt 110:
+ 'The correct answer is [B] VFD adjusts the motor's electrical frequency and voltage to match the load requirement, reducing excess energy consumption.'
+
+Prompt 111:
+ 'The correct answer is B) By providing precise location data for medical equipment, staff, and patients, RTLS facilitates faster and more accurate decision-making and resource allocation.'
+
+Prompt 112:
+ The correct answer is C) Implement a dynamic routing algorithm that recalculates paths in real-time.
+
+Prompt 113:
+ The correct answer is  [A]']
+
+Prompt 114:
+ The correct answer is  [Replace with spare] (Explanation: The instruction given is to replace the faulty switch immediately with a spare, which can be represented as "[Replace with spare]".)
+
+Prompt 115:
+ The correct answer is  [B] Automatically throttle data rates for non-critical applications.
+
+Prompt 116:
+ 'The correct answer is [A] Divert traffic through secondary routers configured with load balancing capabilities.'
+
+Prompt 117:
+ The correct answer is [A] By utilizing NAT64 to translate IPv6 addresses to IPv4 addresses where necessary.
+
+Prompt 118:
+ The correct answer is  [A]']
+
+Prompt 119:
+ The correct answer is  [A] Enforce strict access controls and multi-factor authentication for remote connections.
+
+Prompt 120:
+ The correct answer is  [A] Maintain local backups of all critical data.
+
+Prompt 121:
+ The correct answer is:
+
+B) Implement a separate VLAN for each department, routing inter-VLAN traffic through a dedicated firewall.
+
+This approach separates different departments within the organization, allowing for better network segmentation and control over departmental traffic. By routing inter-VLAN traffic through a dedicated firewall, additional security measures are implemented to protect sensitive information and networks.
+
+Prompt 122:
+ The correct answer is  [A] Decrease the subnet mask length to reduce the number of bits used for subnetting. This option is recommended when there is a need to accommodate more subnets within a given network prefix.
+
+Prompt 123:
+ The correct answer is  [D] Employ BGP to manage the routes advertised by each ISP and prevent routing loops. 
+
+BGP (Border Gateway Protocol) is a routing protocol specifically designed for use between autonomous systems (ASes), which are organizations that operate their own network.
+
+By employing BGP, each ISP can manage the routes they advertise to other networks. This helps prevent routing loops, where a route keeps being advertised but never reaches its destination.
+
+So, option D correctly describes the approach to managing routing between ISPs using BGP.
+
+Prompt 124:
+ 'The correct answer is [A]'\(Explanation: The given statement accurately describes a method for segmenting a network based on geographical locations and assigning local addresses for within-region traffic. Hence, 'A' is the correct answer.)
+
+Prompt 125:
+ The correct answer is  [C) Subdivide the existing address space using more specific CIDR blocks to increase the granularity of address allocation.]
+
+Prompt 126:
+ 'The correct answer is [C] The memory requirement for each AS path is directly proportional to the number of networks, leading to linear growth in memory usage as the network expands.'
+
+Prompt 127:
+ 'The correct answer is [A]'.
+
+Prompt 128:
+ The correct answer is A).
+
+Prompt 129:
+ 'The correct answer is A) The "shim" header introduces less overhead per packet, allowing a higher ratio of payload to total packet size, thus optimizing bandwidth usage.'
+
+Prompt 130:
+ 'The correct answer is [B]'.
+
+Prompt 131:
+ The correct answer is: '32 bits for AdvertisedWindow and 40 bits for SequenceNum due to the high speed and need for precise sequence numbering.'
+
+Prompt 132:
+ 'The correct answer is [D]'
+
+Prompt 133:
+ The correct answer is [A] Implementing a unique session identifier within each packet to differentiate between connections. This method, commonly used in network protocols like HTTP or TCP/IP, assigns a distinct identifier (session ID) to each request or response, allowing multiple connections to be distinguished and managed separately.
+
+Prompt 134:
+ 'The correct answer is [B]'It supports a substantial number of unique label paths within typical networks, but in complex VPN implementations, the number of unique labels needed can exceed this bit limit.
+
+Prompt 135:
+ The correct answer is [8 MSS]
+
+Prompt 136:
+ 'The correct answer is [B] The sender will retransmit packets 2 and 3 only.'
+
+Prompt 137:
+ The correct answer is ['C')]. The statement given is about a router's behavior, and according to the question, option C indicates that the router will immediately drop all incoming packets.
+
+Prompt 138:
+ The correct answer is A) The sender will stop sending data but continue to send keep-alive messages to check if the window size has increased.
+
+Prompt 139:
+ 'The correct answer is [D] All of the above'
+
+Prompt 140:
+ 'The correct answer is  [C]'It increases overall throughput by adapting to network conditions.
+
+Prompt 141:
+ 'The correct answer is  [C] Implementing a passive monitoring tool that analyzes traffic metadata.'
+
+Prompt 142:
+ 'The correct answer is [Implementing end- to-end encryption using AES-256]'.
+
+Prompt 143:
+ 'The correct answer is [A] Implementing Quality of Service (QoS) protocols to prioritize video traffic.'
+
+Prompt 144:
+ The correct answer is  [C] Geo-replicate content across multiple data centers]
+
+Prompt 145:
+ 'The correct answer is [C] Implement Forward Error Correction (FEC)'
+
+Prompt 146:
+ The correct answer is B) In-memory database with ACID compliance.
+
+Prompt 147:
+ The correct answer is B) MQTT
+
+Prompt 148:
+ The correct answer is C) Single-mode fiber with SC connectors can span up to 10 km, suitable for large data centers.
+
+Prompt 149:
+ 'The correct answer is [A] Use of at least CAT 5e cabling to support distances up to 100 meters.'
+
+Prompt 150:
+ The correct answer is A) LC connectors.
+
+Prompt 151:
+ 'The correct answer is [B] Single-mode fiber must be used to reach the maximum distance of up to 5 km.'
+
+Prompt 152:
+ 'The correct answer is [B] 100BaseFX using multimode fiber, inherently resistant to EMI, suitable for distances up to 2 km.'
+
+Prompt 153:
+ The correct answer is  [C) Link bonding]
+
+Prompt 154:
+ The correct answer is  [D] Directs data frames to devices based on MAC address']
+
+Prompt 155:
+ 'The correct answer is 100 meters'
+
+Prompt 156:
+ 'The correct answer is [D] Network Address Translation (NAT) device'
+
+Prompt 157:
+ The correct answer is  [C] To organize and manage cable connections']
+
+Prompt 158:
+ The correct answer is  [C) Differentiated Services (DiffServ)]
+
+Prompt 159:
+ The correct answer is  802.11ac
+
+Prompt 160:
+ 'The correct answer is B) Stateful Inspection Firewall'
+
+Prompt 161:
+ The correct answer is A) Spanning Tree Protocol (STP)
+
+Prompt 162:
+ 'The correct answer is [IPSec VPN]'
+
+Prompt 163:
+ 'The correct answer is  [D]']
+
+Prompt 164:
+ The correct answer is  [Phase 1]
+
+Prompt 165:
+ The correct answer is D) Resource Reservation Protocol (RSVP)
+
+Prompt 166:
+ 'The correct answer is [D] Improves data packet forwarding efficiency'
+
+Prompt 167:
+ 'The correct answer is  [C] Centralized control and management of the network']
+
+Prompt 168:
+ The correct answer is [192.168.1.255]
+
+Prompt 169:
+ 'The correct answer is [B] To connect multiple devices and manage the data traffic between them.'
+
+Prompt 170:
+ 'The correct answer is [C] IPv6 provides a larger address space compared to IPv4.'
+
+Prompt 171:
+ The correct answer is B) DHCP
+
+Prompt 172:
+ The correct answer is [C] To block unauthorized access while permitting outward communication.
+
+Prompt 173:
+ The correct answer is  [B] Intrusion Detection System; to detect unauthorized access.
+
+Prompt 174:
+ The correct answer is [A] Man-in-the-Middle (MitM) attack.
+
+Prompt 175:
+ The correct answer is  [MX record]
+
+Prompt 176:
+ The correct answer is [C] Replace the NIC on the server, because it has failed.
+
+Prompt 177:
+ 'The correct answer is [.]'(Explanation: The given option represents a period (.) in written communication, which is commonly used to denote a pause or to indicate a complete thought.)
+
+Prompt 178:
+ 'The correct answer is [RADIUS]'}
+
+Prompt 179:
+ The correct answer is [B] RADIUS
+
+Prompt 180:
+ The correct answer is  MAC
+
+Prompt 181:
+ The correct answer is  [C] Root authority ]
+
+Prompt 182:
+ The correct answer is  [Port authentication]
+
+Prompt 183:
+ The correct answer is C) Novell NetWare
+
+Prompt 184:
+ 'The correct answer is [B] Traffic shaping'
+
+Prompt 185:
+ 'The correct answer is [B] No, the address space is so large that there is no need to ration routable addresses.'
+
+Prompt 186:
+ 'The correct answer is [2001:480:b6f3]'
+
+Prompt 187:
+ The correct answer is ['2001:489:f::1f00:0:']
+
+Prompt 188:
+ 'The correct answer is [A] The installer failed to install the POTS filters on the phones.'
+
+Prompt 189:
+ 'The correct answer is [D] The DNS server is down.'
+
+Prompt 190:
+ The correct answer is  [C] When you have a dead connection and you suspect a broken cable.]
+
+Prompt 191:
+ 'The correct answer is [A] The installer failed to install the POTS filters on the phones.'
+
+Prompt 192:
+ 'The correct answer is [C] RADIUS server'
+
+Prompt 193:
+ The correct answer is  [A]
+
+Prompt 194:
+ The correct answer is [C] Read and Write.
+
+Prompt 195:
+ The correct answer is B) Port filtering
+
+Prompt 196:
+ The correct answer is  [C] Install a backup generator](Explanation: The question asks for the appropriate action in case of a power outage. Installing a backup generator is a common and effective solution to ensure continuous power supply during outages. Therefore, 'The correct answer is  [C] Install a backup generator]' is the accurate response.
+
+Prompt 197:
+ The correct answer is  [D] Both ends of a crossover cable are wired according to the TIA/ EIA 568B standard. 
+
+Crossover cables are used specifically for connecting two identical devices, such as computers, in a network setup. According to the TIA/EIA 568B standard, which is commonly used in Ethernet networks, the pins of the cable should be properly assigned and arranged between the two devices. Therefore, it's accurate to say that both ends of a crossover cable are wired according to this standard.
+
+Prompt 198:
+ The correct answer is  ['Replace the hub with a switch.']
+
+Prompt 199:
+ 'The correct answer is [11111111111111111111111100000000]}'
+
+Prompt 200:
+ The correct answer is B) APIPA (Automatic Private IP Addressing)
+
+Prompt 201:
+ The correct answer is ['To the 64.165.5.0/24 network on interface WAN.']
+
+Prompt 202:
+ The correct answer is  [C] Latency and jitter control ]
+
+Prompt 203:
+ 'The correct answer is  [C] Leads to frequent timeouts and session interruptions.'
+
+Prompt 204:
+ 'The correct answer is [42 seconds]'}
+
+Prompt 205:
+ 'The correct answer is [B] Poor database indexing.'
+
+Prompt 206:
+ 'The correct answer is [B] Implementing load balancing to distribute traffic evenly.'
+
+Prompt 207:
+ The correct answer is [D] Potential unauthorized access due to weak encryption.
+
+Prompt 208:
+ 'The correct answer is [A] Regularly updating the firewall's firmware and software.'
+
+Prompt 209:
+ The correct answer is [18.999%]
+
+Prompt 210:
+ 'The correct answer is  [A] When employees use weak passwords.'
+
+Prompt 211:
+ 'The correct answer is [B]Blocking traffic from suspicious IP addresses.'
+
+Prompt 212:
+ The correct answer is B) Identifying potential security breaches in real-time.
+
+Prompt 213:
+ 'The correct answer is [7 MSS]}'
+
+Prompt 214:
+ The correct answer is: B) block all ICMP traffic
+
+Prompt 215:
+ The correct answer is  [0.015/s]]
+
+Prompt 216:
+ The correct answer is  [0.015/s]}
+
+Prompt 217:
+ The correct answer is [1200]
+
+Prompt 218:
+ The correct answer is [C] listen.
+
+Prompt 219:
+ The correct answer is  [2^(n-1)]
+
+Prompt 220:
+ The correct answer is  D) End to end connectivity
+
+Prompt 221:
+ 'The correct answer is [1, 3]'
+
+Prompt 222:
+ The correct answer is [12].
+
+Prompt 223:
+ 'The correct answer is [B]'"
+
+Prompt 224:
+ 'The correct answer is [8]'
+
+Prompt 225:
+ The correct answer is  [4096]
+
+Prompt 226:
+ The correct answer is [1.1].
+
+Prompt 227:
+ The correct answer is  D) Transport layer
+
+Prompt 228:
+ 'The correct answer is [C]DNS requests are generally very small and fit well within UDP segments.'
+
+Prompt 229:
+ The correct answer is [10].
+
+Prompt 230:
+ The correct answer is  [A AND B ARE TRUE; C AND D ARE FALSE]'
+
+Prompt 231:
+ 'The correct answer is [TCP, 80]'<
+
+Prompt 232:
+ 'The correct answer is [32 Kbps]'}
+
+Prompt 233:
+ The correct answer is [D] Leaky bucket algorithm.
+
+Prompt 234:
+ The correct answer is [25]
+
+Prompt 235:
+ The correct answer is [B] Fragment offset.
+
+Prompt 236:
+ The correct answer is [6]
+
+Prompt 237:
+ 'The correct answer is [C] SYN bit = 1, SEQ number = Y, ACK bit = 1, ACK number = X + 1, FIN bit = 0']
+
+Prompt 238:
+ The correct answer is [3200 bps]
+
+Prompt 239:
+ The correct answer is  [FIN]
+
+Prompt 240:
+ The correct answer is `[255.255.255.0]`
+
+Prompt 241:
+ 'The correct answer is [C] Last fragment, 2400 and 2759']
+
+Prompt 242:
+ The correct answer is  ['C') Prevent packets from looping indefinitely']
+
+Prompt 243:
+ 'The correct answer is [D]'
+
+Prompt 244:
+ 'The correct answer is [A]'.
+
+Prompt 245:
+ The correct answer is [9]
+
+Prompt 246:
+ The correct answer is  [D] Finding the MAC address that corresponds to an IP address.
+
+Prompt 247:
+ 'The correct answer is [D]'.
+
+Prompt 248:
+ The correct answer is [158].
+
+Prompt 249:
+ 'The correct answer is [D] session, request, and response'
+
+Prompt 250:
+ The correct answer is  [8000]
+
+Prompt 251:
+ The correct answer is [By progressively querying routers about the next router on the path to B using ICMP packets, starting with the first router]
+
+Prompt 252:
+ The correct answer is [204.204.204.64/255.255.255.192]
+
+Prompt 253:
+ 'The correct answer is  [C CRC field in Ethernet frame, IP checksum field in IP packet]}"
+
+Prompt 254:
+ The correct answer is: 'If the header length is greater than 5 (i.e., it is from 6 to 15), it means that the options field is present and must be considered.'
+
+Prompt 255:
+ The correct answer is C) To know if intended packet is supposed to send to router or not.
+
+Prompt 256:
+ The correct answer is  [C] Non-adaptive algorithms
+
+Prompt 257:
+ The correct answer is [D)] (a), (b) and (c).
+
+Prompt 258:
+ The correct answer is [10]
+
+Prompt 259:
+ The correct answer is [2 sec].
+
+Prompt 260:
+ The correct answer is  '[P]ing encounters an error condition, and an ICMP message is not returned.'' 
+
+This statement accurately reflects the behavior of ICMP (Internet Control Message Protocol) when a ping operation encounters an error condition. In such cases, no ICMP message is sent back.
+
+Prompt 261:
+ The correct answer is [62 subnets and 1022 hosts]}.
+
+Prompt 262:
+ The correct answer is D) The receiver rejects the packet.
+
+Prompt 263:
+ 'The correct answer is [IP]'
+
+Prompt 264:
+ The correct answer is [D] Network layer – 3 times, Data link layer – 4 times.
+
+Prompt 265:
+ The correct answer is  [C] Q and S only
+
+Prompt 266:
+ 'The correct answer is [A]Sender encrypts using receiver’s public key.'
+
+Prompt 267:
+ 'The correct answer is [C]'
+
+Prompt 268:
+ The correct answer is  [O(logn)]
+
+Prompt 269:
+ The correct answer is [13].
+
+Prompt 270:
+ The correct answer is A) Denial of service attack.
+
+Prompt 271:
+ The correct answer is B) Replay Attack.
+
+Prompt 272:
+ The correct answer is [A]
+
+Prompt 273:
+ The correct answer is D) A program that performs a legitimate function known to an operating system or user, with a hidden component used for nefarious purposes.
+
+Prompt 274:
+ 'The correct answer is [C] 100 characters/sec, 136 characters/sec'
+
+Prompt 275:
+ The correct answer is [C] M + N
+
+Prompt 276:
+ The correct answer is  [C] DNS query, TCP SYN, HTTP GET request ]
+
+Prompt 277:
+ The correct answer is  [4800]
+
+Prompt 278:
+ The correct answer is [D] 8B/10B encoding.
+
+Prompt 279:
+ The correct answer is  [8]
+
+Prompt 280:
+ 'The correct answer is [D] A pushdown automaton with two stacks'
+
+Prompt 281:
+ The correct answer is  [B] Multipart/parallel
+
+Prompt 282:
+ 'The correct answer is [B] Architecture as a Service'
+
+Prompt 283:
+ 'The correct answer is [20ms]}'
+
+Prompt 284:
+ The correct answer is  [20 metres]
+
+Prompt 285:
+ The correct answer is [28 to 30]
+
+Prompt 286:
+ 'The correct answer is [B]'
+
+Prompt 287:
+ 'The correct answer is 40'
+
+Prompt 288:
+ 'The correct answer is [A] Receiver is to be synchronized for byte reception'
+
+Prompt 289:
+ The correct answer is C) CSMA/CD is not suitable for a high propagation delay network like satellite network. 
+
+CSMA/CD stands for Carrier Sense Multiple Access with Collision Detection. It is commonly used in local area networks (LANs) where the propagation delay is relatively low.
+
+However, in satellite networks, the propagation delay can be very high due to the distance involved. CSMA/CD relies on the ability to detect collisions and adapt transmission accordingly. This mechanism would not perform well in a network with such high delay.
+
+Prompt 290:
+ 'The correct answer is  [D] Bridge reduces broadcast domain'
+
+Prompt 291:
+ The correct answer is [10000 bits]
+
+Prompt 292:
+ The correct answer is [160]
+
+Prompt 293:
+ 'The correct answer is [2500]'
+
+Prompt 294:
+ 'The correct answer is D)'
+
+Prompt 295:
+ 'The correct answer is 250 bytes'
+
+Prompt 296:
+ The correct answer is  [C) Switch]
+
+Prompt 297:
+ The correct answer is [48]
+
+Prompt 298:
+ 'The correct answer is 1.536 Mbps'
+
+Prompt 299:
+ 'The correct answer is [192 Gbps]}'
+
+Prompt 300:
+ The correct answer is  [D)]
+
+Prompt 301:
+ 'The correct answer is  [D] KILL is a blockable signal.'
+
+Prompt 302:
+ The correct answer is A) preamble.
+
+Prompt 303:
+ The correct answer is [25]%.
+
+Prompt 304:
+ 'The correct answer is [B] socket address'
+
+Prompt 305:
+ The correct answer is [Neither / Both]
+
+Both of the given IP address blocks, 245.248.136.0/21 and 245.248.128.0/22, are valid in their respective subnet masks.
+
+However, they cannot be combined as they belong to different networks. If you need them both within a single network, you would need a subnet mask that allows for both IP blocks.
+
+Prompt 306:
+ 'The correct answer is [2046]}'
+
+Prompt 307:
+ The correct answer is  [A] refers to the current network.
+
+Prompt 308:
+ The correct answer is '[D] II only'
+
+Prompt 309:
+ The correct answer is [II and III only]
+
+Prompt 310:
+ The correct answer is [12.5%]
+
+Prompt 311:
+ 'The correct answer is [C] m1: SMTP m2: POP m3: HTTP'
+
+Prompt 312:
+ 'The correct answer is [4,2,1,3]'
+
+Prompt 313:
+ The correct answer is  [B] Q needs to send at least 2 HTTP requests to S, but a single TCP connection to server S is sufficient.
+
+Prompt 314:
+ 'The correct answer is [HTTP, FTP]'}
+
+Prompt 315:
+ The correct answer is  [A] ]
+
+Prompt 316:
+ The correct answer is [B] Only (S1) and (S3) are not correct.
+
+Prompt 317:
+ The correct answer is  'Active'
+
+Prompt 318:
+ 'The correct answer is [D] block some hosts from accessing the network.'
+
+Prompt 319:
+ 'The correct answer is  [D] Display the client time as part of the page'
+
+Prompt 320:
+ 'The correct answer is [A] Content presented to search engine spider is different from that presented to user's browser.' 
+
+This statement directly addresses the question and confirms that A) is indeed the correct answer. No further explanation is needed as the provided information suffices.
+
+Prompt 321:
+ The correct answer is [C] ((n(n-1))/2) and 2n.
+
+Prompt 322:
+ The correct answer is [3].
+
+Prompt 323:
+ The correct answer is [8]
+
+Prompt 324:
+ The correct answer is  [D] Default gateway
+
+Prompt 325:
+ The correct answer is [5 MHz]
+
+Prompt 326:
+ 'The correct answer is [172.32.1.1]'
+

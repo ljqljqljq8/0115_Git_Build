@@ -1,0 +1,178 @@
+Prompt 0:
+The correct answer is A) 180
+
+Prompt 1:
+The correct answer is D.
+
+Prompt 2:
+The correct answer is B) 140 to 150
+
+Prompt 3:
+The correct answer is A.
+
+Prompt 4:
+The correct answer is A.
+
+Prompt 5:
+D) C1 and C2 both assume they are on different networks
+
+Prompt 6:
+The correct answer is B) 14
+
+Prompt 7:
+The correct answer is C) 160
+
+Prompt 8:
+B) Encryption: X's private key followed by Y's public key. Decryption: X's public key followed by Y's private key.
+
+Prompt 9:
+The correct answer is C) 64 subnets and 1024 hosts.
+
+Prompt 10:
+The correct answer is D
+
+Prompt 11:
+The correct answer is A.
+
+Prompt 12:
+The correct answer is B) 4096
+
+Prompt 13:
+The correct answer is [D] 31 to 33.
+
+Prompt 14:
+C) Receiver decrypts using sender's public key
+
+Prompt 15:
+The correct answer is [C] (n(n − 1))/2 and 2n
+
+Prompt 16:
+B) Masquerade attack
+
+Prompt 17:
+B
+
+Prompt 18:
+The correct answer is B. 2¹⁶ bytes – size of TCP header.
+
+Prompt 19:
+B) connect() system call blocks
+
+Prompt 20:
+The correct answer is A. 1.6 seconds.
+
+Prompt 21:
+C
+
+Prompt 22:
+The correct answer is B.
+
+Prompt 23:
+The correct answer is A
+
+Prompt 24:
+The correct answer is B) 2.2 Mbytes/sec
+
+Prompt 25:
+The correct answer is A) 245.248.136.0/21 and 245.248.128.0/22
+
+Prompt 26:
+The correct answer is B) 14 MSS.
+
+In TCP's Additive Increase Multiplicative Decrease (AIMD) algorithm, the congestion window size is calculated as:
+
+cwnd = min(max(cwnd + a, ssthresh), cwnd)
+
+where a is the additive increase factor, cwnd is the current congestion window size, and ssthresh is the slow start threshold.
+
+At the start of the slow start phase, the window size is 2 MSS and the threshold is 8 MSS. In the given scenario, we have:
+
+cwnd = min(max(2 + a, 8), 2)
+
+Since a is not explicitly given, we can assume a value for it. Let's assume a = 1. Then:
+
+cwnd = min(max(2 + 1, 8), 2) = min(9, 2) = 2
+
+At the end of the first transmission, the congestion window size increases to 2 MSS.
+
+cwnd = min(max(2 + 1, 8), cwnd) = min(max(2 + 1, 8), 2) = min(9, 2) = 2
+
+After the fifth transmission, the congestion window size increases to 4 MSS.
+
+cwnd = min(max(4 + 1, 8), cwnd) = min(max(4 + 1, 8), 2) = min(9, 2) = 2
+
+At the end of the tenth transmission, the congestion window size increases to 6 MSS.
+
+cwnd = min(max(6 + 1, 8), cwnd) = min(max(6 + 1, 8), 2) = min(9, 2) = 2
+
+The correct answer is B) 14 MSS.
+
+Prompt 27:
+The correct answer is: C) T2 = T3, T3 < T1
+
+Prompt 28:
+The correct answer is B.
+
+Prompt 29:
+The correct answer is D
+
+Prompt 30:
+The correct answer is [C] 0.5
+
+Prompt 31:
+The correct answer is A) 160
+
+Prompt 32:
+The correct answer is [D] 4
+
+Prompt 33:
+The correct answer is D
+
+Prompt 34:
+The correct answer is B) 2000.
+
+Prompt 35:
+B) A finite automaton
+
+Prompt 36:
+The correct answer is C) Frequent changes in the encapsulation header fields that obfuscate payload inspection.
+
+Prompt 37:
+D) None
+
+Prompt 38:
+B
+
+Prompt 39:
+D
+
+Prompt 40:
+The correct answer is D
+
+Prompt 41:
+The correct answer is B) 80 characters/sec, 136 characters/sec.
+
+Prompt 42:
+B) 2600 kHz
+
+Prompt 43:
+The correct answer is D) <base href="http://www.yourname.com/", range: "...var.html">
+
+Prompt 44:
+The correct answer is A) 1.1
+
+Prompt 45:
+The correct answer is B.
+
+Prompt 46:
+The correct answer is C) a parity bit.
+
+Prompt 47:
+The correct answer is B) 430 KB.
+
+Prompt 48:
+D) 256 bytes
+
+Prompt 49:
+B) E - N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes
+

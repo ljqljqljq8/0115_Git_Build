@@ -1,0 +1,5161 @@
+prompt 0:
+The correct answer is A) The Internet Corporation for Assigned Names and Numbers (ICANN).
+
+prompt 1:
+The correct answer is D) Handles error informing and control packet traffic.
+
+prompt 2:
+The correct answer is: A) By providing physical connections for lower-level peer groups
+
+prompt 3:
+The correct answer is A) Generating UDP datagrams with incrementing TTL values.
+
+prompt 4:
+The correct answer is: 'The correct answer is C)'.
+
+prompt 5:
+The correct answer is A) To simplify network operations.
+
+prompt 6:
+The correct answer is D) Additive Increase/Multiplicative Decrease (AIMD).
+
+prompt 7:
+The correct answer is D): 'Inferring neighbors from routing advertisements.'
+
+prompt 8:
+The correct answer is D) Reverse Lookup Zones.
+
+prompt 9:
+The correct answer is: C) To prevent ill-behaved sources from capturing large fractions of network capacity.
+
+prompt 10:
+The correct answer is D): To determine the beginning and end of a frame.
+
+prompt 11:
+The correct answer is A): Implementing a decentralized directory system.
+
+prompt 12:
+The correct answer is: C) It maps domain names to IP addresses.
+
+prompt 13:
+The correct answer is: C) Ensuring voice packets have priority to prevent quality issues
+
+prompt 14:
+The correct answer is C) Mail server.
+
+prompt 15:
+The correct answer is C): To improve network management and reduce broadcast traffic.
+
+prompt 16:
+The correct answer is B.
+
+prompt 17:
+The correct answer is: D) Performance Delay.
+
+prompt 18:
+The correct answer is A) 1.92 Mcps
+
+prompt 19:
+The correct answer is B) Reliability.
+
+prompt 20:
+The correct answer is B. To coordinate communication among nodes within the Basic Service Set (BSS)
+
+prompt 21:
+The correct answer is C. To provide logical communication between hosts
+
+prompt 22:
+The correct answer is C): It provides the receiving NIC time to realize a frame and identify where the frame starts.
+
+prompt 23:
+The correct answer is: 'C) It helps in identifying the receiving socket and directs the segment to that socket.'
+
+prompt 24:
+The correct answer is 'Network architecture'.
+
+prompt 25:
+The correct answer is A): To ensure every packet uses a different link to balance load
+
+prompt 26:
+C) Retransmits all packets from the frame which received an error onwards
+
+prompt 27:
+The correct answer is: B) The mapping of data into a sequence of data cells.
+
+prompt 28:
+The correct answer is C) Universal 1.
+
+prompt 29:
+The correct answer is: 'The correct answer is B. In the process of Authentication Header (AH) verification, the sender computes a message from the transmitted IP packet and a secret key for authentication.'
+
+prompt 30:
+The correct answer is A) Supervising the circulation of the token and initiating recovery procedures as needed.
+
+prompt 31:
+The correct answer is: A) List of software needs
+
+prompt 32:
+The correct answer is B): It provides longer key lengths that are less susceptible to brute-force attacks.
+
+prompt 33:
+The correct answer is A) Ethernet Version 2 frame.
+
+prompt 34:
+The correct answer is A) 128-bit block cipher with 256-bit key.
+
+prompt 35:
+The correct answer is B) Dual-stack approach.
+
+prompt 36:
+The correct answer is: 'A) It uses bandwidth more efficiently by allowing extra traffic on the protection line.'
+
+prompt 37:
+The correct answer is C. The maximum number of active devices that can be organized into a piconet is 16.
+
+prompt 38:
+The correct answer is: A) It provides localized processing to reduce latency
+
+prompt 39:
+The correct answer is B) Absence of communication infrastructure.
+
+prompt 40:
+The correct answer is: 'The correct answer is B - Decreased data security.'
+
+prompt 41:
+The correct answer is B.
+
+prompt 42:
+The correct answer is B): It identifies the frame type and data size.
+
+prompt 43:
+The correct answer is: B) To allow for simultaneous bidirectional communication over a single frequency band
+
+prompt 44:
+The correct answer is A) Packet Switching.
+
+prompt 45:
+The correct answer is C): To efficiently share transmission facilities among users.
+
+prompt 46:
+The correct answer is D) 3FFD.3600.0000.0000.0302.B3FF.FE3C.C0DB
+
+prompt 47:
+The correct answer is: 'The correct answer is D. It assigns weights that effectively control the proportion of the links bandwidth that flow will get.'
+
+prompt 48:
+The correct answer is D) cwnd (Congestion Window).
+
+prompt 49:
+The correct answer is B) Protecting the session key from unauthorized access.
+
+prompt 50:
+The correct answer is: D) To monitor the status and activities of network interfaces.
+
+prompt 51:
+The correct answer is C): 'Agent discovery, Registration with the home agent, and Indirect routing of datagrams'.
+
+prompt 52:
+The correct answer is D): Error Detection.
+
+prompt 53:
+The correct answer is A) GMSK.
+
+prompt 54:
+B) When the network requires improved resilience and fault isolation
+
+prompt 55:
+The correct answer is: B) To enable communication between different radio technologies.
+
+prompt 56:
+The correct answer is A. The essential topology of a token-ring network is ring.
+
+prompt 57:
+The correct answer is: A) The delay in data packet transmission
+
+prompt 58:
+The correct answer is A): To configure and monitor network devices.
+
+prompt 59:
+The correct answer is: D) To allow forwarding decisions to be made locally at each input port, avoiding a centralized processing bottleneck.
+
+prompt 60:
+The correct answer is D) Blind transfer.
+
+prompt 61:
+The correct answer is: A) They remain constant regardless of reservations.
+
+prompt 62:
+The correct answer is: 'The correct answer is A) The reservation state is deleted.'
+
+prompt 63:
+The correct answer is B) The parallel detection feature comes into play.
+
+prompt 64:
+The correct answer is: A) The state machine
+
+prompt 65:
+The correct answer is: 'They allow for dynamic network reconfiguration according to changing demands.'
+
+prompt 66:
+The correct answer is B) Ensuring that there is no noticeable change of service quality for a user moving from one domain to another.
+
+prompt 67:
+The correct answer is B): 'The radio propagation characteristics and antenna features determine the coverage, or the distance over which it can transmit a signal, of an Access Point (AP) in a wireless network.'
+
+prompt 68:
+The correct answer is: D) TCP offers reliable data transfer, converting IP's unreliable service between end systems into a reliable data transport service.
+
+prompt 69:
+The correct answer is D) show ntp status.
+
+prompt 70:
+The correct answer is A): Each layer should be able to perform two opposite tasks, one in each direction.
+
+prompt 71:
+The correct answer is: 'The correct answer is B) A managed object represents one aspect of the managed device, while an MIB is a standardized virtual information repository of managed objects.'
+
+prompt 72:
+The correct answer is: A) Malware that disguises itself as legitimate software.
+
+prompt 73:
+The correct answer is B) VLAN assignments to subinterfaces.
+
+prompt 74:
+The correct answer is: D) VTP mode settings (e.g., server, client)
+
+prompt 75:
+The correct answer is: B) To minimize energy consumption and ensure efficient operation.
+
+prompt 76:
+The correct answer is: D) Internet2 technology in public health discussions among practitioners globally.
+
+prompt 77:
+The correct answer is D): 'Message Integrity'.
+
+prompt 78:
+The correct answer is D) Skype.
+
+prompt 79:
+The correct answer is B.
+
+prompt 80:
+The correct answer is B) To buffer packets and reduce congestion.
+
+prompt 81:
+The correct answer is A): To rank routes based on a distance metric within an AS.
+
+prompt 82:
+The correct answer is: B) To generate keys for a message authentication and encryption.
+
+prompt 83:
+The correct answer is D) Wireless local area network (WLAN) technologies
+
+prompt 84:
+The correct answer is: D) Manchester
+
+prompt 85:
+The correct answer is: B) To provide an electrical power source over the network cabling for devices like IP phones.
+
+prompt 86:
+The correct answer is A) CRC-16.
+
+prompt 87:
+The correct answer is A) It enables network clients to generate their own global unicast addresses.
+
+prompt 88:
+The correct answer is C) ASCII strings similar to HTTP for communication.
+
+prompt 89:
+The correct answer is B) OODA Loop.
+
+prompt 90:
+The correct answer is B) To place the firewalls that block all incoming and outgoing traffic.
+
+prompt 91:
+The correct answer is: A) SWAN
+
+prompt 92:
+The correct answer is: D) The outcome of the Connection Admission Control (CAC) performed by each switch along the selected path
+
+prompt 93:
+The correct answer is: C) A decrease in the size of the receive window (rwnd) signifies network congestion.
+
+prompt 94:
+The correct answer is: B) It layers multiple security measures to protect against attacks
+
+prompt 95:
+The correct answer is: 'The correct answer is C. In the Mobile Switching Centre, the electronic serial number (ESN), system identification (SID), and mobile identification number (MIN) are used for identification.'
+
+prompt 96:
+The correct answer is C) Wireless links face certain challenges like fading, multipath, and hidden terminals.
+
+prompt 97:
+The correct answer is: 'The correct answer is A. Interface and security rules application are disabled in multicontext mode.'
+
+prompt 98:
+The correct answer is A) 12.
+
+prompt 99:
+The correct answer is D) It specifies information such as picture size and quantization matrices for a GOP.
+
+prompt 100:
+The correct answer is: A) PDCP
+
+prompt 101:
+The correct answer is B) TCP NewReno.
+
+prompt 102:
+The correct answer is A): By assigning each wireless terminal a unique spreading sequence.
+
+prompt 103:
+The correct answer is: 'The correct answer is B. BGP (Border Gateway Protocol) is typically used for exchanging routing information between different autonomous systems.'
+
+prompt 104:
+The correct answer is: B) To support business processes through complex interactions
+
+prompt 105:
+The correct answer is A) CUBIC.
+
+prompt 106:
+The correct answer is: C) It requires each router to maintain state information of every passing flow and support resource reservation, creating huge storage and processing overheads.
+
+prompt 107:
+The correct answer is: D) VNFs provide flexibility in deploying network functions as needed.
+
+prompt 108:
+The correct answer is A) SYN-ACK, SYN, ACK.
+
+prompt 109:
+The correct answer is: A) Vehicular speed requiring 1 Gbps
+
+prompt 110:
+The correct answer is C) To store permanent operational data
+
+prompt 111:
+The correct answer is A): 'Marker-based restart'.
+
+prompt 112:
+The correct answer is: 'The correct answer is D)'
+
+prompt 113:
+The correct answer is: B) It ensures the integrity of the data packet.
+
+prompt 114:
+The correct answer is: B) Each connection gets an equal share of the link bandwidth.
+
+prompt 115:
+The correct answer is A): It provides authentication services for the mobile devices attempting to attach to the network.
+
+prompt 116:
+The correct answer is: C) It allows connected devices to agree on the maximum common transmission speed.
+
+prompt 117:
+The correct answer is: B) To set up cost metrics for load balancing
+
+prompt 118:
+The correct answer is D) Established by widespread usage and acceptance.
+
+prompt 119:
+The correct answer is A) AirCrack.
+
+prompt 120:
+The correct answer is A) Standard protocols are documented and approved by Internet authorities, while nonstandard ones are proprietary and may be used privately without approval.
+
+prompt 121:
+The correct answer is: 'The correct answer is A) To provide end-to-end encryption for data at the network layer.'
+
+prompt 122:
+The correct answer is B) To convert IP addresses from host to network byte order.
+
+prompt 123:
+The correct answer is 'D) Cable Internet Access'
+
+prompt 124:
+The correct answer is C) DHCP.
+
+prompt 125:
+The correct answer is C) Connect function.
+
+prompt 126:
+The correct answer is B) The coordinates rotate with the Earth, keeping a fixed point constant relative to the Earth's surface.
+
+prompt 127:
+The correct answer is C): Digitization and packing of various signal types into packets.
+
+prompt 128:
+The correct answer is: B. Reduces client response time and network traffic
+
+prompt 129:
+The correct answer is: 'An all-IP core network offering integrated voice and data'.
+
+prompt 130:
+The correct answer is: B) It avoids packet fragmentation and potential data loss
+
+prompt 131:
+The correct answer is A): Nodes maintain up-to-date routing information to all destinations.
+
+prompt 132:
+The correct answer is 'Multipurpose Internet Mail Extensions'.
+
+prompt 133:
+The correct answer is: 'The correct answer is B. ip-routing'
+
+prompt 134:
+The correct answer is: C) Implementing software-defined networking.
+
+prompt 135:
+The correct answer is A) Frames that have been sent but are as yet unacknowledged
+
+prompt 136:
+The correct answer is: B) To facilitate the rapid and accurate exchange of patient health records
+
+prompt 137:
+The correct answer is: B) Facilitating the retrieval of web pages.
+
+prompt 138:
+The correct answer is: 'The correct answer is B. Synchronous Optical Network.'
+
+prompt 139:
+The correct answer is B): To verify the identity of the user for security purposes.
+
+prompt 140:
+The correct answer is C) By exporting it.
+
+prompt 141:
+The correct answer is: B) A number only used once within a protocol.
+
+prompt 142:
+The correct answer is A. The two types of DS3s are channelized and unchannelized.
+
+prompt 143:
+The correct answer is C) To identify potential cyber threats and vulnerabilities.
+
+prompt 144:
+The correct answer is B): Sequence number.
+
+prompt 145:
+The correct answer is D) The Web server sends back a connection reply message.
+
+prompt 146:
+The correct answer is: A) Rough terrain decreases reflected power
+
+prompt 147:
+The correct answer is: 'The correct answer is B. The external access server fulfills the role of data source.'
+
+prompt 148:
+The correct answer is A) RTP
+
+prompt 149:
+The correct answer is: A) It allows isolated virtual networks to share the same physical infrastructure
+
+prompt 150:
+The correct answer is D.
+
+prompt 151:
+The correct answer is: B) It allows good performance for speech signals at the lower rates.
+
+prompt 152:
+The correct answer is D) Tuning the bandwidth.
+
+prompt 153:
+The correct answer is: A) It leads to an increased number of location updates, known as the ping-pong effect.
+
+prompt 154:
+The correct answer is B): Computer networks are not limited to a particular application and support a wide range of applications.
+
+prompt 155:
+The correct answer is B) Transmitting short text messages up to 160 characters in length.
+
+prompt 156:
+The correct answer is: B) Channel coding to correct errors
+
+prompt 157:
+The correct answer is A) H.245
+
+prompt 158:
+The correct answer is: A) To handle the establishment of logical channels between devices.
+
+prompt 159:
+The correct answer is: B) NumericString
+
+prompt 160:
+The correct answer is B): To convert each incoming Virtual Circuit Identifier (VCI) to an appropriate outgoing VCI.
+
+prompt 161:
+The correct answer is D) Any host or service that can be accessed through the network.
+
+prompt 162:
+The correct answer is D) It shows the status of the interface, and if the interface is down, it reports the reason.
+
+prompt 163:
+The correct answer is: A) The entire switch gets rebooted, ceasing all network traffic traversing the switch.
+
+prompt 164:
+The correct answer is D.
+
+prompt 165:
+The correct answer is A) Go-Back-N ARQ.
+
+prompt 166:
+The correct answer is: A) Calculate 'p' and 'q' which can then be used to derive 'z' and 'e', which in turn can be used to find 'd'.
+
+prompt 167:
+The correct answer is A): 100 Mbps.
+
+prompt 168:
+The correct answer is A) Addressing.
+
+prompt 169:
+The correct answer is: A) Summarizes topology information.
+
+prompt 170:
+The correct answer is 'Router'.
+
+prompt 171:
+The correct answer is: A) A framework for executing code via smart contracts.
+
+prompt 172:
+The correct answer is A) A pair of cables connected to two separate switches.
+
+prompt 173:
+C) To speed up the computation by hashing the plaintext first
+
+prompt 174:
+The correct answer is: A) The LS algorithm requires global information, while the DV algorithm only communicates with directly connected neighbors.
+
+prompt 175:
+The correct answer is B) Fixed filter style.
+
+prompt 176:
+The correct answer is: B) NAT enables direct communication between a mobile device and its correspondent without involving the home network.
+
+prompt 177:
+The correct answer is A): Because vPC requires configuration consistency between switches.
+
+prompt 178:
+The correct answer is: B) It allows a host to discover other hosts on the same network segment.
+
+prompt 179:
+The correct answer is C) Internet Control Message Protocol (ICMP)
+
+prompt 180:
+The correct answer is B) By broadcasting their reservation bit during the appropriate minislot.
+
+prompt 181:
+The correct answer is A): It indicates the algorithm to be used for encryption.
+
+prompt 182:
+The correct answer is B) To inform the sender about the receiver's buffer availability.
+
+prompt 183:
+The correct answer is B.
+
+prompt 184:
+The correct answer is A): 'The bandwidth of the analog signal'.
+
+prompt 185:
+The correct answer is: 'The correct answer is B. Providing tailored networks for different applications'
+
+prompt 186:
+The correct answer is: 'The correct answer is C. To enable faster forwarding of packets by using fixed-length labels.'
+
+prompt 187:
+The correct answer is: 'The correct answer is D)'
+
+prompt 188:
+The correct answer is A): as logical AND tests, requiring all conditions to be met.
+
+prompt 189:
+The correct answer is B): To determine the strength of the satellite signal within a certain area.
+
+prompt 190:
+The correct answer is: 'A) Packets having to wait before previously queued messages are transmitted'
+
+prompt 191:
+The correct answer is A): To control access to specific resources.
+
+prompt 192:
+The correct answer is: A) To define how nodes interact with their local multicast router.
+
+prompt 193:
+The correct answer is B): Using large prime numbers to compute discrete logarithms
+
+prompt 194:
+The correct answer is: D) A path that will not forward traffic back to the sending node.
+
+prompt 195:
+B) It separates external routing from internal topology changes
+
+prompt 196:
+The correct answer is: A) The total delay over a network link.
+
+prompt 197:
+The correct answer is A) To list domain names and their corresponding IP addresses for static name resolution.
+
+prompt 198:
+The correct answer is A) Asking for the time of day.
+
+prompt 199:
+The correct answer is: D) CatOS displays provide a more concise and easily readable format.
+
+prompt 200:
+D) Because the physical layer attributes can influence the overall performance of the medium access control (MAC) protocol.
+
+prompt 201:
+The correct answer is: 'The correct answer is D.'
+
+prompt 202:
+The correct answer is: B) Its fixed payload and overhead sizes in the PDUs.
+
+prompt 203:
+The correct answer is A) By encrypting a message with the public key.
+
+prompt 204:
+D) Applying subnetting techniques
+
+prompt 205:
+The correct answer is: A) They highlight congested paths in the network.
+
+prompt 206:
+The correct answer is B) Different media types enable the transfer of data from the source to the destination.
+
+prompt 207:
+The correct answer is 'Network virtualization'.
+
+prompt 208:
+The correct answer is D): 'Last Mile'.
+
+prompt 209:
+The correct answer is: 'The correct answer is A) It prevents the redistribution of routes.'
+
+prompt 210:
+The correct answer is D) To distribute label bindings among Label Switch Routers (LSRs).
+
+prompt 211:
+The correct answer is: A) To passively capture and display messages
+
+prompt 212:
+B) Performance may decline due to increased chances of collisions on the shared medium
+
+prompt 213:
+The correct answer is D. It enables users to surf the internet.
+
+prompt 214:
+The correct answer is C) To confirm that a connection request is current and not a delayed duplicate.
+
+prompt 215:
+The correct answer is: A) A set of technologies for managing and prioritizing traffic on a network.
+
+prompt 216:
+The correct answer is: A) Constant acknowledgment
+
+prompt 217:
+The correct answer is: B) To reduce the ambiguity caused by delayed duplicate packets.
+
+prompt 218:
+The correct answer is B): It offers integrated services of packet switching and isochronous services at 100 Mbps.
+
+prompt 219:
+The correct answer is B): The number of devices that can be connected to a network
+
+prompt 220:
+The correct answer is C) Metcalfe's Law
+
+prompt 221:
+The correct answer is D): 'Quick deployment and high security level.
+
+prompt 222:
+The correct answer is A): Through label-switched routing.
+
+prompt 223:
+The correct answer is D) There is no automatic encryption of data.
+
+prompt 224:
+A) When reliable delivery is unnecessary and speed is critical.
+'The correct answer is A)'
+
+prompt 225:
+The correct answer is: A) The switch dynamically changes port assignments for MAC addresses.
+
+prompt 226:
+The correct answer is D.
+
+prompt 227:
+The correct answer is: 'The correct answer is A) The nervous system in a human body.'
+
+prompt 228:
+The correct answer is A) Allocates IP addresses to network devices
+
+prompt 229:
+The correct answer is B) Checksum.
+
+prompt 230:
+The correct answer is C) To carry signaling information and possibly access packet networks.
+
+prompt 231:
+The correct answer is D): Relay and routing functions at data-link layer.
+
+prompt 232:
+The correct answer is A): By reducing resource utilization through fewer control plane updates.
+
+prompt 233:
+The correct answer is B) Not applicable.
+
+prompt 234:
+The correct answer is: A) They provide instant setup and tear-down of a connection.
+
+prompt 235:
+The correct answer is D): 'Connection, Connection, and Deletion'.
+
+prompt 236:
+The correct answer is A): It is used for connection establishment.
+
+prompt 237:
+The correct answer is: C) To designate the socket for listening to incoming messages on that port
+
+prompt 238:
+The correct answer is: 'A) Preventing specific routes from being redistributed'
+
+prompt 239:
+The correct answer is: B) It creates a traffic profile and detects statistical anomalies in network activities.
+
+prompt 240:
+The correct answer is: A) Link rate
+
+prompt 241:
+The correct answer is A) Stratum.
+
+prompt 242:
+The correct answer is D) Modular multiplicative inverse.
+
+prompt 243:
+The correct answer is B): 75 mph
+
+prompt 244:
+An edge's cost represents factors such as the physical length of the link, link speed, or the monetary cost associated with the link.
+The correct answer is: 'The correct answer is A) Factors such as the physical length of the link, link speed, or the monetary cost associated with the link'
+
+prompt 245:
+The correct answer is A): To determine the maximum number of subnets available.
+
+prompt 246:
+The correct answer is C) It must produce unique output for all inputs
+
+prompt 247:
+The correct answer is: C) To identify the specific socket in a host.
+
+prompt 248:
+The correct answer is B) GPRS Tunnelling Protocol (GTP).
+
+prompt 249:
+The correct answer is A): It provides the route taken by packets from the source to the destination and determines round-trip delays.
+
+prompt 250:
+The correct answer is A) HTTPS.
+
+prompt 251:
+The correct answer is: B) Binary exponential backoff
+
+prompt 252:
+The correct answer is A) Frequency Division Multiple Access (FDMA).
+
+prompt 253:
+The correct answer is: 'The correct answer is B) 90 percent'
+
+prompt 254:
+The correct answer is: B) MIMO technology
+
+prompt 255:
+The correct answer is A): The IP address of the destination and the payload.
+
+prompt 256:
+The correct answer is: C) Temporary overlap of many cells from different connections at the same point in the network
+
+prompt 257:
+The correct answer is B) Type 3, Code 3.
+
+prompt 258:
+The correct answer is A) It does not manage the network itself.
+
+prompt 259:
+The correct answer is D) Determines how many frames can be sent before receiving an acknowledgment.
+
+prompt 260:
+D) The 'offered load' and 'sending rate' both refer to the rate at which the application sends original data into the network
+
+prompt 261:
+The correct answer is: A) Authentication and Encryption
+
+prompt 262:
+The correct answer is: A) They function as inputs to encryption and decryption algorithms to code or decode the message.
+
+prompt 263:
+The correct answer is: A) They cannot easily support high data rates due to bandwidth limitations.
+
+prompt 264:
+The correct answer is: B) MPLS offers cost advantages and has become competitive in pricing.
+
+prompt 265:
+The correct answer is B) The segment is stored temporarily by the receiver until the missing segments arrive.
+
+prompt 266:
+The correct answer is: 'The correct answer is Star.'
+
+prompt 267:
+The correct answer is C) Broadcast links and point-to-point links.
+
+prompt 268:
+The correct answer is B) Tunnel.
+
+prompt 269:
+The correct answer is: A) Larger address space
+
+prompt 270:
+The correct answer is: A) The time a signal takes to propagate impacts the chance of collisions.
+
+prompt 271:
+The correct answer is A): 'Money transactions only'.
+
+prompt 272:
+The correct answer is: A) HSUPA uses a different channel from HSDPA.
+
+prompt 273:
+The correct answer is C. Sends an ACK immediately.
+
+prompt 274:
+The correct answer is: 'The correct answer is D) It supports prioritized and parameterized QoS'
+
+prompt 275:
+The correct answer is C) Open Shortest Path First.
+
+prompt 276:
+The correct answer is D) Indicates the primary recipients of the message.
+
+prompt 277:
+The correct answer is D) HEAD.
+
+prompt 278:
+The correct answer is D) The packet undergoes a process called fragmentation.
+
+prompt 279:
+The correct answer is D): throughput, delay, jitter, and loss rate.
+
+prompt 280:
+The correct answer is C): Version, IP Protocol, Service Quality, and Total Length.
+
+prompt 281:
+The correct answer is D) It enables multiple users to work on documents simultaneously.
+
+prompt 282:
+The correct answer is B) To query the capabilities of a callee.
+
+prompt 283:
+The correct answer is C) It shapes traffic to ensure compliance with the connection contract.
+
+prompt 284:
+The correct answer is: D) Independent forwarding decisions by network devices
+
+prompt 285:
+The correct answer is: 'A) Frames are transmitted without the need for logical connections and without acknowledgements.'
+
+prompt 286:
+The correct answer is: 'The correct answer is D) It acts as a synchronization signal for the receiving hardware to prepare for frame reception.'
+
+prompt 287:
+The correct answer is D) Packet loss and lower latency during link configuration and binding updates.
+
+prompt 288:
+The correct answer is D) To move packets between nodes on the same link or LAN.
+
+prompt 289:
+The correct answer is: D) To enable users to learn about a topic while finding relevant information.
+
+prompt 290:
+The correct answer is: D) Supernets define intra-router routes, while summary routes are for inter-router communication.
+
+prompt 291:
+The correct answer is A) Blind transfer.
+
+prompt 292:
+The correct answer is: B) It reduces the risk of baseline wander.
+
+prompt 293:
+The correct answer is A): 'Point-to-Point links and Broadcast links'
+
+prompt 294:
+The correct answer is A) From the bottom up, stopping when a match is found.
+
+prompt 295:
+The correct answer is B): to trace and identify individual cables.
+
+prompt 296:
+The correct answer is B. 'A method to trap and eliminate network viruses'
+
+prompt 297:
+The correct answer is A) Nontransparent fragmentation.
+
+prompt 298:
+The correct answer is: 'The correct answer is C)'(Explanation is not required)
+
+prompt 299:
+The correct answer is: A) It multiplexes multiple real-time data streams onto a single stream of UDP packets.
+
+prompt 300:
+The correct answer is B. The commonly used compression technique for near CD-quality stereo music on the internet is MPEG 1 layer 3, also known as MP3.
+
+prompt 301:
+The correct answer is D) Dynamic Host Configuration Protocol (DHCP).
+
+prompt 302:
+The correct answer is B) Pre-provisioned connections that act as leased lines
+
+prompt 303:
+The correct answer is A) 1.5 Mbps
+
+prompt 304:
+The correct answer is B) Line Passwords.
+
+prompt 305:
+The correct answer is A): Port 21 is used for the control connection, and port 20 is used for the data connection.
+
+prompt 306:
+The correct answer is B) Client network may be exposed to certain security issues.
+
+prompt 307:
+The correct answer is C. It's a document that defines an agreement between two parties in form of a legal contract.
+
+prompt 308:
+The correct answer is A) MAC uses a symmetric key while digital signature uses an asymmetric key.
+
+prompt 309:
+The correct answer is A): The preamble is used for error checking, while the start of frame delimiter signals the beginning of data transmission.
+
+prompt 310:
+The correct answer is: A) Circuit switching pre-allocates use of the transmission link regardless of demand with unused link time going unused, while packet switching allocates link use on demand.
+
+prompt 311:
+The correct answer is C): 'Absorption and scattering of light by the impurities.
+
+prompt 312:
+The correct answer is: D) Both create unique network identifiers and manage data encryption
+
+prompt 313:
+The correct answer is B) It means routing packets via the path with the least financial cost.
+
+prompt 314:
+The correct answer is: C) The people who interact with the Internet as users.
+
+prompt 315:
+The correct answer is: C) It requires a mechanism to prevent simultaneous frame transmissions by multiple nodes.
+
+prompt 316:
+The correct answer is: 'The correct answer is B. Increased port density by freeing up chassis slots.'
+
+prompt 317:
+A) Each node checks for errors and requests retransmission for a block of information before forwarding it to the next node.
+
+prompt 318:
+The correct answer is A): 'Providing specifications for multiplexing digital signals over fiber optic cables'.
+
+prompt 319:
+The correct answer is A) Scalable Reliable Multicast (SRM).
+
+prompt 320:
+The correct answer is A) Occam's razor.
+
+prompt 321:
+The correct answer is D) 172.16.0.0 - 172.31.255.255
+
+prompt 322:
+The correct answer is D): To contain payload and indicate the start and end of frame.
+
+prompt 323:
+The correct answer is B): 'The presence of equal cost multipath (ECMP)'
+
+prompt 324:
+The correct answer is: C) To start the encryption process
+
+prompt 325:
+The correct answer is B) RTCP.
+
+prompt 326:
+The correct answer is B) Personalization of data delivered and options for secure transmission.
+
+prompt 327:
+The correct answer is: A) SDN focuses on data plane control, while NFV focuses on virtualizing the control plane.
+
+prompt 328:
+The correct answer is: C) To prevent or at least minimize collisions in the network
+
+prompt 329:
+The correct answer is: 'The correct answer is C) Ensuring direct single-hop communications between users' devices.'
+
+prompt 330:
+The correct answer is B) Telephone scam.
+
+prompt 331:
+The correct answer is C): In-built traffic-class field in the MPLS header.
+
+prompt 332:
+The correct answer is: D) It offers feedback and control for RTP streaming sessions
+
+prompt 333:
+The correct answer is: 'The correct answer is D. To contain the session information such as IP address and port number.'
+
+prompt 334:
+The correct answer is A) Outsourcing network management to third-party vendors.
+
+prompt 335:
+The correct answer is: A) A route to a specific host.
+
+prompt 336:
+The correct answer is D): To divide networks into subnetworks.
+
+prompt 337:
+The correct answer is: A) Analog data is easily affected by noise while digital data is more robust to noise.
+
+prompt 338:
+The correct answer is A) To reduce the bandwidth needed for video transmission.
+
+prompt 339:
+The correct answer is B): They facilitate the grouping and improved management of related networks.
+
+prompt 340:
+The correct answer is A) The packet-switched public data network (PSPDN)
+
+prompt 341:
+The correct answer is: 'The correct answer is A) It charges calls that have to go through it.'
+
+prompt 342:
+The correct answer is: 'The correct answer is D) By preventing unauthorized DHCP servers from issuing IP addresses.'
+
+prompt 343:
+The correct answer is B) Extensible Provisioning Protocol (EPP).
+
+prompt 344:
+The correct answer is: A) The Abilene Project
+
+prompt 345:
+The correct answer is: C) To prevent signal interference
+
+prompt 346:
+The correct answer is: B) To improve the routing efficiency by reducing the size of routing tables.
+
+prompt 347:
+The correct answer is C) It displays the ARP table that maps IP addresses to MAC addresses.
+
+prompt 348:
+The correct answer is A) Extended slot times to 512 bytes.
+
+prompt 349:
+The correct answer is: A) To provide an alternative path in case of primary path failure.
+
+prompt 350:
+The correct answer is B): To regenerate signals and connect LAN segments.
+
+prompt 351:
+The correct answer is [C].
+
+prompt 352:
+The correct answer is C) BGP.
+
+prompt 353:
+The correct answer is: 'The correct answer is commodity hosts, also known as blades.'
+
+prompt 354:
+The correct answer is D) Trusting the observation and decision-making processes.
+
+prompt 355:
+The correct answer is: 'The correct answer is B. To adapt higher-layer protocols to ATM cells.'
+
+prompt 356:
+The correct answer is: B) To create multiple subnetworks of different sizes from a single IP address range.
+
+prompt 357:
+The correct answer is: B) Contention approach
+
+prompt 358:
+The correct answer is D): 'To compare different approaches and select the optimal solution'.
+
+prompt 359:
+The correct answer is C) It connects the data center network to the public Internet.
+
+prompt 360:
+The correct answer is: B) The mobile phone network includes both packet and circuit-switched equipment, showcasing a transition in core network technologies.
+
+prompt 361:
+The correct answer is B) Single-token operation.
+
+prompt 362:
+The correct answer is: B) It hides the internal IP address structure from external networks.
+
+prompt 363:
+The correct answer is 'B) Flow table and Forwarding table'.
+
+prompt 364:
+The correct answer is A) Adaptation of network devices to store and forward information efficiently.
+
+prompt 365:
+The correct answer is B) Message integrity.
+
+prompt 366:
+The correct answer is: C) It improves the efficiency of encryption, particularly for long messages
+
+prompt 367:
+The correct answer is A) First Generation (1G).
+
+prompt 368:
+The correct answer is B) It significantly reduces bandwidth utilization.
+
+prompt 369:
+The correct answer is: 'The correct answer is A) To remove unnecessary branches from the multicast tree.'
+
+prompt 370:
+The correct answer is B): By doing a DNS lookup each time a user logs in.
+
+prompt 371:
+The correct answer is C) More efficient allocation of IP addresses by varying the length of the subnet mask.
+
+prompt 372:
+The correct answer is A) Software can contain bugs that can introduce new vulnerabilities.
+
+prompt 373:
+The correct answer is B): to manage multicast group membership.
+
+prompt 374:
+The correct answer is: B) It enables real-time mirroring of user sessions to ensure no data is lost during a failover event.
+
+prompt 375:
+The correct answer is: B) It improves performance over high congestion and high delay connections
+
+prompt 376:
+The correct answer is B) Through dynamic content routing based on user's real-time location
+
+prompt 377:
+The correct answer is: B) High reliability.
+
+prompt 378:
+The correct answer is [C].
+
+prompt 379:
+The correct answer is: B) Collisions due to a station not detecting another's transmission.
+
+prompt 380:
+The correct answer is: C) It can cause a significant increase in both delay and throughput
+
+prompt 381:
+The correct answer is D) The colliding devices stop transmitting and send a jamming signal.
+
+prompt 382:
+The correct answer is: A) It enables automatic channel selection by the access point.
+
+prompt 383:
+The correct answer is A) IEEE 802.3
+
+prompt 384:
+The correct answer is A) Space segment, User segment, and Data segment.
+
+prompt 385:
+The correct answer is C) Predictable requirements and best-effort flows
+
+prompt 386:
+The correct answer is: A) C+n bits/second
+
+prompt 387:
+The correct answer is: C) To reduce errors in the cell header and prevent misrouting
+
+prompt 388:
+The correct answer is B) An intermediate node combines data packets from multiple child nodes before sending to the BS.
+
+prompt 389:
+The correct answer is B): WPAN devices can specialize in certain capabilities and can borrow the capabilities of other devices.
+
+prompt 390:
+The correct answer is: B) To identify the origin and destination of network traffic flows.
+
+prompt 391:
+The correct answer is B) Minimize the risk of exploitation through software vulnerabilities.
+
+prompt 392:
+The correct answer is A): By multiplying the bit by a signal that changes at a much faster rate than the original sequence of data bits.
+
+prompt 393:
+The correct answer is D) Slows down the propagation of frequent changes to reduce processing load
+
+prompt 394:
+The correct answer is C) Real-Time Streaming Protocol (RTSP).
+
+prompt 395:
+The correct answer is B): 90.
+
+prompt 396:
+The correct answer is A): To request or provide specific configuration parameters beyond the basic IP address assignment.
+
+prompt 397:
+The correct answer is A) It ignores them and continues to calculate shortest paths.
+
+prompt 398:
+The correct answer is D): 'Tunneling protocol establishment between the home gateway and visited network gateway.'
+
+prompt 399:
+The correct answer is C): The Dynamic Host Configuration Protocol (DHCP) ACK message contains IP address allocated by the DHCP server, as well as the IP address of the DNS server and the IP address for the default gateway router and subnet block.
+
+prompt 400:
+The correct answer is: C) It allows the window size to dynamically adjust to varying network conditions.
+
+prompt 401:
+The correct answer is B): Potential higher operational expenses due to resource consumption.
+
+prompt 402:
+The correct answer is: B) An encrypted message E(P), can be converted back to the original plaintext message P by applying decryption D.
+
+prompt 403:
+The correct answer is: D) It identifies the active device for which the frame is intended.
+
+prompt 404:
+The correct answer is C): To improve content display without sacrificing device independence.
+
+prompt 405:
+The correct answer is: D) It deals with radio transmission and modulation.
+
+prompt 406:
+The correct answer is C): 'Employing a multilayered approach to minimize threats to the LAN.
+
+prompt 407:
+The correct answer is: A) EDGE
+
+prompt 408:
+The correct answer is C) 1969.
+
+prompt 409:
+The correct answer is C): The maximum cable length in meters.
+
+prompt 410:
+The correct answer is: 'The correct answer is C. Break the fading correlation and increase the diversity order'
+
+prompt 411:
+The correct answer is A) Physical layer.
+
+prompt 412:
+The correct answer is A) Blog.
+
+prompt 413:
+The correct answer is D) It assists in locating the current position of a recipient for call routing.
+
+prompt 414:
+The correct answer is: C) Standardize telecommunications interfaces globally.
+
+prompt 415:
+The correct answer is: D) To determine when outdated routes are permanently removed from the routing table.
+
+prompt 416:
+The correct answer is: 'The correct answer is A) To establish a VCC between hosts in the same LIS.'
+
+prompt 417:
+The correct answer is: B) GPRS often has lower pricing for the data transferred, as opposed to being charged based on connection duration.
+
+prompt 418:
+The correct answer is: B) Enhancing bandwidth and redundancy.
+
+prompt 419:
+The correct answer is D) It enables video playback to continue during network congestion
+
+prompt 420:
+The correct answer is: B) Spanning Tree Protocol
+
+prompt 421:
+The correct answer is A) To map packets from a private network into ones that can traverse the global Internet.
+
+prompt 422:
+The correct answer is B) Increasing available bandwidth.
+
+prompt 423:
+The correct answer is: B) It allows datagrams to be first routed to the home network, then to the visited network transparently to the sender.
+
+prompt 424:
+The correct answer is 'Private cloud'.
+
+prompt 425:
+The correct answer is B) Exact starting point of the payload with the help of the header length.
+
+prompt 426:
+The correct answer is: 'The correct answer is D) To establish the highest priority level for accessing the channel'
+
+prompt 427:
+The correct answer is A): It aggregates traffic flows onto shared paths, improving trunk utilization
+
+prompt 428:
+The correct answer is A) It only detects errors in the checksum itself, not in the actual data.
+
+prompt 429:
+The correct answer is: A) It supports communication between multiple devices using shared media.
+
+prompt 430:
+The correct answer is B.
+
+prompt 431:
+The correct answer is B) Use of a frame length indication field.
+
+prompt 432:
+The correct answer is B. It emits or collects electromagnetic waves for transmission and reception.
+
+prompt 433:
+The correct answer is: 'The correct answer is C. The augmented model provides interaction between local control plane processes and off-box processes.'
+
+prompt 434:
+The correct answer is A) To initiate the start of a mail transaction.
+
+prompt 435:
+The correct answer is: 'The correct answer is B. The TCP Sliding Window mechanism regulates data packet size.'
+
+prompt 436:
+The correct answer is: D) To separate POTS channel from DSL channels for harmonious operation.
+
+prompt 437:
+The correct answer is D) Other factors like equipment failures or new traffic patterns can also cause problems.
+
+prompt 438:
+The correct answer is B) Secure Shell (SSH)
+
+prompt 439:
+The correct answer is B) 100 to 150 kilometers.
+
+prompt 440:
+The correct answer is B) It validates users¡¯ perceptions and uncovers actual traffic patterns
+
+prompt 441:
+The correct answer is C) Packet switching involves breaking data into packets, sending them separately, and reassembling them at the destination, while circuit switching sets up a dedicated communication path between the sender and receiver for the duration of communication.
+
+prompt 442:
+The correct answer is A) service password-encryption
+
+prompt 443:
+The correct answer is B): it allows the use of the all-zeros subnet.
+
+prompt 444:
+The correct answer is: A) The frame transmission time.
+
+prompt 445:
+The correct answer is: A) To enable multiple calls on a single frequency.
+
+prompt 446:
+The correct answer is C): Consolidating network functions into standard server infrastructure
+
+prompt 447:
+C)  By breaking down the boundaries between address classes for route aggregation
+
+prompt 448:
+The correct answer is B. The quantity of data to be copied and the duration it will need to be kept
+
+prompt 449:
+The correct answer is B) Waveform coding.
+
+prompt 450:
+The correct answer is: C) It provides hardware support for Quality of Service (QoS) functions
+
+prompt 451:
+The correct answer is: A) Token ring system with no limit on the number of frame transmissions/token.
+
+prompt 452:
+The correct answer is: A) They cannot be applied at individual network interfaces.
+
+prompt 453:
+The correct answer is: C) An increase in \( a \) has no significant impact on delay performance until it becomes much larger than 1.
+
+prompt 454:
+The correct answer is: D) Sensing coverage
+
+prompt 455:
+The correct answer is A) Header, payload, trailer.
+
+prompt 456:
+The correct answer is B. BGP4 maintains the routing information among autonomous networks.
+
+prompt 457:
+The correct answer is C.
+
+prompt 458:
+The correct answer is: C) They enable a mobile to be connected to two base stations simultaneously for a smoother transition.
+
+prompt 459:
+The correct answer is D) Time division multiple access (TDMA).
+
+prompt 460:
+The correct answer is: A) Travel and tourism.
+
+prompt 461:
+The correct answer is: 'The correct answer is B - Centralized configuration management.'
+
+prompt 462:
+The correct answer is A) Acceptable use policy.
+
+prompt 463:
+The correct answer is: 'The correct answer is D) Channels 10, 11, and 12'
+
+prompt 464:
+The correct answer is A) Frequency Shift Keying (FSK).
+
+prompt 465:
+The correct answer is D) It speeds up the DNS resolution process by temporarily storing previous query results.
+
+prompt 466:
+The correct answer is A) It allows for simultaneous transmissions without collision risks.
+
+prompt 467:
+The correct answer is D) Complexity in translating intent to specific configurations.
+
+prompt 468:
+The correct answer is: B) Reflection caused by objects, refraction caused by atmospheric gases, and scattering caused by hydrometeors
+
+prompt 469:
+The correct answer is A) Gaussian frequency shift keying (GFSK)
+
+prompt 470:
+The correct answer is: 'The correct answer is B'. This command sets a threshold for broadcast traffic, and if the amount of broadcast traffic exceeds this threshold, it will take action such as reducing the speed or blocking the traffic to prevent network storms.
+
+prompt 471:
+The correct answer is B) If the port is necessary to prevent a loop in the network topology.
+
+prompt 472:
+The correct answer is: A) It assists in the alignment of the terminal operations with the base station's timing.
+
+prompt 473:
+The correct answer is D) It reduces latency and creates completely predictable connections.
+
+prompt 474:
+The correct answer is D) The Basic Encoding Rules.
+
+prompt 475:
+The correct answer is: A) Shaping controls per-flow throughput, while scheduling allocates bandwidth for a group of flows
+
+prompt 476:
+B) By configuring a Telnet application gateway in combination with packet filtering
+
+prompt 477:
+C) To allow multiple processes to be in kernel mode at the same time
+
+prompt 478:
+The correct answer is C): 'Slow reaction to changes.'
+
+prompt 479:
+The correct answer is: D) Keeping the network pipe full, but not overfilled
+
+prompt 480:
+The correct answer is A) M/M/1/K.
+
+prompt 481:
+D) Exclude the loopback interface addresses from the EIGRP process.
+
+prompt 482:
+The correct answer is B.
+
+prompt 483:
+The correct answer is B) 24.
+
+prompt 484:
+The correct answer is D): To translate domain names into their equivalent IP addresses.
+
+prompt 485:
+The correct answer is: B) The requirement for every transmitter-receiver pair to have unique orthogonal codes.
+
+prompt 486:
+The correct answer is C) Facilitating confidentiality, authentication, and integrity.
+
+prompt 487:
+The correct answer is A): To retain control over the traffic quality and user experience.
+
+prompt 488:
+The correct answer is A) packet routing between networks
+
+prompt 489:
+The correct answer is: C) A technology that combines the best features of both circuit-switched and packet-switched networks.
+
+prompt 490:
+The correct answer is: B) Admission Control
+
+prompt 491:
+The correct answer is: A) A smaller palette of colors
+
+prompt 492:
+The correct answer is A) To map a public IP address to a private IP address consistently.
+
+prompt 493:
+The correct answer is: A) Reception statistics.
+
+prompt 494:
+The correct answer is C): It is a method used for dividing IP networks into several subnets.
+
+prompt 495:
+The correct answer is C) It's always up, even if it's not in use.
+
+prompt 496:
+The correct answer is A): it is a key distribution protocol.
+
+prompt 497:
+The correct answer is: C) A feature for virtual route forwarding
+
+prompt 498:
+The correct answer is B): To facilitate an unreliable, non-flow-controlled service.
+
+prompt 499:
+The correct answer is D) Ensuring service continuity and connectivity with remote networks.
+
+prompt 500:
+The correct answer is B. The difference in time delays between the mobile system and two different base stations
+
+prompt 501:
+D) By appending a hash of the message and a shared secret key, and sending it with the message
+
+prompt 502:
+The correct answer is: 'The correct answer is D. The exchange of routing messages between routers can be bypassed if the router's forwarding table is configured directly by human network operators.'
+
+prompt 503:
+The correct answer is: B) The maximum amount of information a user can transfer over a sustained period.
+
+prompt 504:
+The correct answer is: B) Packet-switching networks are more efficient for intermittent data transfer.
+
+prompt 505:
+The correct answer is: 'It increases the overall security of the switch.'
+
+prompt 506:
+The correct answer is: B) It treats the frame as a collection of bits irrespective of their origin.
+
+prompt 507:
+The correct answer is C) To specify the time at which the bundle data is no longer useful.
+
+prompt 508:
+The correct answer is 'Unacknowledged connectionless service'.
+
+prompt 509:
+The correct answer is: C) Wait times at intermediate nodes during aggregation
+
+prompt 510:
+The correct answer is B) Unspecified bit rate (UBR).
+
+prompt 511:
+The correct answer is: 'The correct answer is C) It discards frames that arrive out of order and waits for retransmission.'
+
+prompt 512:
+The correct answer is: D) To interact with device registers.
+
+prompt 513:
+The correct answer is A) Adaptive Rate Control with CSMA
+
+prompt 514:
+The correct answer is: A) It restricts the VLANs that can traverse the trunk to just VLAN 100.
+
+prompt 515:
+The correct answer is B) PNNI (Private Network-Network Interface).
+
+prompt 516:
+The correct answer is: C) Levels of reliability
+
+prompt 517:
+The correct answer is: C) To guarantee bandwidth reservation and end-to-end delay bounds.
+
+prompt 518:
+The correct answer is A) Managing virtual circuit status messages.
+
+prompt 519:
+The correct answer is B): 384 kbps
+
+prompt 520:
+B) Because they require more computation to compute and transmit a larger number of error-detection and -correction bits
+
+prompt 521:
+The correct answer is: B) Frames that have not been acknowledged yet and therefore are permitted to be sent
+
+prompt 522:
+The correct answer is: 'The correct answer is B. It increases transmission delays'
+
+prompt 523:
+The correct answer is B) Datagram encryption protocols to secure content during transmission.
+
+prompt 524:
+The correct answer is A) Using a 64-bit random number or a device's MAC address.
+
+prompt 525:
+The correct answer is: B) A pre-defined path is established for packet transmission.
+
+prompt 526:
+The correct answer is D) RADIUS.
+
+prompt 527:
+The correct answer is: 'The correct answer is A. The negotiation of link configuration options'
+
+prompt 528:
+The correct answer is: D) Carries out forward-error correction to correct for cell errors and losses.
+
+prompt 529:
+The correct answer is D) Initiating the Change.
+
+prompt 530:
+The correct answer is: B) k < n
+
+prompt 531:
+The correct answer is B): Baseband transmission requires a carrier signal for modulation while passband transmission conveys signals in their original form.
+
+prompt 532:
+The correct answer is: A) To be an initial symmetric-key cipher that survived over time because no better cryptanalytic attack than brute force search has been discovered.
+
+prompt 533:
+The correct answer is A): NAT dynamically uses certain TCP and UDP ports to differentiate one intranet position from another.
+
+prompt 534:
+The correct answer is B) A combination of sequence data types all of the same type.
+
+prompt 535:
+The correct answer is B) MLD.
+
+prompt 536:
+The correct answer is B. To fetch web requests on behalf of users and provide caching of responses.
+
+prompt 537:
+The correct answer is C) By enabling devices to operate with both IPv4 and IPv6 protocols.
+
+prompt 538:
+The correct answer is: 'The correct answer is B. Coordination of frame transmissions'
+
+prompt 539:
+The correct answer is: 'The correct answer is A) The service can stop or the host can crash.'
+
+prompt 540:
+The correct answer is: C) It assigns priority to traffic classes and enables more frames to be sent during transmit opportunity (TXOP)
+
+prompt 541:
+The correct answer is D) WTLS provides end-to-end encryption; SSL does not.
+
+prompt 542:
+The correct answer is A): Increased packet collisions on the link.
+
+prompt 543:
+The correct answer is: 'The correct answer is A) The contract between the client and server regarding the use of an IP address.'
+
+prompt 544:
+The correct answer is: D) The node with packets to send must wait for its dedicated time slot.
+
+prompt 545:
+The correct answer is: 'The correct answer is D) To provide configuration parameters to network devices.'
+
+prompt 546:
+The correct answer is A) Echo Reply
+
+prompt 547:
+The correct answer is C) Controllable Bit Rate (CBR).
+
+prompt 548:
+The correct answer is: A) It defines the operation of access points and their interaction with mobile stations.
+
+prompt 549:
+The correct answer is: A) AMPS used a higher frequency spectrum compared to GSM.
+
+prompt 550:
+The correct answer is B.
+
+prompt 551:
+The correct answer is D) By using the 'new-context' command.
+
+prompt 552:
+The correct answer is B) PAP.
+
+prompt 553:
+The correct answer is 'Protocol stack.'
+
+prompt 554:
+The correct answer is: B) Acts as an intermediary between the SGSN and external packet data networks.
+
+prompt 555:
+The correct answer is 'Digital cross-connect system'
+
+prompt 556:
+The correct answer is C) Finding the lowest-cost path between any two nodes.
+
+prompt 557:
+B) By allowing multiple data streams within a single connection
+
+prompt 558:
+The correct answer is B): It increases collisions in the coverage of the directional beam.
+
+prompt 559:
+The correct answer is: A) By the size and repetition rate of the slots in a frame
+
+prompt 560:
+The correct answer is D) Powerline Communications.
+
+prompt 561:
+The correct answer is 'D) Shared system resource among multiple users.'
+
+prompt 562:
+The correct answer is A) To lock a user out of a system until a ransom is paid.
+
+prompt 563:
+The correct answer is D): It's the ratio of the signal strength of the transmitted data to the background noise.
+
+prompt 564:
+The correct answer is: 'The correct answer is B. Facilitate simultaneous multi-user communication without interference'
+
+prompt 565:
+The correct answer is A): To provide user-level security.
+
+prompt 566:
+The correct answer is B): Separating internal networks.
+
+prompt 567:
+The correct answer is C) To increase performance tenfold while maintaining compatibility with existing Ethernet standards.
+
+prompt 568:
+The correct answer is A) Automatic repeat request (ARQ).
+
+prompt 569:
+The correct answer is D) Multicast address allocation control.
+
+prompt 570:
+The correct answer is: 'The correct answer is B)'
+
+prompt 571:
+The correct answer is A) ICMP.
+
+prompt 572:
+The correct answer is: 'C) It is a random string used as the first input block for the cipher.'
+
+prompt 573:
+The correct answer is: C) To define the actions to be taken for matching packets
+
+prompt 574:
+The correct answer is A): It is the process by which a host shares its prefix with other hosts in the network.
+
+prompt 575:
+The correct answer is B) To resolve IP addresses to MAC addresses.
+
+prompt 576:
+The correct answer is B) Connectivity.
+
+prompt 577:
+The correct answer is A) The initiator and responder should share the same key for proof.
+
+prompt 578:
+The correct answer is A) By maintaining a look-up table describing the relationship between distance and elapsed time.
+
+prompt 579:
+The correct answer is D) It always requires a wired connection between devices for data transmission.
+
+prompt 580:
+The correct answer is: 'The correct answer is D. New shorter paths to the destination are discovered'
+
+prompt 581:
+The correct answer is A) Hybrid transformer with echo-cancellation devices.
+
+prompt 582:
+The correct answer is A) Token frames.
+
+prompt 583:
+The correct answer is: D) The latency induced by the earth's atmosphere
+
+prompt 584:
+The correct answer is D) The sender and receiver IP addresses, and port numbers.
+
+prompt 585:
+The correct answer is C) Gathering data chunks, adding header information to create segments and passing them to the application layer
+
+prompt 586:
+The correct answer is C) PIN photodiodes and APDs.
+
+prompt 587:
+The correct answer is B): MAC protocols require coordination for transmission between physically separate stations.
+
+prompt 588:
+The correct answer is D) A set of interconnected computer systems, sharing resources.
+
+prompt 589:
+The correct answer is D) Assigning the same IP address to a device each time it connects to the network.
+
+prompt 590:
+The correct answer is D) To initiate a connection and identify the sending email server.
+
+prompt 591:
+The correct answer is C): 'Session encryption keys for data transfer.'
+
+prompt 592:
+The correct answer is D) It provides ability to use an external server for authentication, authorization, and accounting.
+
+prompt 593:
+The correct answer is A): 'To find the MAC address corresponding to an IPv4 address.
+
+prompt 594:
+The correct answer is B): Use of flow control, sequence numbers, acknowledgements, and timers.
+
+prompt 595:
+The correct answer is C): For efficient multi-client data transmission.
+
+prompt 596:
+The correct answer is: A) EtherChannel bundles cannot be formed within a single Nexus 2148 FEX.
+
+prompt 597:
+The correct answer is D) It hides the details of the home network for the outside world.
+
+prompt 598:
+The correct answer is B) Raw socket.
+
+prompt 599:
+The correct answer is: D) WANs typically span larger geographical areas than LANs.
+
+prompt 600:
+The correct answer is A. To decide if a packet stays within the local subnet or gets forwarded
+
+prompt 601:
+The correct answer is A) Responsible for reliable transmission of data across a network segment.
+
+prompt 602:
+The correct answer is C.
+
+prompt 603:
+The correct answer is D) Vulnerability of being a single point of failure, addressed by having multiple trust anchors.
+
+prompt 604:
+The correct answer is D): 'The correct answer is D), which specifies the scale of that macroblock.'
+
+prompt 605:
+The correct answer is: A) Consistently available service ensuring consistent level of application usage.
+
+prompt 606:
+The correct answer is C.
+
+prompt 607:
+The correct answer is A) LACP.
+
+prompt 608:
+The correct answer is: 'The correct answer is B. To perform NAT functions and act as the last LTE element before the larger Internet.'
+
+prompt 609:
+The correct answer is: 'The correct answer is A) A predetermined set of rules governing the maximum allowable data transfer rate.'
+
+prompt 610:
+The correct answer is A) debug voip dialpeer all.
+
+prompt 611:
+The correct answer is A) The 6509-V-E chassis.
+
+prompt 612:
+The correct answer is: A) Can show how much power a signal has at various frequencies.
+
+prompt 613:
+The correct answer is D) By continually adjusting the random backoff interval based on the number of collisions.
+
+prompt 614:
+The correct answer is A) The end systems.
+
+prompt 615:
+The correct answer is A): 'Packets arriving too late or not at all'.
+
+prompt 616:
+The correct answer is: A) For computing the shortest path for data packet routing in an IP network.
+
+prompt 617:
+The correct answer is: C) Best-effort service offers no strict performance assurances, whereas guaranteed service includes predictable and reliable performance commitments.
+
+prompt 618:
+The correct answer is B): To support multiple radio access technologies and manage data reception from multiple systems with different characteristics.
+
+prompt 619:
+The correct answer is D): Quality of Service (QoS).
+
+prompt 620:
+The correct answer is: A) The sampling rate must equal the signal's bandwidth for accurate representation.
+
+prompt 621:
+The correct answer is: A) To verify and regulate user access to resources.
+
+prompt 622:
+The correct answer is: 'The correct answer is B. Half-duplex'
+
+prompt 623:
+The correct answer is: A) To prioritize or limit traffic to optimize performance.
+
+prompt 624:
+The correct answer is C) By identifying potential vulnerabilities and guiding proactive solutions.
+
+prompt 625:
+The correct answer is D): 'To enhance the randomness and security of the output'.
+
+prompt 626:
+The correct answer is C) Because of multipath propagation.
+
+prompt 627:
+The correct answer is B): neighbor solicitation, neighbor advertisement, router solicitation, router announcement, redirect.
+
+prompt 628:
+The correct answer is D): To reduce the bandwidth required for signal transmission.
+
+prompt 629:
+The correct answer is: D) MPLS allows more flexible routing paradigms.
+
+prompt 630:
+The correct answer is B) DHCP.
+
+prompt 631:
+The correct answer is D) 305 meters.
+
+prompt 632:
+The correct answer is A) Live streaming using RTMP.
+
+prompt 633:
+The correct answer is A) Client Hello.
+
+prompt 634:
+The correct answer is A) Using a symmetric-key algorithm and a one-time secret key sent within the message.
+
+prompt 635:
+The correct answer is: A) Stronger security protocols
+
+prompt 636:
+The correct answer is D) The file transfer pauses until the VoIP call finishes
+
+prompt 637:
+The correct answer is A) None of the above.
+
+prompt 638:
+The correct answer is C): All of the above.
+
+prompt 639:
+The correct answer is B): Facilitating simple configuration of wireless settings.
+
+prompt 640:
+The correct answer is: 'The correct answer is D. Data can be sent or received, but not at the same time'
+
+prompt 641:
+The correct answer is: 'The correct answer is A) A subnet mask.'
+
+prompt 642:
+The correct answer is: C) It assigns dynamic IP addresses to devices on a network to facilitate communication.
+
+prompt 643:
+The correct answer is B) Connection-oriented service.
+
+prompt 644:
+B) By minimizing the repetitive data transfers to multiple neighbors.
+
+prompt 645:
+The correct answer is: A) The route becomes the preferred route in the new protocol.
+
+prompt 646:
+The correct answer is C): WSDL is a language used to describe Web Services.
+
+prompt 647:
+The correct answer is D) Protocol number.
+
+prompt 648:
+The correct answer is: B) To segment a network into logically separate networks
+
+prompt 649:
+The correct answer is: A) It allows for physical hardware to be shared among multiple users.
+
+prompt 650:
+The correct answer is D. Transfers packets across the network based on routing algorithms
+
+prompt 651:
+The correct answer is B) Any server listed with the highest priority flag.
+
+prompt 652:
+The correct answer is B) SMB.
+
+prompt 653:
+B) To allow end hosts to implement their own multicast trees
+
+prompt 654:
+The correct answer is: 'The correct answer is B) Path vector routing.'
+
+prompt 655:
+The correct answer is A. The service provided by Ethernet to the network layer is connection-oriented and reliable.
+
+prompt 656:
+The correct answer is: 'Defining the problems to be addressed.'
+
+prompt 657:
+The correct answer is A) The negotiation and management of resources between Bandwidth Brokers of different domains.
+
+prompt 658:
+The correct answer is A) IP.
+
+prompt 659:
+The correct answer is B) One of the communicating parties denies having sent or received a message.
+
+prompt 660:
+The correct answer is D): It reduces network congestion.
+
+prompt 661:
+The correct answer is 'Satellite Systems.'
+
+prompt 662:
+The correct answer is B) Fully Qualified Domain Name.
+
+prompt 663:
+The correct answer is C) Radia Perlman.
+
+prompt 664:
+The correct answer is: 'The correct answer is B) To maintain the data packets' order during transmission.'
+
+prompt 665:
+The correct answer is B) To mitigate the variations in packet arrival times.
+
+prompt 666:
+The correct answer is A): To differentiate retransmissions from originals.
+
+prompt 667:
+The correct answer is B) Real-time applications cannot afford the delays introduced by retransmission.
+
+prompt 668:
+The correct answer is: 'The correct answer is C. To find a set of loop-free paths through the network'
+
+prompt 669:
+The correct answer is C) Server that maps hostnames to IP addresses.
+
+prompt 670:
+The correct answer is C) By using shortest path first (SPF) calculations.
+
+prompt 671:
+The correct answer is: 'The correct answer is D) To determine if the node has sufficient resources to satisfy the requested QoS.'
+
+prompt 672:
+The correct answer is: A) To abstract file system operations over various storage devices
+
+prompt 673:
+The correct answer is C) DDNS (Dynamic Domain Name System).
+
+prompt 674:
+The correct answer is D) How the datagram is routed along an end-to-end path from the source host to the destination host, and how network-layer components and services are configured and managed.
+
+prompt 675:
+The correct answer is: 'The correct answer is A) It indicates that only specified internal IP addresses will be translated.'
+
+prompt 676:
+The correct answer is D): 'Area Border Router'.
+
+prompt 677:
+The correct answer is B) The receiver instantly downloads and displays the video or plays the audio upon the sender's request.
+
+prompt 678:
+The correct answer is: B) To inform a host of a more efficient route for packet delivery.
+
+prompt 679:
+The correct answer is: D) Protocols should be easy to use from the operator¡¯s perspective
+
+prompt 680:
+The correct answer is B): It uses less computational power.
+
+prompt 681:
+The correct answer is B) When the sender does not receive an acknowledgment from the receiver confirming receipt of the frame
+
+prompt 682:
+The correct answer is A): By transmitting the digital signal without changing it to an analog signal.
+
+prompt 683:
+The correct answer is: A) drops packets randomly.
+
+prompt 684:
+The correct answer is D) It displays the status of every known Frame Relay PVC on the router.
+
+prompt 685:
+The correct answer is A) MAC Layer
+
+prompt 686:
+The correct answer is: A) To provide a protocol for encapsulating and sending authentication messages between network devices
+
+prompt 687:
+The correct answer is A) The correct answer is A.
+
+prompt 688:
+The correct answer is: A) It directs frames across a backplane to their destination ports.
+
+prompt 689:
+The correct answer is: 'The correct answer is D) It improves resilience to interference.'
+
+prompt 690:
+The correct answer is C) Full Duplex
+
+prompt 691:
+The correct answer is A. The proxy offers preferential treatment to some classes of content or clients
+
+prompt 692:
+The correct answer is D) Traffic flows down different sides of the ring.
+
+prompt 693:
+The correct answer is: 'The correct answer is A) Packet Control Unit.'
+
+prompt 694:
+The correct answer is: B) The signals reflecting off of objects, taking various paths between the sender and receiver
+
+prompt 695:
+The correct answer is D): They act as gateways between different networks, helping to route packets from source to destination.
+
+prompt 696:
+The correct answer is: 'The correct answer is C)'.
+
+prompt 697:
+The correct answer is B) check sip-ua register status.
+
+prompt 698:
+The correct answer is: C) It reduces the channel utilization due to waiting periods between frame transmissions.
+
+prompt 699:
+The correct answer is B): Because wireless transmission requires a lot of power
+
+prompt 700:
+The correct answer is A) 7 digits with the last three digits designating the station number.
+
+prompt 701:
+The correct answer is: 'The correct answer is D. It can handle negative weight edges.'
+
+prompt 702:
+The correct answer is B) Fabric-enabled.
+
+prompt 703:
+The correct answer is A) Continuous Rate Assignment (CRA).
+
+prompt 704:
+The correct answer is A) Managed switch.
+
+prompt 705:
+The correct answer is A): ATM does not require a connection setup.
+
+prompt 706:
+The correct answer is: B) It simplifies the routing process by creating a VPN-like environment.
+
+prompt 707:
+The correct answer is A) Inter-Area Prefix LSA.
+
+prompt 708:
+The correct answer is A) Interoperability issues and codec limitations.
+
+prompt 709:
+The correct answer is D) Set.
+
+prompt 710:
+The correct answer is C) To enable hosts within a private network to share a single or limited number of public IP addresses.
+
+prompt 711:
+The correct answer is A): 'The minimum transmission rate of all links along a path between source and destination.'
+
+prompt 712:
+The correct answer is B) Switch.
+
+prompt 713:
+The correct answer is: 'A) Connecting to standard two-post telecom racks'
+
+prompt 714:
+The correct answer is: 'The correct answer is C. A single wireless LAN with one access point.'
+
+prompt 715:
+The correct answer is: B) To perform randomized next-hop selection along the switches, supporting multi-path routing
+
+prompt 716:
+The correct answer is: B) Provide a throughput of R/M bps when M nodes have data to send
+
+prompt 717:
+The correct answer is B): The type of switching methods used.
+
+prompt 718:
+The correct answer is C): 'The correct answer is packaging data with header information at each layer of the protocol stack.
+
+prompt 719:
+The correct answer is C) Ultra-WideBand (UWB) communication.
+
+prompt 720:
+The correct answer is: A) It primarily operates at the Network and Transport layers of the OSI model.
+
+prompt 721:
+The correct answer is: A) It verifies interoperability and stability of the protocol for widespread use
+
+prompt 722:
+The correct answer is A) Packet Sniffer.
+
+prompt 723:
+The correct answer is D) Multipoint-to-multipoint routing.
+
+prompt 724:
+The correct answer is A): The multicast address 224.0.0.2.
+
+prompt 725:
+The correct answer is: 'The correct answer is B) It assists in automated configuration of tunnels.'
+
+prompt 726:
+The correct answer is A) Normal backup.
+
+prompt 727:
+The correct answer is C) To forward some packets and filter others
+
+prompt 728:
+The correct answer is A) To shorten IP addresses for easier reading.
+
+prompt 729:
+The correct answer is A) show metric rip.
+
+prompt 730:
+The correct answer is A): It reaches all the systems on the network
+
+prompt 731:
+The correct answer is A) Local Area Network (LAN).
+
+prompt 732:
+The correct answer is C) Aggregate them into composite flows.
+
+prompt 733:
+The correct answer is: C) It reduces unnecessary traffic by logically grouping addresses.
+
+prompt 734:
+The correct answer is D) It implies two or more continuous media.
+
+prompt 735:
+The correct answer is B) By assigning a sequence number to each message within a stream.
+
+prompt 736:
+The correct answer is: A) Increase bandwidth.
+
+prompt 737:
+The correct answer is C) They operate independently of a centralized infrastructure.
+
+prompt 738:
+The correct answer is D) unwanted variation in end-to-end delay in data transmission.
+
+prompt 739:
+The correct answer is C) Because of the need for interactive participation where actions need to be displayed as quickly as possible for a good user experience.
+
+prompt 740:
+The correct answer is: 'The correct answer is A)'. The main goal of MPLS in integrating with Mobile IP is to efficiently and timely establish new label-switched paths so that mobile nodes can communicate effectively, regardless of their current location.
+
+prompt 741:
+B) With the aid of a subnet mask
+
+prompt 742:
+The correct answer is C) The visible degradation in image quality.
+
+prompt 743:
+The correct answer is: C) To schedule a future time to reattempt transmission after a collision
+
+prompt 744:
+The correct answer is A) IEEE 802.22.
+
+prompt 745:
+The correct answer is C): To determine routing paths among various ASs.
+
+prompt 746:
+The correct answer is: B) It facilitates the alignment of SPEs and frames even when there are slight differences in clock frequencies.
+
+prompt 747:
+The correct answer is: 'A) A node for each router, connected by a single arc'
+
+prompt 748:
+The correct answer is: C) To allow flexible management of network users according to organizational structures
+
+prompt 749:
+The correct answer is B) By using the <form></form> tags.
+
+prompt 750:
+The correct answer is D): Dual Stack Protocol.
+
+prompt 751:
+The correct answer is: B) Beamforming
+
+prompt 752:
+The correct answer is: 'They are placed in the class-default.'
+
+prompt 753:
+The correct answer is: C) The transfer of packets across many networks.
+
+prompt 754:
+The correct answer is D): The maximum tolerable length of time for which data might be lost due to an incident.
+
+prompt 755:
+The correct answer is: A) It demonstrates the disparity between the congestion window size and the measured sending rate.
+
+prompt 756:
+The correct answer is D) By segregating elephant and mouse flows onto different paths.
+
+prompt 757:
+The correct answer is: A) To increase the header size for more detailed routing information.
+
+prompt 758:
+The correct answer is D) The types of messages exchanged (e.g., request or response)
+
+prompt 759:
+The correct answer is: A) They request chunks that have the most copies among neighbours first.
+
+prompt 760:
+The correct answer is: 'The correct answer is C) Establish state.'
+
+prompt 761:
+The correct answer is: B) It ensures that the packet reaches the correct next hop on its path.
+
+prompt 762:
+The correct answer is: B) To authenticate messages between two parties sharing a secret key and to preserve integrity of the message.
+
+prompt 763:
+The correct answer is A) To repair any errors found in the UDP datagram.
+
+prompt 764:
+The correct answer is: 'The correct answer is A) To deliver physical layer connections for voice signals.'
+
+prompt 765:
+The correct answer is: 'The correct answer is D) To configure VLANs.'
+
+prompt 766:
+The correct answer is: 'The correct answer is C)'
+
+prompt 767:
+The correct answer is: A) Alternating the transmission of odd and even lines within each frame.
+
+prompt 768:
+The correct answer is A) It retrieves the document identified in URL.
+
+prompt 769:
+The correct answer is D) To control packet access to and from the network.
+
+prompt 770:
+The correct answer is D) To allow secure remote command execution on a server.
+
+prompt 771:
+The correct answer is: C) Random Early Detection (RED) algorithm.
+
+prompt 772:
+The correct answer is D) To focus on the collection and processing of data rather than on node identities
+
+prompt 773:
+The correct answer is D): a hardware module for processing digital voice signals.
+
+prompt 774:
+The correct answer is C) Mail transfer agent (MTA).
+
+prompt 775:
+The correct answer is B) Encryption and authentication keys
+
+prompt 776:
+The correct answer is: B) Managing the overheads inherent in multiple access communications
+
+prompt 777:
+The correct answer is B) To request a new TCP connection for each HTTP message.
+
+prompt 778:
+The correct answer is B) Deciding whether to accept or reject a new flow based on available network capacity.
+
+prompt 779:
+The correct answer is A) Not applicable.
+
+prompt 780:
+The correct answer is B) Compression.
+
+prompt 781:
+The correct answer is C): To manage and prioritize different types of traffic.
+
+prompt 782:
+The correct answer is: A) RAN Slicing
+
+prompt 783:
+The correct answer is B) The switch that submits its changes first and sends out a VTP update with a higher revision number.
+
+prompt 784:
+The correct answer is A): 'Systems methodology'.
+
+prompt 785:
+The correct answer is: A) To regulate internet speed
+
+prompt 786:
+The correct answer is: B) Reduces latency and optimizes resource allocation.
+
+prompt 787:
+The correct answer is A) GPRS and CDMA
+
+prompt 788:
+The correct answer is: B) They identify the least-cost path for packet routing between nodes.
+
+prompt 789:
+The correct answer is A): It signifies the start of a frame.
+
+prompt 790:
+The correct answer is B) It can support all features like routing and VPN.
+
+prompt 791:
+The correct answer is: D) Media access control (MAC) address table
+
+prompt 792:
+The correct answer is: 'The correct answer is A) Greater difficulty in network modification.'
+
+prompt 793:
+The correct answer is: B) 2 Mbps for access as the user walks (pedestrians), and 144 kbps for the stationary user (office or home).
+
+prompt 794:
+The correct answer is A) Slot number.
+
+prompt 795:
+B) SCTP is able to utilize multiple network paths for a single connection
+
+prompt 796:
+The correct answer is: 'The correct answer is C) AAL2'
+
+prompt 797:
+The correct answer is B): Retrieves incoming data from the socket.
+
+prompt 798:
+The correct answer is: A) 64B/66B block coding.
+
+prompt 799:
+The correct answer is: A) To protect against brute-force attacks.
+
+prompt 800:
+The correct answer is B) 127.
+
+prompt 801:
+The correct answer is A) Frames and Datagrams.
+
+prompt 802:
+The correct answer is B): Passwords can be intercepted and stolen.
+
+prompt 803:
+The correct answer is: C) It allows for complex ACL configurations without needing to modify multiple individual ACLs
+
+prompt 804:
+The correct answer is: D) By converting to GSM calls which are less affected by signal quality.
+
+prompt 805:
+The correct answer is B): to avoid overlaps between slots.
+
+prompt 806:
+The correct answer is D) To reduce the administrative burden of managing individual user permissions.
+
+prompt 807:
+The correct answer is B) Collisions.
+
+prompt 808:
+The correct answer is: B) To replicate traffic to a specific port from a designated source.
+
+prompt 809:
+The correct answer is A): They specify the user's degree of trust in the veracity of introducers' signatures
+
+prompt 810:
+The correct answer is A) When connecting to an ISP that provides dynamic addresses
+
+prompt 811:
+The correct answer is B) All project requirements, assumptions, and a description of what will be designed.
+
+prompt 812:
+The correct answer is: B) To provide a collision-resistant mapping of inputs to an address space.
+
+prompt 813:
+The correct answer is D) 2.400 GHz to 2.4835 GHz
+
+prompt 814:
+The correct answer is: 'The correct answer is A) Automating the configuration process of network-layer parameters.'
+
+prompt 815:
+The correct answer is B): It applies broadly and simplifies assumptions about traffic behavior.
+
+prompt 816:
+The correct answer is A) The client creates a new socket to exchange data with the server.
+
+prompt 817:
+The correct answer is: A) The mobile user manually.
+
+prompt 818:
+The correct answer is: A) Minimum total cost to connect all nodes
+
+prompt 819:
+The correct answer is A): It updates the text displayed next to the line button on the phone to show "Office".
+
+prompt 820:
+The correct answer is D) Because it can slow down the overall performance of the ASA firewall.
+
+prompt 821:
+The correct answer is A) Free-space attenuation.
+
+prompt 822:
+The correct answer is A): The round-trip delay when the system actively interacts with users.
+
+prompt 823:
+The correct answer is 'A) A configuration linking many terminals to a central host.'
+
+prompt 824:
+The correct answer is: A) Conversion of higher-layer service data units into 48-byte blocks
+
+prompt 825:
+The correct answer is A): It converts the switch port into a Layer 3 router port.
+
+prompt 826:
+The correct answer is C) Moving a datagram from one node to an adjacent node over a single communication link.
+
+prompt 827:
+The correct answer is B) By rerouting traffic through another path
+
+prompt 828:
+The correct answer is B) The Internet based on large routers.
+
+prompt 829:
+The correct answer is: C) It serves as a component for managing objects on a network.
+
+prompt 830:
+The correct answer is A) MAC of all handshake messages.
+
+prompt 831:
+The correct answer is 'C) Fixed-length labels.'
+
+prompt 832:
+The correct answer is C) To ensure that the content of the message has not been altered in transit.
+
+prompt 833:
+The correct answer is A) Hexadecimal with comma separators.
+
+prompt 834:
+The correct answer is C) Bringing clouds closer through cloud exchanges.
+
+prompt 835:
+The correct answer is A): All previous packets have been correctly received.
+
+prompt 836:
+The correct answer is A) Connection-oriented with error correction.
+
+prompt 837:
+B) Ensuring the network can measure and maintain bounded delay for data streams
+
+prompt 838:
+The correct answer is: D) It is utilized for correcting single bit header errors and detecting double errors.
+
+prompt 839:
+The correct answer is: A) Performs the routing of calls from an external network to an individual mobile station
+
+prompt 840:
+The correct answer is D.
+
+prompt 841:
+The correct answer is B): To provide digital mobile communication.
+
+prompt 842:
+The correct answer is A): To declare the type of the message body.
+
+prompt 843:
+The correct answer is D) Preemphasis.
+
+prompt 844:
+The correct answer is B) Reflection.
+
+prompt 845:
+The correct answer is DOCSIS.
+
+prompt 846:
+The correct answer is: C) TKIP handles exchange of pair-wise keys in WPA.
+
+prompt 847:
+The correct answer is: A) A technique where downstream nodes signal upstream nodes to slow down
+
+prompt 848:
+The correct answer is: 'The correct answer is Fast Ethernet.'
+
+prompt 849:
+The correct answer is B. Packet Switching
+
+prompt 850:
+The correct answer is D) Peer-to-Peer Paradigm.
+
+prompt 851:
+The correct answer is B): To enable caller ID information to be sent to the phones.
+
+prompt 852:
+The correct answer is: A) Making good use of the path capacity and ensuring that sufficient resources are available.
+
+prompt 853:
+The correct answer is: A) It generates the configuration files for IP phones based on the firmware and settings.
+
+prompt 854:
+The correct answer is D) All of the above
+
+prompt 855:
+The correct answer is B) a network protocol.
+
+prompt 856:
+The correct answer is B) CSU/DSU
+
+prompt 857:
+The correct answer is A) BGP.
+
+prompt 858:
+The correct answer is C) First Come First Serve.
+
+prompt 859:
+The correct answer is A.
+
+prompt 860:
+The correct answer is: D) The signal quality varies due to different paths taken by versions of the same signal
+
+prompt 861:
+The correct answer is: A) The switch is in VTP client mode.
+
+prompt 862:
+The correct answer is B) Client.
+
+prompt 863:
+The correct answer is B) To execute client-side scripting in mobile applications.
+
+prompt 864:
+The correct answer is 'A) None of the above.'
+
+prompt 865:
+The correct answer is: A) The ability to configure group membership using software.
+
+prompt 866:
+The correct answer is C.
+
+prompt 867:
+The correct answer is C) Piconet.
+
+prompt 868:
+The correct answer is C) Offers minimal transport services and is unreliable.
+
+prompt 869:
+The correct answer is C): Reducing the churn rate.
+
+prompt 870:
+The correct answer is A) Balancing state information, optimization, and complexity.
+
+prompt 871:
+The correct answer is A) Current Window Size and Old Window Size.
+
+prompt 872:
+A) A potential disorder in packet delivery and loss of data without the recipient's awareness.
+
+prompt 873:
+The correct answer is B): They follow the ground and can be detected for longer distances.
+
+prompt 874:
+The correct answer is A) 64 bytes.
+
+prompt 875:
+The correct answer is D): 16 subnets.
+
+prompt 876:
+The correct answer is: 'The correct answer is C. To improve signal-to-noise ratio'
+
+prompt 877:
+The correct answer is: A) Replaces the current label with the same label and continues processing.
+
+prompt 878:
+The correct answer is: 'The correct answer is C. To ensure message integrity and authentication'
+
+prompt 879:
+The correct answer is C): Name, Value, Type.
+
+prompt 880:
+The correct answer is B): It results in the network address.
+
+prompt 881:
+The correct answer is: C) The link can be used in both directions simultaneously.
+
+prompt 882:
+The correct answer is A) CDP
+
+prompt 883:
+B) To prevent a single station from dominating the network transmission time.
+
+prompt 884:
+The correct answer is B): They have high signaling overhead.
+
+prompt 885:
+C) The service attributes (e.g., capacity or delay) may fail to be delivered as expected across the entire path.
+
+prompt 886:
+The correct answer is: B) To secure remote access and enforce policies in network management
+
+prompt 887:
+The correct answer is: 'MPLS eliminates the need for customers to configure or manage virtual circuits.'
+
+prompt 888:
+The correct answer is D) To signal the receiver the beginning of a new frame for synchronization.
+
+prompt 889:
+The correct answer is A) Energy-Centric Routing.
+
+prompt 890:
+The correct answer is: 'The correct answer is C. Facilitates bandwidth allocation and improves the efficiency of contention-based access.'
+
+prompt 891:
+The correct answer is C) Support for arbitrarily small messages.
+
+prompt 892:
+The correct answer is D) Reliability.
+
+prompt 893:
+The correct answer is: A) Data is transmitted at irregular intervals, and each character is bounded by start and stop bits.
+
+prompt 894:
+The correct answer is Piggybacking.
+
+prompt 895:
+The correct answer is A): 'Executing routing protocols and computing the forwarding table.'
+
+prompt 896:
+The correct answer is D. A frame primarily consists of an embedded packet, control information (header), and a checksum (trailer) in data communication.
+
+prompt 897:
+The correct answer is C): The Root, Top-Level Domains, Domain Names, and IP Addresses.
+
+prompt 898:
+The correct answer is: 'The correct answer is B'
+
+prompt 899:
+The correct answer is B): It allows an association to persist even if some paths fail
+
+prompt 900:
+The correct answer is: 'The correct answer is D) The higher the satellite, the longer its orbital period.'
+
+prompt 901:
+The correct answer is B) Reduction in complexity.
+
+prompt 902:
+The correct answer is B.
+
+prompt 903:
+The correct answer is B) Distributed computing.
+
+prompt 904:
+The correct answer is C): To ensure voice control packets are treated with high priority, but below voice RTP packets
+
+prompt 905:
+The correct answer is B) A device that handles voice, video, messaging and more.
+
+prompt 906:
+The correct answer is A) On-Off Keying Non-Return-to-Zero (OOK-NRZ).
+
+prompt 907:
+The correct answer is B): To establish a reliable connection between sender and receiver.
+
+prompt 908:
+The correct answer is A) Physical and MAC addresses.
+
+prompt 909:
+The correct answer is B): It signifies whether the frame was recognized and copied by the destination.
+
+prompt 910:
+The correct answer is D) Ciphertext-only problem.
+
+prompt 911:
+The correct answer is A) Short-wavelength (850 nm) over multimode fiber.
+
+prompt 912:
+B) The host has completed the Diffie-Hellman exchange, but authentication is not yet confirmed.
+
+prompt 913:
+The correct answer is D): VoIP applications are more sensitive to latency than data applications
+
+prompt 914:
+The correct answer is: A) Reservation of bandwidth
+
+prompt 915:
+The correct answer is C.
+
+prompt 916:
+The correct answer is: 'The correct answer is C) Inclusion of software-defined and virtualized components.'
+
+prompt 917:
+The correct answer is: A) To initiate a connection request to the client.
+
+prompt 918:
+The correct answer is C): Enables ephone-DNs to bypass standard SIP registration procedures.
+
+prompt 919:
+The correct answer is A) The IP address and the port number at each end.
+
+prompt 920:
+The correct answer is D) The ALOHA protocol.
+
+prompt 921:
+The correct answer is A): 'One-to-many alias expansion'.
+
+prompt 922:
+The correct answer is B): It uses CSMA/CD
+
+prompt 923:
+D) Switch s1 notifies the SDN controller of the link-state change, the SDN controller updates a link-state database, a link-state routing application receives a notification of this change, gets updated link state, computes new least-cost paths, interacts with the flow table manager, which determines the flow tables to be updated and then uses OpenFlow protocol to update flow table entries at affected switches.
+
+prompt 924:
+The correct answer is: B) Reservation systems.
+
+prompt 925:
+The correct answer is A) 2G.
+
+prompt 926:
+The correct answer is C) A binding between an identity and public key.
+
+prompt 927:
+The correct answer is: A) It manages the distribution of the token.
+
+prompt 928:
+The correct answer is C): It increases the bandwidth of the network.
+
+prompt 929:
+The correct answer is: D) The amount of data that can be transmitted in a fixed amount of time.
+
+prompt 930:
+The correct answer is A): By decreasing the overall size of the routing table.
+
+prompt 931:
+The correct answer is: A) It encrypts the frame carrying the address.
+
+prompt 932:
+The correct answer is: 'The correct answer is D) Transport Layer.'
+
+prompt 933:
+The correct answer is: A) It positions itself between the organization's network and the public network, controlling packet access.
+
+prompt 934:
+The correct answer is A) A feature that allows a connection to support more than one IP address per endpoint.
+
+prompt 935:
+B) It indicates that a fragmentation error has occurred.
+
+prompt 936:
+The correct answer is C) To eliminate redundant messages by canceling unnecessary transmissions.
+
+prompt 937:
+The correct answer is D) 32 active ports.
+
+prompt 938:
+The correct answer is A) Switches store and forward data frames based on MAC addresses.
+
+prompt 939:
+The correct answer is C) All resources must be available and dedicated throughout the network before communication takes place.
+
+prompt 940:
+The correct answer is B) Unicast address.
+
+prompt 941:
+The correct answer is C) Cell Global Identity.
+
+prompt 942:
+The correct answer is: 'The correct answer is D) It creates a shortest-path tree for routing purposes.'
+
+prompt 943:
+A) Cryptographic algorithms can be challenged and potentially broken, leading to their discontinuation.
+
+prompt 944:
+The correct answer is A) An integer to identify the number of bytes in the frame.
+
+prompt 945:
+The correct answer is: A) For data encryption.
+
+prompt 946:
+The correct answer is D) To filter out all subnetted routes from the redistribution process.
+
+prompt 947:
+The correct answer is: 'The correct answer is A) To ensure the static route is known beyond the local router.'
+
+prompt 948:
+The correct answer is B) Copy.
+
+prompt 949:
+The correct answer is: A) Digital signals can carry more information per unit time than analog signals.
+
+prompt 950:
+The correct answer is A): 'SDP defines the transport protocol to be used for the session initiation.'
+
+prompt 951:
+The correct answer is A): To define the path a packet should take through the network.
+
+prompt 952:
+The correct answer is: B) TDM divides the time into time frames and further divides each time frame into N time slots. Each time slot is then assigned to one of the N nodes.
+
+prompt 953:
+The correct answer is D) The Berkeley socket interface.
+
+prompt 954:
+The correct answer is A): To track the location of users making the requests.
+
+prompt 955:
+The correct answer is D) To verify data integrity inclusive of the source and destination IP addresses.
+
+prompt 956:
+The correct answer is: A) The congestion window size is increased.
+
+prompt 957:
+The correct answer is: A) To hide the contents of the payload from the public Internet
+
+prompt 958:
+The correct answer is A): By validating the server's certificate with a trusted authority.
+
+prompt 959:
+The correct answer is A) Switched Multi-megabit Data Service (SMDS).
+
+prompt 960:
+The correct answer is D): 'Coordinating the functions required to transmit a bit stream over a physical medium.'
+
+prompt 961:
+The correct answer is C): Hardware advancements have enabled high-speed packet processing at the hardware level.
+
+prompt 962:
+The correct answer is A): In-phase and quadrature-phase components.
+
+prompt 963:
+The correct answer is C) Communication with destination administratively prohibited (Type 1, Code 1).
+
+prompt 964:
+The correct answer is A): Transmit messages during an ongoing call.
+
+prompt 965:
+The correct answer is B) To aggregate network addresses.
+
+prompt 966:
+The correct answer is A) Multicast.
+
+prompt 967:
+The correct answer is: B) Large organizations needing high-capacity data connections.
+
+prompt 968:
+The correct answer is: B) It activates Hot Standby Router Protocol functionality.
+
+prompt 969:
+The correct answer is: A) It is a very simple protocol with minimal overhead
+
+prompt 970:
+The correct answer is C) Base Station Subsystem (BSS).
+
+prompt 971:
+The correct answer is D) The efficiency of the firewall is decreased due to increased complexity.
+
+prompt 972:
+The correct answer is A): 'The difference between signal strength and signal noise.'
+
+prompt 973:
+The correct answer is D) Proxy Server Layer.
+
+prompt 974:
+The correct answer is: C) To prevent overlapping of adjacent time slots
+
+prompt 975:
+The correct answer is: 'The correct answer is C) UA frame'.
+
+prompt 976:
+The correct answer is: 'The correct answer is B. High usability with anytime, anywhere connectivity'
+
+prompt 977:
+The correct answer is B): They monitor the aggregation process.
+
+prompt 978:
+The correct answer is A) Constant Bit Rate (CBR).
+
+prompt 979:
+The correct answer is: 'The correct answer is A) To organize and protect horizontal cabling.'
+
+prompt 980:
+The correct answer is A) A set of standards to maintain compatibility among Unix systems.
+
+prompt 981:
+The correct answer is A) Maintaining connectivity while using the minimum possible number of active sensor nodes.
+
+prompt 982:
+The correct answer is: A) The ToA method measures the angle of the incoming signal from at least two fixed points.
+
+prompt 983:
+The correct answer is B) SHA-256.
+
+prompt 984:
+The correct answer is A) IMAP.
+
+prompt 985:
+The correct answer is A) Determine the exact location of the header payload.
+
+prompt 986:
+The correct answer is A) Backhauls.
+
+prompt 987:
+The correct answer is D) Pay for submission to multiple search engines.
+
+prompt 988:
+The correct answer is: A) To avoid long waiting times by serving flow queues in a dynamic order
+
+prompt 989:
+The correct answer is: C) To provide an interface between the Ethernet MAC and PHY layers
+
+prompt 990:
+The correct answer is A) 10BASE-T.
+
+prompt 991:
+The correct answer is C): To maintain control over policies.
+
+prompt 992:
+The correct answer is B) Configuring the data link layers for transmission.
+
+prompt 993:
+The correct answer is B) All of the above.
+
+prompt 994:
+The correct answer is B) Three, including a default dial-peer for other emergency numbers
+
+prompt 995:
+The correct answer is: B) To prevent replay attacks by making each packet unique
+
+prompt 996:
+The correct answer is: A) To enhance the frame size for better transmission in wide area networks.
+
+prompt 997:
+The correct answer is C): 'To define the format of the packets and control their sending and receiving.'
+
+prompt 998:
+The correct answer is: A) High computational speed and resistance to forgery
+
+prompt 999:
+B) NACKs enhance flow control mechanisms.
+
+prompt 1000:
+The correct answer is: D) Because larger detectors can capture more signal, improving the signal-to-noise ratio (SNR).
+
+prompt 1001:
+The correct answer is B) 7 DS3s
+
+prompt 1002:
+The correct answer is B.
+
+prompt 1003:
+The correct answer is B) Compressed data is more resilient to errors than uncompressed data.
+
+prompt 1004:
+The correct answer is: A) To perform successive retrieval and application of transformation rules for strings
+
+prompt 1005:
+The correct answer is: 'The correct answer is D. Incorporation of Digital voice and data'
+
+prompt 1006:
+The correct answer is D) Transmission Control Protocol (TCP).
+
+prompt 1007:
+The correct answer is: C) It represents the time routers take to analyze packet headers and make forwarding decisions.
+
+prompt 1008:
+The correct answer is A): To provide route redundancy to enhance fault tolerance and load balancing.
+
+prompt 1009:
+The correct answer is D) All of the above.
+
+prompt 1010:
+The correct answer is: B) Spatial distribution of the sensors
+
+prompt 1011:
+The correct answer is B): To coordinate the transmission of frames on a broadcast link.
+
+prompt 1012:
+The correct answer is: 'The correct answer is B. Get, Set, and Trap'
+
+prompt 1013:
+The correct answer is A) Cellular IP.
+
+prompt 1014:
+The correct answer is A): They are short-lived and low bandwidth.
+
+prompt 1015:
+The correct answer is: C) To act as an intermediary ensuring security policies are enforced on application traffic
+
+prompt 1016:
+The correct answer is C) To receive and respond to incoming network requests.
+
+prompt 1017:
+The correct answer is A): 'All equal-cost paths can be used'.
+
+prompt 1018:
+The correct answer is: A) It facilitates the construction of text content and user interfaces for handheld devices.
+
+prompt 1019:
+The correct answer is: C) It hosts crucial subscriber data required for network authentication and security
+
+prompt 1020:
+The correct answer is A) Loop-free paths are calculated locally on each device.
+
+prompt 1021:
+The correct answer is: C) SIP uses a single request encompassing all necessary information, leading to a cleaner separation of components.
+
+prompt 1022:
+The correct answer is: D) They route packets between different network segments.
+
+prompt 1023:
+The correct answer is A) Stateful DHCPv6.
+
+prompt 1024:
+The correct answer is A): It transfers incoming calls to another user's extension.
+
+prompt 1025:
+The correct answer is: B) It contains attributes and configuration for a network interface
+
+prompt 1026:
+The correct answer is: D) It affects the proper system operation and signal quality.
+
+prompt 1027:
+The correct answer is A): Simplicity in configuration.
+
+prompt 1028:
+The correct answer is A) The address field normally contains the "all 1s" address.
+
+prompt 1029:
+The correct answer is A) SIP.
+
+prompt 1030:
+The correct answer is: 'The correct answer is C. To segregate the Intranet from the public internet, thus ensuring security.'
+
+prompt 1031:
+The correct answer is B): 'The flexibility of network configurations.
+
+prompt 1032:
+The correct answer is A): Use of IPv6 for all signaling messages.
+
+prompt 1033:
+The correct answer is A) Single-mode fiber.
+
+prompt 1034:
+The correct answer is: 'The correct answer is A. It coordinates the transfer of information between the computer and the network.'
+
+prompt 1035:
+The correct answer is A) Assigning multiple names (aliases) to a single host.
+
+prompt 1036:
+The correct answer is: B) A strategy to create a different shortest-path tree for each source, extending unicasting to multicasting.
+
+prompt 1037:
+The correct answer is A) AH and ESP.
+
+prompt 1038:
+The correct answer is D) Losses are usually due to network congestion rather than errors.
+
+prompt 1039:
+The correct answer is D) Parameter-Problem Message.
+
+prompt 1040:
+The correct answer is B) To facilitate the minimalist approach to network design.
+
+prompt 1041:
+The correct answer is: A) adapt to new network architectures and protocols.
+
+prompt 1042:
+The correct answer is A) The throughput is calculated by the transmission rate of any link.
+
+prompt 1043:
+The correct answer is: D) Connects multiple network segments allowing devices to communicate with each other
+
+prompt 1044:
+The correct answer is: A) Cumulative acknowledgment.
+
+prompt 1045:
+The correct answer is: D) MAC protocols
+
+prompt 1046:
+The correct answer is A) Divide the CongestionWindow by the difference in Maximum RTT and Minimum RTT.
+
+prompt 1047:
+The correct answer is A): The address can be read by every node in the network.
+
+prompt 1048:
+The correct answer is: B) They function as predefined sets of commands for efficient configuration.
+
+prompt 1049:
+The correct answer is D) Quick convergence to the ideal operating point and tracking changes over time.
+
+prompt 1050:
+The correct answer is: 'The correct answer is D) Frequency reuse and handoff.'
+
+prompt 1051:
+The correct answer is 'Web-crawlers'.
+
+prompt 1052:
+The correct answer is: C) To authenticate and manage remote user access.
+
+prompt 1053:
+The correct answer is A): Lower cost of VoIP technology.
+
+prompt 1054:
+The correct answer is: 'The correct answer is D. It allows data to move from an interface to main memory without direct CPU intervention.'
+
+prompt 1055:
+The correct answer is C) Assumes developers can manage both application and infrastructure without specialized knowledge.
+
+prompt 1056:
+The correct answer is B) Split horizon.
+
+prompt 1057:
+The correct answer is A): To identify and manage out of order segments.
+
+prompt 1058:
+The correct answer is B) DHCP.
+
+prompt 1059:
+The correct answer is A) Send and receive packets that bypass usual TCP/IP or UDP/IP protocol stack handling.
+
+prompt 1060:
+The correct answer is: A) Confidentiality, Data integrity, Client and Server Authentication.
+
+prompt 1061:
+The correct answer is B) Transport Layer.
+
+prompt 1062:
+The correct answer is: 'The correct answer is B. The interface will only receive traffic designated for that VRF's routing table.'
+
+prompt 1063:
+The correct answer is: D) The desire to enhance human-computer interaction and information accessibility
+
+prompt 1064:
+The correct answer is: A) To improve the real-time transfer of multimedia information by providing delay guarantees.
+
+prompt 1065:
+The correct answer is: D) Sets up and maintains the actual data stream for a voice or video call
+
+prompt 1066:
+The correct answer is: 'The correct answer is A) Negotiating link parameters'.
+
+prompt 1067:
+The correct answer is: A) ISL and 802.1Q are just different names of the same protocol.
+
+prompt 1068:
+The correct answer is: 'The correct answer is B) Supplicant.'
+
+prompt 1069:
+The correct answer is D): Because packets are looping or the counter values are set too low.
+
+prompt 1070:
+The correct answer is A): The number of available IP addresses.
+
+prompt 1071:
+The correct answer is: B) To assist in forwarding packets to their correct destination.
+
+prompt 1072:
+The correct answer is A) SCTP.
+
+prompt 1073:
+The correct answer is C) To identify the network and host portions of an IP address.
+
+prompt 1074:
+The correct answer is: C) To serve as a call control agent for media gateways.
+
+prompt 1075:
+The correct answer is 'C) Security threats'
+
+prompt 1076:
+The correct answer is C): It is a concatenated signal used to accommodate higher bit rates than a standard STS-n signal.
+
+prompt 1077:
+The correct answer is: C) It requires additional memory due to the buffering of packets.
+
+prompt 1078:
+B) By using decentralized token management
+
+prompt 1079:
+The correct answer is C) By allowing specific traffic flows to be processed by the necessary network functions.
+
+prompt 1080:
+The correct answer is: 'The correct answer is D. Enhanced network flexibility and scalability'
+
+prompt 1081:
+The correct answer is: A) To facilitate synchronization and transport of media streams
+
+prompt 1082:
+The correct answer is D): To divide a large physical LAN into smaller logical LANs for easier management.
+
+prompt 1083:
+The correct answer is B) Terminal Network.
+
+prompt 1084:
+The correct answer is: A) Reducing the dimensionality of document spaces.
+
+prompt 1085:
+The correct answer is B) Redirect.
+
+prompt 1086:
+The correct answer is A) Predictive coding.
+
+prompt 1087:
+The correct answer is: 'The correct answer is B) It connects exactly two nodes with one on each end.'
+
+prompt 1088:
+The correct answer is D) Support different protocols like SMS, MMS, and IP.
+
+prompt 1089:
+The correct answer is D) Encrypting data packets for secure transmission.
+
+prompt 1090:
+The correct answer is D) Using TCP congestion control to manage power
+
+prompt 1091:
+The correct answer is: C) To adjust based on channel conditions for optimal performance
+
+prompt 1092:
+The correct answer is D) Establish a theory of probable cause.
+
+prompt 1093:
+The correct answer is A) File checks.
+
+prompt 1094:
+The correct answer is A. It releases the current IP address and refreshes the DHCP configuration.
+
+prompt 1095:
+The correct answer is: D) SPD indicates whether datagrams should be IPsec processed and, if so, which SA to use.
+
+prompt 1096:
+The correct answer is: A) It cannot handle simultaneous transmissions.
+
+prompt 1097:
+The correct answer is B) 802.20.
+
+prompt 1098:
+The correct answer is C) To identify and indicate the presence of errors in the received data.
+
+prompt 1099:
+The correct answer is D) RJ-45.
+
+prompt 1100:
+The correct answer is: D) They can result in multiple virtual link failures if a single physical link fails.
+
+prompt 1101:
+The correct answer is A) telephony-service hostname GAD Technology.
+
+prompt 1102:
+The correct answer is B) Digital cross-connect (DCC) systems.
+
+prompt 1103:
+The correct answer is: B) Movement across different access technologies or network architectures.
+
+prompt 1104:
+The correct answer is D) Keeping track of the cellular location of mobile terminals.
+
+prompt 1105:
+The correct answer is D): 'Offers a dedicated line to each subscriber without having to lay new cables.'
+
+prompt 1106:
+The correct answer is: 'The correct answer is A) To ensure all devices receive equal bandwidth.'
+
+prompt 1107:
+The correct answer is A) 255.255.255.224
+
+prompt 1108:
+The correct answer is: C) It defines two priority levels for cells during periods of congestion.
+
+prompt 1109:
+The correct answer is: B) Streamlining the management of network resources and user accounts.
+
+prompt 1110:
+The correct answer is: C) Wireless LANs enable user mobility while providing network connectivity.
+
+prompt 1111:
+The correct answer is: B) ARP helps a switch build and update its switch table.
+
+prompt 1112:
+The correct answer is: B) Variable bit rate video streaming services
+
+prompt 1113:
+The correct answer is: 'Unidirectional and bidirectional connections'
+
+prompt 1114:
+The correct answer is D) TCP (Transmission Control Protocol).
+
+prompt 1115:
+The correct answer is: A) In a hub, all stations are in the same collision domain, whereas a switch provides separate collision domains for each port.
+
+prompt 1116:
+The correct answer is: C) It updates the shortest path tree without recalculating the entire tree.
+
+prompt 1117:
+The correct answer is: B) A systematic error in polarity may cause reversal in bit detection.
+
+prompt 1118:
+The correct answer is: 'The correct answer is B. Elimination of head-of-line (HOL) blocking.'
+
+prompt 1119:
+The correct answer is C) It is used to set the value of one or more MIB objects in a managed device.
+
+prompt 1120:
+The correct answer is: A) An IPS installed at the gateway can become a bottleneck if not fast enough.
+
+prompt 1121:
+The correct answer is: A) To form seamless end-to-end services for the user, independent of transmission means.
+
+prompt 1122:
+The correct answer is 'Virtual Path'.
+
+prompt 1123:
+The correct answer is: 'The correct answer is C. The network operation temporarily stops.'
+
+prompt 1124:
+The correct answer is C) To signal congestion in the network path.
+
+prompt 1125:
+The correct answer is C) Using a ring topology alongside.
+
+prompt 1126:
+The correct answer is D) To segregate and prioritize voice traffic over the specific VLAN.
+
+prompt 1127:
+The correct answer is: A) It ensures that there are enough signal transitions in the line.
+
+prompt 1128:
+The correct answer is C): Software-Defined Wide Area Networking; SD-WAN allows traffic over the Internet with the features of MPLS and high security.
+
+prompt 1129:
+The correct answer is B) Mobile device to base station association, Control-plane configuration, Data-plane configuration, Device handover.
+
+prompt 1130:
+The correct answer is A) The .com server knows the IP address of www.totalsem.com.
+
+prompt 1131:
+The correct answer is: 'The correct answer is D) Distinction between services, interfaces, and protocols.'
+
+prompt 1132:
+The correct answer is D) A set of techniques to transmit multiple signals simultaneously over a single data link.
+
+prompt 1133:
+The correct answer is B) Routing mode.
+
+prompt 1134:
+The correct answer is D) To periodically transmit hello packets for neighbor detection.
+
+prompt 1135:
+The correct answer is C) Computers from impersonating humans on the internet.
+
+prompt 1136:
+The correct answer is A) SMTP (Simple Mail Transfer Protocol).
+
+prompt 1137:
+The correct answer is: C) The complexity of managing numerous physical network appliances.
+
+prompt 1138:
+The correct answer is A): It has two concentric copper conductors.
+
+prompt 1139:
+The correct answer is A): The type of the socket parameter in the socket() function.
+
+prompt 1140:
+The correct answer is: 'The correct answer is Conditional bridge.'
+
+prompt 1141:
+The correct answer is A): Lacks robust security mechanism.
+
+prompt 1142:
+The correct answer is D) Because there is minimal control or guarantee inside the network, so end hosts must handle variability
+
+prompt 1143:
+The correct answer is B) Authoritative DNS servers.
+
+prompt 1144:
+The correct answer is: 'A) A signal is sent at various frequencies for short periods and then switched in a seemingly random manner.'
+
+prompt 1145:
+The correct answer is: VDSL.
+
+prompt 1146:
+The correct answer is B): because it can be cracked in under a minute with ordinary equipment and software.
+
+prompt 1147:
+The correct answer is A) Supernetting.
+
+prompt 1148:
+The correct answer is: A) To combine multiple signals for transmission over a single channel.
+
+prompt 1149:
+The correct answer is: C) To initiate the TCP connection between the client and server.
+
+prompt 1150:
+The correct answer is: C) AAA System.
+
+prompt 1151:
+The correct answer is A) Available Bit Rate (ABR).
+
+prompt 1152:
+The correct answer is: C) To encapsulate each network-layer datagram within a link-layer frame for transmission
+
+prompt 1153:
+The correct answer is: C) To ensure compatibility with the 10BaseT standard.
+
+prompt 1154:
+The correct answer is B) The console will show that the phone is no longer available
+
+prompt 1155:
+The correct answer is: C) Bit-rate adaptation based on available bandwidth.
+
+prompt 1156:
+The correct answer is A): 'Controls operation of the subnet and handles routing of packets.'
+
+prompt 1157:
+The correct answer is: 'The correct answer is A) Dissemination Plane.'
+
+prompt 1158:
+The correct answer is C) It can lead to widespread disruptions if a vulnerability is exploited
+
+prompt 1159:
+The correct answer is: A) To denote the start of a frame
+
+prompt 1160:
+The correct answer is: D) Neighbor Protocol (NP)
+
+prompt 1161:
+The correct answer is: B) It causes the client application buffer to store less video data.
+
+prompt 1162:
+The correct answer is D) CAT6. CAT6 was designed for high-speed networks and uses 23 AWG copper to reduce signal attenuation.
+
+prompt 1163:
+The correct answer is: A) To deliver a datagram from its source to one destination.
+
+prompt 1164:
+The correct answer is A): to protect the cladding.
+
+prompt 1165:
+The correct answer is D) Router authentication.
+
+prompt 1166:
+The correct answer is 'The correct answer is C. The sliding window mechanism is used to implement flow control and ensure reliable data transfer.'
+
+prompt 1167:
+The correct answer is: A) Packets are classified into priority classes upon arrival and are transmitted based on their priority class irrespective of their arrival order.
+
+prompt 1168:
+The correct answer is: 'The correct answer is B)'
+
+prompt 1169:
+The correct answer is A. Looking through trash for information that can be used in a cyber attack
+
+prompt 1170:
+The correct answer is C): gradual upgrading and consistent adaptation.
+
+prompt 1171:
+The correct answer is: 'The correct answer is D. To map domain names to IP addresses.'
+
+prompt 1172:
+The correct answer is B): The packet is queued until an action is specified.
+
+prompt 1173:
+The correct answer is B) Provides a reliable, ordered, and error-checked delivery of email messages.
+
+prompt 1174:
+The correct answer is A) It specifies the last time the contents were modified at the server.
+
+prompt 1175:
+The correct answer is: B) The introduction of Simultaneous Authentication of Equals (SAE)
+
+prompt 1176:
+The correct answer is D) Collaboration and contributions from a large community under the open-source model.
+
+prompt 1177:
+The correct answer is D) SHA-1.
+
+prompt 1178:
+The correct answer is: A) The delay decreases as the number of stations decreases.
+
+prompt 1179:
+The correct answer is C): flow control information.
+
+prompt 1180:
+The correct answer is A) Source Quench.
+
+prompt 1181:
+The correct answer is B) Enabling simple file transfers without authentication.
+
+prompt 1182:
+The correct answer is C.
+
+prompt 1183:
+The correct answer is A) Point-to-point adjacency formation.
+
+prompt 1184:
+B) Ensuring that same plaintext block will not result in the same ciphertext block
+
+prompt 1185:
+The correct answer is: A) tasklet_schedule()
+
+prompt 1186:
+The correct answer is D) The amount of data the transmitter can send before receiving an acknowledgment.
+
+prompt 1187:
+The correct answer is B) Non-promiscuous mode.
+
+prompt 1188:
+The correct answer is B) recvfrom().
+
+prompt 1189:
+The correct answer is D) IP address, Default Gateway, and Subnet Mask.
+
+prompt 1190:
+The correct answer is A): To configure Virtual Private Cloud on the switch.
+
+prompt 1191:
+The correct answer is B) Extracting the host portion of the IP address.
+
+prompt 1192:
+The correct answer is A) 4B/5B.
+
+prompt 1193:
+The correct answer is: A) Slotted Seeded Channel Hopping
+
+prompt 1194:
+The correct answer is A): To secure UTP wires into terminal blocks.
+
+prompt 1195:
+The correct answer is A) All of the above.
+
+prompt 1196:
+The correct answer is D) To ensure the packet has not been altered during transmission.
+
+prompt 1197:
+The correct answer is: A) It reassembles fragmented IP packets into the original message.
+
+prompt 1198:
+The correct answer is C): It extends battery life.
+
+prompt 1199:
+The correct answer is D): 'The Session Layer is responsible for defining protocols for setting up, configuring and terminating dialogues between applications.'
+
+prompt 1200:
+The correct answer is B) DCS 1800.
+
+prompt 1201:
+The correct answer is A): Introducing new bugs or compatibility issues
+
+prompt 1202:
+The correct answer is 'TLS'.
+
+prompt 1203:
+The correct answer is A): To direct incoming transport-layer segments to the appropriate socket.
+
+prompt 1204:
+The correct answer is: D) It minimizes routing information at each switch, enhancing scalability.
+
+prompt 1205:
+The correct answer is B) Delay impacts user experience and can be crucial for time-sensitive applications.
+
+prompt 1206:
+The correct answer is: D) The introduction of new applications and services
+
+prompt 1207:
+The correct answer is B) DNSSEC.
+
+prompt 1208:
+The correct answer is D) To select the best route between a given pair of routers.
+
+prompt 1209:
+The correct answer is D) TCP or UDP Header.
+
+prompt 1210:
+The correct answer is B): The command has been executed successfully.
+
+prompt 1211:
+The correct answer is B) It provides an easy way to restore the system to a previous state without rebooting.
+
+prompt 1212:
+The correct answer is A): It imposes a strict layering approach to protocols at each layer.
+
+prompt 1213:
+The correct answer is A): They can carry more information over longer distances with fewer repeaters.
+
+prompt 1214:
+The correct answer is: A) Message delivery guarantees.
+
+prompt 1215:
+The correct answer is A) Get.
+
+prompt 1216:
+The correct answer is: 'The correct answer is B)'
+
+prompt 1217:
+The correct answer is: C) Each node can determine the shortest path to a destination by learning from its neighbors' shortest paths.
+
+prompt 1218:
+The correct answer is B): 'Digital signatures ensure that a message has come from a specific sender and remains unaltered.'
+
+prompt 1219:
+The correct answer is D) Orthogonal Frequency Division Multiple Access (OFDMA)
+
+prompt 1220:
+The correct answer is: C) Data transmission and reception cannot occur simultaneously.
+
+prompt 1221:
+The correct answer is: A) Only selected nodes participate in routing.
+
+prompt 1222:
+The correct answer is B): compression algorithms.
+
+prompt 1223:
+The correct answer is: A) Limited address space
+
+prompt 1224:
+The correct answer is: 'Contention-based protocols are primarily relied upon by MAC protocols to access the transmission medium.'
+
+prompt 1225:
+The correct answer is B) 172.32.15.5
+
+prompt 1226:
+The correct answer is D) Information about the subscriber, including a unique device ID and cryptographic keys.
+
+prompt 1227:
+The correct answer is C) Open Shortest Path First (OSPF).
+
+prompt 1228:
+The correct answer is: D) It resides within the H.323 specification for call signaling.
+
+prompt 1229:
+The correct answer is A): Newer technologies may require different interfaces or support for higher data transfer speeds.
+
+prompt 1230:
+The correct answer is: 'The correct answer is D)'
+
+prompt 1231:
+The correct answer is B) All ports except the port on which the frame originated.
+
+prompt 1232:
+The correct answer is D) MTTI.
+
+prompt 1233:
+The correct answer is D) GMSK.
+
+prompt 1234:
+The correct answer is: A) It uses four UTP 5 wires for transmission and reception.
+
+prompt 1235:
+The correct answer is: 'The correct answer is A) Regulates the flow of data through the network.'
+
+prompt 1236:
+The correct answer is: D) To move computing resources closer to the end-users for lower latency and higher bandwidth
+
+prompt 1237:
+The correct answer is: A) A warm site comes with operational staff, whereas a hot site does not.
+
+prompt 1238:
+The correct answer is: A) To determine the buffer occupancy in the network.
+
+prompt 1239:
+The correct answer is: A) Event-driven sensing applications
+
+prompt 1240:
+The correct answer is D) Protocols that link autonomous systems together.
+
+prompt 1241:
+The correct answer is: 'A) Code-Excited Linear Prediction'
+
+prompt 1242:
+The correct answer is C) 255.255.255.0
+
+prompt 1243:
+The correct answer is A): They encapsulate security in a centralized place, factoring security out of the rest of the network.
+
+prompt 1244:
+The correct answer is B): It ensures the perpetual freedom to copy, modify, and distribute Linux code
+
+prompt 1245:
+The correct answer is: A) Interconnecting multiple ATM switches.
+
+prompt 1246:
+The correct answer is: B) The first outbound dial-peer in the configuration list is always chosen.
+
+prompt 1247:
+The correct answer is: 'The correct answer is B. To provide a long-term, dedicated path for data transmission.'
+
+prompt 1248:
+The correct answer is: A) Updating the shortest known distances from the source to all nodes.
+
+prompt 1249:
+The correct answer is: A) It provides a basic access method for contention-free transfers.
+
+prompt 1250:
+The correct answer is A) The traffic to which it is subjected.
+
+prompt 1251:
+The correct answer is: 'They provide greater flexibility in hardware and software choices'
+
+prompt 1252:
+The correct answer is: 'The correct answer is D. It modifies the forwarding mechanism of IP networks.'
+
+prompt 1253:
+The correct answer is: 'The correct answer is D)'
+
+prompt 1254:
+The correct answer is: A) Route tagging
+
+prompt 1255:
+The correct answer is B): The main advantage of IPv6 over IPv4 is a longer address space.
+
+prompt 1256:
+The correct answer is B) TKIP.
+
+prompt 1257:
+The correct answer is: D) Vehicular ad hoc networks (VANETs)
+
+prompt 1258:
+The correct answer is B. Confidentiality, data integrity, and source authentication.
+
+prompt 1259:
+The correct answer is: A) Signal degradation due to atmospheric conditions
+
+prompt 1260:
+The correct answer is: 'The correct answer is C. It improves power efficiency.'
+
+prompt 1261:
+The correct answer is B): To correct or detect errors in the received data.
+
+prompt 1262:
+The correct answer is: A) It ensures that time may be viewed as continuous, allowing frame transmission at any moment, or as divided into discrete intervals for better performance
+
+prompt 1263:
+The correct answer is: A) Because the use of larger data would require an infeasible amount of computational resources
+
+prompt 1264:
+The correct answer is: B) Signaling and Service Negotiation (SSN)
+
+prompt 1265:
+The correct answer is: B) Trust must be continually evaluated and never assumed implicitly
+
+prompt 1266:
+The correct answer is: 'The correct answer is A) A unique identifier for each packet.'
+
+prompt 1267:
+The correct answer is: B) To eliminate the signaling overhead associated with creating, maintaining, and updating structured approaches.
+
+prompt 1268:
+The correct answer is D) DSL operates using preexisting telephone lines
+
+prompt 1269:
+The correct answer is: B) Multipath propagation and physical barriers.
+
+prompt 1270:
+The correct answer is D): Minimize interference and maximize capacity.
+
+prompt 1271:
+The correct answer is B.
+
+prompt 1272:
+The correct answer is A): Shaper, Scheduler, and Classifier.
+
+prompt 1273:
+The correct answer is: B) To manage power efficiency in wireless stations.
+
+prompt 1274:
+The correct answer is: A) Forwarding
+
+prompt 1275:
+The correct answer is: A) Because it performs well regardless of the actual symbol distribution.
+
+prompt 1276:
+The correct answer is A) Radio Layer.
+
+prompt 1277:
+The correct answer is C) Phase Shift Keying (PSK).
+
+prompt 1278:
+The correct answer is: B) Ensuring connection-oriented services for all network communications
+
+prompt 1279:
+The correct answer is C): It's limited by the cell size affecting the level of accuracy
+
+prompt 1280:
+The correct answer is B) Network Address Translation (NAT) - translates network addresses from local to global for internet connectivity.
+
+prompt 1281:
+The correct answer is C) Fibre Channel and Internet Small Computer System Interface (iSCSI).
+
+prompt 1282:
+The correct answer is ABR.
+
+prompt 1283:
+The correct answer is C) Three.
+
+prompt 1284:
+The correct answer is: C) Man-in-the-middle attack.
+
+prompt 1285:
+The correct answer is: B) It is the least expensive and most commonly used guided transmission medium.
+
+prompt 1286:
+The correct answer is: 'TCP'
+
+prompt 1287:
+The correct answer is: B) A station can either transmit or receive but not simultaneously.
+
+prompt 1288:
+The correct answer is B.
+
+prompt 1289:
+The correct answer is C) An attack that exhausts server resources, preventing others from accessing them.
+
+prompt 1290:
+The correct answer is C) To prevent a receiver's buffer from overflow.
+
+prompt 1291:
+The correct answer is: 'The correct answer is B. The presence of connectors on both sides of the module'
+
+prompt 1292:
+The correct answer is A) Paging channel (PCH).
+
+prompt 1293:
+The correct answer is A) Forward Error Correction (FEC).
+
+prompt 1294:
+The correct answer is B) Ciphering and integrity protection.
+
+prompt 1295:
+The correct answer is: B) The change in speed relative to the base station antenna.
+
+prompt 1296:
+The correct answer is C. The correct answer is Amplitude Shift Keying (ASK), which changes the amplitude of a carrier wave to represent digital data.
+
+prompt 1297:
+The correct answer is B) Orthogonal Frequency Division Multiplexing (OFDM)
+
+prompt 1298:
+The correct answer is: C) To connect two devices wirelessly aiming for an alternative to wired connection.
+
+prompt 1299:
+The correct answer is B) 'Hypertext refers to text displayed on a computer with references (hyperlinks) to other text that the reader can access immediately.'
+
+prompt 1300:
+FCAPS stands for Failure, Configuration, Administration, Performance, and Security. In the context of network management, it refers to a framework for comprehensive network management that includes monitoring and managing various aspects of a network, such as failures, configurations, administration, performance, and security.
+所以，正确的答案是：
+The correct answer is A) A framework for comprehensive network management.
+
+prompt 1301:
+The correct answer is C) Ability to simultaneously multiplex and interleave long messages from multiple users in the same ATM VC.
+
+prompt 1302:
+The correct answer is: 'The correct answer is D) Carrier Sense Multiple Access with Collision Avoidance'
+
+prompt 1303:
+The correct answer is: A) It provides the checksum which is then carried in the segment header.
+
+prompt 1304:
+The correct answer is A) Constant bit rate (CBR).
+
+prompt 1305:
+The correct answer is: 'The correct answer is B - spectral efficiency.'
+
+prompt 1306:
+The correct answer is: 'The correct answer is A) Maximizing the utilization of the network's bandwidth by having multiple frames in transit.'
+
+prompt 1307:
+The correct answer is C) Allowing anything that belongs to another party access to the network without firewall control.
+
+prompt 1308:
+The correct answer is C) They abort the transmission and wait a random amount of time before repeating the process.
+
+prompt 1309:
+The correct answer is A): To improve navigation applications.
+
+prompt 1310:
+The correct answer is A) WPA1.
+
+prompt 1311:
+The correct answer is B): A group of routers under a single administrative control.
+
+prompt 1312:
+C) It adaptes the streaming quality to the available bandwidth
+
+prompt 1313:
+The correct answer is A): Slaves devices.
+
+prompt 1314:
+The correct answer is C) Travel booking websites.
+
+prompt 1315:
+The correct answer is B) The L2CAP (Logical Link Control Adaptation Protocol).
+
+prompt 1316:
+The correct answer is B): To describe the characteristics of the session to its participants.
+
+prompt 1317:
+The correct answer is D) Centralized.
+
+prompt 1318:
+The correct answer is B) From DS.
+
+prompt 1319:
+The correct answer is C): Because wireless signal transmission is more prone to interference.
+
+prompt 1320:
+The correct answer is: 'The correct answer is C) By ensuring separate routing tables for different virtual networks.'
+
+prompt 1321:
+The correct answer is A) Yes, but only acknowledgment messages can be sent over both UDP and TCP.
+
+prompt 1322:
+The correct answer is: A) Flow Label
+
+prompt 1323:
+The correct answer is C): By using multiple layers of encryption.
+
+prompt 1324:
+The correct answer is: 'The correct answer is B'
+
+prompt 1325:
+The correct answer is C): by facilitating the segmentation and reassembly of data packets.
+
+prompt 1326:
+The correct answer is C): 'Network function virtualization infrastructure (NFVI), Virtualized network functions (VNFs)'.
+
+prompt 1327:
+The correct answer is C): its simplistic and lightweight protocol design.
+
+prompt 1328:
+The correct answer is A): 'For log-normal shadowing'.
+
+prompt 1329:
+The correct answer is B) Client-server.
+
+prompt 1330:
+The correct answer is B) Real-time variable bit rate (rt-VBR).
+
+prompt 1331:
+The correct answer is A) SDRs allow alteration of key operating parameters through software.
+
+prompt 1332:
+The correct answer is C) AES.
+
+prompt 1333:
+The correct answer is A): To react to the notification of a computer crime.
+
+prompt 1334:
+The correct answer is: 'The correct answer is A) To minimize security threats through a defense in depth approach.'
+
+prompt 1335:
+The correct answer is B) In the /etc directory.
+
+prompt 1336:
+The correct answer is C) Bit length.
+
+prompt 1337:
+The correct answer is: D) A PVC that is listed but not yet provisioned or provisioned incorrectly by the telco.
+
+prompt 1338:
+The correct answer is: A) It does not allow for mobile terminal location updates.
+
+prompt 1339:
+The correct answer is A) 10162
+
+prompt 1340:
+The correct answer is: A) They are used to calculate the modulus n for key generation.
+
+prompt 1341:
+B) To provide a contention-free protocol for connection-oriented real-time traffic
+
+prompt 1342:
+The correct answer is: 'The correct answer is B)'.
+
+prompt 1343:
+The correct answer is A): 'Higher bandwidth than terrestrial fiber optics.'
+
+prompt 1344:
+The correct answer is A): To connect multiple network segments and direct data packets to their destinations.
+
+prompt 1345:
+The correct answer is: 'The correct answer is D. It reduces the interference and noise in the system.'
+
+prompt 1346:
+The correct answer is B) Only the erroneous frame is retransmitted immediately.
+
+prompt 1347:
+The correct answer is A) MAIL.
+
+prompt 1348:
+The correct answer is D) To ensure reliable data transmission with error recovery.
+
+prompt 1349:
+The correct answer is A) Empirical model-based localization.
+
+prompt 1350:
+The correct answer is: 'The correct answer is B)'.
+
+prompt 1351:
+The correct answer is: 'A) It keeps track of peers participating in the distribution of a particular file.'
+
+prompt 1352:
+The correct answer is: B) It helps to predict the probability of call blocking based on traffic intensity and channel capacity.
+
+prompt 1353:
+The correct answer is B) Large-scale fading.
+
+prompt 1354:
+The correct answer is: A) GSM uses more frequency bands than UMTS
+
+prompt 1355:
+The correct answer is: 'The correct answer is C) Institute for Electrical and Electronic Engineers.'
+
+prompt 1356:
+The correct answer is 'Exploratory Search'.
+
+prompt 1357:
+The correct answer is: A) They ensure zero packet loss and minimal latency.
+
+prompt 1358:
+The correct answer is: C) It limits the rate at which a TCP sender can send traffic into the network.
+
+prompt 1359:
+The correct answer is: B) To enhance the Quality of Service (QoS)
+
+prompt 1360:
+The correct answer is: 'The correct answer is B. Adding and removing MPLS labels from packets.'
+
+prompt 1361:
+The correct answer is: A) Smart garage door opener.
+
+prompt 1362:
+The correct answer is A) Packet sequencing.
+
+prompt 1363:
+The correct answer is: 'The correct answer is C)'
+
+prompt 1364:
+The correct answer is C) The process of converting between bits and signals that represent them.
+
+prompt 1365:
+The correct answer is: 'The correct answer is B. It increases capacity and reduces co-channel interference potential by dividing cells into geographic sectors.'
+
+prompt 1366:
+The correct answer is: A) To intercept and log network packets.
+
+prompt 1367:
+The correct answer is B) Time zone allocation
+
+prompt 1368:
+The correct answer is A) 199.
+
+prompt 1369:
+The correct answer is 'Packet'
+
+prompt 1370:
+The correct answer is A): It enables dynamic sharing of the whole link capacity through statistical multiplexing
+
+prompt 1371:
+The correct answer is: A) The encryption key must be kept secret at all times.
+
+prompt 1372:
+The correct answer is A) Shortest prefix matching.
+
+prompt 1373:
+The correct answer is A): To determine the encryption method to be used.
+
+prompt 1374:
+The correct answer is: 'The correct answer is A. Ensuring reliable transfer of messages in either assured or unassured mode'
+
+prompt 1375:
+The correct answer is: 'The correct answer is C)'
+
+prompt 1376:
+The correct answer is A) Using a separate field to carry the external metric.
+
+prompt 1377:
+The correct answer is D) Converts an information-bearing discrete-time symbol sequence into a continuous waveform.
+
+prompt 1378:
+The correct answer is D) Packet loss leads to significant degradation of audio quality in a VoIP call.
+
+prompt 1379:
+The correct answer is B): To track the number of retransmissions.
+
+prompt 1380:
+The correct answer is B) Digital signatures and digital certificates for authentication.
+
+prompt 1381:
+The correct answer is A): It establishes guidelines for compressing sequences of images to reduce their storage and bandwidth requirements while maintaining quality
+
+prompt 1382:
+The correct answer is B) Message-by-message Authentication.
+
+prompt 1383:
+The correct answer is: A) The communication protocol used.
+
+prompt 1384:
+The correct answer is: B) HTTP relies on TCP to establish a connection and ensure reliable data transfer.
+
+prompt 1385:
+The correct answer is A) The statistics of demand among hosts.
+
+prompt 1386:
+The correct answer is A): 'To confirm that the data has been transmitted without changes.'
+
+prompt 1387:
+The correct answer is A) 10162 or 20262.
+
+prompt 1388:
+The correct answer is B) Load and Reliability.
+
+prompt 1389:
+The correct answer is D) Through the utilization of a Checksum.
+
+prompt 1390:
+The correct answer is: 'The correct answer is D) Informs the sending host of a congestion indication.'
+
+prompt 1391:
+The correct answer is: D) To facilitate policy-based network management through a client/server model.
+
+prompt 1392:
+The correct answer is: 'The correct answer is C)'.
+
+prompt 1393:
+The correct answer is: A) To control the routing paths and optimize network resource usage.
+
+prompt 1394:
+The correct answer is: D) An older device can interact with a newer base station.
+
+prompt 1395:
+The correct answer is D): It is used to create a common layer over different networks and provide a universal packet format that can run on almost every network.
+
+prompt 1396:
+The correct answer is: A) The interference and delay problem
+
+prompt 1397:
+The correct answer is B) Transport layer
+
+prompt 1398:
+The correct answer is C): IPv6 does not use network masks.
+
+prompt 1399:
+The correct answer is 'A) By sending echo requests and replies'.
+
+prompt 1400:
+The correct answer is C) 20.
+
+prompt 1401:
+The correct answer is D) Reliable connection-oriented service.
+
+prompt 1402:
+The correct answer is D) To create private communication across a public insecure medium.
+
+prompt 1403:
+A) To manage network bandwidth more effectively by controlling traffic flow.
+
+prompt 1404:
+The correct answer is: A) 0 or 1 minislot times
+
+prompt 1405:
+The correct answer is B) Receivers.
+
+prompt 1406:
+The correct answer is D) UDP does not introduce delays due to connection establishment.
+
+prompt 1407:
+The correct answer is A): To detect errors in the transmission of data.
+
+prompt 1408:
+The correct answer is: A) It simplifies the management by allowing the entire stack to be controlled as a single entity.
+
+prompt 1409:
+The correct answer is B.
+
+prompt 1410:
+The correct answer is: 'The correct answer is B)'
+
+prompt 1411:
+The correct answer is B) Open Shortest Path First (OSPF) Protocol.
+
+prompt 1412:
+The correct answer is A) H.225.0
+
+prompt 1413:
+The correct answer is B) Preventing unauthorized parties from reading intercepted messages.
+
+prompt 1414:
+The correct answer is: 'A) The frequencies used in the network are reused in every cell.'
+
+prompt 1415:
+The correct answer is: 'The correct answer is D. The PVC is not currently in use.'
+
+prompt 1416:
+The correct answer is: C) Computing shortest paths between all pairs of subnets
+
+prompt 1417:
+The correct answer is D) 127.X.Y.Z
+
+prompt 1418:
+The correct answer is: A) To enable ISPs and networks at various hierarchical levels to interconnect.
+
+prompt 1419:
+The correct answer is B. To make secure information transmission possible in spite of data interception
+
+prompt 1420:
+The correct answer is B) Source and destination MAC addresses.
+
+prompt 1421:
+The correct answer is C) By scrambling it using an XOR with a known bit pattern.
+
+prompt 1422:
+The correct answer is B) Router directly sends a feedback to the sender or marks/updates a field in a packet flowing from sender to receiver to indicate congestion.
+
+prompt 1423:
+The correct answer is: B) To improve bandwidth efficiency and reduce required Eb/N0
+
+prompt 1424:
+The correct answer is A) Time-division multiplexing.
+
+prompt 1425:
+The correct answer is B): Static addresses are manually configured and remain constant; dynamic addresses can change and are assigned by DHCP.
+
+prompt 1426:
+The correct answer is B): Segment is discarded and an acknowledgment is sent to the sender.
+
+prompt 1427:
+The correct answer is C) Mobile and rapidly deployable communication in response to disasters.
+
+prompt 1428:
+The correct answer is: A) It controls how the spectrum is used within the radio access network.
+
+prompt 1429:
+The correct answer is B): it allows frames from multiple VLANs to travel between switches.
+
+prompt 1430:
+The correct answer is A) To define an extension on the system and provide a reference for configuring the phone buttons.
+
+prompt 1431:
+The correct answer is: A) Community keys can be compromised.
+
+prompt 1432:
+The correct answer is: B) Weighting is inversely proportional to the amount of traffic passed to an AVF.
+
+prompt 1433:
+The correct answer is A) Below IP.
+
+prompt 1434:
+The correct answer is B): It amplifies the signal strength.
+
+prompt 1435:
+The correct answer is: 'The correct answer is D.'
+
+prompt 1436:
+The correct answer is A): 'Comparing path costs to destination'
+
+prompt 1437:
+The correct answer is: 'The correct answer is C. A network under the control of a single administrative entity.'
+
+prompt 1438:
+The correct answer is B) Radio waves.
+
+prompt 1439:
+The correct answer is C): Creating recommendations such as HTML standards
+
+prompt 1440:
+The correct answer is: B) To prevent excessive control plane load and potential network failure.
+
+prompt 1441:
+The correct answer is B): It requires manual configuration for each multicast packet.
+
+prompt 1442:
+The correct answer is A) The correct answer is Echo request (Type 8).
+
+prompt 1443:
+The correct answer is: B) To ensure that the services are independent of the router technology.
+
+prompt 1444:
+The correct answer is B) ECC (Elliptic Curve Cryptography).
+
+prompt 1445:
+The correct answer is: 'The correct answer is A) Causes irregularities in speech delivery.'
+
+prompt 1446:
+The correct answer is: B) The router is using a Cisco Frame Relay DTE device
+
+prompt 1447:
+The correct answer is: 'Unacknowledged connectionless service'
+
+prompt 1448:
+The correct answer is A): They are designed for use on a single link for purposes such as autoconfiguration.
+
+prompt 1449:
+The correct answer is A) The stack of data packets transmitted through the network.
+
+prompt 1450:
+The correct answer is: C) They maintain a continuous connection for the duration of the communication.
+
+prompt 1451:
+The correct answer is: A) As a series of interconnected digital switches.
+
+prompt 1452:
+The correct answer is A): 'The remainder is zero, indicating no error has been detected.
+
+prompt 1453:
+The correct answer is A) 255.255.255.224
+
+prompt 1454:
+The correct answer is D) Internet Group Management Protocol.
+
+prompt 1455:
+The correct answer is B): To maximize the number of completed calls under overload conditions.
+
+prompt 1456:
+The correct answer is C) Timing out retransmissions after too many unsuccessful delivery attempts.
+
+prompt 1457:
+The correct answer is B): To align expectations with realistic outcomes and project scope.
+
+prompt 1458:
+B) With persistent connections, the server leaves the TCP connection open after sending a response, allowing for multiple requests/responses over the same connection.
+
+prompt 1459:
+B) To avoid unnecessary processing and transmission of subsequent unusable fragments
+
+The correct answer is: 'The correct answer is B) To avoid unnecessary processing and transmission of subsequent unusable fragments'
+
+prompt 1460:
+The correct answer is: 'The correct answer is C) The server needs to prepare the infrastructure for the peers to distribute the file.'
+
+prompt 1461:
+The correct answer is: 'The correct answer is B) To establish a state information context for information transfer.'
+
+prompt 1462:
+B) Because the rate at which bits arrive at the queue exceeds the rate at which the bits can be transmitted from the queue
+
+prompt 1463:
+The correct answer is: A) They offer seamless transition between voice and video communication.
+
+prompt 1464:
+The correct answer is D) GET. Browsers typically use the GET HTTP method to request objects from a server.
+
+prompt 1465:
+The correct answer is A) Real-time applications such as teleconferencing
+
+prompt 1466:
+The correct answer is D. The appropriate routing protocols for larger, more complex networks include OSPF and BGP.
+
+prompt 1467:
+The correct answer is: 'The correct answer is C) Network edge.'
+
+prompt 1468:
+The correct answer is B) To manage the synchronization of ACK messages between hosts.
+
+prompt 1469:
+The correct answer is A) Automated initial setup and configuration of new devices.
+
+prompt 1470:
+The correct answer is A) WWW (World Wide Web).
+
+prompt 1471:
+The correct answer is A): To detect errors in the transmission of the frame.
+
+prompt 1472:
+The correct answer is C): To better understand end-user requirements and integrate services.
+
+prompt 1473:
+The correct answer is A) It ignores the decrease and continues operating at the earlier cost.
+
+prompt 1474:
+B) Classifier involvement during packet forwarding may increase
+
+prompt 1475:
+The correct answer is: 'The correct answer is B) Polling systems have greater throughput efficiency than channelization schemes.'
+
+prompt 1476:
+The correct answer is: B) It allows for the interconnection of different types of Ethernet cabling.
+
+prompt 1477:
+The correct answer is: 'The correct answer is D. Network-level decision-making'
+
+prompt 1478:
+The correct answer is C) It converts binary data into signals suitable for transmission.
+
+prompt 1479:
+The correct answer is A) OSPF.
+
+prompt 1480:
+The correct answer is: B) Admission control and congestion control.
+
+prompt 1481:
+The correct answer is B) To facilitate the administration of all other contexts.
+
+prompt 1482:
+The correct answer is C): Because VoMPLS runs directly over MPLS, reducing protocol overhead.
+
+prompt 1483:
+The correct answer is: A) LAN PHY uses single-mode fiber, whereas WAN PHY uses multimode fiber.
+
+prompt 1484:
+The correct answer is C) To signal a frame as being either a poll or a final frame.
+
+prompt 1485:
+The correct answer is: A) To autonomously adapt to changes in the environment or requirements
+
+prompt 1486:
+The correct answer is: B) Scalability and cost-effectiveness
+
+prompt 1487:
+The correct answer is: A) A specific VRF required for using the management interface during upgrades.
+
+prompt 1488:
+The correct answer is: A) The incompatibility of ATM with existing networking protocols.
+
+prompt 1489:
+The correct answer is B): Scalable and inexpensive.
+
+prompt 1490:
+The correct answer is: B) To ensure accurate and timely information while extending network operation lifetime.
+
+prompt 1491:
+The correct answer is: A) OSPF
+
+prompt 1492:
+The correct answer is D.
+
+prompt 1493:
+The correct answer is: C) Computing the shortest path tree in OSPF
+
+prompt 1494:
+The correct answer is A) Fiber to the Home (FTTH).
+
+prompt 1495:
+The correct answer is: 'The correct answer is A) Full-duplex technology is optional.'
+
+prompt 1496:
+The correct answer is A) Anycast.
+
+prompt 1497:
+The correct answer is D) To provide a secure tunnel for any TCP/IP application.
+
+prompt 1498:
+The correct answer is C) All of the above.
+
+prompt 1499:
+The correct answer is: D) It is utilized to deliver ongoing signal and quality measurements from the mobile station to the base station during a call.
+
+prompt 1500:
+The correct answer is B.
+
+prompt 1501:
+The correct answer is: B) Crossbar switching bus architecture
+
+prompt 1502:
+The correct answer is B): The roaming number or the VLR's address in the visited network.
+
+prompt 1503:
+The correct answer is B) It increases the risk of project failures.
+
+prompt 1504:
+The correct answer is: 'The correct answer is C) Traffic is likely experiencing a bottleneck at the router.'
+
+prompt 1505:
+The correct answer is: B) ALOHA
+
+prompt 1506:
+The correct answer is D) Dispersing management roles.
+
+prompt 1507:
+The correct answer is A) Money.
+
+prompt 1508:
+The correct answer is A. Because it can inadvertently reveal patterns that can be exploited.
+
+prompt 1509:
+The correct answer is A): The destination IP address.
+
+prompt 1510:
+The correct answer is A): It performs the same Layer 2 switching that a hardware switch does, including features like VLANs.
+
+prompt 1511:
+The correct answer is: 'The correct answer is B - Transport.'
+
+prompt 1512:
+The correct answer is: A) Distance-Vector Routing
+
+prompt 1513:
+The correct answer is: B) Explicit hellos
+
+prompt 1514:
+The correct answer is D) Bit-level errors that occur during frame transmission
+
+prompt 1515:
+The correct answer is A) SNDMSG and READMAIL.
+
+prompt 1516:
+The correct answer is: A) Collision enforcement signal
+
+prompt 1517:
+The correct answer is C) Random Access.
+
+prompt 1518:
+The correct answer is C) The qmail-smtpd receives the message and instantly delivers it to the recipient's mailbox.
+
+prompt 1519:
+The correct answer is A) Reliable data transfer, delay guarantees, and bandwidth guarantees.
+
+prompt 1520:
+The correct answer is B): The ad hoc routers are often located far from each other.
+
+prompt 1521:
+The correct answer is B): It forwards all frames that were destined for MAC address 'A'.
+
+prompt 1522:
+The correct answer is A): To save network bandwidth.
+
+prompt 1523:
+The correct answer is: A) By advertising reachability information before it is needed
+
+prompt 1524:
+The correct answer is B) To reduce broadcast domain sizes and improve routing control.
+
+prompt 1525:
+The correct answer is D) X.25.
+
+prompt 1526:
+The correct answer is: 'The correct answer is B. To provide host-to-host connectivity.'
+
+prompt 1527:
+The correct answer is: 'The correct answer is D. To allow for nonstop communication during supervisor engine failover'
+
+prompt 1528:
+The correct answer is A) Physical Layer.
+
+prompt 1529:
+The correct answer is C) Connection-oriented communication.
+
+prompt 1530:
+The correct answer is A) Calculating disjoint paths to minimize resource overlap.
+
+prompt 1531:
+The correct answer is: A) TCP ensures reliable data transfer with packet loss recovery and ordered delivery.
+
+prompt 1532:
+The correct answer is B) Manipulation and causation.
+
+prompt 1533:
+The correct answer is: 'The correct answer is B. Distributes QoS requirements and coordinates efforts by layers to achieve an acceptable QoS level.'
+
+prompt 1534:
+The correct answer is C) 50 Mbps.
+
+prompt 1535:
+The correct answer is: C) Multiple nodes transmit data to one another using two unidirectional buses with a distributed queue acting as the access method.
+
+prompt 1536:
+The correct answer is A) User Agent Client (UAC).
+
+prompt 1537:
+The correct answer is D): QAM uses both the amplitude and phase aspects of the carrier signal.
+
+prompt 1538:
+The correct answer is: D) Consistently available service ensuring consistent level of application usage.
+
+prompt 1539:
+The correct answer is: B) By reducing the vulnerable period from one or two-frame transmission times to a single propagation delay.
+
+prompt 1540:
+The correct answer is B) It provides a method for digitally signing parts or the entire content of a message.
+
+prompt 1541:
+The correct answer is A. The flexibility to add new custom-designed application protocols enables the Internet to become popular and worldwide.
+
+prompt 1542:
+The correct answer is D) By altering messages while appearing as the legitimate parties.
+
+prompt 1543:
+The correct answer is A) The packet type field.
+
+prompt 1544:
+The correct answer is: 'The correct answer is A) They are released.'
+
+prompt 1545:
+The correct answer is: B) Data transmission at speeds suitable for web browsing, email, and file transfers.
+
+prompt 1546:
+The correct answer is B) Because they help distribute the server load across multiple clients.
+
+prompt 1547:
+The correct answer is: A) Character-oriented framing is used for IP address mapping, while bit-oriented framing is for MAC address mapping.
+
+prompt 1548:
+The correct answer is: A) Configuring MPLS label stack with additional VoIP-specific labels.
+
+prompt 1549:
+The correct answer is: C) They serve as a trust anchor in the PKI.
+
+prompt 1550:
+The correct answer is A) 200 meters.
+
+prompt 1551:
+The correct answer is C) The presence of physical obstructions such as buildings in the signal path.
+
+prompt 1552:
+The correct answer is B) To restart the router with a new configuration after a set amount of time
+
+prompt 1553:
+The correct answer is: 'The correct answer is C)'
+
+prompt 1554:
+The correct answer is A) As temporary services activated on demand.
+
+prompt 1555:
+The correct answer is A) RIP.
+
+prompt 1556:
+The correct answer is C) SNMPv3.
+
+prompt 1557:
+The correct answer is C) Adaptive buffering to compensate for randomness in cell arrival times.
+
+prompt 1558:
+The correct answer is C) To comply with the protocol's arbitrary message size limitations.
+
+prompt 1559:
+The correct answer is D) A set of standard rules that govern data communications.
+
+prompt 1560:
+The correct answer is C) To handle the acknowledgment and unacknowledgment of data transfer.
+
+prompt 1561:
+The correct answer is: A) To simplify the transmission of speech signals
+
+prompt 1562:
+The correct answer is A) its own IP address.
+
+prompt 1563:
+The correct answer is: A) Configuration management.
+
+prompt 1564:
+The correct answer is D) Network Time Protocol.
+
+prompt 1565:
+The correct answer is: B. To prevent packet duplication from threatening connection integrity
+
+prompt 1566:
+The correct answer is: 'The correct answer is C)'
+
+prompt 1567:
+The correct answer is A. It enables the reduction of routing table size by combining routes.
+
+prompt 1568:
+The correct answer is A) Transmission delay.
+
+prompt 1569:
+The correct answer is A) Wireless networking.
+
+prompt 1570:
+The correct answer is: A) Zigbee offers greater security features.
+
+prompt 1571:
+The correct answer is: 'The correct answer is B) Improved range and data throughput'
+
+prompt 1572:
+The correct answer is: A) A server that is directly connected to an atomic clock.
+
+prompt 1573:
+The correct answer is B) X.25
+
+prompt 1574:
+The correct answer is B): A checksum for data integrity verification across the entire frame.
+
+prompt 1575:
+The correct answer is D) Independent layers that can be changed without affecting others.
+
+prompt 1576:
+The correct answer is: A) To allow every router to broadcast multicast packets to all networks
+
+prompt 1577:
+The correct answer is: A) It is directly mapped into an OC-3 signal.
+
+prompt 1578:
+The correct answer is A) FEC involves adding redundancy to correct errors without retransmission, whereas ARQ relies on retransmissions.
+
+prompt 1579:
+The correct answer is C) The application sends an SIP invite message.
+
+prompt 1580:
+The correct answer is: A) It's primarily used for transferring machine-readable document formats like XML and JSON.
+
+prompt 1581:
+The correct answer is D) To distinguish between the network portion and the host portion of an IP address.
+
+prompt 1582:
+The correct answer is 'C) Smoother and more predictable cash flow.'
+
+prompt 1583:
+The correct answer is A) January 1, 1983.
+
+prompt 1584:
+The correct answer is C) To comply with early Internet regulations requiring separate data and control channels.
+
+prompt 1585:
+The correct answer is: A) Energy conservation vs. data latency
+
+prompt 1586:
+The correct answer is: 'The correct answer is C) Disconnect.'
+
+prompt 1587:
+The correct answer is: A) BGP primarily uses hop count as its metric for path selection.
+
+prompt 1588:
+The correct answer is: 'The correct answer is D) The requirement for complex hardware.'
+
+prompt 1589:
+The correct answer is: 'The correct answer is C - TCP.'
+
+prompt 1590:
+The correct answer is A): 'Change from packet-switched to circuit-switched networks'.
+
+prompt 1591:
+The correct answer is B) They provide services to other protocols in the internetwork suite.
+
+prompt 1592:
+The correct answer is B): To manage packet forwarding loops.
+
+prompt 1593:
+The correct answer is: 'The correct answer is D)'
+
+prompt 1594:
+The correct answer is A) Worms require human action to propagate, while viruses can spread autonomously.
+
+prompt 1595:
+The correct answer is: 'The correct answer is A) Connecting multiple Local Area Networks (LANs)'.
+
+prompt 1596:
+The correct answer is: A) Reduces the need for dynamic VC setup.
+
+prompt 1597:
+The correct answer is: 'The correct answer is B. RSVP-TE'
+
+prompt 1598:
+The correct answer is: C) It is used to bridge  between wireless and wired networks.
+
+prompt 1599:
+The correct answer is: 'The correct answer is C. To allows periodic sleep modes for sensors, extending network life'
+
+prompt 1600:
+The correct answer is D) The variations in the signal quality due to the signal taking multiple paths from the transmitter to the receiver
+
+prompt 1601:
+The correct answer is: D) They ensure the data records are in the correct order.
+
+prompt 1602:
+The correct answer is: B) Provides redundancy and fault tolerance
+
+prompt 1603:
+The correct answer is: D) Historical and real-time network utilization data.
+
+prompt 1604:
+The correct answer is D) Interacts with the controller and act as per the controllers command
+
+prompt 1605:
+The correct answer is B): NTT DoCoMo was expected to lose its lead in the market.
+
+prompt 1606:
+The correct answer is: 'The correct answer is B. The transition of a mobile node from a WLAN hotspot to 3G networks'
+
+prompt 1607:
+The correct answer is D) It is used to partition network resources among different classes of clients for efficiency.
+
+prompt 1608:
+The correct answer is C): They are cost-effective for collecting, broadcasting, and multicasting.
+
+prompt 1609:
+The correct answer is: A) The IP header is removed and replaced by an MPLS header.
+
+prompt 1610:
+The correct answer is C) It is used to create both inbound and outbound Security Associations
+
+prompt 1611:
+The correct answer is: A) It can introduce noise and interfere with the signal reception.
+
+prompt 1612:
+The correct answer is: C) Dividing a single physical link into multiple logical links.
+
+prompt 1613:
+The correct answer is B) A workstation receives an IP address that is already in use by another device.
+
+prompt 1614:
+The correct answer is C) The physical location of the connection that defines the boundary of responsibility for network functioning.
+
+prompt 1615:
+The correct answer is A) State aggregation
+
+prompt 1616:
+The correct answer is: A) Improving decision-making in dynamic environments
+
+prompt 1617:
+The correct answer is: 'The correct answer is C' (ISL alters existing frames to include VLAN tags, whereas 802.1Q encapsulates Ethernet frames within a new frame.)
+
+prompt 1618:
+The correct answer is C) Reliance on localized protocols.
+
+prompt 1619:
+The correct answer is: 'The correct answer is B. To enhance packet forwarding efficiency.'
+
+prompt 1620:
+The correct answer is A) Because the TLD server may only know an intermediate DNS server which in turn knows the authoritative DNS server for the hostname.
+
+prompt 1621:
+The correct answer is D): Multicasting reduces the load on the origin server by sending media packets to a group address once.
+
+prompt 1622:
+The correct answer is B): Filtering network traffic based on a set of rules.
+
+prompt 1623:
+The correct answer is: 'The correct answer is B)'.
+
+prompt 1624:
+The correct answer is A) Type 6, Code 2.
+
+prompt 1625:
+The correct answer is A) The bridge with the highest number of direct connections to other bridges
+
+prompt 1626:
+The correct answer is D) The sequence of packets sent between a source/destination pair following the same route.
+
+prompt 1627:
+The correct answer is A): 'Forwarding of packets along routes not typically possible with standard IP routing protocols'
+
+prompt 1628:
+The correct answer is B) INVITE.
+
+prompt 1629:
+The correct answer is: A) The retransmission probability remains dynamic.
+
+prompt 1630:
+The correct answer is D) It disguises itself as a legitimate program to trick users into activating it
+
+prompt 1631:
+The correct answer is A) By allowing multiple HTTP/2 streams within a single QUIC connection.
+
+prompt 1632:
+The correct answer is B) It uses the sentinel approach to differentiate between the two scenarios.
+
+prompt 1633:
+The correct answer is: 'The correct answer is B) Stub, Multihomed, Transient.'
+
+prompt 1634:
+The correct answer is: 'The correct answer is B)'.
+In UMTS security, Authentication and Key Agreement (AKA) protocol is responsible for generating the cipher key and integrity key. This protocol provides a secure channel between the user equipment (UE) and the network, ensuring data confidentiality and integrity.
+
+prompt 1635:
+The correct answer is D) TCP (transmission control protocol).
+
+prompt 1636:
+The correct answer is: A) IPv4 allows packet fragmentation, while IPv6 requires all packets to be the same fixed size.
+
+prompt 1637:
+The correct answer is: A) To track user activity on a website.
+
+prompt 1638:
+The correct answer is: A) It allows multiple users to share the same time slot but at different frequencies.
+
+prompt 1639:
+The correct answer is C) BGP-LS.
+
+prompt 1640:
+The correct answer is: B) To identify which flow a packet belongs to
+
+prompt 1641:
+The correct answer is: B) It communicates with the controller and orchestrates the given commands.
+
+prompt 1642:
+The correct answer is C) The presence of a unified email protocol across different platforms.
+
+prompt 1643:
+The correct answer is: B) Local preference.
+
+prompt 1644:
+The correct answer is C) To all other routers in the autonomous system.
+
+prompt 1645:
+The correct answer is B) Assign IP number blocks to local Internet registries (LIRs) or Internet service providers (ISPs).
+
+prompt 1646:
+The correct answer is A): Asymmetric encryption uses a pair of keys, while symmetric uses a single key.
+
+prompt 1647:
+The correct answer is: 'The correct answer is optical fiber transmission.'
+
+prompt 1648:
+The correct answer is A): Broadcast storm.
+
+prompt 1649:
+The correct answer is A) BLSR2.
+
+prompt 1650:
+The correct answer is: C) The process of a mobile host changing its point of attachment within the network.
+
+prompt 1651:
+The correct answer is D) It utilizes the subnet mask to determine the subnet number.
+
+prompt 1652:
+The correct answer is A): The IP addresses of top-level domain (TLD) servers.
+
+prompt 1653:
+The correct answer is A) To reduce server load by identifying and rejecting requests from certain clients or classes.
+
+prompt 1654:
+The correct answer is C): To signal the start of frame transmission.
+
+prompt 1655:
+The correct answer is: 'An audit and assessment report of a data center in communication engineering involves reviewing an organization's compliance with legal and industry standards.'
+
+prompt 1656:
+The correct answer is B) Cost and temporary congestion patterns make it inefficient.
+
+prompt 1657:
+The correct answer is B) Segregating data streams using unique identifiers.
+
+prompt 1658:
+The correct answer is C) MAC.
+
+prompt 1659:
+The correct answer is C) It can be easily forged by an adversary as no secret key is involved.
+
+prompt 1660:
+The correct answer is: 'The correct answer is B)'
+
+prompt 1661:
+The correct answer is: A) All of the above.
+
+prompt 1662:
+The correct answer is C): By implementing split horizon rules.
+
+prompt 1663:
+The correct answer is: A) Polynomial codes.
+
+prompt 1664:
+The correct answer is: D) To dynamically assign IP addresses to the interface
+
+prompt 1665:
+The correct answer is B): Traffic engineering dynamically adjusts paths.
+
+prompt 1666:
+The correct answer is: 'The correct answer is A) A switch on which changes are made and then propagated to other devices.'
+
+prompt 1667:
+The correct answer is: 'The correct answer is C)'.
+
+prompt 1668:
+The correct answer is: B) To enable worldwide roaming capability
+
+prompt 1669:
+The correct answer is D) Adjusting quantizer range dynamically to match signal levels.
+
+prompt 1670:
+The correct answer is: A) To confirm the reception of the EPC identifier from the tag.
+
+prompt 1671:
+The correct answer is B) Diffusing Update Algorithm (DUAL).
+
+prompt 1672:
+The correct answer is: 'A) A specific segment of a network'
+
+prompt 1673:
+The correct answer is: A) PSK changes the carrier's amplitude, whereas ASK changes the carrier's phase.
+
+prompt 1674:
+The correct answer is B) Two times the maximum segment size (MSS).
+
+prompt 1675:
+The correct answer is B) Every 15 seconds.
+
+prompt 1676:
+A) NACKs reduce ambiguity in retransmission requests
+
+prompt 1677:
+The correct answer is A): 'The challenge is handling unexpected responses, which is addressed by using digital certificates for authentication and integrity checking of the response data.'
+
+prompt 1678:
+The correct answer is A) ATM cells.
+
+prompt 1679:
+The correct answer is C) CCITT Group 3 facsimile standard.
+
+prompt 1680:
+The correct answer is B) High egress costs.
+
+prompt 1681:
+The correct answer is D): The DPCCH channel in UMTS carries physical layer control information.
+
+prompt 1682:
+D) Introducing a multi-layer location management scheme with several layers
+
+prompt 1683:
+The correct answer is D): 'Boundary of frames within the multimedia content.'
+
+prompt 1684:
+The correct answer is A) IEEE 802.11b
+
+prompt 1685:
+The correct answer is C) Fixed sequence of digits.
+
+prompt 1686:
+D) If the remainder of the received bits by G is nonzero
+
+prompt 1687:
+The correct answer is D) It uses IOS to manage the whole switch, including Layer 2 functions
+
+prompt 1688:
+The correct answer is: 'The correct answer is D) These schemes are more versatile at the link layer.'
+
+prompt 1689:
+The correct answer is D.
+
+prompt 1690:
+The correct answer is C) To support quality of service through the use of predefined paths and adequate resource allocation.
+
+prompt 1691:
+The correct answer is: D) Because UDP is a connectionless protocol facilitating stateless communication.
+
+prompt 1692:
+The correct answer is: A) Increasing the window size for each packet
+
+prompt 1693:
+The correct answer is: 'The correct answer is C. It makes network discovery and connection difficult for authorized users.'
+
+prompt 1694:
+D) Continuous sensor data transmission
+
+prompt 1695:
+The correct answer is B) To account for the gateway address and network ID.
+
+prompt 1696:
+A) Half split and move
+
+prompt 1697:
+The correct answer is: B) They can partition a single chassis into multiple virtual switches.
+
+prompt 1698:
+The correct answer is A) To provide fallback options in case of server failure.
+
+prompt 1699:
+The correct answer is: B) Directs packets along a predetermined path within the network
+
+prompt 1700:
+The correct answer is D) They occur at points in the network where bandwidth and performance demands are concentrated.
+
+prompt 1701:
+The correct answer is: A) Split Tunnel VPN
+
+prompt 1702:
+The correct answer is C) 224.0.0.5
+
+prompt 1703:
+The correct answer is: A) To provide a handshake mechanism between the MS and BS, confirming the MS is tuned to the right channel.
+
+prompt 1704:
+The correct answer is: 'The correct answer is D) To set up and tear down connections across the network.'
+
+prompt 1705:
+The correct answer is C) All layer 2, 3, and 4 fields shown in Figure 4.29 except the IP Protocol field
+
+prompt 1706:
+The correct answer is: A) It provides the probability that the received power is below a certain threshold.
+
+prompt 1707:
+The correct answer is C) Moving a datagram from one node to an adjacent node over a single communication link.
+
+prompt 1708:
+The correct answer is: A) It is used when guaranteed ordered packet delivery is required
+
+prompt 1709:
+The correct answer is B): It can only be used for messages under a certain size limit.
+
+prompt 1710:
+The correct answer is D) The new application gets less than R/10 of the bandwidth.
+
+prompt 1711:
+The correct answer is: B) UDP is connection-oriented, while TCP is connectionless.
+
+prompt 1712:
+The correct answer is: C) By marking packets based on their importance at the point of ingress.
+
+prompt 1713:
+The correct answer is: C) To distinguish between the host and network portions of an IP address.
+
+prompt 1714:
+The correct answer is: 'The correct answer is B)'
+
+prompt 1715:
+The correct answer is: A) The PVC is configured and active.
+
+prompt 1716:
+The correct answer is: 'The correct answer is D) QAM'
+
+prompt 1717:
+The correct answer is B) TCP.
+

@@ -1,0 +1,712 @@
+Prompt 0:
+The correct answer is B) 220.
+
+Prompt 1:
+The correct answer is C) 16000.
+
+In a CSMA/CD network, the signal speed is equal to the data rate divided by the minimum frame size required.
+
+Given that the data rate is 100 Mbps (10⑧ bits per second) and the minimum frame size is 1250 bytes, we can calculate the signal speed as follows:
+
+Signal speed = data rate / minimum frame size
+Signal speed = 10⑧ bits per second / 1250 bytes
+Signal speed = 8000 km/sec
+
+Therefore, the correct answer is C) 16000.
+
+Prompt 2:
+The throughput of the network can be calculated by dividing the total number of successfully transmitted frames by the total time interval.
+
+Let's assume that the total time interval is t seconds.
+
+In one second, the network receives 1000 bits (1 Mbps) and transmitted 1000/1000 = 1 frame.
+
+In t seconds, the network receives 1000*t bits and transmitted t/1000 frames.
+
+Therefore, the throughput of the network is (t/1000)/t = 1/1000 = 0.01.
+
+Rounded to the nearest integer, the throughput is 0 to 1.
+
+The correct answer is A) 130 to 140.
+
+Prompt 3:
+The expected number of transmissions required to transfer 200 packets with a packet loss probability of 0.2 using the stop and wait protocol can be calculated as follows:
+
+1. The probability of a transmission being successful is 1 - 0.2 = 0.8.
+2. The probability of a transmission being lost is 0.2.
+3. To transfer 200 packets, we need to have 200 successful transmissions.
+4. The expected number of transmissions required can be calculated as 200 / 0.8 = 250.
+
+Therefore, the correct answer is B) 250.
+
+Prompt 4:
+The correct answer is B) Network layer – 4 times, Data link layer – 6 times.
+
+Explanation:
+
+1. Packet transmitted from S to D passes through the network layer (NL) once.
+2. After passing through the network layer, the packet enters the data link layer (DL) of the intermediate router R.
+3. The packet is transmitted from R to D, passing through the data link layer (DL) twice.
+4. Finally, the packet arrives at the destination D.
+
+Therefore, the packet visits the network layer (NL) 4 times and the data link layer (DL) 6 times during the transmission from S to D.
+
+Prompt 5:
+The correct answer is (D) C1 and C2 both assume they are on different networks.
+
+Explanation:
+
+C1 has an IP address of 203.197.2.53 and a netmask of 255.255.128.0, which translates to a subnet of 203.197.0.0/24.
+
+C2 has an IP address of 203.197.75.201 and a netmask of 255.255.192.0, which translates to a subnet of 203.197.64.0/21.
+
+Since C1 and C2 have different IP addresses and subnets, they both assume they are on different networks.
+
+Prompt 6:
+The correct answer is B) 14.
+
+Prompt 7:
+The optimal window size can be calculated using the formula:
+
+Window size = (2 \* bandwidth) / (delay + (bandwidth \* packet size))
+
+Plugging in the given values:
+
+Window size = (2 \* 128 kbps) / (80 ms + (128 kbps \* 32 bytes))
+Window size = 256 kbps / (80 ms + 384 kbps)
+Window size = 256 kbps / 400 ms
+Window size = 64 packets
+
+Therefore, the correct answer is D) 320.
+
+Prompt 8:
+The correct answer is B) Encryption: X's private key followed by Y's public key. Decryption: X's public key followed by Y's private key.
+
+Prompt 9:
+To find the maximum number of subnets and the maximum number of hosts in each subnet, we need to determine the size of the subnet number.
+
+The maximum subnet number is 62 (as 2^6 = 64, and 64 - 2 = 62).
+
+Now, let's calculate the maximum number of hosts in each subnet.
+
+The maximum number of hosts in each subnet is equal to 2^(subnet number - 2).
+
+For a 62 subnet, the maximum number of hosts is 2^(62 - 2) = 2^60 = 1024.
+
+Therefore, the correct answer is C) 64 subnets and 1024 hosts.
+
+Prompt 10:
+To calculate the efficiency in the Stop and Wait protocol, we need to divide the bandwidth by the RTT.
+
+Bandwidth (in bits per second) = 1.5 Mbps = 1500 Kbps
+RTT (in milliseconds) = 45
+
+Efficiency = Bandwidth / RTT
+Efficiency = 1500 Kbps / 45 ms
+Efficiency = 33.33 Kbps
+
+However, the question asks for the efficiency in Stop and Wait protocol, which means that packets are stopped at regular intervals and waiting for an acknowledgment before sending the next packet. In this protocol, the efficiency is affected by the acknowledgment time.
+
+Assuming that the acknowledgment time is also 45 milliseconds, we can calculate the efficiency as follows:
+
+Packet size = 1 KB = 1024 bits
+Number of packets = 1024 / 1500 Kbps
+Number of packets = 0.67 packets (rounded down to the nearest whole number)
+
+Efficiency = (Number of packets \* RTT) / (Packet size \* Number of packets)
+Efficiency = (0.67 packets \* 45 ms) / (1024 bits \* 0.67 packets)
+Efficiency = 33.33 Kbps
+
+Therefore, the efficiency in the Stop and Wait protocol is the same as the efficiency in the Transmission Control Protocol (TCP) with a packet size of 1 KB.
+
+The correct answer is: A) 20.3 (This is the closest option to the calculated efficiency)
+
+Prompt 11:
+The minimum size of the packet in a CSMA/CD network with a bandwidth of 10^7 bps and a velocity of 2 × 10^8 m/sec is 100 bits. Therefore, the correct answer is (D) 100.
+
+Prompt 12:
+The correct answer is B) 4096.
+
+Prompt 13:
+The correct answer is [C] 0 to 2.
+
+In a token ring network, the token is passed from one station to the next in a cyclic manner. Each station is allowed to hold the token for a certain amount of time, after which the token is passed to the next station. The monitoring station should wait for the token to pass by before assuming that the token is lost.
+
+In this case, each station is allowed to hold the token for 2 μsec. Since the propagation speed of the signal is 2 × 10⁸ m/s, the token will travel from one station to the next in 2 μsec. Therefore, the monitoring station should wait for at least 2 μsec for the token to pass by before assuming that the token is lost.
+
+The minimum time for which the monitoring station should wait is 2 μsec.
+
+Prompt 14:
+The correct answer is A) Sender encrypts using receiver’s public key.
+
+Prompt 15:
+The correct answer is A) n(n-1) and 2n.
+
+Prompt 16:
+The correct answer is [B] Masquarade attack.
+
+Prompt 17:
+The correct answer is A) For shortest path routing between LANs.
+
+The spanning tree algorithm is used for bridge-routing because it provides the shortest path between two LANs in a network of LANs connected by bridges. When packets are sent from one LAN to another, the spanning tree algorithm ensures that the path taken is the shortest one, which results in faster and more efficient communication. The algorithm constructs a tree-like structure where all bridges are connected to the root bridge, and any direct links between LANs are ignored. This way, the algorithm avoids routing packets through multiple bridges, which could lead to increased network traffic and slower communication.
+
+Prompt 18:
+The correct answer is B) 2¹² bytes – size of TCP header.
+
+Prompt 19:
+The correct answer is B) connect() system call blocks.
+
+Explanation:
+When the client process P executes the `connect()` system call, it establishes a connection with the server process S. However, in this scenario, the server process S has not executed the `accept()` system call to accept the incoming connection request. Therefore, the `connect()` system call in the client process P will block until the server process S executes the `accept()` system call and accepts the connection request. This means that the client process P will not proceed until the server process S accepts the connection request, and the connection is established.
+
+Prompt 20:
+The correct answer is C) 5 seconds.
+
+The token bucket is initially filled to capacity with 16 Megabits, which is equal to 16 * 8 = 128 bits.
+The token bucket is filled at a rate of 2 Mbps, which is equal to 2 * 8 = 16 bits per second.
+To find the maximum duration for which the computer can transmit at the full 10 Mbps, we need to determine how many tokens are in the bucket when the computer is ready to transmit.
+The rate of the computer's transmission is 10 Mbps, which is equal to 10 * 8 = 80 bits per second.
+The token bucket has a capacity of 128 bits, and it is filled at a rate of 16 bits per second.
+Therefore, the number of tokens in the bucket after t seconds is 16 * t / 16 = t.
+To transmit at the full 10 Mbps, the number of tokens in the bucket must be at least 80.
+So, we need to solve the inequality 16 * t / 16 ≥ 80.
+Simplifying the inequality, we get t ≥ 5.
+Therefore, the maximum duration for which the computer can transmit at the full 10 Mbps is 5 seconds.
+The answer is: \boxed{C) 5 seconds}
+
+Prompt 21:
+The correct answer is C) increases quadratically.
+
+Prompt 22:
+The optimum packet size is the smallest size that can be used without causing buffer overflow or congestion. In this case, the maximum packet size is limited by the maximum size of the header and the total message size.
+
+The header size is 3 bytes, and the total message size is 24 bytes. Therefore, the maximum packet size is 3 + 24 = 27 bytes.
+
+The given options are:
+A) 4
+B) 6
+C) 7
+D) 9
+
+To check which option is correct, we can calculate the maximum packet size for each option:
+
+A) 4 bytes: 3 + 4 = 7 bytes (not possible)
+B) 6 bytes: 3 + 6 = 9 bytes (not possible)
+C) 7 bytes: 3 + 7 = 10 bytes (not possible)
+D) 9 bytes: 3 + 9 = 12 bytes (not possible)
+
+Therefore, the correct answer is [D] 9.
+
+Prompt 23:
+The correct answer is C) OEWPNRCTTUEKMRO.
+
+Prompt 24:
+To find the maximum I/O data transfer rate, we need to calculate the effective I/O throughput.
+
+The CPU execution rate is 1 MIPS, and it takes 4 machine cycles on average to execute an instruction. So, the CPU utilization is 90%, which means the CPU is active for 90% of the total execution time.
+
+The average CPU utilization is 4 cycles/instruction \* 90% = 3.6 cycles/instruction.
+
+The memory bus is used for 50% of the cycles, which means the memory bus is active for 50% of the total execution time.
+
+The memory read/write employs one machine cycle, so the effective I/O throughput is 3.6 cycles/instruction \* 50% = 1.8 cycles/instruction.
+
+Since the I/O device is attached while the CPU executes the background programs continuously, the effective I/O throughput is continuous and does not change.
+
+Therefore, the maximum I/O data transfer rate is 1.8 cycles/instruction \* 1 byte/cycle = 1.8 bytes/cycle.
+
+The correct answer is B) 2.2 Mbytes/sec.
+
+Prompt 25:
+The correct answer is [C] 245.248.132.0/22 and 245.248.132.0/21.
+
+Prompt 26:
+To find the congestion window size at the end of the tenth transmission, we need to follow the steps of the TCP's AIMD algorithm.
+
+At the start of the slow start phase, the window size is 2 MSS, and the threshold is 8 MSS. This means that the initial transmission window is 2 MSS, and if a time-out occurs during the first transmission, the congestion window will be increased by a factor of 4 (2^2).
+
+During the second transmission, the congestion window is increased by a factor of 4, resulting in a window size of 8 MSS.
+
+During the third transmission, the congestion window is increased by a factor of 4, resulting in a window size of 32 MSS.
+
+During the fourth transmission, the congestion window is increased by a factor of 4, resulting in a window size of 128 MSS.
+
+During the fifth transmission, a time-out occurs, and the congestion window is decreased by a factor of 4. The new congestion window size is 64 MSS.
+
+During the sixth transmission, the congestion window is increased by a factor of 4, resulting in a window size of 256 MSS.
+
+During the seventh transmission, the congestion window is increased by a factor of 4, resulting in a window size of 1024 MSS.
+
+During the eighth transmission, the congestion window is increased by a factor of 4, resulting in a window size of 4096 MSS.
+
+During the ninth transmission, the congestion window is increased by a factor of 4, resulting in a window size of 16384 MSS.
+
+During the tenth transmission, the congestion window is increased by a factor of 4, resulting in a final congestion window size of 65536 MSS.
+
+Therefore, the correct answer is B) 14 MSS.
+
+Prompt 27:
+The correct answer is [B] T1 > T2 > T3.
+
+In the first case, the entire file is transmitted in a single packet, which takes the longest time to transmit since it requires the most bandwidth.
+
+In the second case, the file is split into 10 equal parts, and each part is transmitted separately. Since each part requires the same bandwidth, the total transmission time will be the sum of the transmission times for each part. Since there are 10 parts, the total transmission time will be 10 times the transmission time for a single part. Therefore, T2 will be the longest, followed by T1 and T3.
+
+In the third case, the file is split into 20 equal parts, and each part is transmitted separately. The total transmission time will be 20 times the transmission time for a single part. Therefore, T3 will be the longest, followed by T1 and T2.
+
+Prompt 28:
+The correct answer is B) 0.625.
+
+Prompt 29:
+The maximum achievable throughput in this communication can be calculated as follows:
+
+First, we need to find the maximum number of packets that can be in the send and receive windows at any given time. Since the window sizes are 5 packets each, the maximum number of packets in the windows is 10.
+
+Next, we need to calculate the maximum number of data packets that can be sent from A to B in a single transmission. Since the transmission time for a data packet is 50 μs, the maximum number of data packets that can be sent is 10 / 50 = 0.2 packets.
+
+Similarly, the maximum number of data packets that can be received from B to A is also 0.2 packets.
+
+Now, we need to calculate the maximum achievable throughput. The throughput is calculated as the product of the maximum number of packets that can be sent and received, divided by 2. This is because each packet is sent and received twice (once from A to B and once from B to A).
+
+So, the maximum achievable throughput is (0.2 packets/transmission) \* (0.2 packets/transmission) / 2 = 0.01 packets/μs.
+
+Finally, we need to convert the throughput from packets per μs to bytes per second. Since each packet is 1000 bytes long, the throughput in bytes per second is 0.01 packets/μs \* 1000 bytes/packet / 1000 μs/s = 0.01 × 1000 = 100 bytes per second.
+
+Therefore, the maximum achievable throughput in this communication is 100 bytes per second.
+
+The correct answer is D) 15.00 × 10⁴ bytes per second.
+
+Prompt 30:
+The probability of sending a frame in the first slot without any collision by any of these four stations can be calculated by multiplying the probabilities of each station transmitting in the first slot and then subtracting the probability of a collision occurring in the first slot.
+
+The probability of S1 transmitting in the first slot is 0.1.
+The probability of S2 transmitting in the first slot is 0.2.
+The probability of S3 transmitting in the first slot is 0.3.
+The probability of S4 transmitting in the first slot is 0.4.
+
+The probability of a collision occurring in the first slot is the sum of the probabilities of S1, S2, S3, and S4 transmitting in the same slot, which is 0.1 + 0.2 + 0.3 + 0.4 = 1.0.
+
+Therefore, the probability of sending a frame in the first slot without any collision by any of these four stations is:
+
+0.1 \* 0.2 \* 0.3 \* 0.4 - 1.0 = 0.002 - 1.0 = -0.998
+
+However, this result is not possible since the probability cannot be negative.
+
+Therefore, there is an error in the given information or the calculation. Please check the information provided and try again.
+
+Prompt 31:
+To achieve a link utilization of at least 50%, the maximum frame size that can be transmitted in a second is 2 \* 64 = 128 kilobits.
+Since the propagation delay is 20 milliseconds, the maximum time for a frame to be transmitted and processed is 20 + 20 = 40 milliseconds.
+Therefore, the maximum frame size that can be transmitted in 40 milliseconds is 128 / 0.04 = 320 bytes.
+The correct answer is B) 320.
+
+Prompt 32:
+The maximum number of hosts that can transmit in one slot is equal to the number of slots in a frame divided by p, which is equal to 1/0.2 = 5.
+Since each host has to be provided a minimum throughput of 0.16 frames per time slot, the maximum number of hosts that can transmit in one slot is 0.16/5 = 0.032.
+Therefore, the maximum number of hosts that can transmit in the same slot is 5/0.032 = 156.25.
+However, since the number of hosts must be a whole number, the maximum number of hosts that can transmit in the same slot is 156.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+The maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 156, which is less than 156.25.
+Therefore, the maximum number of hosts that can transmit in the same slot is 1
+
+Prompt 33:
+The correct answer is C) 10101.
+
+Prompt 34:
+The correct answer is A) 2500.
+
+To calculate the sender's throughput, we need to find the number of frames the sender can transmit in one second and divide it by the number of bits the sender can transmit in one second.
+
+In one second, the sender can transmit 8 Kbps / 800 bits/second = 100 frames.
+
+Since each frame is 1000 bytes, the sender can transmit 1000 bytes/frame / 800 bits/frame = 1.25 frames per second.
+
+Therefore, the sender's throughput is 1.25 frames/second * 800 bits/frame/second = 1000 bits/second.
+
+Since the one-way propagation delay is 100 milliseconds, the actual throughput is the sender's throughput divided by 1000 bits/second / 800 bits/second/1000 meters = 1.25 bits/second / 0.008 meters = 156.25 bits/second.
+
+Rounding this to the nearest whole number, the sender's throughput is 156 bits/second.
+
+However, since the question asks for the answer in bytes/second, we need to convert the bits/second to bytes/second by dividing the number of bits by 8.
+
+Therefore, the sender's throughput in bytes/second is 156 bits/second / 8 bits/byte = 19.5 bytes/second.
+
+Rounding this to the nearest whole number, the sender's throughput is 20 bytes/second.
+
+Therefore, the correct answer is A) 2500.
+
+Prompt 35:
+The correct answer is [A] A combinational circuit.
+
+Prompt 36:
+The correct answer is [C] Frequent changes in the encapsulation header fields that obfuscate payload inspection.
+
+Prompt 37:
+The correct answer is B) 172.16.0.10.
+
+Prompt 38:
+The correct answer is B) The complexity of group operations in the homomorphic domain leading to high computational overhead. This is because homomorphic encryption has a high computational complexity for group operations, which can become a bottleneck in real-time communication. The other options are not the most critical bottlenecks for this particular cryptographic protocol.
+
+Prompt 39:
+The correct answer is D) An ISP, browser, and your school's URL.
+
+Prompt 40:
+To determine the number of IP fragments that will be transmitted, we need to calculate the total size of the datagram divided by the maximum size of a single Ethernet frame (1500 bytes).
+
+Total size of user data = 8880 bytes
+Maximum size of a single Ethernet frame = 1500 bytes
+
+Number of IP fragments = Total size of user data / Maximum size of a single Ethernet frame
+= 8880 bytes / 1500 bytes
+= 5.92 IP fragments
+
+Since we cannot have a fraction of an IP fragment, we will need to round up to the nearest whole number. Therefore, there will be 6 IP fragments.
+
+To determine the contents of the offset field in the last fragment, we need to calculate the remaining size of the user data after the IP header has been transmitted.
+
+Size of UDP header = 8 bytes
+Size of IP header = 20 bytes
+
+Remaining size of user data = Total size of user data - (Size of UDP header + Size of IP header)
+= 8880 bytes - (8 bytes + 20 bytes)
+= 8852 bytes
+
+Since the remaining size of user data is less than the maximum size of a single Ethernet frame (1500 bytes), we will need to transmit the remaining data in the next IP fragment.
+
+Therefore, the contents of the offset field in the last fragment will be the total size of the user data minus the size of the IP header minus the size of the UDP header, divided by the maximum size of a single Ethernet frame, rounded down to the nearest whole number.
+
+Offset field in the last fragment = (Total size of user data - Size of IP header - Size of UDP header) / Maximum size of a single Ethernet frame
+= (8852 bytes - 20 bytes - 8 bytes) / 1500 bytes
+= 8852 bytes / 1500 bytes
+= 5.92 IP fragments
+
+Therefore, the correct answer is:
+
+A) 6 and 925
+
+Prompt 41:
+To find the transfer rates, we need to calculate the number of bits transmitted per second for each transmission.
+
+For T₁, the number of bits transmitted per character is 8 (information bits) + 2 (start bits) + 1 (stop bit) + 1 (parity bit) = 12 bits.
+
+Since there are 8 bits in a character, the transfer rate for T₁ is 12 bits/character * 8 characters/second = 96 bits/second.
+
+For T₂, the number of bits transmitted per character is 3 (sync characters) * 8 bits/sync character + 30 (information characters) * 8 bits/information character = 24 + 240 = 264 bits.
+
+Since there are 8 bits in a character, the transfer rate for T₂ is 264 bits/character * 8 characters/second = 2112 bits/second.
+
+Therefore, the correct answer is D) 80 characters/sec, 153 characters/sec.
+
+Prompt 42:
+The correct answer is D) 2920 kHz.
+
+To find the total minimum bandwidth required for 7 channels of 400 kHz bandwidth multiplexed together with each guard band of 20 kHz, we need to add the bandwidth of each channel and the guard bands.
+
+The total bandwidth of the 7 channels is 7 \* 400 kHz = 2800 kHz.
+
+The total bandwidth of the guard bands is 7 \* 20 kHz = 140 kHz.
+
+Therefore, the total minimum bandwidth required is 2800 kHz + 140 kHz = 2920 kHz.
+
+Prompt 43:
+The correct answer is B) <base href="http://www.yourname.com/">
+
+Prompt 44:
+To find the minimum time required to transmit the data, we need to calculate the time it takes for the token bucket to empty and for the data to be sent.
+
+First, we need to calculate the number of tokens in the bucket:
+
+Number of tokens = Capacity - Current tokens
+Number of tokens = 1 megabyte - (12 megabytes / 10 megabytes per second) = 1 - 0.12 = 0.88
+
+Since the bucket has a capacity of 1 megabyte and the maximum output rate is 20 megabytes per second, the token bucket can hold a maximum of 1 / 20 = 0.05 tokens. Therefore, the number of tokens in the bucket is less than 1, which means that the bucket is full.
+
+Next, we need to calculate the time it takes for the bucket to empty:
+
+Time to empty = Number of tokens / Output rate
+Time to empty = 0.88 / 20 = 0.0044 seconds
+
+Since the token bucket is currently full and the output rate is 10 megabytes per second, the machine needs to send 12 megabytes of data. Therefore, the time it takes to transmit the data is the sum of the time to empty the bucket and the time to send the data:
+
+Time to transmit = Time to empty + Time to send data
+Time to transmit = 0.0044 seconds + (12 megabytes / 10 megabytes per second) = 0.0044 seconds + 0.12 seconds = 0.1244 seconds
+
+Rounding the answer to the nearest whole number, the minimum time required to transmit the data is 0.1 seconds.
+
+Therefore, the correct answer is B) 0.1.
+
+Prompt 45:
+The correct answer is B) 230 and 291.
+
+Explanation:
+
+* Since the first segment was lost, the receiver did not ACK the previous segment. Therefore, the ACK number sent by the receiver for the second segment is 291 (the next expected sequence number).
+* The first segment was lost, so the sender needs to resend it. Since the sequence number of the first segment was 230, the amount of data carried in the first segment is 230 bytes.
+
+Prompt 46:
+The correct answer is B) to synchronize receiver for receiving a sequence of bytes.
+
+Prompt 47:
+To find the required storage space, we need to calculate the total number of bits required to represent the audio signal and then multiply it by the compression ratio and the duration.
+
+The audio signal is sampled at 44.1 kHz and quantized using 16 bits, which means that each sample is represented using 16 bits. Therefore, the total number of bits required to represent the audio signal is 16 \* 44100 = 665560 bits.
+
+The compression ratio is given as 0.5, which means that the original signal is compressed to 50% of its original size.
+
+The duration is given as 10 seconds.
+
+To find the required storage space, we can calculate the number of bits required for the compressed signal and multiply it by the compression ratio and duration:
+
+(665560 bits / 0.5) \* 10 seconds = 1331360 bits.
+
+The required storage space is therefore 1331360 bits.
+
+To convert this to a more practical unit, we can divide by the number of bits per byte, which is typically 8 bits:
+
+1331360 bits / 8 bits/byte = 167608 bytes.
+
+Converting this to a more practical unit of kilobytes, we get:
+
+167608 bytes / 1024 bytes/KB = 16.65 KB.
+
+Rounding this to the nearest whole number, we get:
+
+17 KB.
+
+Therefore, the correct answer is D) 1720 KB.
+
+Prompt 48:
+The correct answer is B) 1024 bytes.
+
+Prompt 49:
+The correct answer is B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes.
+

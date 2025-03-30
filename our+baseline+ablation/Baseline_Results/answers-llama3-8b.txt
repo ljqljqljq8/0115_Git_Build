@@ -1,0 +1,320 @@
+prompt 0:
+ The correct answer is [A)]
+
+prompt 1:
+ The correct answer is C) Decreases time to service
+
+prompt 2:
+ The correct answer is A) Defining a range of labels available for global use in an SR network.
+
+prompt 3:
+ The correct answer is D) Adding more instances of a virtual network function to handle increased load
+
+prompt 4:
+ The correct answer is [C]
+
+prompt 5:
+ The correct answer is A) IPv6 SR relies on each node having a pointer to the current label in the stack being processed
+
+prompt 6:
+ The correct answer is C) Software-Defined Network (SDN)
+
+(explanation: 5G networks utilize SDN to separate control plane and user plane functions, enabling better scalability and flexibility. This separation allows for more efficient management of network resources and services.)
+
+prompt 7:
+ The correct answer is C) It enables more dynamic and flexible network management
+
+prompt 8:
+ The correct answer is C) To provide error detection of frames
+
+prompt 9:
+ The correct answer is B) By making data unreadable to unauthorized viewers
+
+prompt 10:
+ The correct answer is B) POP
+
+In the context of SR-MPLS, a "POP" operation corresponds to the "SWAP" action in traditional MPLS.
+
+prompt 11:
+ The correct answer is [A]
+
+prompt 12:
+ The correct answer is C) It allows multiple data streams to be transmitted simultaneously
+
+prompt 13:
+ The correct answer is D) To manage server connectivity within a rack and link to aggregation switches.
+
+prompt 14:
+ The correct answer is B) Finding loop-free paths with negative link costs
+
+prompt 15:
+ The correct answer is B) It performs a binary search to determine maximum transmission rate.
+
+QUIC's use of CUBIC (Congestion Control NewReno) differs from traditional TCP approaches as it implements a binary search for determining the maximum transmission rate, which can result in faster convergence and better utilization of network bandwidth compared to the linear probing used by traditional TCP CUBIC implementations.
+
+prompt 16:
+ The correct answer is D) 160 Mb/s to 320 Mb/s
+
+prompt 17:
+ The correct answer is C) Dijkstra's algorithm
+
+prompt 18:
+ The correct answer is [A) They lack a fixed infrastructure and require end-user devices to communicate directly]
+
+prompt 19:
+ The correct answer is C) Event-driven mechanisms increase system complexity.
+
+prompt 20:
+ The correct answer is D) It avoids loops by diffusing updates.
+
+prompt 21:
+ The correct answer is A) An SPT finds the shortest path to each node, while an MST minimizes the total cost of the network
+
+prompt 22:
+ The correct answer is D) The set of protocols and processes that build information for data forwarding
+
+prompt 23:
+ The correct answer is A) Directs clients to the nearest or best instance of a service
+
+prompt 24:
+ The correct answer is C) To resolve IP addresses to MAC addresses
+
+prompt 25:
+ The correct answer is B) Excessive packet loss
+
+prompt 26:
+ The correct answer is [D]
+
+prompt 27:
+ The correct answer is D) Extreme data rates and high capacity
+
+prompt 28:
+ The correct answer is [C]
+
+prompt 29:
+ The correct answer is D) Feasibility condition
+
+prompt 30:
+ The correct answer is C) It provides the necessary information for packet forwarding decisions
+
+prompt 31:
+ The correct answer is D) Microservices
+
+prompt 32:
+ The correct answer is B) It relaxes the edges of the network to iteratively find the shortest path.
+
+prompt 33:
+ The correct answer is [D] Access Control List
+
+prompt 34:
+ The correct answer is [C]
+
+prompt 35:
+ The correct answer is C) Preventing data collisions
+
+prompt 36:
+ The correct answer is B) Create multiple virtual networks on a single physical network infrastructure
+
+prompt 37:
+ The correct answer is [C]
+
+prompt 38:
+ The correct answer is A) Trellis
+
+prompt 39:
+ The correct answer is B) Event-driven detection
+
+prompt 40:
+ The correct answer is [C]
+
+prompt 41:
+ The correct answer is D) Router
+
+prompt 42:
+ The correct answer is C) Decreased optimization
+
+prompt 43:
+ The correct answer is D) The round-trip delay when the system actively interacts with users.
+
+prompt 44:
+ The correct answer is B) High-performance service always ensures precise bounds on delay and capacity
+
+(Difference between Predictable Service and High-Performance Service)
+Predictable service emphasizes consistent performance characteristics, such as latency and jitter, which are kept within certain bounds but may not necessarily guarantee high data rates or throughput. In contrast, high-performance service focuses on achieving precise limits on both the delay (latency) and capacity (data throughput), ensuring that the network performs optimally under these specific parameters.
+
+prompt 45:
+ The correct answer is B) PDCP
+
+prompt 46:
+ The correct answer is D) Enabling routing of traffic between physically separate networks
+
+prompt 47:
+ The correct answer is B) Pre-established communication paths
+
+prompt 48:
+ The correct answer is [A) DMZ (Demilitarized Zone)]
+
+prompt 49:
+ The correct answer is D) To minimize impact on the network's performance by using less bandwidth
+
+prompt 50:
+ The correct answer is C) To provide a tunneled overlay network with dynamic adjustments for optimization.
+
+prompt 51:
+ The correct answer is [A) One-part flowspec]
+
+prompt 52:
+ The correct answer is B
+
+prompt 53:
+ The correct answer is C) Distribution layer
+
+prompt 54:
+ The correct answer is B) It contains additional context for data, aiding in accurate retrieval and use
+
+prompt 55:
+ The correct answer is C) Including some network state information to improve resource optimization.
+
+prompt 56:
+ The correct answer is [C]
+
+prompt 57:
+ The correct answer is A) It minimizes the duplication of link state changes to improve scalability
+
+prompt 58:
+ The correct answer is [C]
+
+prompt 59:
+ The correct answer is C) Compactness and future-proofing
+
+prompt 60:
+ The correct answer is B) They define limits for performance.
+
+prompt 61:
+ The correct answer is A) TTL (Time to Live) value
+
+prompt 62:
+ The correct answer is C) By systematically organizing decision-making processes
+
+prompt 63:
+ The correct answer is [C] DNS
+
+prompt 64:
+ The correct answer is C) It allows more devices to connect to a network link than the link can handle simultaneously
+
+prompt 65:
+ The correct answer is B) Isolating network control planes to manage complexity and efficiency.
+
+prompt 66:
+ The correct answer is A) To maintain the list of nodes under consideration for inclusion in the Shortest Path Tree.
+
+prompt 67:
+ The correct answer is C) Electing a Designated Intermediate System (DIS).
+
+IS-IS uses the election of a Designated Intermediate System (DIS) on multiaccess links to manage the flooding of link-state information. The DIS acts as a primary repeater and prevents redundant broadcast of link-state information, thus reducing the bandwidth usage on the network segment.
+
+prompt 68:
+ The correct answer is C) To translate private IP addresses to a public IP address
+
+prompt 69:
+ The correct answer is A) To prioritize network traffic under congestion
+
+prompt 70:
+ The correct answer is A) It ensures considerations for users, applications, and devices are integrated
+
+prompt 71:
+ The correct answer is D) It ensures the design can be justified and replicated for consistency
+
+prompt 72:
+ The correct answer is B) RESTCONF uses HTTP methods, whereas NETCONF uses XML.
+
+prompt 73:
+ The correct answer is C) By making it harder to alter previous transactions
+
+prompt 74:
+ The correct answer is [A]
+
+prompt 75:
+ The correct answer is D) Classless Inter-Domain Routing
+
+prompt 76:
+ The correct answer is [A]
+
+prompt 77:
+ The correct answer is [A]
+
+prompt 78:
+ The correct answer is [B]
+
+prompt 79:
+ The correct answer is C) To reduce human interaction with network devices
+
+prompt 80:
+ The correct answer is C) A measurable quality or function configured in network devices that defines performance or behavior.
+
+prompt 81:
+ The correct answer is B) To agree on encryption algorithms and session parameters
+
+prompt 82:
+ The correct answer is [A]
+
+prompt 83:
+ The correct answer is A) It allows dynamic allocation of resources while minimizing network traffic.
+
+prompt 84:
+ The correct answer is B) To validate proposed YANG models.
+
+prompt 85:
+ The correct answer is A) MTBF
+
+prompt 86:
+ The correct answer is B) Encrypting all fingerprint files
+
+prompt 87:
+ The correct answer is B) The tendency of data to attract additional services and applications to the same cloud location
+
+prompt 88:
+ The correct answer is [D] SLAAC
+
+prompt 89:
+ The correct answer is B) It represents a logical summary of the multiaccess link to simplify SPF calculations.
+
+prompt 90:
+ The correct answer is [A]
+
+prompt 91:
+ The correct answer is B) Any host or service that can be accessed through the network.
+
+prompt 92:
+ The correct answer is C) Increased security risks due to shared pathways
+
+prompt 93:
+ The correct answer is C) A decentralized model where trust is built through mutual endorsements.
+
+prompt 94:
+ The correct answer is A) It supports multivendor networks.
+
+prompt 95:
+ The correct answer is B) Mobile Core
+
+prompt 96:
+ The correct answer is D) To enhance redundancy and avoid vendor lock-in
+
+prompt 97:
+ The correct answer is A) Through a round-robin grant system
+
+prompt 98:
+ The correct answer is A) It separates application and network functions into distinct layers.
+
+prompt 99:
+ The correct answer is [D]
+
+prompt 100:
+ The correct answer is D) To optimize the network routing efficiency
+
+prompt 101:
+ The correct answer is B) It decreases optimization for enhanced state and reduced surface.
+
+prompt 102:
+ The correct answer is [A]
+

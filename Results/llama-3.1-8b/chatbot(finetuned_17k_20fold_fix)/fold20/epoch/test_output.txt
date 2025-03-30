@@ -1,0 +1,13 @@
+prompt 5:
+orrect answer:
+D) To determine the beginning and end of a frame
+Explanation:
+The framing bit is a crucial component in the T-1 carrier system. It is used to define the frame structure and to demarcate the start and end of each frame.
+The explanation to the correct answer is: The framing bit is used to determine the beginning and end of a frame. This allows for the accurate synchronization and framing of data in the T-1 carrier system.
+The explanation to other wrong answers are:
+Wrong answer: A) To indicate the start of a data payload
+        Why Incorrect: The framing bit is not used to indicate the start of a data payload; it is used to define the frame structure and to demarcate the start and end of each frame.
+Wrong answer: B) To encrypt the voice channels
+        Why Incorrect: Encryption is used for security purposes, not for framing or synchronization of data in the T-1 carrier system. The framing bit is used for synchronization and framing, not for encryption.
+Wrong answer: C) To adjust the bit rate of individual connections
+        Why Incorrect: The bit rate of individual connections is not adjusted by the framing bit. The framing bit is used for synchronization and framing, not for adjusting bit rates.

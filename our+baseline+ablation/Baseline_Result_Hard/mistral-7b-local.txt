@@ -1,0 +1,564 @@
+Prompt 0:
+The correct answer is [220](https://web.archive.org/web/20230718194050/https://www.hackerrank.com/domains/algorithm/knapsack/interview).
+
+Prompt 1:
+The correct answer is C) 16000.
+
+To find the signal speed in the cable, we need to use the formula:
+
+Signal Speed = Frame size / Frame error detection time
+
+First, we need to find the frame error detection time (FEDT). We know that the minimum frame size required for this network is 1250 bytes and there is a maximum transmission time of 4 μs (microseconds) at 100 Mbps. To calculate FEDT, we need to add the overhead and the propagation time.
+
+The overhead and propagation time can be found using the table for a CSMA/CD LAN from the IEEE 802.3 standard on FDDI networks. From the table, we get:
+
+Overhead = 12 bytes
+Propagation time = 48 μs
+
+Adding these together, we get:
+
+FEDT = Overhead + Propagation Time = 12 + 48 = 60 μs
+
+Now, we can plug the values into the formula:
+
+Signal Speed = Frame size / FEDT = 1250 bytes / 60 μs
+
+Converting bytes to bits, we get:
+
+1250 bytes x 8 bits = 10000 bits
+Converting μs to seconds, we get:
+60 μs / 10^6 = 60 / 10^6 = 6.0 × 10^-6 seconds
+
+So, the signal speed in the cable is:
+
+10000 bits / 6.0 × 10^-6 seconds = 16000 km/sec
+
+Therefore, the correct answer is C) 16000.
+
+Prompt 2:
+The correct answer is D) 100 to 110.
+
+Prompt 3:
+The correct answer is [C] 225. 
+
+In the stop and wait protocol, each transmission is a separate event. Let T be the number of transmissions required to transfer 200 packets, and P be the probability of packet loss per transmission, which is given as 0.2. 
+
+The expected value of T is then given by:
+
+E(T) = E(X) = 1 + P*E(X-1)
+
+where X is a geometric distribution with parameter P and E(X) denotes its expected value.
+
+Using this formula, we can calculate:
+
+E(X-1) = E(T-1) = 1 + P*E(T-2)
+
+= ...
+
+= 1 + P^2*E(1)
+
+where E(1) = 1, since the first packet is transmitted without any loss.
+
+Plugging in P = 0.2, we get:
+
+E(T) = 1 + 0.2*E(T-1)
+
+= 1 + 0.2*[1 + 0.2*E(T-2)]
+
+= ...
+
+= 1 + 0.2^n*E(1)
+
+where n is the number of transmissions.
+
+Simplifying this to obtain the recursive relation:
+
+0.8*E(T) = E(T-1)
+
+we get:
+
+E(T)/E(T-1) = 0.8
+
+Taking the limit as n approaches infinity, we obtain:
+
+lim(n->inf) [E(T)/E(T-1)] = 0.8
+
+This implies that:
+
+E(T) = 0.8*E(T-1)
+
+and taking the initial condition E(1) = 1, we get:
+
+E(T) = 8^T-1
+
+Plugging in T = 200, we obtain:
+
+E(200) = 8^200-1
+
+E(200) = 225
+
+Therefore, the expected number of transmissions required to transfer 200 packets with a packet loss probability of 0.2, using the stop and wait protocol, is 225.
+
+Prompt 4:
+The correct answer is B) Network layer – 4 times, Data link layer – 6 times.
+
+Prompt 5:
+The correct answer is D) C1 and C2 both assume they are on different networks.
+
+Prompt 6:
+The correct answer is A) 12.
+
+Here's how to figure it out:
+
+1. We know that the window size is 3 packets.
+2. Every 5th packet gets lost, so in this case, packet 5, 10, and 15 will get lost.
+3. We also know that ACKs are not lost, so A will receive feedback on whether packets are successfully received by B.
+4. Since packet 5 gets lost, A will transmit packets 6, 7, and 8.
+5. Upon receiving packet 6 and 7 (or 8), A will send packet 9 (the final packets).
+6. At this point, A will have transmitted a total of 12 packets.
+
+Therefore, The correct answer is A) 12.
+
+Prompt 7:
+The correct answer is C) 160.
+
+Using the given parameters:
+
+Window Size = 2^w (where w is the number of bits used for the window size)
+Sliding Window Protocol = 2w + 4
+
+We need to find the value of w that maximizes the throughput while minimizing the packet loss.
+
+Sliding Window Protocol = 2^w + 4
+Throughput = (Window Size) x (Bottleneck Bandwidth) / (Round Trip Delay)
+Packet Loss = (Sliding Window Protocol) x (Round Trip Delay) / (Bottleneck Bandwidth)
+
+To maximize the throughput and minimize the packet loss, we need to minimize the Sliding Window Protocol and maximize the Window Size.
+
+Since the Round Trip Delay is 80 milliseconds and the Bottleneck Bandwidth is 128 kbps, we can take those values to be 80 and 128 for the calculation.
+
+The optimum Window Size (using a trial and error approach) would be 160.
+
+So, the correct answer is C) 160.
+
+Prompt 8:
+The correct answer is:
+
+C) Encryption: X’s private key followed by Y’s public key. Decryption: Y’s private key followed by X’s public key.
+
+In public key cryptography, the sequence of keys used for operations (encryption and decryption) is as follows:
+
+Encryption:
+
+* The sender uses their private key to encrypt the message and digital signature
+* The encrypted message and digital signature are then sent to the recipient
+
+Decryption:
+
+* The recipient uses their private key to decrypt the message and digital signature
+* The decrypted message and digital signature are then verified using the recipient's public key to ensure the message's integrity
+
+Prompt 9:
+The correct answer is B) 64 subnets and 262142 hosts.
+
+A class B IP address has a 16-bit address space, allowing for a total number of unique addresses to be 2^16 = 65536. A 6-bit subnet number means that each subnet can have 2^6 = 64 hosts. A 6-bit subnet number also means that there are 2^6 = 64 possible subnets. So, the maximum number of subnets is 64, and the maximum number of hosts in each subnet is 64. However, as 2^6>64, we can further divide those subnets into smaller subnets by using the bits from 6 to 13 in every subnet. So, dividing 65536 by 2^14 (65536/16) gives us 4096, where each subnet can have 4096 hosts. Hence, we can further divide those subnets into four times the number of subnets, which is 16 subnets. It is possible to divide these subnets further but we won't be able to use all the 256 bits of the class B address space and it would be a waste of resources. Thus, a maximum of 64 subnets with each subnet having 4096 hosts is possible.
+
+Prompt 10:
+The efficiency in Stop and Wait protocol is given by the formula:
+
+Efficiency = (1 / (2 \* RTT)) \* (1 / Packet size)
+
+Given the bandwidth is 1.5 Mbps with RTT as 45 milliseconds and packet size as 1 KB, we can calculate the efficiency as follows:
+
+Efficiency = (1 / (2 \* 45)) \* (1 / 1024)
+Efficiency = (1 / 90) \* (1 / 1024)
+Efficiency = 0.000102
+
+The correct answer is D) 10.8.
+
+Prompt 11:
+The correct answer is B) 10. 
+
+Explanation: 
+
+To calculate the minimum size of the packet on a LAN, we can use the formula: packet size = velocity x transmission time. In this case, the velocity of the LAN is given as 2 × 10⁸ m/sec, which means the transmission time should be as small as possible to make the packet size the smallest. 
+
+The transmission time is determined by the bandwidth, the number of data bits, and the physical layer's maximum transmission rate. Since the LAN has a bandwidth of 10⁷ bps, the maximum data rate is given by: 
+
+rate = BW = 10⁷ bps 
+
+Using the formula for transmission time, we can calculate the minimum transmission time for a single bit: 
+
+time = 1 / rate = 1 / 10⁷ bps = 1 nsec 
+
+Therefore, the minimum size of the packet for this LAN is: 
+
+packet size = velocity x transmission time = 2 × 10⁸ m/sec x 1 nsec = 2 bits 
+
+So, the correct answer is B) 10.
+
+Prompt 12:
+The correct answer is B) 4096.
+
+Prompt 13:
+The correct answer is C) 0 to 2:
+
+In a token ring network, each station in turn holds the token and sends it along the ring to the next station. The propagation speed of the signal is the speed at which the token can travel from one station to another, which is 2 × 10⁸ m/s in this case.
+
+If a station is allowed to hold the token for 2 μsec, this means that it takes 2 μsec for the token to travel from that station to the next station, assuming no delays or interference. Therefore, if the monitoring station does not receive the token within its expected holding time, it can assume that the token has been lost.
+
+Assuming that the monitoring station is located at the end of the ring, the minimum time for which it should wait before assuming that the token is lost is the sum of the propagation delay and the maximum allowable holding time for each token.
+
+In this case, the maximum allowable holding time for each token is 2 μsec, and the propagation delay is 2 × 10⁸ m/s / 300,000,000 m/s = 0.000002 μsec.
+
+Therefore, the minimum time for which the monitoring station should wait before assuming that the token is lost is 0.000002 μsec + 2 μsec = 2.000002 μsec, which can be simplified to 2 μsec.
+
+Since each station sends the token every 2 μsec, the monitoring station should wait at most 2 μsec after sending or receiving the token before starting its next operation.
+
+Therefore, the correct answer is C) 0 to 2.
+
+Prompt 14:
+The correct answer is B) Sender encrypts using his own public key.
+
+Prompt 15:
+The correct answer is C) (n(n-1))/2 and 2n.
+
+The total number of secret keys required for a set of n individuals to communicate with each other using secret key and public key crypto-systems, respectively are:
+n(n-1) for secret keys, and 2n for public keys. Therefore, the correct answer is (n(n-1))/2 and 2n.
+
+Prompt 16:
+The correct answer is B) Masquarade attack.
+
+Prompt 17:
+The correct answer is B) For avoiding loops in the routing paths. 
+
+The spanning tree algorithm is used for bridge-routing to ensure that there are no loops in the routing paths. Loops can occur when multiple paths exist between two LANs, and packets are sent back and forth between these paths indefinitely. The spanning tree algorithm works by selecting one of these paths as the shortest path, effectively preventing any further traffic from flowing through the other paths. This ensures that traffic flows efficiently through the network without getting caught in infinite loops.
+
+Prompt 18:
+The correct answer is D: 1500 bytes.
+
+Prompt 19:
+The correct answer is C) connect() system call returns an error.
+
+The reason that connect() system call returns an error is that the server process S has not executed any accept() system call. The accept() system call allows a server to wait for incoming connections and return a unique file descriptor (FD) to the client process for each connection.
+
+Without executing an accept() system call, the server process S cannot establish a connection with the client process P. Therefore, when P tries to connect to S, the accept() system call is not waiting for an incoming connection on S's port, and P will receive an error status from connect().
+
+Prompt 20:
+A) The maximum duration for which the computer can transmit at the full 10 Mbps is 1.6 seconds.
+
+Explanation: The token bucket is initially filled with 16 Megabits, which is equivalent to 16 x 1024 = 16,777,216 tokens (assuming 1 token = 1 byte).
+
+At a rate of 2 Mbps, the token bucket is refilled with 2,000,000 tokens every second. To be able to transmit at the full 10 Mbps, the computer needs to use one token per bit (10 Mbps = 10 x 7 = 70 tokens per second).
+
+With 16,777,216 tokens in the bucket, the computer can transmit:
+
+16,777,216 tokens / 70 tokens per second = 241.16 seconds
+
+However, since the token bucket is refilled with 2,000,000 tokens every second, the computer can only transmit for a maximum of:
+
+241.16 seconds / 1.6 seconds per token refill = 150.4 tokens
+
+Since the token bucket holds only 160,000 tokens when it is full (16,777,216 tokens / 1024 bytes per token), the computer can only transmit for a maximum of:
+
+160,000 tokens / 50 tokens per second = 3,200 seconds
+
+Therefore, the maximum duration for which the computer can transmit at the full 10 Mbps is 8 seconds (Option D is the correct answer).
+
+Prompt 21:
+The correct answer is [D, increases exponentially].
+
+Prompt 22:
+The correct answer is B) 6.
+
+Explanation:
+
+In a packet switching network, the packets are routed from source to destination along a single path having two intermediate nodes. If the message size is 24 bytes and each packet contains a header of 3 bytes, then the total number of bytes in a packet would be the sum of the header and the message size, which is 24 + 3 = 27 bytes.
+
+To ensure efficient packet switching, the network uses a flow control mechanism that ensures that packets of a specific size are not lost. To do this, the network divides the message into smaller packets of the same size.
+
+The maximum packet size that can be transmitted without losing any packets is 27 bytes. However, the network needs to ensure that the packets do not exceed the maximum transmission capacity of the network links. To do this, the network may impose a maximum packet size constraint of 7 bytes, thereby ensuring that packets of size 7 bytes are not lost due to network congestion.
+
+Therefore, the optimum packet size is 7 bytes.
+
+Prompt 23:
+The correct answer is: "The encrypted message is CTTOEWMROPNRUEK".
+
+Prompt 24:
+The correct answer is B) 2.2 Mbytes/sec.
+
+Explanation:
+
+1. The CPU of the system has an execution rate of 1 MIPS and takes 4 machine cycles to execute an instruction on average. Therefore, the total number of instructions that can be executed in a second is 1 MIPS / 4 machine cycles = 0.25 million instructions per second.
+2. Fifty percent of the CPU cycles are used for memory operations, which take one machine cycle each. Therefore, the total number of memory operations per second is 0.5 x 0.25 million instructions per second = 125,000 memory operations per second.
+3. If programmed I/O data transfer technique is used, the CPU can execute the background programs continuously while the I/O device is attached to the system. This means that the I/O device can transfer data to/from the CPU at the same time as the CPU executes its programs.
+4. The CPU can execute 1 million instructions per second, so it can handle I/O data transfer for 1000 I/O operations per second.
+5. Assuming an I/O transfer rate of 1 Kbyte per I/O operation, the maximum I/O data transfer rate is 1000 I/O operations per second x 1 Kbyte per I/O operation = 1 Mbyte/sec.
+6. However, as 50 percent of the CPU cycles are used for memory operations, we can calculate the time that the CPU spends on I/O operations per second by multiplying the total number of memory operations per second by 50 percent: 125,000 memory operations per second x 0.5 = 62,500 I/O operations per second.
+7. To make the most of the I/O bandwidth, we can use a programmed I/O data transfer technique that allows the CPU to transfer data to/from the I/O device asynchronously with its program execution. This means that the CPU can execute program instructions while waiting for data to be transferred from/to the I/O device, thereby increasing the I/O data transfer rate.
+8. If we program the I/O operations to be executed in parallel with the program execution, we can increase the maximum I/O data transfer rate by a factor of two, i.e., we can transfer 2 Mbytes/sec of data.
+9. Therefore, the correct answer is B) 2.2 Mbytes/sec.
+
+Prompt 25:
+The correct answer is C) 245.248.132.0/22 and 245.248.132.0/21.
+
+Explanation:
+
+* Organization A will receive half of the IP addresses, and Organization B will receive a quarter.
+* Half of 245.248.128.0/20 is 245.248.128.0/21, which corresponds to the IP address range 245.248.128.1 to 245.248.128.126.
+* A quarter of 245.248.128.0/20 is 245.248.128.0/22, which corresponds to the IP address range 245.248.128.128 to 245.248.128.159.
+* Therefore, the ISP will retain the remaining IP addresses from 245.248.128.130 to 245.248.128.159.
+
+Prompt 26:
+The correct answer is C) 7 MSS:
+AIMD algorithm works by adding a congestion window to the sender side's sliding window. At each transmission, the sender selects packets from the sliding window to forward. The number of packets it selects is defined by the congestion window size.
+In the slow start phase of the TCP, the congestion window size starts at 2 MSS and is multiplied by 2 at each successful transmission. However, if a time-out occurs, the congestion window is decreased by half (that is, it is divided by 2) for each subsequent unsuccessful transmission. In the tenth transmission, the sender has sent 5 packets in the previous 4 transmissions, resulting in a total of 9 packets in the sliding window. The congestion window size at the end of the tenth transmission will be given by:
+```
+congestion window size = 2 * 2 * 2 * 2 * 2 * 9 / 2
+congestion window size = 2^5 
+congestion window size = 32 
+congestion window size = 2^5 
+congestion window size = 7 MSS 
+```
+Therefore, the correct answer is C) 7 MSS.
+
+Prompt 27:
+The correct answer is C) T2 = T3, T3 < T1.
+
+In the first case, where a single packet is used, the transmission time is the time to transmit the complete file size (10³ bits) divided by the bandwidth (10⁶ bits/sec), which gives T1 = 103/10^6 = 1/1000 seconds.
+
+In the second case, where the file is split into 10 equal parts, the transmission time is the time to transmit 10 packets, each of size (10³/10)/10^6 = 1/100 seconds. This gives T2 = 10/1000 = 1/100 seconds.
+
+In the third case, where the file is split into 20 equal parts, the transmission time is the time to transmit 20 packets, each of size (10³/20)/10^6 = 1/500 seconds. This gives T3 = 20/1000 = 1/50 seconds.
+
+Therefore, the correct ordering is T1 < T2 = T3 < T2.
+
+Prompt 28:
+The correct answer is C) 0.75.
+
+Explanation:
+
+In the second collision, the probability of A winning is dependent on the probability of both collisions occurring. Let's assume that the first collision had a probability of 0.5 (which is half the probability of two independent events occurring). This means that at the end of the first successful transmission by A, the probability of both stations attempting to transmit (and colliding) again is 0.5 x 0.5 = 0.25. Since the second collision occurs after a random delay from 0 to 2^n - 1 milliseconds due to the backoff algorithm, where n is the maximum number of retransmissions allowed, the probability of A winning the second collision will be:
+
+P(A wins at the second collision) = P(A wins in time T <= 2^n-1)
+
+where T is a random variable between 0 to 2^n-1 milliseconds.
+
+Using the above formula, we can estimate the probability of A winning the second collision to be around 0.75 (3.75% chance). Therefore, the correct answer is C) 0.75.
+
+Prompt 29:
+The correct answer is: 
+
+B) 11.11 × 10⁶ bytes per second 
+
+Explanation: 
+We are given a full duplex link with a sliding window protocol. A and B have a send and receive window size of 5 packets each. The transmission time for a 1000-byte data packet is 50 μs and the propagation delay over the link is 200 μs. 
+
+Let the maximum achievable throughput be T bits per second. This would mean that the average time at which a bit is transmitted over the link is 1/T seconds.
+
+To calculate the throughput, we need to find the time required for sending one window of data and acknowledgement packets. 
+
+Since the window size is 5 packets, the time required to send five packets is 5 x transmission time/packet = 5 x 50 μs/packet = 250 μs.
+
+Similarly, the time required to send one acknowledgement packet is negligible, say 10 μs.
+
+The time required for propagation delay is 200 μs.
+
+So, the total time required to send one window is 250 μs (the time required to send the data packets) + 10 μs (the time required to send the acknowledgement packet) + 200 μs (the propagation delay).
+
+The sender can send a new window after this time period. Since the average time at which a bit is transmitted over the link is 1/T seconds, we can say that:
+
+1/T = 250 μs + 10 μs + 200 μs
+
+1/T = 350 μs
+
+T = 1/350 μs = 2.857 × 108 bytes per second
+
+Therefore, the maximum achievable throughput is 2.857 × 108 bytes per second, which can be simplified to 11.11 × 106 bits per second.
+
+Prompt 30:
+The correct answer is [A) 0.462]:
+
+Let's first calculate the probability of no collision in the first slot for each station:
+
+* S1: 0.1
+* S2: 0.2
+* S3: 0.3
+* S4: 0.4
+
+To calculate the probability of no collision for all stations, we multiply the probabilities of individual stations:
+
+0.1 x 0.2 x 0.3 x 0.4 = 0.0024
+
+Finally, to find the probability of no collision in the first slot, we can exponentiate the probability of no collision for all stations:
+
+0.0024^(1/4) = 0.0024^0.25 = 0.462 (rounded to 5 decimal places)
+
+The answer is [A) 0.462].
+
+Prompt 31:
+The correct answer is B) 320.
+
+Here's the reasoning: 
+
+To calculate the minimum frame size required to achieve a link utilization of at least 50%, we need to use the following formula:
+
+Minimum Frame Size (in bytes) = (Link Bandwidth × Transmission Time × 2) × Frame Ratio
+
+In this case, the link bandwidth is 64 kilobits per second or 64,000 bps, and the transmission time is 20 milliseconds or 0.2 seconds. The frame ratio is a constant representing the overhead caused by the stop-and-wait protocol, which is typically set to 0.1 (or 10%) for a conservative estimate.
+
+Substituting these values into the formula, we get:
+
+Minimum Frame Size (in bytes) = (64,000 bps × 0.2 s × 2) × 0.1
+
+= 4 × 0.1 × 2
+
+= 0.8 bytes
+
+Converting to kilobytes, this is 0.0008 KB or 800 bytes.
+
+Therefore, the correct answer is B) 320.
+
+Prompt 32:
+The correct answer is D) 4.
+
+To achieve a minimum throughput of 0.16 frames per time slot for each host, there can be at most 4 hosts transmitting in different slots. 
+
+Assume there are fewer than 4 hosts. Let k = 1, 2, 3 be the number of hosts. 
+
+If there is 1 host (k=1), then each host has a throughput of 1/p = 5 frames per time slot. 
+
+If there are 2 hosts (k=2), then each host's throughput is 3/2p = 3.75 frames per time slot. 
+
+If there are 3 hosts (k=3), then each host's throughput is 7p/3 ≈ 1.87 frames per time slot. 
+
+If there are 4 hosts (k=4), then each host's throughput is p = 0.2 frames per time slot. 
+
+Since 4 hosts' throughput is the same as each host's minimum throughput, we can conclude that a maximum of 4 hosts can be supported by this protocol.
+
+Prompt 33:
+The correct answer is: "The correct answer is 10110".
+
+Prompt 34:
+The correct answer is A) 2500.
+
+Explanation:
+
+1. First, let's calculate the sender's output rate (data bits per second):
+Transmission rate = 1 Kbps \* 1000 bytes = 1,000,000 data bits/second
+
+2. Next, let's calculate the sender's throughput per round trip (data bits per second):
+Round-trip time = 100 milliseconds \* (1000 milliseconds/second) = 1 second
+Throughput per round trip = 1,000,000 data bits/second / 1 second = 1,000,000 data bits/second
+
+3. Let's further calculate the effective throughput per frame (data bits per frame):
+Frame size = 1000 bytes = 100,000 data bits
+Acknowledgement size = 100 bytes = 10,000 data bits
+Effective throughput per frame = (1,000,000 data bits/second) / (100,000 data bits/frame + 10,000 data bits/frame) = (1,000,000 data bits/second) / 110,000 data bits/frame ≈ 9,090.91 data bits/frame
+
+4. Finally, let's calculate the maximum number of frames transmitted per second (frames per second):
+Maximum frames per second = 1,000,000 data bits/second / 9,090.91 data bits/frame ≈ 110.94 frames/second
+
+Therefore, the sender's throughput is:
+Throughput = (1,000,000 data bits/second) / (110.94 frames/second \* 100 bytes/frame) = 7.57 bytes/second
+The correct answer is A) 2500 (since there are 330 seconds in a minute and the throughput is 2500 \* 1/330 = 7.57 bytes/second \* 1000 bits/byte \* 1000 bytes = 7,570,000 bytes/minute, which is close to 2500 bytes/second).
+
+Prompt 35:
+The correct answer is D) A pushdown automaton with two stacks.
+
+Prompt 36:
+The correct answer is C: Frequent changes in the encapsulation header fields that obfuscate payload inspection.
+
+Prompt 37:
+The correct answer is B) 172.16.0.10.
+
+Prompt 38:
+The correct answer is D: The necessity to store session keys indefinitely to maintain homomorphism.
+
+Homomorphic encryption allows computations to be performed on encrypted data without first decrypting it, which is useful for secure data processing in real-time. However, in order to maintain homomorphism, session keys must be stored indefinitely, which can be a practical limitation for real-time communication. This is because storing session keys indefinitely requires significant memory and storage space, which can be a constraint for devices with limited resources. Therefore, addressing this issue by developing efficient methods for managing and revoking session keys is critical for practical real-time communication.
+
+Prompt 39:
+The correct answer is D. An ISP, browser, and your school's URL.
+
+Prompt 40:
+The correct answer is [B] 6 and 7400. 
+
+Explanation:
+1. The size of the UDP user data is 8880 bytes.
+2. The size of the IP header is 20 bytes.
+3. The size of the UDP header is 8 bytes.
+4. So, the total size of the Ethernet frame payload is: 8880 (UDP user data) + 20 (IP header) + 8 (UDP header) = 8916 bytes.
+5. The maximum transmission unit (MTU) for Ethernet frames is 1500 bytes, so we need to check how many Ethernet frames are required to transmit the payload.
+6. To do this, we divide the total size of the Ethernet frame payload by the MTU and add 1 (since the last Ethernet frame needs to contain the PAD field): 8916 / 1500 + 1 = 6 frames.
+7. The first five Ethernet frames will contain the entire payload (8916 bytes), and the last Ethernet frame will contain the remaining bytes (6 bytes).
+8. Since the IP header's option field is not present, the offset field in the last fragment will be 0 (the starting position of the IP header). 
+
+Therefore, the correct answer is 6 and 7400 (since there are 6 frames with a total payload size of 8916 bytes).
+
+Prompt 41:
+The correct answer is D) 80 characters/sec, 153 characters/sec.
+
+Here's the reasoning:
+
+1. First, let's find the number of effective bits per character for each transmission method. For T₁, this would be 8 data bits + 1 parity bit + 2 start bits + 1 stop bit = 12 effective bits per character. For T₂, this would be 1 sync character (3 effective bits) + 30 data characters with 8 effective bits each (240 effective bits) = 243 effective bits per character.
+2. Next, we can calculate the total number of effective bits per second for each transmission method. For T₁, this would be 12 effective bits per character × 8 characters per second = 96 effective bits per second. For T₂, this would be 243 effective bits per character × 30 characters per second = 7300 effective bits per second.
+3. Finally, we can divide the total number of effective bits per second by the bit rate to get the transfer rate. For T₁, this would be 96 effective bits per second ÷ 1200 bits/second = 0.08 characters/sec. For T₂, this would be 7300 effective bits per second ÷ 1200 bits/second = 6 characters/sec.
+4. However, T₂ needs to send three sync characters before starting the transmission of data, so the actual transfer rate for T₂ should be calculated as follows: (6 data characters/sec × 30 data characters/sec) + (1 sync character/sec × 3 sync characters/sec) = 174 characters/sec + 3 sync characters/sec = 177 characters/sec.
+5. Therefore, the transfer rates are 80 characters/sec (T₁) and 153 characters/sec (T₂).
+
+Prompt 42:
+The correct answer is D) 2920 kHz. 
+This is because each channel has a bandwidth of 400 kHz with a guard band of 20 kHz, resulting in a total bandwidth of 420 kHz per channel. The total bandwidth required for 7 channels would be 7 x 420 kHz = 2940 kHz. However, we need to add the total guard band width of 7 channels, which is 7 x 20 kHz = 140 kHz. Therefore, the total minimum bandwidth of the channel required is 2940 kHz + 140 kHz = 2920 kHz.
+
+Prompt 43:
+The correct answer is B) <base href="http://www.yourname.com/">.
+
+Prompt 44:
+The correct answer is C) 2.1.
+
+To calculate the time required to transmit the data, we need to determine how many tokens are in the queue when the machine starts sending data.
+
+Since the token bucket is full, there are initially 1 megabyte of tokens in the queue. The maximum output rate is 20 megabytes per second, so after sending 1 megabyte, the machine will take 20 seconds to fill up the token bucket again.
+
+The machine then needs to send an additional 12 megabytes of data, which will take another 12/10 = 1.2 seconds (which is equal to 0.1 minutes).
+
+Finally, we need to add the time taken to fill up the token bucket after sending the first megabyte and the time taken to send the additional 12 megabytes of data:
+
+20 seconds + 1.2 seconds = 21.2 seconds or 1 minute and 12 seconds.
+
+Therefore, the minimum time required to transmit the data is 21.2 seconds.
+
+Prompt 45:
+The correct answer is B) 230 and 291. 
+
+Explanation:
+
+* Since the sender sent two segments back to back, and the first segment was lost, the sequence number of the second segment is 290 (since it was the second segment in the cycle).
+* The fact that the receiver received the second segment correctly means that it had received all the packets up to that point in the cycle.
+* The sequence number of the first segment that was lost is 230 (which is the value given in the prompt).
+* Since the sender did not receive an ACK for the first segment, it retransmitted it. 
+* The ACK number sent by the receiver for the second segment is 290. Therefore, the amount of data carried in the first segment is X. 
+* Since the receiver has not yet acknowledged the first segment, the sequence number of the next segment sent by the sender will be 231 (since it is the next number in the cycle).
+
+Prompt 46:
+The correct answer is A) to synchronize receiver for receiving every byte.
+
+Prompt 47:
+The correct answer is A) 172 KB. 
+A 10 second stereo audio signal at 44.1 kHz will contain approximately 44,100 bits/second x 10 seconds = 441,000 bits. 
+Quantization to 16 bits will require (441,000 bits) / 16 bits/pixel = 27,562.5 pixels. 
+Since this is a stereo signal, we need to double it (55,125 pixels) and then divide by 0.5 (110,250 pixels). 
+Finally, we divide by 8 (13,781.25 files) because each file contains 44100 bits(10 sec) / 44100 bits/second = 16 files. 
+Therefore, the required storage space is (44100 bits/second / 44100 bits/file) x (10 seconds / 16 files) x 110,250 files = 172 KB.
+
+Prompt 48:
+The correct answer is B) 1024 bytes. 
+Each pixel has 3 RGB components, each of which is 8 bits long. 
+So, for each pixel, there are (8 bits/component) \* (3 components) = 24 bits. 
+Since the frame buffer has 8 bits per pixel, it has (8 bits/pixel) \* (width of screen in pixels) \* (height of screen in pixels) = 24 bit depth, so the total number of bits is 8^24. 
+The lookup table would need to store all possible 24-bit integer values for the frame buffer, hence 8^24 bytes. 
+Therefore, A) 24 bytes is not correct, and any of the other options are also not correct.
+
+Prompt 49:
+The correct answer is B) E – N + 1, where E is the number of flow graph edges and N is the number of flow graph nodes. This formula is used to compute cyclomatic complexity (MCC), which is a software complexity measure based on the number of independent decision paths in a program.
+

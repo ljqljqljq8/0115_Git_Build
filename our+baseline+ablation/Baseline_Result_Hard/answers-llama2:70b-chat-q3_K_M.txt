@@ -1,0 +1,372 @@
+Prompt 0:
+ What is the value of x in the equation:
+
+3x + 5 = 2x + 11
+
+A) 200
+B) 250
+C) 300
+D) 350
+
+Prompt 1:
+ What is the value of x in the equation:
+3x + 5 = 2x + 11?
+
+A) 4
+B) 5
+C) 6
+D) 20000
+E) None of these
+
+Prompt 2:
+ What is the average weight of a group of 100 people, if the weight of each person in the group is between 130 to 140 pounds?
+
+Prompt 3:
+ What is the value of x in the equation:
+
+3x - 2 = 250
+
+A) 100
+B) 250
+C) 375
+D) 500
+
+Prompt 4:
+ Option D: Network layer – 3 times, Data link layer – 4 times
+
+Correct!
+
+The network layer (D) is repeated 3 times, and the data link layer (D) is repeated 4 times. Therefore, option D is the correct answer.
+
+Prompt 5:
+ Option C
+
+Prompt 6:
+ Which of the following numbers is equal to 16?
+
+A) 12
+B) 14
+C) 16
+D) 18
+
+Prompt 7:
+ What is the value of x in the equation: 3x - 2 = 40?
+
+Prompt 8:
+ Option C is correct.
+
+In this scenario, X wants to send an encrypted message to Y, and Y wants to decrypt it. To do this, X uses Y's public key to encrypt the message, and Y uses their private key to decrypt it.
+
+So, the correct sequence of keys for encryption and decryption is:
+
+Encryption:
+
+1. X's private key (not used)
+2. Y's public key (used to encrypt the message)
+
+Decryption:
+
+1. Y's private key (used to decrypt the message)
+2. X's public key (not used)
+
+Prompt 9:
+ D) 62 subnets and 1022 hosts
+
+Prompt 10:
+ Which of the following values is closest to the value of 10.8?
+
+A) 10.5
+B) 10.6
+C) 10.7
+D) 10.8
+E) 10.9
+
+Prompt 11:
+ What is the value of x in the equation: 3x + 5 = 2x + 11?
+
+Prompt 12:
+ Which of the following values is NOT a valid IP address?
+
+A) 192.168.1.1
+B) 172.16.1.1
+C) 4094
+D) 255.255.255.255
+
+Prompt 13:
+ Which of the following ranges includes the number of days in February during a leap year?
+A) 28 to 30
+B) 29 to 31
+C) 30 to 32
+D) 31 to 33
+
+Prompt 14:
+ Option A: Sender encrypts using receiver's public key.
+
+Prompt 15:
+ Which of the following are true statements about the relationship between the number of edges in a graph and the number of vertices in the graph?
+
+A) The number of edges in a graph is always equal to the number of vertices in the graph.
+B) The number of edges in a graph is always greater than the number of vertices in the graph.
+C) The number of edges in a graph is half the number of vertices in the graph.
+D) The number of edges in a graph is twice the number of vertices in the graph.
+
+Correct answer: C) The number of edges in a graph is half the number of vertices in the graph.
+
+Prompt 16:
+ A) Denial of service attack
+
+Prompt 17:
+ B) For avoiding loops in the routing paths
+
+Prompt 18:
+ Which of the following options is the best answer to the question "What size tablecloth should I buy for my 6-person dining table?"
+
+A) Any size
+B) 60x80 inches
+C) 72x96 inches
+D) 84x108 inches
+E) 90x120 inches
+
+Prompt 19:
+ C) The connect() system call returns an error.
+
+The connect() system call is used to establish a connection between a socket and a remote address. If the connection cannot be established, the connect() system call returns an error value to indicate the failure.
+
+Therefore, option C is the correct answer.
+
+Prompt 20:
+ What is the time it takes for a 1000 Kg object to fall 100 meters if the acceleration due to gravity is 9.8 m/s^2?
+
+A) 4 seconds
+B) 2 seconds
+C) 1 second
+D) 0.5 seconds
+
+Prompt 21:
+ Which of the following options best describes how the number of ways to arrange 10 objects in a row, such that no two adjacent objects are the same, grows as the number of objects increases?
+
+A) increases linearly
+B) increases quadratically
+C) increases cubically
+D) increases exponentially
+
+Prompt 22:
+ What is the value of x in the equation: 3x + 5 = 2x + 11?
+
+Prompt 23:
+ The answer is:
+
+D) UEKPNRMROOEWCTT
+
+This is a Caesar Cipher, a simple encryption technique that replaces each letter with a letter a fixed number of positions down the alphabet. In this case, the key is 13, which means that each letter is replaced by the letter 13 positions down the alphabet.
+
+The original message was:
+
+"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+
+Using the Caesar Cipher with a key of 13, we get:
+
+"UEKPNRMROOEWCTT"
+
+Therefore, the correct answer is option D.
+
+Prompt 24:
+ What is the maximum data transfer rate of the Ethernet network?
+
+A) 10 Mbits/sec
+B) 100 Mbits/sec
+C) 1 Gbit/sec
+D) 250 Kbits/sec
+
+Prompt 25:
+ A) 245.248.136.0/21 and 245.248.128.0/22 are both valid IP address ranges.
+
+The first range, 245.248.136.0/21, includes the IP addresses from 245.248.136.0 to 245.248.143.255, for a total of 768 addresses.
+
+The second range, 245.248.128.0/22, includes the IP addresses from 245.248.128.0 to 245.248.135.255, for a total of 1024 addresses.
+
+Therefore, both options are valid and cannot be eliminated based on the given information. The correct answer is:
+
+B) Both options are valid.
+
+Prompt 26:
+ Which of the following is NOT a type of socket in computer networking?
+
+A) TCP socket
+B) UDP socket
+C) MSS socket
+D) HTTP socket
+
+Correct answer: C) MSS socket
+
+Prompt 27:
+ Which of the following statements is true for the circuit shown?
+
+A) T1 = T2 = T3
+B) T1 > T2 > T3
+C) T1 < T2 < T3
+D) T1 = T3, T3 > T2
+E) T1 < T3 < T2
+
+Correct answer: D) T1 = T3, T3 > T2
+
+Prompt 28:
+ What is the value of x in the equation:
+
+3x - 2 = 15
+
+A) 5
+B) 0.625
+C) 1.25
+D) 2
+
+Prompt 29:
+ Option B: 11.11 × 10⁶ bytes per second
+
+Prompt 30:
+ What is the value of x in the equation:
+
+3x - 2 = 2x + 10
+
+A) 0.462
+B) 1.738
+C) 2.596
+D) 3.212
+
+Prompt 31:
+ What is the value of x in the equation:
+
+3x - 2 = 2x + 16
+
+A) 160
+B) 320
+C) 480
+D) 640
+
+Prompt 32:
+ Which of the following numbers is equal to 2?
+A) 1 + 1
+B) 2
+C) 3 - 1
+D) 4 / 2
+
+Prompt 33:
+ Which of the following binary numbers has the largest positive integer value?
+
+A) 01110
+B) 10101
+C) 11010
+D) 11111
+
+Correct answer: D) 11111
+
+Explanation:
+To find the largest positive integer value, we can convert each binary number to decimal and compare them.
+
+A) 01110 = 12
+B) 10101 = 10
+C) 11010 = 22
+D) 11111 = 31
+
+Therefore, the correct answer is D) 11111, which has the largest positive integer value of 31.
+
+Prompt 34:
+ What is the value of x in the equation: 3x + 5 = 2x + 11?
+
+Prompt 35:
+ D) A pushdown automaton with two stacks
+
+Prompt 36:
+ C) Frequent changes in the encapsulation header fields that obfuscate payload inspection
+
+Prompt 37:
+ What is the correct IP address for the gateway of a Class B network with a subnet mask of 255.255.0.0?
+
+A) 15.1.1.1
+B) 15.1.1.254
+C) 15.1.5.6
+D) 15.1.255.254
+
+Prompt 38:
+ B
+
+Prompt 39:
+ B) A web server, a router, and the correct protocols
+
+C) A modem, a browser, and the correct protocols
+
+D) A web server, a modem, and the correct protocols
+
+E) A database, a web server, and the correct protocols
+
+Please select one of the options from the table above.
+
+Prompt 40:
+ Which of the following pairs of numbers has a difference of 1110?
+
+A) 3 and 1113
+B) 5 and 1115
+C) 7 and 1110
+D) 9 and 1119
+
+Prompt 41:
+ Option C: 100 characters/sec, 136 characters/sec
+
+Prompt 42:
+ What is the frequency of the highest AM radio station that can be received in Australia?
+A) 531 kHz
+B) 679 kHz
+C) 801 kHz
+D) 2920 kHz
+E) 4835 kHz
+
+Prompt 43:
+ B) B
+
+Prompt 44:
+ Which of the following is the closest approximation of the value of √2?
+
+A) 1.1
+B) 1.4
+C) 1.7
+D) 1.8
+
+Prompt 45:
+ What are the values of x and y in the equation:
+3x + 5y = 230
+3x - 2y = 60
+
+A) 40, 150
+B) 100, 75
+C) 150, 40
+D) 230, 60
+
+Prompt 46:
+ B) to indicate the start of a new frame
+
+Prompt 47:
+ What is the size of the RAM needed to run a program that requires 512 KB of memory, if the operating system uses a page size of 4KB?
+
+A) 128 MB
+B) 256 MB
+C) 860 KB
+D) 1.7 GB
+
+Prompt 48:
+ What is the size of the IPv6 address space in bytes?
+
+A) 16 bytes
+B) 32 bytes
+C) 64 bytes
+D) 256 bytes
+E) 512 bytes
+
+Prompt 49:
+ The correct answer is indeed D) P + 1, where P is the number of predicate nodes in the flow graph G.
+
+In a flow graph G, each predicate node corresponds to a branch instruction in the program that depends on the outcome of a conditional expression. The number of predicate nodes (P) in the flow graph represents the number of conditional branches that can be executed in parallel.
+
+Therefore, the maximum number of instructions that can be executed in parallel is P + 1, where P is the number of predicate nodes in the flow graph G. This is because each predicate node can execute one instruction in parallel, and there is one additional instruction that can be executed at the root of the flow graph (representing the entry point of the function).
+
+So, the correct answer is D) P + 1.
+
