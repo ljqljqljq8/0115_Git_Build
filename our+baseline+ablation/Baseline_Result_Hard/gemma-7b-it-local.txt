@@ -1,0 +1,402 @@
+Prompt 0:
+ and explain the reasoning behind it.
+
+**Answer:** A) 180
+
+**Reason
+
+Prompt 1:
+ and explain the solution below:
+
+**Answer:** B
+
+**Solution:**
+
+The signal speed (
+
+Prompt 2:
+ and explain the steps to arrive at the answer:
+
+**Answer:** B
+
+**Explanation:**
+
+
+
+Prompt 3:
+ and explain the solution below:
+
+**Answer:** B
+
+**Solution:**
+
+The packet loss probability
+
+Prompt 4:
+:
+
+The answer is B.
+
+**Explanation:**
+
+When a packet travels from Source S to
+
+Prompt 5:
+ below:
+
+The answer is: B
+
+Explanation:
+
+The subnet mask for C1 is 
+
+Prompt 6:
+ and explain the reasoning behind it.
+
+**Answer:** B
+
+**Reasoning:**
+
+In a
+
+Prompt 7:
+ and explain the steps to arrive at the answer.
+
+**Answer:** B
+
+**Explanation:**
+
+
+
+Prompt 8:
+ below:
+
+The answer is: A
+
+The correct answer is A.
+
+In this scenario,
+
+Prompt 9:
+ and explain the process of calculating the maximum number of subnets and hosts in each subnet.
+
+**
+
+Prompt 10:
+ and explain the solution below:
+
+**Answer:** A
+
+**Solution:**
+
+The efficiency of Stop
+
+Prompt 11:
+ and explain the solution below:
+
+**Solution:**
+
+The minimum size of the packet in a CS
+
+Prompt 12:
+ and explain the process of calculating the maximum number of hosts per subnet.
+
+**Answer:** B
+
+
+
+Prompt 13:
+ and explain the solution below:
+
+**Answer:** A
+
+**Solution:**
+
+The token ring network
+
+Prompt 14:
+ below:
+
+**CORRECT Answer:** A
+
+**Explanation:**
+
+In public key cryptography, the sender
+
+Prompt 15:
+ and explain the reasoning behind it.
+
+**Answer:** C) (n(n − 
+
+Prompt 16:
+:
+
+The answer is B) Masquarade attack.
+
+The attacker sits between the sender
+
+Prompt 17:
+:
+
+The answer is B.
+
+The spanning tree algorithm is used for bridge-routing to avoid
+
+Prompt 18:
+ and explain the answer.
+
+**Answer:** C
+
+**Explanation:**
+
+The application layer can pass
+
+Prompt 19:
+ and explain the reasoning behind it.
+
+**Answer:** C) connect() system call returns an error
+
+Prompt 20:
+ and explain the solution below:
+
+**Answer:** A
+
+**Solution:**
+
+The token bucket algorithm
+
+Prompt 21:
+ and explain the answer in detail.
+
+**Answer:** B
+
+**Explanation:**
+
+In the slow
+
+Prompt 22:
+ and explain the reason behind it.
+
+**Answer:** B
+
+**Reason:**
+
+In a packet
+
+Prompt 23:
+.
+
+The answer is:
+
+MROUEKCTTPNROEW
+
+The key "
+
+Prompt 24:
+ and explain the solution below:
+
+**Answer:** B
+
+**Solution:**
+
+The CPU utilization is
+
+Prompt 25:
+ below:
+
+The answer is: A
+
+Explanation:
+
+The ISP has a /20 subnet
+
+Prompt 26:
+ and explain the steps to arrive at the answer.
+
+**Answer:** B
+
+**Explanation:**
+
+
+
+Prompt 27:
+ and explain the reason behind it.
+
+**CORRECT Answer:** A) T1 < T2 <
+
+Prompt 28:
+ and explain the reasoning behind it.
+
+**Answer:** B
+
+**Reasoning:**
+
+In a
+
+Prompt 29:
+ and explain the steps to arrive at the answer.
+
+**Answer:** A
+
+**Explanation:**
+
+
+
+Prompt 30:
+ and explain the solution below:
+
+**Answer:** A
+
+**Solution:**
+
+The probability of a
+
+Prompt 31:
+ and explain the solution below:
+
+The answer is B.
+
+The stop-and-wait protocol
+
+Prompt 32:
+ and explain the reasoning behind it.
+
+**Answer:** B
+
+**Reasoning:**
+
+In this
+
+Prompt 33:
+ and explain the steps to calculate the CRC.
+
+**Answer:** B
+
+**Explanation:**
+
+**
+
+Prompt 34:
+ and explain the calculation process below:
+
+**Answer:** A
+
+**Calculation:**
+
+1. Calculate
+
+Prompt 35:
+ and explain the reasoning behind it.
+
+**Answer:** A) A combinational circuit
+
+**Reason
+
+Prompt 36:
+ and explain the reasoning behind it.
+
+**Result:** Answer A
+
+**Reasoning:**
+
+In
+
+Prompt 37:
+ below:
+
+The answer is B.
+
+Explanation:
+
+WAN IP addresses are typically in the range
+
+Prompt 38:
+ and explain the reasoning behind it.
+
+**Answer:** A
+
+**Reasoning:**
+
+Elliptic
+
+Prompt 39:
+ below:
+
+The answer is C
+
+The correct answer is C. To connect your home computer to
+
+Prompt 40:
+ and explain the calculation process below:
+
+**Answer:** A
+
+**Calculation:**
+
+1. **
+
+Prompt 41:
+ below:
+
+The transfer rate of T₁ is ____ characters/sec, and the transfer rate of
+
+Prompt 42:
+ and explain the solution below:
+
+The total minimum bandwidth of the channel required for 7 channels of
+
+Prompt 43:
+ and explain the reason behind it.
+
+**Answer:** B
+
+**Reason:**
+
+The relative URLs
+
+Prompt 44:
+ and explain the solution below:
+
+**Answer:** A
+
+**Solution:**
+
+The token bucket algorithm
+
+Prompt 45:
+ and explain the reasoning behind it.
+
+**Answer:** A) 60 and 29
+
+Prompt 46:
+ and explain the answer in detail.
+
+**Answer:** A
+
+**Explanation:**
+
+The start bit
+
+Prompt 47:
+ and explain the solution below:
+
+**Answer:** A
+
+**Solution:**
+
+**1. Calculate
+
+Prompt 48:
+ and explain the solution below:
+
+The answer is B.
+
+The frame buffer has 8 bits
+
+Prompt 49:
+ below:
+
+The answer is B.
+
+Cyclomatic complexity is a measure of software complexity that
+
